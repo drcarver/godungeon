@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Combat &gt; Combat I">
+
+<info>
+<title>ighty swords clash, arrows hiss through the air, claws</title>
+<author>AKSmith</author>
+<operator>asmith</operator>
+</info>
+<topic level="0" name="Combat" linkname="Combat" docbookid="CombatI0" keywords="combat"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Combat I" origname="Combat I (Basics)" linkname="Combat_Combat_I" docbookid="CombatI1" keywords="combat"><para style="heading 1">Combat I (Basics)</para><para/><topic level="2" name="How Combat Works" origname="How Combat Works" linkname="Combat_Combat_I_How_Combat_Works" docbookid="CombatI2" refname="How Combat Works" reftype="combat" refcase="yes" refaltname="How* Combat* Work*" keywords="combat,work"><para reftype="combat" refcase="yes" refname="How Combat Works" refaltname="How* Combat* Work*" style="heading 2">How Combat Works</para><para>Combat is cyclical; everybody acts in turn in a regular cycle of rounds. Combat follows this sequence:</para><para>1. Each combatant starts out flat-footed. Once a combatant acts, he or she is no longer flat-footed.</para><para>2. Determine which characters are aware of their opponents at the start of the battle. If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds of combat begin. The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take one action (either a standard action or a move action) during the surprise round. Combatants who were unaware do not get to act in the surprise round. If no one or everyone starts the battle aware, there is no surprise round.</para><para>3. Combatants who have not yet rolled initiative do so. All combatants are now ready to begin their first regular round of combat.</para><para>4. Combatants act in initiative order (highest to lowest).</para><para>5. When everyone has had a turn, the combatant with the highest initiative acts again, and steps 4 and 5 repeat until combat ends.</para><para/>
+</topic><topic level="2" name="Combat Statistics" origname="Combat Statistics" linkname="Combat_Combat_I_Combat_Statistics" docbookid="CombatI3" refname="Combat Statistics" reftype="combat" refcase="yes" refaltname="Combat* Statist*" keywords="combat,statist"><para reftype="combat" refcase="yes" refname="Combat Statistics" refaltname="Combat* Statist*" style="heading 2">Combat Statistics</para><para>This section summarizes the statistics that determine success in combat, and then details how to use</para><para/><topic level="3" name="Attack Roll" origname="Attack Roll" linkname="Combat_Combat_I_Combat_Statistics_Attack_Roll" docbookid="CombatI4" refname="Attack Roll" reftype="combat" refcase="yes" refaltname="Attack* Roll*" keywords="attack,combat,roll,statist"><para reftype="combat" refcase="yes" refname="Attack Roll" refaltname="Attack* Roll*" style="heading 3">Attack Roll</para><para>An attack roll represents your attempt to strike your opponent on your turn in a round. When you make an attack roll, you roll a d20 and add your attack bonus. (Other modifiers may also apply to this roll.) If your result equals or beats the target's Armor Class, you hit and deal damage.</para><topic level="8" name="Automatic Misses and Hits" origname="Automatic Misses and Hits" linkname="Combat_Combat_I_Combat_Statistics_Attack_Roll_Automatic_Misses_and_Hits" docbookid="CombatI5" refname="Automatic Misses and Hits" reftype="combat" refcase="yes" refaltname="Automat* Miss* and* Hit*" keywords="attack,automat,combat,hit,miss,roll,statist"><para reftype="combat" refcase="yes" refname="Automatic Misses and Hits" refaltname="Automat* Miss* and* Hit*"><b>Automatic Misses and Hits:</b> A natural 1 (the d20 comes up 1) on an attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat-a possible critical hit.</para><para/>
+</topic>
+</topic><topic level="3" name="Attack Bonus" origname="Attack Bonus" linkname="Combat_Combat_I_Combat_Statistics_Attack_Bonus" docbookid="CombatI6" refname="Attack Bonus" reftype="combat" refcase="yes" refaltname="Attack* Bonu*" keywords="attack,bonu,combat,statist"><para reftype="combat" refcase="yes" refname="Attack Bonus" refaltname="Attack* Bonu*" style="heading 3">Attack Bonus</para><para>Your attack bonus with a melee weapon is:</para><para>Base attack bonus + Strength modifier + size modifier</para><para>With a ranged weapon, your attack bonus is:</para><para>Base attack bonus + Dexterity modifier + size modifier + range penalty</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Size Modifiers</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Size Modifier</b></para></cell>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Size Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Colossal</para></cell>
+<cell><para>-8</para></cell>
+<cell><para>Small</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gargantuan</para></cell>
+<cell><para>-4</para></cell>
+<cell><para>Tiny</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Huge</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>Diminutive</para></cell>
+<cell><para>+4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>-1</para></cell>
+<cell><para>Fine</para></cell>
+<cell><para>+8</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>+0</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Damage" origname="Damage" linkname="Combat_Combat_I_Combat_Statistics_Damage" docbookid="CombatI7" refname="Damage" reftype="combat" refcase="yes" refaltname="Damag*" keywords="combat,damag,statist"><para reftype="combat" refcase="yes" refname="Damage" refaltname="Damag*" style="heading 3">Damage</para><para>When your attack succeeds, you deal damage. The type of weapon used determines the amount of damage you deal. Effects that modify weapon damage apply to unarmed strikes and the natural physical attack forms of creatures.</para><para>Damage reduces a target's current hit points.</para><topic level="8" name="Minimum Damage" origname="Minimum Damage" linkname="Combat_Combat_I_Combat_Statistics_Damage_Minimum_Damage" docbookid="CombatI8" refname="Minimum Damage" reftype="combat" refcase="yes" refaltname="Minimum* Damag*" keywords="combat,damag,minimum,statist"><para reftype="combat" refcase="yes" refname="Minimum Damage" refaltname="Minimum* Damag*"><b>Minimum Damage:</b> If penalties reduce the damage result to less than 1, a hit still deals 1 point of damage.</para><para>Strength Bonus: When you hit with a melee or thrown weapon, including a sling, add your Strength modifier to the damage result. A Strength penalty, but not a bonus, applies on attacks made with a bow that is not a composite bow.</para><para><i>Off-Hand Weapon:</i> When you deal damage with a weapon in your off hand, you add only 1/2 your Strength bonus.</para><para><i>Wielding a Weapon Two-Handed:</i> When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your Strength bonus. However, you don't get this higher Strength bonus when using a light weapon with two hands.</para>
+</topic><topic level="8" name="Multiplying Damage" origname="Multiplying Damage" linkname="Combat_Combat_I_Combat_Statistics_Damage_Multiplying_Damage" docbookid="CombatI9" refname="Multiplying Damage" reftype="combat" refcase="yes" refaltname="Multipli* Damag*" keywords="combat,damag,multipli,statist"><para reftype="combat" refcase="yes" refname="Multiplying Damage" refaltname="Multipli* Damag*"><b>Multiplying Damage:</b> Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results. <i>Note:</i> When you multiply damage more than once, each multiplier works off the original, unmultiplied damage.</para><para><i>Exception:</i> Extra damage dice over and above a weapon's normal damage are never multiplied.</para>
+</topic><topic level="8" name="Ability Damage" origname="Ability Damage" linkname="Combat_Combat_I_Combat_Statistics_Damage_Ability_Damage" docbookid="CombatI10" refname="Ability Damage" reftype="combat" refcase="yes" refaltname="Abil* Damag*" keywords="abil,combat,damag,statist"><para reftype="combat" refcase="yes" refname="Ability Damage" refaltname="Abil* Damag*"><b>Ability Damage:</b> Certain creatures and magical effects can cause temporary ability damage (a reduction to an ability score).</para><para/>
+</topic>
+</topic><topic level="3" name="Armor Class" origname="Armor Class" linkname="Combat_Combat_I_Combat_Statistics_Armor_Class" docbookid="CombatI11" refname="Armor Class" reftype="combat" refcase="yes" refaltname="Armor* Class*" keywords="armor,class,combat,statist"><para reftype="combat" refcase="yes" refname="Armor Class" refaltname="Armor* Class*" style="heading 3">Armor Class</para><para reftype="combat" refcase="yes" refname="Your Armor Class" refaltname="Your* Armor* Class*">Your Armor Class (AC) represents how hard it is for opponents to land a solid, damaging blow on you. It's the attack roll result that an opponent needs to achieve to hit you. Your AC is equal to the following: 10 + armor bonus + shield bonus + Dexterity modifier + size modifier</para><para/><para>Note that armor limits your Dexterity bonus, so if you're wearing armor, you might not be able to apply your whole Dexterity bonus to your AC.</para><para reftype="combat" refcase="yes" refname="Sometimes you Can't Use Your Dexterity Bonus" refaltname="Sometim* you* Can't* us* Your* Dexter* Bonu*">Sometimes you can't use your Dexterity bonus (if you have one). If you can't react to a blow, you can't use your Dexterity bonus to AC. (If you don't have a Dexterity bonus, nothing happens.)</para><para/><para>Other Modifiers: Many other factors modify your AC.</para><para><i>Enhancement Bonuses:</i> Enhancement effects make your armor better.</para><para><i>Deflection Bonus:</i> Magical deflection effects ward off attacks and improve your AC.</para><para><i>Natural Armor:</i> Natural armor improves your AC.</para><para><i>Dodge Bonuses:</i> Some other AC bonuses represent actively avoiding blows. These bonuses are called dodge bonuses. Any situation that denies you your Dexterity bonus also denies you dodge bonuses. (Wearing armor, however, does not limit these bonuses the way it limits a Dexterity bonus to AC.) Unlike most sorts of bonuses, dodge bonuses stack with each other.</para><topic level="8" name="Touch Attacks" origname="Touch Attacks" linkname="Combat_Combat_I_Combat_Statistics_Armor_Class_Touch_Attacks" docbookid="CombatI12" refname="Touch Attacks" reftype="combat" refcase="yes" refaltname="Touch* Attack*" keywords="armor,attack,class,combat,statist,touch"><para reftype="combat" refcase="yes" refname="Touch Attacks" refaltname="Touch* Attack*"><b>Touch Attacks:</b> Some attacks disregard armor, including shields and natural armor. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn't include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally.</para><para/>
+</topic>
+</topic><topic level="3" name="Hit Points" origname="Hit Points" linkname="Combat_Combat_I_Combat_Statistics_Hit_Points" docbookid="CombatI13" refname="Hit Points" reftype="combat" refcase="yes" refaltname="Hit* Point*" keywords="combat,hit,point,statist"><para reftype="combat" refcase="yes" refname="Hit Points" refaltname="Hit* Point*" style="heading 3">Hit Points</para><para>When your hit point total reaches 0, you're disabled. When it reaches -1, you're dying. When it gets to -10, you're dead.</para><para/>
+</topic><topic level="3" name="Speed" origname="Speed" linkname="Combat_Combat_I_Combat_Statistics_Speed" docbookid="CombatI14" refname="Speed" reftype="combat" refcase="yes" refaltname="Spe*" keywords="combat,spe,statist"><para reftype="combat" refcase="yes" refname="Speed" refaltname="Spe*" style="heading 3">Speed</para><para>Your speed tells you how far you can move in a round and still do something, such as attack or cast a spell. Your speed depends mostly on your race and what armor you're wearing.</para><para>Dwarves, gnomes, and halflings have a speed of 20 feet (4 squares), or 15 feet (3 squares) when wearing medium or heavy armor (except for dwarves, who move 20 feet in any armor).</para><para>Humans, elves, half-elves, and half-orcs have a speed of 30 feet (6 squares), or 20 feet (4 squares) in medium or heavy armor.</para><para>If you use two move actions in a round (sometimes called a 'double move' action), you can move up to double your speed. If you spend the entire round to run all out, you can move up to quadruple your speed (or triple if you are in heavy armor).</para><para/>
+</topic><topic level="3" name="Saving Throws" origname="Saving Throws" linkname="Combat_Combat_I_Combat_Statistics_Saving_Throws" docbookid="CombatI15" refname="Saving Throws" reftype="combat" refcase="yes" refaltname="Save* Throw*" keywords="combat,save,statist,throw"><para reftype="combat" refcase="yes" refname="Saving Throws" refaltname="Save* Throw*" style="heading 3">Saving Throws</para><para>Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class, level, and an ability score. Your saving throw modifier is: Base save bonus + ability modifier</para><topic level="8" name="Saving Throw Types" origname="Saving Throw Types" linkname="Combat_Combat_I_Combat_Statistics_Saving_Throws_Saving_Throw_Types" docbookid="CombatI16" refname="Saving Throw Types" reftype="combat" refcase="yes" refaltname="Save* Throw* Type*" keywords="combat,save,statist,throw,type"><para reftype="combat" refcase="yes" refname="Saving Throw Types" refaltname="Save* Throw* Type*"><b>Saving Throw Types:</b> The three different kinds of saving throws are Fortitude, Reflex, and Will:</para><para><i>Fortitude:</i> These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.</para><para><i>Reflex:</i> These saves test your ability to dodge area attacks. Apply your Dexterity modifier to your Reflex saving throws.</para><para><i>Will:</i> These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.</para>
+</topic><topic level="8" name="Saving Throw Difficulty Class" origname="Saving Throw Difficulty Class" linkname="Combat_Combat_I_Combat_Statistics_Saving_Throws_Saving_Throw_Difficulty_Class" docbookid="CombatI17" refname="Saving Throw Difficulty Class" reftype="combat" refcase="yes" refaltname="Save* Throw* Difficulti* Class*" keywords="class,combat,difficulti,save,statist,throw"><para reftype="combat" refcase="yes" refname="Saving Throw Difficulty Class" refaltname="Save* Throw* Difficulti* Class*"><b>Saving Throw Difficulty Class:</b> The DC for a save is determined by the attack itself.</para>
+</topic><topic level="8" name="Automatic Failures and Successes" origname="Automatic Failures and Successes" linkname="Combat_Combat_I_Combat_Statistics_Saving_Throws_Automatic_Failures_and_Successes" docbookid="CombatI18" refname="Automatic Failures and Successes" reftype="combat" refcase="yes" refaltname="Automat* Failur* and* Success*" keywords="automat,combat,failur,save,statist,success,throw"><para reftype="combat" refcase="yes" refname="Automatic Failures and Successes" refaltname="Automat* Failur* and* Success*"><b>Automatic Failures and Successes:</b> A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw). A natural 20 (the d20 comes up 20) is always a success.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Initiative" origname="Initiative" linkname="Combat_Combat_I_Initiative" docbookid="CombatI19" refname="Initiative" reftype="combat" refcase="yes" refaltname="Initi*" keywords="combat,initi"><para reftype="combat" refcase="yes" refname="Initiative" refaltname="Initi*" style="heading 2">Initiative</para><topic level="8" name="Initiative Checks" origname="Initiative Checks" linkname="Combat_Combat_I_Initiative_Initiative_Checks" docbookid="CombatI20" refname="Initiative Checks" reftype="combat" refcase="yes" refaltname="Initi* Check*" keywords="check,combat,initi"><para reftype="combat" refcase="yes" refname="Initiative Checks" refaltname="Initi* Check*"><b>Initiative Checks:</b> At the start of a battle, each combatant makes an initiative check. An initiative check is a Dexterity check. Each character applies his or her Dexterity modifier to the roll. Characters act in order, counting down from highest result to lowest. In every round that follows, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).</para><para>If two or more combatants have the same initiative check result, the combatants who are tied act in order of total initiative modifier (highest first). If there is still a tie, the tied characters should roll again to determine which one of them goes before the other.</para>
+</topic><topic level="8" name="Flat-Footed" origname="Flat-Footed" linkname="Combat_Combat_I_Initiative_Flat_Footed" docbookid="CombatI21" refname="Flat-Footed" reftype="combat" refcase="yes" refaltname="Flat-Footed*" keywords="combat,flat-footed,initi"><para reftype="combat" refcase="yes" refname="Flat-Footed" refaltname="Flat-Footed*"><b>Flat-Footed:</b> At the start of a battle, before you have had a chance to act (specifically, before your first regular turn in the initiative order), you are flat-footed. You can't use your Dexterity bonus to AC (if any) while flat-footed. Barbarians and rogues have the uncanny dodge extraordinary ability, which allows them to avoid losing their Dexterity bonus to AC due to being flat-footed.</para><para>A flat-footed character can't make attacks of opportunity.</para>
+</topic><topic level="8" name="Inaction" origname="Inaction" linkname="Combat_Combat_I_Initiative_Inaction" docbookid="CombatI22" refname="Inaction" reftype="combat" refcase="yes" refaltname="Inact*" keywords="combat,inact,initi"><para reftype="combat" refcase="yes" refname="Inaction" refaltname="Inact*"><b>Inaction:</b> Even if you can't take actions, you retain your initiative score for the duration of the encounter.</para><para/>
+</topic><topic level="3" name="Surprise" origname="Surprise" linkname="Combat_Combat_I_Initiative_Surprise" docbookid="CombatI23" refname="Surprise" reftype="combat" refcase="yes" refaltname="Surpris*" keywords="combat,initi,surpris"><para reftype="combat" refcase="yes" refname="Surprise" refaltname="Surpris*" style="heading 3">Surprise</para><para>When a combat starts, if you are not aware of your opponents and they are aware of you, you're surprised.</para><para/><topic level="5" name="Determining Awareness" origname="Determining Awareness" linkname="Combat_Combat_I_Initiative_Surprise_Determining_Awareness" docbookid="CombatI24" refname="Determining Awareness" reftype="combat" refcase="yes" refaltname="Determin* Awar*" keywords="awar,combat,determin,initi,surpris"><para reftype="combat" refcase="yes" refname="Determining Awareness" refaltname="Determin* Awar*" style="heading 5">Determining Awareness</para><para>Sometimes all the combatants on a side are aware of their opponents, sometimes none are, and sometimes only some of them are. Sometimes a few combatants on each side are aware and the other combatants on each side are unaware.</para><para>Determining awareness may call for Listen checks, Spot checks, or other checks.</para><topic level="8" name="Surprise Round" origname="The Surprise Round" linkname="Combat_Combat_I_Initiative_Surprise_Determining_Awareness_The_Surprise_Round" docbookid="CombatI25" refname="Surprise Round" reftype="combat" refcase="yes" refaltname="Surpris* Round*" keywords="awar,combat,determin,initi,round,surpris"><para reftype="combat" refcase="yes" refname="Surprise Round" refaltname="Surpris* Round*"><b>The Surprise Round:</b> If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. Any combatants aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take a standard action during the surprise round. You can also take free actions during the surprise round. If no one or everyone is surprised, no surprise round occurs.</para>
+</topic><topic level="8" name="Unaware Combatants" origname="Unaware Combatants" linkname="Combat_Combat_I_Initiative_Surprise_Determining_Awareness_Unaware_Combatants" docbookid="CombatI26" refname="Unaware Combatants" reftype="combat" refcase="yes" refaltname="Unawar* Combat*" keywords="awar,combat,determin,initi,surpris,unawar"><para reftype="combat" refcase="yes" refname="Unaware Combatants" refaltname="Unawar* Combat*"><b>Unaware Combatants:</b> Combatants who are unaware at the start of battle don't get to act in the surprise round. Unaware combatants are flat-footed because they have not acted yet, so they lose any Dexterity bonus to AC.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic><topic level="2" name="Attacks of Opportunity" origname="Attacks of Opportunity" linkname="Combat_Combat_I_Attacks_of_Opportunity" docbookid="CombatI27" refname="Attacks of Opportunity" reftype="combat" refcase="yes" refaltname="Attack* of* Opportun*" keywords="attack,combat,opportun"><para reftype="combat" refcase="yes" refname="Attacks of Opportunity" refaltname="Attack* of* Opportun*" style="heading 2">Attacks of Opportunity</para><para>Sometimes a combatant in a melee lets her guard down. In this case, combatants near her can take advantage of her lapse in defense to attack her for free. These free attacks are called attacks of opportunity.</para><topic level="8" name="Threatened Squares" origname="Threatened Squares" linkname="Combat_Combat_I_Attacks_of_Opportunity_Threatened_Squares" docbookid="CombatI28" refname="Threatened Squares" reftype="combat" refcase="yes" refaltname="Threaten* Squar*" keywords="attack,combat,opportun,squar,threaten"><para reftype="combat" refcase="yes" refname="Threatened Squares" refaltname="Threaten* Squar*"><b>Threatened Squares:</b> You threaten all squares into which you can make a melee attack, even when it is not your action. Generally, that means everything in all squares adjacent to your space (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If you're unarmed, you don't normally threaten any squares and thus can't make attacks of opportunity.</para><para><i>Reach Weapons:</i> Most creatures of Medium or smaller size have a reach of only 5 feet. This means that they can make melee attacks only against creatures up to 5 feet (1 square) away. However, Small and Medium creatures wielding reach weapons threaten more squares than a typical creature. In addition, most creatures larger than Medium have a natural reach of 10 feet or more.</para>
+</topic><topic level="8" name="Provoking an Attack of Opportunity" origname="Provoking an Attack of Opportunity" linkname="Combat_Combat_I_Attacks_of_Opportunity_Provoking_an_Attack_of_Opportunity" docbookid="CombatI29" refname="Provoking an Attack of Opportunity" reftype="combat" refcase="yes" refaltname="Provok* an* Attack* of* Opportun*" keywords="attack,combat,opportun,provok"><para reftype="combat" refcase="yes" refname="Provoking an Attack of Opportunity" refaltname="Provok* an* Attack* of* Opportun*"><b>Provoking an Attack of Opportunity:</b> Two kinds of actions can provoke attacks of opportunity: moving out of a threatened square and performing an action within a threatened square.</para><para><i>Moving:</i> Moving out of a threatened square usually provokes an attack of opportunity from the threatening opponent. There are two common methods of avoiding such an attack-the 5-foot-step and the withdraw action (see below).</para><para><i>Performing a Distracting Act:</i> Some actions, when performed in a threatened square, provoke attacks of opportunity as you divert your attention from the battle. Table: Actions in Combat notes many of the actions that provoke attacks of opportunity.</para><para>Remember that even actions that normally provoke attacks of opportunity may have exceptions to this rule.</para>
+</topic><topic level="8" name="Making an Attack of Opportunity" origname="Making an Attack of Opportunity" linkname="Combat_Combat_I_Attacks_of_Opportunity_Making_an_Attack_of_Opportunity" docbookid="CombatI30" refname="Making an Attack of Opportunity" reftype="combat" refcase="yes" refaltname="Make* an* Attack* of* Opportun*" keywords="attack,combat,make,opportun"><para reftype="combat" refcase="yes" refname="Making an Attack of Opportunity" refaltname="Make* an* Attack* of* Opportun*"><b>Making an Attack of Opportunity:</b> An attack of opportunity is a single melee attack, and you can only make one per round. You don't have to make an attack of opportunity if you don't want to.</para><para>An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus. You make your attack of opportunity, however, at your normal attack bonus-even if you've already attacked in the round.</para><para>An attack of opportunity 'interrupts' the normal flow of actions in the round. If an attack of opportunity is provoked, immediately resolve the attack of opportunity, then continue with the next character's turn (or complete the current turn, if the attack of opportunity was provoked in the midst of a character's turn).</para><para><i>Combat Reflexes and Additional Attacks of Opportunity:</i> If you have the Combat Reflexes feat you can add your Dexterity modifier to the number of attacks of opportunity you can make in a round. This feat does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn't count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.</para><para/>
+</topic>
+</topic><topic level="2" name="Actions in Combat" origname="Actions in Combat" linkname="Combat_Combat_I_Actions_in_Combat" docbookid="CombatI31" refname="Actions in Combat" reftype="combat" refcase="yes" refaltname="Action* in* Combat*" keywords="action,combat"><para reftype="combat" refcase="yes" refname="Actions in Combat" refaltname="Action* in* Combat*" style="heading 2">Actions in Combat</para><para/><topic level="3" name="Combat Round" origname="The Combat Round" linkname="Combat_Combat_I_Actions_in_Combat_The_Combat_Round" docbookid="CombatI32" refname="Combat Round" reftype="combat" refcase="yes" refaltname="Combat* Round*" keywords="action,combat,round"><para reftype="combat" refcase="yes" refname="Combat Round" refaltname="Combat* Round*" style="heading 3">The Combat Round</para><para>Each round represents 6 seconds in the game world. A round presents an opportunity for each character involved in a combat situation to take an action.</para><para>Each round's activity begins with the character with the highest initiative result and then proceeds, in order, from there. Each round of a combat uses the same initiative order. When a character's turn comes up in the initiative sequence, that character performs his entire round's worth of actions. (For exceptions, see Attacks of Opportunity and Special Initiative Actions.)</para><para>For almost all purposes, there is no relevance to the end of a round or the beginning of a round. A round can be a segment of game time starting with the first character to act and ending with the last, but it usually means a span of time from one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.</para><para/>
+</topic><topic level="3" name="Action Types" origname="Action Types" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types" docbookid="CombatI33" refname="Action Types" reftype="combat" refcase="yes" refaltname="Action* Type*" keywords="action,combat,type"><para reftype="combat" refcase="yes" refname="Action Types" refaltname="Action* Type*" style="heading 3">Action Types</para><para>An action's type essentially tells you how long the action takes to perform (within the framework of the 6-second combat round) and how movement is treated. There are four types of actions: standard actions, move actions, full-round actions, and free actions.</para><para>In a normal round, you can perform a standard action and a move action, or you can perform a full-round action. You can also perform one or more free actions. You can always take a move action in place of a standard action.</para><para>In some situations (such as in a surprise round), you may be limited to taking only a single move action or standard action.</para><topic level="8" name="Standard Action" origname="Standard Action" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Standard_Action" docbookid="CombatI34" refname="Standard Action" reftype="combat" refcase="yes" refaltname="Standard* Action*" keywords="action,combat,standard,type"><para reftype="combat" refcase="yes" refname="Standard Action" refaltname="Standard* Action*"><b>Standard Action:</b> A standard action allows you to do something, most commonly make an attack or cast a spell. See Table: Actions in Combat for other standard actions.</para>
+</topic><topic level="8" name="Move Action" origname="Move Action" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Move_Action" docbookid="CombatI35" refname="Move Action" reftype="combat" refcase="yes" refaltname="Move* Action*" keywords="action,combat,move,type"><para reftype="combat" refcase="yes" refname="Move Action" refaltname="Move* Action*"><b>Move Action:</b> A move action allows you to move your speed or perform an action that takes a similar amount of time. See Table: Actions in Combat.</para><para>You can take a move action in place of a standard action. If you move no actual distance in a round (commonly because you have swapped your move for one or more equivalent actions), you can take one 5-foot step either before, during, or after the action.</para>
+</topic><topic level="8" name="Full-Round Action" origname="Full-Round Action" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Full_Round_Action" docbookid="CombatI36" refname="Full-Round Action" reftype="combat" refcase="yes" refaltname="Full-Round* Action*" keywords="action,combat,full-round,type"><para reftype="combat" refcase="yes" refname="Full-Round Action" refaltname="Full-Round* Action*"><b>Full-Round Action:</b> A full-round action consumes all your effort during a round. The only movement you can take during a full-round action is a 5-foot step before, during, or after the action. You can also perform free actions (see below).</para><para>Some full-round actions do not allow you to take a 5-foot step.</para><para>Some full-round actions can be taken as standard actions, but only in situations when you are limited to performing only a standard action during your round. The descriptions of specific actions, below, detail which actions allow this option.</para>
+</topic><topic level="8" name="Free Action" origname="Free Action" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Free_Action" docbookid="CombatI37" refname="Free Action" reftype="combat" refcase="yes" refaltname="Free* Action*" keywords="action,combat,free,type"><para reftype="combat" refcase="yes" refname="Free Action" refaltname="Free* Action*"><b>Free Action:</b> Free actions consume a very small amount of time and effort. You can perform one or more free actions while taking another action normally. However, there are reasonable limits on what you can really do for free.</para>
+</topic><topic level="8" name="Not an Action" origname="Not an Action" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Not_an_Action" docbookid="CombatI38" refname="Not an Action" reftype="combat" refcase="yes" refaltname="Not* an* Action*" keywords="action,combat,type"><para reftype="combat" refcase="yes" refname="Not an Action" refaltname="Not* an* Action*"><b>Not an Action:</b> Some activities are so minor that they are not even considered free actions. They literally don't take any time at all to do and are considered an inherent part of doing something else.</para>
+</topic><topic level="8" name="Restricted Activity" origname="Restricted Activity" linkname="Combat_Combat_I_Actions_in_Combat_Action_Types_Restricted_Activity" docbookid="CombatI39" refname="Restricted Activity" reftype="combat" refcase="yes" refaltname="Restrict* Activ*" keywords="action,activ,combat,restrict,type"><para reftype="combat" refcase="yes" refname="Restricted Activity" refaltname="Restrict* Activ*"><b>Restricted Activity:</b> In some situations, you may be unable to take a full round's worth of actions. In such cases, you are restricted to taking only a single standard action or a single move action (plus free actions as normal). You can't take a full-round action (though you can start or complete a full-round action by using a standard action; see below).</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Actions in Combat</b></para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Standard Action</b></para></cell>
+<cell><para><b>Attack of Opportunity</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Attack (melee)</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Attack (ranged)</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Attack (unarmed)</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Activate a magic item other than a potion or oil</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Aid another</para></cell>
+<cell><para>Maybe<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Bull rush</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Cast a spell (1 standard action casting time)</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Concentrate to maintain an active spell</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dismiss a spell</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Draw a hidden weapon (see Sleight of Hand skill)</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Drink a potion or apply an oil</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Escape a grapple</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Feint</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light a torch with a tindertwig</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lower spell resistance</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Make a dying friend stable (see Heal skill)</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Overrun</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Read a scroll</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Ready (triggers a standard action)</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Sunder a weapon (attack)</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Sunder an object (attack)</para></cell>
+<cell><para>Maybe<sup><b>3</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Total defense</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Turn or rebuke undead</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use extraordinary ability</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use skill that takes 1 action</para></cell>
+<cell><para>Usually</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use spell-like ability</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use supernatural ability</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Move Action</b></para></cell>
+<cell><para><b>Attack of Opportunity</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Move</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Control a frightened mount</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Direct or redirect an active spell</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Draw a weapon<sup><b>4</b></sup></para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Load a hand crossbow or light crossbow</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Open or close a door</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mount a horse or dismount</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Move a heavy object</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Pick up an item</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Sheathe a weapon</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Stand up from prone</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Ready or loose a shield<sup><b>4</b></sup></para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Retrieve a stored item</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full-Round Action</b></para></cell>
+<cell><para><b>Attack of Opportunity</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Full attack</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Charge<sup><b>5</b></sup></para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Deliver coup de grace</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Escape from a net</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Extinguish flames</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light a torch</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Load a heavy or repeating crossbow</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lock or unlock weapon in locked gauntlet</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Prepare to throw splash weapon</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use skill that takes 1 round</para></cell>
+<cell><para>Usually</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use touch spell on up to six friends</para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Withdraw<sup><b>5</b></sup></para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Free Action</b></para></cell>
+<cell><para><b>Attack of Opportunity</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Cast a quickened spell</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Cease concentration on a spell</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Drop an item</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Drop to the floor</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Prepare spell components to cast a spell<sup><b>6</b></sup></para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Speak</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>No Action</b></para></cell>
+<cell><para><b>Attack of Opportunity</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Delay</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5-foot step</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Action Type Varies</b></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Disarm<sup><b>7</b></sup></para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Grapple<sup><b>7</b></sup></para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Trip an opponent<sup><b>7</b></sup></para></cell>
+<cell><para>Yes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Use feat<sup><b>8</b></sup></para></cell>
+<cell><para>Varies</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Regardless of the action, if you move out of a threatened square, you usually provoke an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 If you aid someone performing an action that would normally provoke an attack of opportunity, then the act of aiding another provokes an attack of opportunity as well.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3 If the object is being held, carried, or worn by a creature, yes. If not, no.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4 If you have a base attack bonus of +1 or higher, you can combine one of these actions with a regular move. If you have the Two- Weapon Fighting feat, you can draw two light or one-handed weapons in the time it would normally take you to draw one.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5 May be taken as a standard action if you are limited to taking only a single action in a round.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6 Unless the component is an extremely large or awkward item.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7 These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>8 The description of a feat defines its effect.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="3" name="Standard Actions" origname="Standard Actions" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions" docbookid="CombatI40" refname="Standard Actions" reftype="combat" refcase="yes" refaltname="Standard* Action*" keywords="action,combat,standard"><para reftype="combat" refcase="yes" refname="Standard Actions" refaltname="Standard* Action*" style="heading 3">Standard Actions</para><topic level="5" name="Attack" origname="Attack" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack" docbookid="CombatI41" refname="Attack" reftype="combat" refcase="yes" refaltname="Attack*" keywords="action,attack,combat,standard"><para reftype="combat" refcase="yes" refname="Attack" refaltname="Attack*" style="heading 5"><b>Attack</b></para><para>Making an attack is a standard action.</para><topic level="8" name="Melee Attacks" origname="Melee Attacks" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Melee_Attacks" docbookid="CombatI42" refname="Melee Attacks" reftype="combat" refcase="yes" refaltname="Mele* Attack*" keywords="action,attack,combat,mele,standard"><para reftype="combat" refcase="yes" refname="Melee Attacks" refaltname="Mele* Attack*"><b>Melee Attacks:</b> With a normal melee weapon, you can strike any opponent within 5 feet. (Opponents within 5 feet are considered adjacent to you.) Some melee weapons have reach, as indicated in their descriptions. With a typical reach weapon, you can strike opponents 10 feet away, but you can't strike adjacent foes (those within 5 feet).</para>
+</topic><topic level="8" name="Unarmed Attacks" origname="Unarmed Attacks" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Unarmed_Attacks" docbookid="CombatI43" refname="Unarmed Attacks" reftype="combat" refcase="yes" refaltname="Unarm* Attack*" keywords="action,attack,combat,standard,unarm"><para reftype="combat" refcase="yes" refname="Unarmed Attacks" refaltname="Unarm* Attack*"><b>Unarmed Attacks:</b> Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except for the following:</para><para><i>Attacks of Opportunity:</i> Attacking unarmed provokes an attack of opportunity from the character you attack, provided she is armed. The attack of opportunity comes before your attack. An unarmed attack does not provoke attacks of opportunity from other foes nor does it provoke an attack of opportunity from an unarmed foe.</para><para>An unarmed character can't take attacks of opportunity (but see 'Armed' Unarmed Attacks, below).</para><para><i>'Armed' Unarmed Attacks:</i> Sometimes a character's or creature's unarmed attack counts as an armed attack. A monk, a character with the Improved Unarmed Strike feat, a spellcaster delivering a touch attack spell, and a creature with natural physical weapons all count as being armed.</para><para>Note that being armed counts for both offense and defense (the character can make attacks of opportunity)</para><para><i>Unarmed Strike Damage:</i> An unarmed strike from a Medium character deals 1d3 points of damage (plus your Strength modifier, as normal). A Small character's unarmed strike deals 1d2 points of damage, while a Large character's unarmed strike deals 1d4 points of damage. All damage from unarmed strikes is nonlethal damage. Unarmed strikes count as light weapons (for purposes of two-weapon attack penalties and so on).</para><para><i>Dealing Lethal Damage:</i> You can specify that your unarmed strike will deal lethal damage before you make your attack roll, but you take a -4 penalty on your attack roll. If you have the Improved Unarmed Strike feat, you can deal lethal damage with an unarmed strike without taking a penalty on the attack roll.</para>
+</topic><topic level="8" name="Ranged Attacks" origname="Ranged Attacks" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Ranged_Attacks" docbookid="CombatI44" refname="Ranged Attacks" reftype="combat" refcase="yes" refaltname="Rang* Attack*" keywords="action,attack,combat,rang,standard"><para reftype="combat" refcase="yes" refname="Ranged Attacks" refaltname="Rang* Attack*"><b>Ranged Attacks:</b> With a ranged weapon, you can shoot or throw at any target that is within the weapon's maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is ten range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions.</para>
+</topic><topic level="8" name="Attack Rolls" origname="Attack Rolls" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Attack_Rolls" docbookid="CombatI45" refname="Attack Rolls" reftype="combat" refcase="yes" refaltname="Attack* Roll*" keywords="action,attack,combat,roll,standard"><para reftype="combat" refcase="yes" refname="Attack Rolls" refaltname="Attack* Roll*"><b>Attack Rolls:</b> An attack roll represents your attempts to strike your opponent.</para><para>Your attack roll is 1d20 + your attack bonus with the weapon you're using. If the result is at least as high as the target's AC, you hit and deal damage.</para>
+</topic><topic level="8" name="Automatic Misses and Hits" origname="Automatic Misses and Hits" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Automatic_Misses_and_Hits" docbookid="CombatI46" refname="Automatic Misses and Hits" reftype="combat" refcase="yes" refaltname="Automat* Miss* and* Hit*" keywords="action,attack,automat,combat,hit,miss,standard"><para reftype="combat" refcase="yes" refname="Automatic Misses and Hits" refaltname="Automat* Miss* and* Hit*"><b>Automatic Misses and Hits:</b> A natural 1 (the d20 comes up 1) on the attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat-a possible critical hit.</para>
+</topic><topic level="8" name="Damage Rolls" origname="Damage Rolls" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Damage_Rolls" docbookid="CombatI47" refname="Damage Rolls" reftype="combat" refcase="yes" refaltname="Damag* Roll*" keywords="action,attack,combat,damag,roll,standard"><para reftype="combat" refcase="yes" refname="Damage Rolls" refaltname="Damag* Roll*"><b>Damage Rolls:</b> If the attack roll result equals or exceeds the target's AC, the attack hits and you deal damage. Roll the appropriate damage for your weapon. Damage is deducted from the target's current hit points.</para>
+</topic><topic level="8" name="Multiple Attacks" origname="Multiple Attacks" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Multiple_Attacks" docbookid="CombatI48" refname="Multiple Attacks" reftype="combat" refcase="yes" refaltname="Multipl* Attack*" keywords="action,attack,combat,multipl,standard"><para reftype="combat" refcase="yes" refname="Multiple Attacks" refaltname="Multipl* Attack*"><b>Multiple Attacks:</b> A character who can make more than one attack per round must use the full attack action (see Full-Round Actions, below) in order to get more than one attack.</para>
+</topic><topic level="8" name="Shooting or Throwing into A Melee" origname="Shooting or Throwing into A Melee" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Shooting_or_Throwing_into_A_Melee" docbookid="CombatI49" refname="Shooting or Throwing into A Melee" reftype="combat" refcase="yes" refaltname="Shoot* or* Throw* into* A* Mele*" keywords="action,attack,combat,mele,shoot,standard,throw"><para reftype="combat" refcase="yes" refname="Shooting or Throwing into A Melee" refaltname="Shoot* or* Throw* into* A* Mele*"><b>Shooting or Throwing into a Melee:</b> If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a -4 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)</para><para>If your target (or the part of your target you're aiming at, if it's a big target) is at least 10 feet away from the nearest friendly character, you can avoid the -4 penalty, even if the creature you're aiming at is engaged in melee with a friendly character.</para><para><i>Precise Shot:</i> If you have the Precise Shot feat you don't take this penalty.</para>
+</topic><topic level="8" name="Fighting Defensively as A Standard Action" origname="Fighting Defensively as A Standard Action" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Fighting_Defensively_as_A_Standard_Action" docbookid="CombatI50" refname="Fighting Defensively as A Standard Action" reftype="combat" refcase="yes" refaltname="Fight* Defens* A* A* Standard* Action*" keywords="action,attack,combat,defens,fight,standard"><para reftype="combat" refcase="yes" refname="Fighting Defensively as A Standard Action" refaltname="Fight* Defens* A* A* Standard* Action*"><b>Fighting Defensively as a Standard Action:</b> You can choose to fight defensively when attacking. If you do so, you take a -4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.</para>
+</topic><topic level="8" name="Critical Hits" origname="Critical Hits" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Attack_Critical_Hits" docbookid="CombatI51" refname="Critical Hits" reftype="combat" refcase="yes" refaltname="Critic* Hit*" keywords="action,attack,combat,critic,hit,standard"><para reftype="combat" refcase="yes" refname="Critical Hits" refaltname="Critic* Hit*"><b>Critical Hits:</b> When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target's Armor Class, and you have scored a threat. The hit might be a critical hit (or 'crit'). To find out if it's a critical hit, you immediately make a critical roll-another attack roll with all the same modifiers as the attack roll you just made. If the critical roll also results in a hit against the target's AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit. It doesn't need to come up 20 again.) If the critical roll is a miss, then your hit is just a regular hit.</para><para>A critical hit means that you roll your damage more than once, with all your usual bonuses, and add the rolls together. Unless otherwise specified, the threat range for a critical hit on an attack roll is 20, and the multiplier is x2.</para><para><i>Exception:</i> Extra damage over and above a weapon's normal damage is not multiplied when you score a critical hit.</para><para><i>Increased Threat Range:</i> Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn't result in a hit is not a threat.</para><para><i>Increased Critical Multiplier:</i> Some weapons deal better than double damage on a critical hit.</para><para><i>Spells and Critical Hits:</i> A spell that requires an attack roll can score a critical hit. A spell attack that requires no attack roll cannot score a critical hit.</para><para/>
+</topic>
+</topic><topic level="5" name="Cast A Spell" origname="Cast A Spell" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell" docbookid="CombatI52" refname="Cast A Spell" reftype="combat" refcase="yes" refaltname="Cast* A* Spell*" keywords="action,cast,combat,spell,standard"><para reftype="combat" refcase="yes" refname="Cast A Spell" refaltname="Cast* A* Spell*" style="heading 5"><b>Cast a Spell</b></para><para>Most spells require 1 standard action to cast. You can cast such a spell either before or after you take a move action.</para><para><i>Note:</i> You retain your Dexterity bonus to AC while casting.</para><topic level="8" name="Spell Components" origname="Spell Components" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Spell_Components" docbookid="CombatI53" refname="Spell Components" reftype="combat" refcase="yes" refaltname="Spell* Compon*" keywords="action,cast,combat,compon,spell,standard"><para reftype="combat" refcase="yes" refname="Spell Components" refaltname="Spell* Compon*"><b>Spell Components:</b> To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you're gagged or in the area of a <i>silence</i> spell, you can't cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component.</para><para>To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can't cast a spell of this type while bound, grappling, or with both your hands full or occupied.</para><para>To cast a spell with a material (M), focus (F), or divine focus (DF) component, you have to have the proper materials, as described by the spell. Unless these materials are elaborate preparing these materials is a free action. For material components and focuses whose costs are not listed, you can assume that you have them if you have your spell component pouch.</para><para>Some spells have an experience point (XP) component and entail an experience point cost to you. No spell can restore the lost XP. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to achieve a new level, immediately spend the XP on casting the spell rather than keeping it to advance a level. The XP are expended when you cast the spell, whether or not the casting succeeds.</para>
+</topic><topic level="8" name="Concentration" origname="Concentration" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Concentration" docbookid="CombatI54" refname="Concentration" reftype="combat" refcase="yes" refaltname="Concentr*" keywords="action,cast,combat,concentr,spell,standard"><para reftype="combat" refcase="yes" refname="Concentration" refaltname="Concentr*"><b>Concentration:</b> You must concentrate to cast a spell. If you can't concentrate you can't cast a spell. If you start casting a spell but something interferes with your concentration you must make a Concentration check or lose the spell. The check's DC depends on what is threatening your concentration (see the Concentration skill). If you fail, the spell fizzles with no effect. If you prepare spells, it is lost from preparation. If you cast at will, it counts against your daily limit of spells even though you did not cast it successfully.</para>
+</topic><topic level="8" name="Concentrating to Maintain A Spell" origname="Concentrating to Maintain A Spell" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Concentrating_to_Maintain_A_Spell" docbookid="CombatI55" refname="Concentrating to Maintain A Spell" reftype="combat" refcase="yes" refaltname="Concentr* to* Maintain* A* Spell*" keywords="action,cast,combat,concentr,maintain,spell,standard"><para reftype="combat" refcase="yes" refname="Concentrating to Maintain A Spell" refaltname="Concentr* to* Maintain* A* Spell*"><b>Concentrating to Maintain a Spell:</b> Some spells require continued concentration to keep them going. Concentrating to maintain a spell is a standard action that doesn't provoke an attack of opportunity. Anything that could break your concentration when casting a spell can keep you from concentrating to maintain a spell. If your concentration breaks, the spell ends.</para>
+</topic><topic level="8" name="Casting Time" origname="Casting Time" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Casting_Time" docbookid="CombatI56" refname="Casting Time" reftype="combat" refcase="yes" refaltname="Cast* Time*" keywords="action,cast,combat,spell,standard,time"><para reftype="combat" refcase="yes" refname="Casting Time" refaltname="Cast* Time*"><b>Casting Time:</b> Most spells have a casting time of 1 standard action. A spell cast in this manner immediately takes effect.</para>
+</topic><topic level="8" name="Attacks of Opportunity" origname="Attacks of Opportunity" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Attacks_of_Opportunity" docbookid="CombatI57" refname="Attacks of Opportunity" reftype="combat" refcase="yes" refaltname="Attack* of* Opportun*" keywords="action,attack,cast,combat,opportun,spell,standard"><para reftype="combat" refcase="yes" refname="Attacks of Opportunity" refaltname="Attack* of* Opportun*"><b>Attacks of Opportunity:</b> Generally, if you cast a spell, you provoke attacks of opportunity from threatening enemies. If you take damage from an attack of opportunity, you must make a Concentration check (DC 10 + points of damage taken + spell level) or lose the spell. Spells that require only a free action to cast don't provoke attacks of opportunity.</para>
+</topic><topic level="8" name="Casting on the Defensive" origname="Casting on the Defensive" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Casting_on_the_Defensive" docbookid="CombatI58" refname="Casting on the Defensive" reftype="combat" refcase="yes" refaltname="Cast* on* the* Defens*" keywords="action,cast,combat,defens,spell,standard"><para reftype="combat" refcase="yes" refname="Casting on the Defensive" refaltname="Cast* on* the* Defens*"><b>Casting on the Defensive:</b> Casting a spell while on the defensive does not provoke an attack of opportunity. It does, however, require a Concentration check (DC 15 + spell level) to pull off. Failure means that you lose the spell.</para>
+</topic><topic level="8" name="Touch Spells in Combat" origname="Touch Spells in Combat" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Touch_Spells_in_Combat" docbookid="CombatI59" refname="Touch Spells in Combat" reftype="combat" refcase="yes" refaltname="Touch* Spell* in* Combat*" keywords="action,cast,combat,spell,standard,touch"><para reftype="combat" refcase="yes" refname="Touch Spells in Combat" refaltname="Touch* Spell* in* Combat*"><b>Touch Spells in Combat:</b> Many spells have a range of touch. To use these spells, you cast the spell and then touch the subject, either in the same round or any time later. In the same round that you cast the spell, you may also touch (or attempt to touch) the target. You may take your move before casting the spell, after touching the target, or between casting the spell and touching the target. You can automatically touch one friend or use the spell on yourself, but to touch an opponent, you must succeed on an attack roll.</para><para><i>Touch Attacks:</i> Touching an opponent with a touch spell is considered to be an armed attack and therefore does not provoke attacks of opportunity. However, the act of casting a spell does provoke an attack of opportunity. Touch attacks come in two types: melee touch attacks and ranged touch attacks. You can score critical hits with either type of attack. Your opponent's AC against a touch attack does not include any armor bonus, shield bonus, or natural armor bonus. His size modifier, Dexterity modifier, and deflection bonus (if any) all apply normally.</para><para><i>Holding the Charge:</i> If you don't discharge the spell in the round when you cast the spell, you can hold the discharge of the spell (hold the charge) indefinitely. You can continue to make touch attacks round after round. You can touch one friend as a standard action or up to six friends as a full-round action. If you touch anything or anyone while holding a charge, even unintentionally, the spell discharges. If you cast another spell, the touch spell dissipates. Alternatively, you may make a normal unarmed attack (or an attack with a natural weapon) while holding a charge. In this case, you aren't considered armed and you provoke attacks of opportunity as normal for the attack. (If your unarmed attack or natural weapon attack doesn't provoke attacks of opportunity, neither does this attack.) If the attack hits, you deal normal damage for your unarmed attack or natural weapon and the spell discharges. If the attack misses, you are still holding the charge.</para>
+</topic><topic level="8" name="Dismiss A Spell" origname="Dismiss A Spell" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Cast_A_Spell_Dismiss_A_Spell" docbookid="CombatI60" refname="Dismiss A Spell" reftype="combat" refcase="yes" refaltname="Dismiss* A* Spell*" keywords="action,cast,combat,dismiss,spell,standard"><para reftype="combat" refcase="yes" refname="Dismiss A Spell" refaltname="Dismiss* A* Spell*"><b>Dismiss a Spell:</b> Dismissing an active spell is a standard action that doesn't provoke attacks of opportunity.</para><para/>
+</topic>
+</topic><topic level="5" name="Activate Magic Item" origname="Activate Magic Item" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Activate_Magic_Item" docbookid="CombatI61" refname="Activate Magic Item" reftype="combat" refcase="yes" refaltname="Activ* Magic* Item*" keywords="action,activ,combat,item,magic,standard"><para reftype="combat" refcase="yes" refname="Activate Magic Item" refaltname="Activ* Magic* Item*" style="heading 5"><b>Activate Magic Item</b></para><para>Many magic items don't need to be activated. However, certain magic items need to be activated, especially potions, scrolls, wands, rods, and staffs. Activating a magic item is a standard action (unless the item description indicates otherwise).</para><topic level="8" name="Spell Completion Items" origname="Spell Completion Items" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Activate_Magic_Item_Spell_Completion_Items" docbookid="CombatI62" refname="Spell Completion Items" reftype="combat" refcase="yes" refaltname="Spell* Completion* Item*" keywords="action,activ,combat,completion,item,magic,spell,standard"><para reftype="combat" refcase="yes" refname="Spell Completion Items" refaltname="Spell* Completion* Item*"><b>Spell Completion Items:</b> Activating a spell completion item is the equivalent of casting a spell. It requires concentration and provokes attacks of opportunity. You lose the spell if your concentration is broken, and you can attempt to activate the item while on the defensive, as with casting a spell.</para><para><b>Spell Trigger, Command Word, or Use-Activated Items:</b> Activating any of these kinds of items does not require concentration and does not provoke attacks of opportunity.</para><para/>
+</topic>
+</topic><topic level="5" name="Use Special Ability" origname="Use Special Ability" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Use_Special_Ability" docbookid="CombatI63" refname="Use Special Ability" reftype="combat" refcase="yes" refaltname="Us* Special* Abil*" keywords="abil,action,combat,special,standard,us"><para reftype="combat" refcase="yes" refname="Use Special Ability" refaltname="Us* Special* Abil*" style="heading 5"><b>Use Special Ability</b></para><para>Using a special ability is usually a standard action, but whether it is a standard action, a full-round action, or not an action at all is defined by the ability.</para><topic level="8" name="Spell-Like Abilities" origname="Spell-Like Abilities" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Use_Special_Ability_Spell_Like_Abilities" docbookid="CombatI64" refname="Spell-Like Abilities" reftype="combat" refcase="yes" refaltname="Spell-Like* Abil*" keywords="abil,action,combat,special,spell-like,standard,us"><para reftype="combat" refcase="yes" refname="Spell-Like Abilities" refaltname="Spell-Like* Abil*"><b>Spell-Like Abilities:</b> Using a spell-like ability works like casting a spell in that it requires concentration and provokes attacks of opportunity. Spell-like abilities can be disrupted. If your concentration is broken, the attempt to use the ability fails, but the attempt counts as if you had used the ability. The casting time of a spell-like ability is 1 standard action, unless the ability description notes otherwise.</para><para><i>Using a Spell-Like Ability on the Defensive:</i> You may attempt to use a spell-like ability on the defensive, just as with casting a spell. If the Concentration check (DC 15 + spell level) fails, you can't use the ability, but the attempt counts as if you had used the ability.</para>
+</topic><topic level="8" name="Supernatural Abilities" origname="Supernatural Abilities" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Use_Special_Ability_Supernatural_Abilities" docbookid="CombatI65" refname="Supernatural Abilities" reftype="combat" refcase="yes" refaltname="Supernatur* Abil*" keywords="abil,action,combat,special,standard,supernatur,us"><para reftype="combat" refcase="yes" refname="Supernatural Abilities" refaltname="Supernatur* Abil*"><b>Supernatural Abilities:</b> Using a supernatural ability is usually a standard action (unless defined otherwise by the ability's description). Its use cannot be disrupted, does not require concentration, and does not provoke attacks of opportunity.</para>
+</topic><topic level="8" name="Extraordinary Abilities" origname="Extraordinary Abilities" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Use_Special_Ability_Extraordinary_Abilities" docbookid="CombatI66" refname="Extraordinary Abilities" reftype="combat" refcase="yes" refaltname="Extraordinari* Abil*" keywords="abil,action,combat,extraordinari,special,standard,us"><para reftype="combat" refcase="yes" refname="Extraordinary Abilities" refaltname="Extraordinari* Abil*"><b>Extraordinary Abilities:</b> Using an extraordinary ability is usually not an action because most extraordinary abilities automatically happen in a reactive fashion. Those extraordinary abilities that are actions are usually standard actions that cannot be disrupted, do not require concentration, and do not provoke attacks of opportunity.</para><para/>
+</topic>
+</topic><topic level="5" name="Total Defense" origname="Total Defense" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Total_Defense" docbookid="CombatI67" refname="Total Defense" reftype="combat" refcase="yes" refaltname="Total* Defens*" keywords="action,combat,defens,standard,total"><para reftype="combat" refcase="yes" refname="Total Defense" refaltname="Total* Defens*" style="heading 5"><b>Total Defense</b></para><para>You can defend yourself as a standard action. You get a +4 dodge bonus to your AC for 1 round. Your AC improves at the start of this action. You can't combine total defense with fighting defensively or with the benefit of the Combat Expertise feat (since both of those require you to declare an attack or full attack). You can't make attacks of opportunity while using total defense.</para><para/>
+</topic><topic level="5" name="Start/Complete Full-Round Action" origname="Start/Complete Full-Round Action" linkname="Combat_Combat_I_Actions_in_Combat_Standard_Actions_Start_Complete_Full_Round_Action" docbookid="CombatI68" refname="Start/Complete Full-Round Action" reftype="combat" refcase="yes" refaltname="Start/Complete* Full-Round* Action*" keywords="action,combat,full-round,standard,start/complete"><para reftype="combat" refcase="yes" refname="Start/Complete Full-Round Action" refaltname="Start/Complete* Full-Round* Action*" style="heading 5"><b>Start/Complete Full-Round Action</b></para><para>The 'start full-round action' standard action lets you start undertaking a full-round action, which you can complete in the following round by using another standard action. You can't use this action to start or complete a full attack, charge, run, or withdraw.</para><para/>
+</topic>
+</topic><topic level="3" name="Move Actions" origname="Move Actions" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions" docbookid="CombatI69" refname="Move Actions" reftype="combat" refcase="yes" refaltname="Move* Action*" keywords="action,combat,move"><para reftype="combat" refcase="yes" refname="Move Actions" refaltname="Move* Action*" style="heading 3">Move Actions</para><para>With the exception of specific movement-related skills, most move actions don't require a check.</para><para/><topic level="5" name="Move" origname="Move" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Move" docbookid="CombatI70" refname="Move" reftype="combat" refcase="yes" refaltname="Move*" keywords="action,combat,move"><para reftype="combat" refcase="yes" refname="Move" refaltname="Move*" style="heading 5"><b>Move</b></para><para>The simplest move action is moving your speed. If you take this kind of move action during your turn, you can't also take a 5-foot step.</para><para>Many nonstandard modes of movement are covered under this category, including climbing (up to one-quarter of your speed) and swimming (up to one-quarter of your speed).</para><topic level="8" name="Accelerated Climbing" origname="Accelerated Climbing" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Move_Accelerated_Climbing" docbookid="CombatI71" refname="Accelerated Climbing" reftype="combat" refcase="yes" refaltname="Acceler* Climb*" keywords="acceler,action,climb,combat,move"><para reftype="combat" refcase="yes" refname="Accelerated Climbing" refaltname="Acceler* Climb*"><b>Accelerated Climbing:</b> You can climb one-half your speed as a move action by accepting a -5 penalty on your Climb check.</para>
+</topic><topic level="8" name="Crawling" origname="Crawling" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Move_Crawling" docbookid="CombatI72" refname="Crawling" reftype="combat" refcase="yes" refaltname="Crawl*" keywords="action,combat,crawl,move"><para reftype="combat" refcase="yes" refname="Crawling" refaltname="Crawl*"><b>Crawling:</b> You can crawl 5 feet as a move action. Crawling incurs attacks of opportunity from any attackers who threaten you at any point of your crawl.</para><para/>
+</topic>
+</topic><topic level="5" name="Draw or Sheathe A Weapon" origname="Draw or Sheathe A Weapon" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Draw_or_Sheathe_A_Weapon" docbookid="CombatI73" refname="Draw or Sheathe A Weapon" reftype="combat" refcase="yes" refaltname="Draw* or* Sheath* A* Weapon*" keywords="action,combat,draw,move,sheath,weapon"><para reftype="combat" refcase="yes" refname="Draw or Sheathe A Weapon" refaltname="Draw* or* Sheath* A* Weapon*" style="heading 5"><b>Draw or Sheathe a Weapon</b></para><para>Drawing a weapon so that you can use it in combat, or putting it away so that you have a free hand, requires a move action. This action also applies to weapon-like objects carried in easy reach, such as wands. If your weapon or weapon-like object is stored in a pack or otherwise out of easy reach, treat this action as retrieving a stored item.</para><para>If you have a base attack bonus of +1 or higher, you may draw a weapon as a free action combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw two light or one-handed weapons in the time it would normally take you to draw one.</para><para>Drawing ammunition for use with a ranged weapon (such as arrows, bolts, sling bullets, or shuriken) is a free action.</para><para/>
+</topic><topic level="5" name="Ready or Loose A Shield" origname="Ready or Loose A Shield" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Ready_or_Loose_A_Shield" docbookid="CombatI74" refname="Ready or Loose A Shield" reftype="combat" refcase="yes" refaltname="Readi* or* Loos* A* Shield*" keywords="action,combat,loos,move,readi,shield"><para reftype="combat" refcase="yes" refname="Ready or Loose A Shield" refaltname="Readi* or* Loos* A* Shield*" style="heading 5"><b>Ready or Loose a Shield</b></para><para>Strapping a shield to your arm to gain its shield bonus to your AC, or unstrapping and dropping a shield so you can use your shield hand for another purpose, requires a move action. If you have a base attack bonus of +1 or higher, you can ready or loose a shield as a free action combined with a regular move.</para><para>Dropping a carried (but not worn) shield is a free action.</para><para/>
+</topic><topic level="5" name="Manipulate an Item" origname="Manipulate an Item" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Manipulate_an_Item" docbookid="CombatI75" refname="Manipulate an Item" reftype="combat" refcase="yes" refaltname="Manipul* an* Item*" keywords="action,combat,item,manipul,move"><para reftype="combat" refcase="yes" refname="Manipulate an Item" refaltname="Manipul* an* Item*" style="heading 5"><b>Manipulate an Item</b></para><para>In most cases, moving or manipulating an item is a move action.</para><para>This includes retrieving or putting away a stored item, picking up an item, moving a heavy object, and opening a door. Examples of this kind of action, along with whether they incur an attack of opportunity, are given in Table: Actions in Combat.</para><para/>
+</topic><topic level="5" name="Direct or Redirect A Spell" origname="Direct or Redirect A Spell" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Direct_or_Redirect_A_Spell" docbookid="CombatI76" refname="Direct or Redirect A Spell" reftype="combat" refcase="yes" refaltname="Direct* or* Redirect* A* Spell*" keywords="action,combat,direct,move,redirect,spell"><para reftype="combat" refcase="yes" refname="Direct or Redirect A Spell" refaltname="Direct* or* Redirect* A* Spell*" style="heading 5"><b>Direct or Redirect a Spell</b></para><para>Some spells allow you to redirect the effect to new targets or areas after you cast the spell. Redirecting a spell requires a move action and does not provoke attacks of opportunity or require concentration.</para><para/>
+</topic><topic level="5" name="Stand Up" origname="Stand Up" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Stand_Up" docbookid="CombatI77" refname="Stand Up" reftype="combat" refcase="yes" refaltname="Stand* Up*" keywords="action,combat,move,stand"><para reftype="combat" refcase="yes" refname="Stand Up" refaltname="Stand* Up*" style="heading 5"><b>Stand Up</b></para><para>Standing up from a prone position requires a move action and provokes attacks of opportunity.</para><para/>
+</topic><topic level="5" name="Mount/Dismount A Steed" origname="Mount/Dismount A Steed" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Mount_Dismount_A_Steed" docbookid="CombatI78" refname="Mount/Dismount A Steed" reftype="combat" refcase="yes" refaltname="Mount/Dismount* A* Ste*" keywords="action,combat,mount/dismount,move,ste"><para reftype="combat" refcase="yes" refname="Mount/Dismount A Steed" refaltname="Mount/Dismount* A* Ste*" style="heading 5"><b>Mount/Dismount a Steed</b></para><para>Mounting or dismounting from a steed requires a move action.</para><topic level="8" name="Fast Mount or Dismount" origname="Fast Mount or Dismount" linkname="Combat_Combat_I_Actions_in_Combat_Move_Actions_Mount_Dismount_A_Steed_Fast_Mount_or_Dismount" docbookid="CombatI79" refname="Fast Mount or Dismount" reftype="combat" refcase="yes" refaltname="Fast* Mount* or* Dismount*" keywords="action,combat,dismount,fast,mount,mount/dismount,move,ste"><para reftype="combat" refcase="yes" refname="Fast Mount or Dismount" refaltname="Fast* Mount* or* Dismount*"><b>Fast Mount or Dismount:</b> You can mount or dismount as a free action with a DC 20 Ride check (your armor check penalty, if any, applies to this check). If you fail the check, mounting or dismounting is a move action instead. (You can't attempt a fast mount or fast dismount unless you can perform the mount or dismount as a move action in the current round.)</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Full-Round Actions" origname="Full-Round Actions" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions" docbookid="CombatI80" refname="Full-Round Actions" reftype="combat" refcase="yes" refaltname="Full-Round* Action*" keywords="action,combat,full-round"><para reftype="combat" refcase="yes" refname="Full-Round Actions" refaltname="Full-Round* Action*" style="heading 3">Full-Round Actions</para><para>A full-round action requires an entire round to complete. Thus, it can't be coupled with a standard or a move action, though if it does not involve moving any distance, you can take a 5-foot step.</para><para/><topic level="5" name="Full Attack" origname="Full Attack" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Full_Attack" docbookid="CombatI81" refname="Full Attack" reftype="combat" refcase="yes" refaltname="Full* Attack*" keywords="action,attack,combat,full,full-round"><para reftype="combat" refcase="yes" refname="Full Attack" refaltname="Full* Attack*" style="heading 5"><b>Full Attack</b></para><para>If you get more than one attack per round because your base attack bonus is high enough, because you fight with two weapons or a double weapon or for some special reason you must use a full-round action to get your additional attacks. You do not need to specify the targets of your attacks ahead of time. You can see how the earlier attacks turn out before assigning the later ones.</para><para>The only movement you can take during a full attack is a 5-foot step. You may take the step before, after, or between your attacks.</para><para>If you get multiple attacks because your base attack bonus is high enough, you must make the attacks in order from highest bonus to lowest. If you are using two weapons, you can strike with either weapon first. If you are using a double weapon, you can strike with either part of the weapon first.</para><topic level="8" name="Deciding Between an Attack or A Full Attack" origname="Deciding Between an Attack or A Full Attack" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Full_Attack_Deciding_Between_an_Attack_or_A_Full_Attack" docbookid="CombatI82" refname="Deciding Between an Attack or A Full Attack" reftype="combat" refcase="yes" refaltname="Decid* Between* an* Attack* or* A* Full* Attack*" keywords="action,attack,combat,decid,full,full-round"><para reftype="combat" refcase="yes" refname="Deciding Between an Attack or A Full Attack" refaltname="Decid* Between* an* Attack* or* A* Full* Attack*"><b>Deciding between an Attack or a Full Attack:</b> After your first attack, you can decide to take a move action instead of making your remaining attacks, depending on how the first attack turns out. If you've already taken a 5-foot step, you can't use your move action to move any distance, but you could still use a different kind of move action.</para>
+</topic><topic level="8" name="Fighting Defensively as A Full-Round Action" origname="Fighting Defensively as A Full-Round Action" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Full_Attack_Fighting_Defensively_as_A_Full_Round_Action" docbookid="CombatI83" refname="Fighting Defensively as A Full-Round Action" reftype="combat" refcase="yes" refaltname="Fight* Defens* A* A* Full-Round* Action*" keywords="action,attack,combat,defens,fight,full,full-round"><para reftype="combat" refcase="yes" refname="Fighting Defensively as A Full-Round Action" refaltname="Fight* Defens* A* A* Full-Round* Action*"><b>Fighting Defensively as a Full-Round Action:</b> You can choose to fight defensively when taking a full attack action. If you do so, you take a -4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round.</para>
+</topic><topic level="8" name="Cleave" origname="Cleave" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Full_Attack_Cleave" docbookid="CombatI84" refname="Cleave" reftype="combat" refcase="yes" refaltname="Cleav*" keywords="action,attack,cleav,combat,full,full-round"><para reftype="combat" refcase="yes" refname="Cleave" refaltname="Cleav*"><b>Cleave:</b> The extra attack granted by the Cleave feat or Great Cleave feat can be taken whenever they apply. This is an exception to the normal limit to the number of attacks you can take when not using a full attack action.</para><para/>
+</topic>
+</topic><topic level="5" name="Cast A Spell" origname="Cast A Spell" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Cast_A_Spell" docbookid="CombatI85" refname="Cast A Spell" reftype="combat" refcase="yes" refaltname="Cast* A* Spell*" keywords="action,cast,combat,full-round,spell"><para reftype="combat" refcase="yes" refname="Cast A Spell" refaltname="Cast* A* Spell*" style="heading 5"><b>Cast a Spell</b></para><para>A spell that takes 1 round to cast is a full-round action. It comes into effect just before the beginning of your turn in the round after you began casting the spell. You then act normally after the spell is completed.</para><para>A spell that takes 1 minute to cast comes into effect just before your turn 1 minute later (and for each of those 10 rounds, you are casting a spell as a full-round action). These actions must be consecutive and uninterrupted, or the spell automatically fails.</para><para>When you begin a spell that takes 1 round or longer to cast, you must continue the invocations, gestures, and concentration from one round to just before your turn in the next round (at least). If you lose concentration after starting the spell and before it is complete, you lose the spell.</para><para>You only provoke attacks of opportunity when you begin casting a spell, even though you might continue casting for at least one full round. While casting a spell, you don't threaten any squares around you.</para><para>This action is otherwise identical to the cast a spell action described under Standard Actions.</para><topic level="8" name="Casting A Metamagic Spell" origname="Casting A Metamagic Spell" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Cast_A_Spell_Casting_A_Metamagic_Spell" docbookid="CombatI86" refname="Casting A Metamagic Spell" reftype="combat" refcase="yes" refaltname="Cast* A* Metamag* Spell*" keywords="action,cast,combat,full-round,metamag,spell"><para reftype="combat" refcase="yes" refname="Casting A Metamagic Spell" refaltname="Cast* A* Metamag* Spell*"><b>Casting a Metamagic Spell:</b> Sorcerers and bards must take more time to cast a metamagic spell (one enhanced by a metamagic feat) than a regular spell. If a spell's normal casting time is 1 standard action, casting a metamagic version of the spell is a full-round action for a sorcerer or bard. Note that this isn't the same as a spell with a 1-round casting time-the spell takes effect in the same round that you begin casting, and you aren't required to continue the invocations, gestures, and concentration until your next turn. For spells with a longer casting time, it takes an extra full-round action to cast the metamagic spell.</para><para>Clerics must take more time to spontaneously cast a metamagic version of a <i>cure</i> or <i>inflict</i> spell. Spontaneously casting a metamagic version of a spell with a casting time of 1 standard action is a full-round action, and spells with longer casting times take an extra full-round action to cast.</para><para/>
+</topic>
+</topic><topic level="5" name="Use Special Ability" origname="Use Special Ability" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Use_Special_Ability" docbookid="CombatI87" refname="Use Special Ability" reftype="combat" refcase="yes" refaltname="Us* Special* Abil*" keywords="abil,action,combat,full-round,special,us"><para reftype="combat" refcase="yes" refname="Use Special Ability" refaltname="Us* Special* Abil*" style="heading 5"><b>Use Special Ability</b></para><para>Using a special ability is usually a standard action, but some may be full-round actions, as defined by the ability.</para><para/>
+</topic><topic level="5" name="Withdraw" origname="Withdraw" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Withdraw" docbookid="CombatI88" refname="Withdraw" reftype="combat" refcase="yes" refaltname="Withdraw*" keywords="action,combat,full-round,withdraw"><para reftype="combat" refcase="yes" refname="Withdraw" refaltname="Withdraw*" style="heading 5"><b>Withdraw</b></para><para>Withdrawing from melee combat is a full-round action. When you withdraw, you can move up to double your speed. The square you start out in is not considered threatened by any opponent you can see, and therefore visible enemies do not get attacks of opportunity against you when you move from that square. (Invisible enemies still get attacks of opportunity against you, and you can't withdraw from combat if you're blinded.) You can't take a 5-foot step during the same round in which you withdraw.</para><para>If, during the process of withdrawing, you move out of a threatened square (other than the one you started in), enemies get attacks of opportunity as normal.</para><para>You may not withdraw using a form of movement for which you don't have a listed speed.</para><para>Note that despite the name of this action, you don't actually have to leave combat entirely.</para><topic level="8" name="Restricted Withdraw" origname="Restricted Withdraw" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Withdraw_Restricted_Withdraw" docbookid="CombatI89" refname="Restricted Withdraw" reftype="combat" refcase="yes" refaltname="Restrict* Withdraw*" keywords="action,combat,full-round,restrict,withdraw"><para reftype="combat" refcase="yes" refname="Restricted Withdraw" refaltname="Restrict* Withdraw*"><b>Restricted Withdraw:</b> If you are limited to taking only a standard action each round you can withdraw as a standard action. In this case, you may move up to your speed (rather than up to double your speed).</para><para/>
+</topic>
+</topic><topic level="5" name="Run" origname="Run" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Run" docbookid="CombatI90" refname="Run" reftype="combat" refcase="yes" refaltname="Run*" keywords="action,combat,full-round,run"><para reftype="combat" refcase="yes" refname="Run" refaltname="Run*" style="heading 5"><b>Run</b></para><para reftype="combat" refcase="yes" refname="You can Run as A Full-Round Action." refaltname="You* can* Run* A* A* Full-Round* Action*">You can run as a full-round action. (If you do, you do not also get a 5-foot step.) When you run, you can move up to four times your speed in a straight line (or three times your speed if you're in heavy armor). You lose any Dexterity bonus to AC unless you have the Run feat</para><para>You can run for a number of rounds equal to your Constitution score, but after that you must make a DC 10 Constitution check to continue running. You must check again each round in which you continue to run, and the DC of this check increases by 1 for each check you have made. When you fail this check, you must stop running. A character who has run to his limit must rest for 1 minute (10 rounds) before running again. During a rest period, a character can move no faster than a normal move action.</para><para>You can't run across difficult terrain or if you can't see where you're going.</para><para>A run represents a speed of about 12 miles per hour for an unencumbered human.</para><para/>
+</topic><topic level="5" name="Move 5 Feet Through Difficult Terrain" origname="Move 5 Feet Through Difficult Terrain" linkname="Combat_Combat_I_Actions_in_Combat_Full_Round_Actions_Move_5_Feet_Through_Difficult_Terrain" docbookid="CombatI91" refname="Move 5 Feet Through Difficult Terrain" reftype="combat" refcase="yes" refaltname="Move* * Feet* Through* Difficult* Terrain*" keywords="action,combat,difficult,feet,full-round,move,terrain"><para reftype="combat" refcase="yes" refname="Move 5 Feet Through Difficult Terrain" refaltname="Move* * Feet* Through* Difficult* Terrain*" style="heading 5"><b>Move 5 Feet through Difficult Terrain</b></para><para>In some situations, your movement may be so hampered that you don't have sufficient speed even to move 5 feet (a single square). In such a case, you may spend a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it's not, and thus it provokes attacks of opportunity normally.</para><para/>
+</topic>
+</topic><topic level="3" name="Free Actions" origname="Free Actions" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions" docbookid="CombatI92" refname="Free Actions" reftype="combat" refcase="yes" refaltname="Free* Action*" keywords="action,combat,free"><para reftype="combat" refcase="yes" refname="Free Actions" refaltname="Free* Action*" style="heading 3">Free Actions</para><para>Free actions don't take any time at all, though there may be limits to the number of free actions you can perform in a turn. Free actions rarely incur attacks of opportunity. Some common free actions are described below.</para><para/><topic level="5" name="Drop an Item" origname="Drop an Item" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions_Drop_an_Item" docbookid="CombatI93" refname="Drop an Item" reftype="combat" refcase="yes" refaltname="Drop* an* Item*" keywords="action,combat,drop,free,item"><para reftype="combat" refcase="yes" refname="Drop an Item" refaltname="Drop* an* Item*" style="heading 5"><b>Drop an Item</b></para><para>Dropping an item in your space or into an adjacent square is a free action.</para><para/>
+</topic><topic level="5" name="Drop Prone" origname="Drop Prone" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions_Drop_Prone" docbookid="CombatI94" refname="Drop Prone" reftype="combat" refcase="yes" refaltname="Drop* Prone*" keywords="action,combat,drop,free,prone"><para reftype="combat" refcase="yes" refname="Drop Prone" refaltname="Drop* Prone*" style="heading 5"><b>Drop Prone</b></para><para>Dropping to a prone position in your space is a free action.</para><para/>
+</topic><topic level="5" name="Speak" origname="Speak" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions_Speak" docbookid="CombatI95" refname="Speak" reftype="combat" refcase="yes" refaltname="Speak*" keywords="action,combat,free,speak"><para reftype="combat" refcase="yes" refname="Speak" refaltname="Speak*" style="heading 5"><b>Speak</b></para><para>In general, speaking is a free action that you can perform even when it isn't your turn. Speaking more than few sentences is generally beyond the limit of a free action.</para><para/>
+</topic><topic level="5" name="Cease Concentration on Spell" origname="Cease Concentration on Spell" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions_Cease_Concentration_on_Spell" docbookid="CombatI96" refname="Cease Concentration on Spell" reftype="combat" refcase="yes" refaltname="Ceas* Concentr* on* Spell*" keywords="action,ceas,combat,concentr,free,spell"><para reftype="combat" refcase="yes" refname="Cease Concentration on Spell" refaltname="Ceas* Concentr* on* Spell*" style="heading 5"><b>Cease Concentration on Spell</b></para><para>You can stop concentrating on an active spell as a free action.</para><para/>
+</topic><topic level="5" name="Cast A Quickened Spell" origname="Cast A Quickened Spell" linkname="Combat_Combat_I_Actions_in_Combat_Free_Actions_Cast_A_Quickened_Spell" docbookid="CombatI97" refname="Cast A Quickened Spell" reftype="combat" refcase="yes" refaltname="Cast* A* Quicken* Spell*" keywords="action,cast,combat,free,quicken,spell"><para reftype="combat" refcase="yes" refname="Cast A Quickened Spell" refaltname="Cast* A* Quicken* Spell*" style="heading 5"><b>Cast a Quickened Spell</b></para><para>You can cast a quickened spell (see the Quicken Spell feat) or any spell whose casting time is designated as a free action as a free action. Only one such spell can be cast in any round, and such spells don't count toward your normal limit of one spell per round. Casting a spell with a casting time of a free action doesn't incur an attack of opportunity.</para><para/>
+</topic>
+</topic><topic level="3" name="Miscellaneous Actions" origname="Miscellaneous Actions" linkname="Combat_Combat_I_Actions_in_Combat_Miscellaneous_Actions" docbookid="CombatI98" refname="Miscellaneous Actions" reftype="combat" refcase="yes" refaltname="Miscellan* Action*" keywords="action,combat,miscellan"><para reftype="combat" refcase="yes" refname="Miscellaneous Actions" refaltname="Miscellan* Action*" style="heading 3">Miscellaneous Actions</para><para/><topic level="5" name="Take 5-Foot Step" origname="Take 5-Foot Step" linkname="Combat_Combat_I_Actions_in_Combat_Miscellaneous_Actions_Take_5_Foot_Step" docbookid="CombatI99" refname="Take 5-Foot Step" reftype="combat" refcase="yes" refaltname="Take* Foot* Step*" keywords="action,combat,foot,miscellan,step,take"><para reftype="combat" refcase="yes" refname="Take 5-Foot Step" refaltname="Take* Foot* Step*" style="heading 5"><b>Take 5-Foot Step</b></para><para>You can move 5 feet in any round when you don't perform any other kind of movement. Taking this 5-foot step never provokes an attack of opportunity. You can't take more than one 5-foot step in a round, and you can't take a 5-foot step in the same round when you move any distance.</para><para>You can take a 5-foot step before, during, or after your other actions in the round.</para><para>You can only take a 5-foot-step if your movement isn't hampered by difficult terrain or darkness. Any creature with a speed of 5 feet or less can't take a 5-foot step, since moving even 5 feet requires a move action for such a slow creature.</para><para>You may not take a 5-foot step using a form of movement for which you do not have a listed speed.</para><para/>
+</topic><topic level="5" name="Use Feat" origname="Use Feat" linkname="Combat_Combat_I_Actions_in_Combat_Miscellaneous_Actions_Use_Feat" docbookid="CombatI100" refname="Use Feat" reftype="combat" refcase="yes" refaltname="Us* Feat*" keywords="action,combat,feat,miscellan,us"><para reftype="combat" refcase="yes" refname="Use Feat" refaltname="Us* Feat*" style="heading 5"><b>Use Feat</b></para><para>Certain feats let you take special actions in combat. Other feats do not require actions themselves, but they give you a bonus when attempting something you can already do. Some feats are not meant to be used within the framework of combat. The individual feat descriptions tell you what you need to know about them.</para><para/>
+</topic><topic level="5" name="Use Skill" origname="Use Skill" linkname="Combat_Combat_I_Actions_in_Combat_Miscellaneous_Actions_Use_Skill" docbookid="CombatI101" refname="Use Skill" reftype="combat" refcase="yes" refaltname="Us* Skill*" keywords="action,combat,miscellan,skill,us"><para reftype="combat" refcase="yes" refname="Use Skill" refaltname="Us* Skill*" style="heading 5"><b>Use Skill</b></para><para>Most skill uses are standard actions, but some might be move actions, full-round actions, free actions, or something else entirely.</para><para>The individual skill descriptions tell you what sorts of actions are required to perform skills.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Injury and Death" origname="Injury and Death" linkname="Combat_Combat_I_Injury_and_Death" docbookid="CombatI102" refname="Injury and Death" reftype="combat" refcase="yes" refaltname="Injuri* and* Death*" keywords="combat,death,injuri"><para reftype="combat" refcase="yes" refname="Injury and Death" refaltname="Injuri* and* Death*" style="heading 2">Injury and Death</para><para>Your hit points measure how hard you are to kill. No matter how many hit points you lose, your character isn't hindered in any way until your hit points drop to 0 or lower.</para><para/><topic level="3" name="Loss of Hit Points" origname="Loss of Hit Points" linkname="Combat_Combat_I_Injury_and_Death_Loss_of_Hit_Points" docbookid="CombatI103" refname="Loss of Hit Points" reftype="combat" refcase="yes" refaltname="Loss* of* Hit* Point*" keywords="combat,death,hit,injuri,loss,point"><para reftype="combat" refcase="yes" refname="Loss of Hit Points" refaltname="Loss* of* Hit* Point*" style="heading 3">Loss of Hit Points</para><para>The most common way that your character gets hurt is to take lethal damage and lose hit points</para><topic level="8" name="What Hit Points Represent" origname="What Hit Points Represent" linkname="Combat_Combat_I_Injury_and_Death_Loss_of_Hit_Points_What_Hit_Points_Represent" docbookid="CombatI104" refname="What Hit Points Represent" reftype="combat" refcase="yes" refaltname="What* Hit* Point* Repres*" keywords="combat,death,hit,injuri,loss,point,repres"><para reftype="combat" refcase="yes" refname="What Hit Points Represent" refaltname="What* Hit* Point* Repres*"><b>What Hit Points Represent:</b> Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.</para>
+</topic><topic level="8" name="Effects of Hit Point Damage" origname="Effects of Hit Point Damage" linkname="Combat_Combat_I_Injury_and_Death_Loss_of_Hit_Points_Effects_of_Hit_Point_Damage" docbookid="CombatI105" refname="Effects of Hit Point Damage" reftype="combat" refcase="yes" refaltname="Effect* of* Hit* Point* Damag*" keywords="combat,damag,death,effect,hit,injuri,loss,point"><para reftype="combat" refcase="yes" refname="Effects of Hit Point Damage" refaltname="Effect* of* Hit* Point* Damag*"><b>Effects of Hit Point Damage:</b> Damage doesn't slow you down until your current hit points reach 0 or lower. At 0 hit points, you're disabled.</para><para>At from -1 to -9 hit points, you're dying.</para><para>At -10 or lower, you're dead.</para>
+</topic><topic level="8" name="Massive Damage" origname="Massive Damage" linkname="Combat_Combat_I_Injury_and_Death_Loss_of_Hit_Points_Massive_Damage" docbookid="CombatI106" refname="Massive Damage" reftype="combat" refcase="yes" refaltname="Massiv* Damag*" keywords="combat,damag,death,hit,injuri,loss,massiv,point"><para reftype="combat" refcase="yes" refname="Massive Damage" refaltname="Massiv* Damag*"><b>Massive Damage:</b> If you ever sustain a single attack deals 50 points of damage or more and it doesn't kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take 50 points of damage or more from multiple attacks, no one of which dealt 50 or more points of damage itself, the massive damage rule does not apply.</para><para/>
+</topic>
+</topic><topic level="3" name="Disabled" origname="Disabled (0 Hit Points)" linkname="Combat_Combat_I_Injury_and_Death_Disabled" docbookid="CombatI107" refname="Disabled" reftype="combat" refcase="yes" refaltname="Disabl*" keywords="combat,death,disabl,injuri"><para reftype="combat" refcase="yes" refname="Disabled" refaltname="Disabl*" style="heading 3">Disabled (0 Hit Points)</para><para>When your current hit points drop to exactly 0, you're disabled.</para><para>You can only take a single move or standard action each turn (but not both, nor can you take full-round actions). You can take move actions without further injuring yourself, but if you perform any standard action (or any other strenuous action) you take 1 point of damage after the completing the act. Unless your activity increased your hit points, you are now at -1 hit points, and you're dying.</para><para>Healing that raises your hit points above 0 makes you fully functional again, just as if you'd never been reduced to 0 or fewer hit points.</para><para>You can also become disabled when recovering from dying. In this case, it's a step toward recovery, and you can have fewer than 0 hit points (see Stable Characters and Recovery, below).</para><para/>
+</topic><topic level="3" name="Dying" origname="Dying (-1 to -9 Hit Points)" linkname="Combat_Combat_I_Injury_and_Death_Dying" docbookid="CombatI108" refname="Dying" reftype="combat" refcase="yes" refaltname="" keywords="combat,death,dy,injuri"><para reftype="combat" refcase="yes" refname="Dying" style="heading 3">Dying (-1 to -9 Hit Points)</para><para>When your character's current hit points drop to between -1 and -9 inclusive, he's dying.</para><para>A dying character immediately falls unconscious and can take no actions.</para><para>A dying character loses 1 hit point every round. This continues until the character dies or becomes stable (see below).</para><para/>
+</topic><topic level="3" name="Dead" origname="Dead (-10 Hit Points or Lower)" linkname="Combat_Combat_I_Injury_and_Death_Dead" docbookid="CombatI109" refname="Dead" reftype="combat" refcase="yes" refaltname="Dead*" keywords="combat,dead,death,injuri"><para reftype="combat" refcase="yes" refname="Dead" refaltname="Dead*" style="heading 3">Dead (-10 Hit Points or Lower)</para><para>When your character's current hit points drop to -10 or lower, or if he takes massive damage (see above), he's dead. A character can also die from taking ability damage or suffering an ability drain that reduces his Constitution to 0.</para><para/>
+</topic><topic level="3" name="Stable Characters and Recovery" origname="Stable Characters and Recovery" linkname="Combat_Combat_I_Injury_and_Death_Stable_Characters_and_Recovery" docbookid="CombatI110" refname="Stable Characters and Recovery" reftype="combat" refcase="yes" refaltname="Stabl* Charact* and* Recoveri*" keywords="charact,combat,death,injuri,recoveri,stabl"><para reftype="combat" refcase="yes" refname="Stable Characters and Recovery" refaltname="Stabl* Charact* and* Recoveri*" style="heading 3">Stable Characters and Recovery</para><para>On the next turn after a character is reduced to between -1 and -9 hit points and on all subsequent turns, roll d% to see whether the dying character becomes stable. He has a 10% chance of becoming stable. If he doesn't, he loses 1 hit point. (A character who's unconscious or dying can't use any special action that changes the initiative count on which his action occurs.)</para><para>If the character's hit points drop to -10 or lower, he's dead.</para><para>You can keep a dying character from losing any more hit points and make him stable with a DC 15 Heal check.</para><para>If any sort of healing cures the dying character of even 1 point of damage, he stops losing hit points and becomes stable.</para><para>Healing that raises the dying character's hit points to 0 makes him conscious and disabled. Healing that raises his hit points to 1 or more makes him fully functional again, just as if he'd never been reduced to 0 or lower. A spellcaster retains the spellcasting capability she had before dropping below 0 hit points.</para><para>A stable character who has been tended by a healer or who has been magically healed eventually regains consciousness and recovers hit points naturally. If the character has no one to tend him, however, his life is still in danger, and he may yet slip away.</para><topic level="8" name="Recovering with Help" origname="Recovering with Help" linkname="Combat_Combat_I_Injury_and_Death_Stable_Characters_and_Recovery_Recovering_with_Help" docbookid="CombatI111" refname="Recovering with Help" reftype="combat" refcase="yes" refaltname="Recov* with* Help*" keywords="charact,combat,death,help,injuri,recov,recoveri,stabl"><para reftype="combat" refcase="yes" refname="Recovering with Help" refaltname="Recov* with* Help*"><b>Recovering with Help:</b> One hour after a tended, dying character becomes stable, roll d%. He has a 10% chance of becoming conscious, at which point he is disabled (as if he had 0 hit points). If he remains unconscious, he has the same chance to revive and become disabled every hour. Even if unconscious, he recovers hit points naturally. He is back to normal when his hit points rise to 1 or higher.</para>
+</topic><topic level="8" name="Recovering without Help" origname="Recovering without Help" linkname="Combat_Combat_I_Injury_and_Death_Stable_Characters_and_Recovery_Recovering_without_Help" docbookid="CombatI112" refname="Recovering without Help" reftype="combat" refcase="yes" refaltname="Recov* without* Help*" keywords="charact,combat,death,help,injuri,recov,recoveri,stabl"><para reftype="combat" refcase="yes" refname="Recovering without Help" refaltname="Recov* without* Help*"><b>Recovering without Help:</b> A severely wounded character left alone usually dies. He has a small chance, however, of recovering on his own.</para><para>A character who becomes stable on his own (by making the 10% roll while dying) and who has no one to tend to him still loses hit points, just at a slower rate. He has a 10% chance each hour of becoming conscious. Each time he misses his hourly roll to become conscious, he loses 1 hit point. He also does not recover hit points through natural healing.</para><para>Even once he becomes conscious and is disabled, an unaided character still does not recover hit points naturally. Instead, each day he has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, he loses 1 hit point.</para><para>Once an unaided character starts recovering hit points naturally, he is no longer in danger of naturally losing hit points (even if his current hit point total is negative).</para><para/>
+</topic>
+</topic><topic level="3" name="Healing" origname="Healing" linkname="Combat_Combat_I_Injury_and_Death_Healing" docbookid="CombatI113" refname="Healing" reftype="combat" refcase="yes" refaltname="Heal*" keywords="combat,death,heal,injuri"><para reftype="combat" refcase="yes" refname="Healing" refaltname="Heal*" style="heading 3">Healing</para><para>After taking damage, you can recover hit points through natural healing or through magical healing. In any case, you can't regain hit points past your full normal hit point total.</para><topic level="8" name="Natural Healing" origname="Natural Healing" linkname="Combat_Combat_I_Injury_and_Death_Healing_Natural_Healing" docbookid="CombatI114" refname="Natural Healing" reftype="combat" refcase="yes" refaltname="Natur* Heal*" keywords="combat,death,heal,injuri,natur"><para reftype="combat" refcase="yes" refname="Natural Healing" refaltname="Natur* Heal*"><b>Natural Healing:</b> With a full night's rest (8 hours of sleep or more), you recover 1 hit point per character level. Any significant interruption during your rest prevents you from healing that night.</para><para>If you undergo complete bed rest for an entire day and night, you recover twice your character level in hit points.</para>
+</topic><topic level="8" name="Magical Healing" origname="Magical Healing" linkname="Combat_Combat_I_Injury_and_Death_Healing_Magical_Healing" docbookid="CombatI115" refname="Magical Healing" reftype="combat" refcase="yes" refaltname="Magic* Heal*" keywords="combat,death,heal,injuri,magic"><para reftype="combat" refcase="yes" refname="Magical Healing" refaltname="Magic* Heal*"><b>Magical Healing:</b> Various abilities and spells can restore hit points.</para>
+</topic><topic level="8" name="Healing Limits" origname="Healing Limits" linkname="Combat_Combat_I_Injury_and_Death_Healing_Healing_Limits" docbookid="CombatI116" refname="Healing Limits" reftype="combat" refcase="yes" refaltname="Heal* Limit*" keywords="combat,death,heal,injuri,limit"><para reftype="combat" refcase="yes" refname="Healing Limits" refaltname="Heal* Limit*"><b>Healing Limits:</b> You can never recover more hit points than you lost. Magical healing won't raise your current hit points higher than your full normal hit point total.</para>
+</topic><topic level="8" name="Healing Ability Damage" origname="Healing Ability Damage" linkname="Combat_Combat_I_Injury_and_Death_Healing_Healing_Ability_Damage" docbookid="CombatI117" refname="Healing Ability Damage" reftype="combat" refcase="yes" refaltname="Heal* Abil* Damag*" keywords="abil,combat,damag,death,heal,injuri"><para reftype="combat" refcase="yes" refname="Healing Ability Damage" refaltname="Heal* Abil* Damag*"><b>Healing Ability Damage:</b> Ability damage is temporary, just as hit point damage is. Ability damage returns at the rate of 1 point per night of rest (8 hours) for each affected ability score. Complete bed rest restores 2 points per day (24 hours) for each affected ability score.</para><para/>
+</topic>
+</topic><topic level="3" name="Temporary Hit Points" origname="Temporary Hit Points" linkname="Combat_Combat_I_Injury_and_Death_Temporary_Hit_Points" docbookid="CombatI118" refname="Temporary Hit Points" reftype="combat" refcase="yes" refaltname="Temporari* Hit* Point*" keywords="combat,death,hit,injuri,point,temporari"><para reftype="combat" refcase="yes" refname="Temporary Hit Points" refaltname="Temporari* Hit* Point*" style="heading 3">Temporary Hit Points</para><para>Certain effects give a character temporary hit points. When a character gains temporary hit points, note his current hit point total. When the temporary hit points go away the character's hit points drop to his current hit point total. If the character's hit points are below his current hit point total at that time, all the temporary hit points have already been lost and the character's hit point total does not drop further.</para><para>When temporary hit points are lost, they cannot be restored as real hit points can be, even by magic.</para><para><b>Increases in Constitution Score and Current Hit Points:</b> An increase in a character's Constitution score, even a temporary one, can give her more hit points (an effective hit point increase), but these are not temporary hit points. They can be restored and they are not lost first as temporary hit points are.</para><para/>
+</topic><topic level="3" name="Nonlethal Damage" origname="Nonlethal Damage" linkname="Combat_Combat_I_Injury_and_Death_Nonlethal_Damage" docbookid="CombatI119" refname="Nonlethal Damage" reftype="combat" refcase="yes" refaltname="Nonleth* Damag*" keywords="combat,damag,death,injuri,nonleth"><para reftype="combat" refcase="yes" refname="Nonlethal Damage" refaltname="Nonleth* Damag*" style="heading 3">Nonlethal Damage</para><topic level="8" name="Dealing Nonlethal Damage" origname="Dealing Nonlethal Damage" linkname="Combat_Combat_I_Injury_and_Death_Nonlethal_Damage_Dealing_Nonlethal_Damage" docbookid="CombatI120" refname="Dealing Nonlethal Damage" reftype="combat" refcase="yes" refaltname="Deal* Nonleth* Damag*" keywords="combat,damag,deal,death,injuri,nonleth"><para reftype="combat" refcase="yes" refname="Dealing Nonlethal Damage" refaltname="Deal* Nonleth* Damag*"><b>Dealing Nonlethal Damage:</b> Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you've accumulated. <i>Do not deduct the nonlethal damage number from your current hit points</i>. It is not 'real' damage. Instead, when your nonlethal damage equals your current hit points, you're staggered, and when it exceeds your current hit points, you fall unconscious. It doesn't matter whether the nonlethal damage equals or exceeds your current hit points because the nonlethal damage has gone up or because your current hit points have gone down.</para><para><i>Nonlethal Damage with a Weapon that Deals Lethal Damage:</i> You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a -4 penalty on your attack roll.</para><para><i>Lethal Damage with a Weapon that Deals Nonlethal Damage:</i> You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a -4 penalty on your attack roll.</para>
+</topic><topic level="8" name="Staggered and Unconscious" origname="Staggered and Unconscious" linkname="Combat_Combat_I_Injury_and_Death_Nonlethal_Damage_Staggered_and_Unconscious" docbookid="CombatI121" refname="Staggered and Unconscious" reftype="combat" refcase="yes" refaltname="Stagger* and* Unconsci*" keywords="combat,damag,death,injuri,nonleth,stagger,unconsci"><para reftype="combat" refcase="yes" refname="Staggered and Unconscious" refaltname="Stagger* and* Unconsci*"><b>Staggered and Unconscious:</b> When your nonlethal damage equals your current hit points, you're staggered. You can only take a standard action or a move action in each round. You cease being staggered when your current hit points once again exceed your nonlethal damage.</para><para>When your nonlethal damage exceeds your current hit points, you fall unconscious. While unconscious, you are helpless.</para><para>Spellcasters who fall unconscious retain any spellcasting ability they had before going unconscious.</para>
+</topic><topic level="8" name="Healing Nonlethal Damage" origname="Healing Nonlethal Damage" linkname="Combat_Combat_I_Injury_and_Death_Nonlethal_Damage_Healing_Nonlethal_Damage" docbookid="CombatI122" refname="Healing Nonlethal Damage" reftype="combat" refcase="yes" refaltname="Heal* Nonleth* Damag*" keywords="combat,damag,death,heal,injuri,nonleth"><para reftype="combat" refcase="yes" refname="Healing Nonlethal Damage" refaltname="Heal* Nonleth* Damag*"><b>Healing Nonlethal Damage:</b> You heal nonlethal damage at the rate of 1 hit point per hour per character level.</para><para>When a spell or a magical power cures hit point damage, it also removes an equal amount of nonlethal damage.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>

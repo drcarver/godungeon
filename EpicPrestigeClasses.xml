@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Classes &gt; Epic Prestige Class Progressions">
+<info>
+<title>EPIC ARCANE ARCHER </title>
+<author>asmith</author>
+<operator>asmith</operator>
+</info>
+<topic level="0" name="Classes" linkname="Classes" docbookid="EpicPrestigeClasses0" keywords="class"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Epic Prestige Class Progressions" origname="Epic Prestige Class Progressions" linkname="Classes_Epic_Prestige_Class_Progressions" docbookid="EpicPrestigeClasses1" keywords="class,epic,prestig,progress"><para style="heading 1">Epic Prestige Class Progressions</para><para/><topic level="2" name="Epic Arcane Archer" origname="Epic Arcane Archer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer" docbookid="EpicPrestigeClasses2" refname="Epic Arcane Archer" reftype="class" refcase="no" refaltname="" keywords="arcan,archer,class,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Arcane Archer" style="heading 2">Epic Arcane Archer</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Hit_Die" docbookid="EpicPrestigeClasses3" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,archer,class,die,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses4" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,arcan,archer,class,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Enchant Arrow" origname="Enchant Arrow" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Enchant_Arrow" docbookid="EpicPrestigeClasses5" refname="Enchant Arrow" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,archer,arrow,class,enchant,epic,prestig,progress"><para reftype="classinfo" refcase="no" refname="Enchant Arrow"><b>Enchant Arrow:</b> For every two levels beyond 9th, the potency of the arrows fired by the arcane archer increases by +1.</para>
+</topic><topic level="8" name="Hail of Arrows" origname="Hail of Arrows" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Hail_of_Arrows" docbookid="EpicPrestigeClasses6" refname="Hail of Arrows" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,archer,arrow,class,epic,hail,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hail of Arrows"><b><i>Hail of Arrows:</i></b> In lieu of his or her regular attacks, once per day the arcane archer can fire an arrow at each and every target within range, with a maximum number of targets equal to his or her arcane archer class level, as normal.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Bonus_Feats" docbookid="EpicPrestigeClasses7" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,archer,bonu,class,epic,feat,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The arcane archer gains a bonus feat (selected from the list of epic arcane archer feats) every four levels after 10th.</para><para><i>Epic Arcane Archer Bonus Feat List:</i> Blinding Speed, Combat Archery, Distant Shot, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus (any bow other than a crossbow), Improved Arrow of Death, Improved Combat Casting, Improved Low-Light Vision, Improved Manyshot, Swarm of Arrows, Uncanny Accuracy.</para>
+</topic><topic level="8" name="Table: The Epic Arcane Archer" origname="Table: The Epic Arcane Archer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Archer_Table_The_Epic_Arcane_Archer" docbookid="EpicPrestigeClasses8" refname="Table: The Epic Arcane Archer" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,archer,class,epic,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Arcane Archer"><b>Table: The Epic Arcane Archer</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>Enchant arrow +6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Enchant arrow +7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Enchant arrow +8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Enchant arrow +9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Enchant arrow +10</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Arcane Trickster" origname="Epic Arcane Trickster" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster" docbookid="EpicPrestigeClasses9" refname="Epic Arcane Trickster" reftype="class" refcase="no" refaltname="" keywords="arcan,class,epic,prestig,progress,trickster"><para reftype="class" refcase="no" refname="Epic Arcane Trickster" style="heading 2">Epic Arcane Trickster</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Hit_Die" docbookid="EpicPrestigeClasses10" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,class,die,epic,hit,prestig,progress,trickster"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses11" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,arcan,class,epic,level,point,prestig,progress,skill,trickster"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Spells" docbookid="EpicPrestigeClasses12" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,class,epic,prestig,progress,spell,trickster"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The epic arcane trickster's caster level increases by 1 per level gained above 10th. The epic arcane trickster continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the arcane spellcasting class to which the arcane trickster belonged before adding the prestige class.</para>
+</topic><topic level="8" name="Sneak Attack" origname="Sneak Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Sneak_Attack" docbookid="EpicPrestigeClasses13" refname="Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,attack,class,epic,prestig,progress,sneak,trickster"><para reftype="classinfo" refcase="no" refname="Sneak Attack"><b>Sneak Attack:</b> The epic arcane trickster's sneak attack damage increases by +1d6 every 2 levels above 10th.</para>
+</topic><topic level="8" name="Impromptu Sneak Attack" origname="Impromptu Sneak Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Impromptu_Sneak_Attack" docbookid="EpicPrestigeClasses14" refname="Impromptu Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,attack,class,epic,impromptu,prestig,progress,sneak,trickster"><para reftype="classinfo" refcase="no" refname="Impromptu Sneak Attack"><b>Impromptu Sneak Attack:</b> The arcane trickster may use this ability one additional time per day for every 4 levels above 7th.</para>
+</topic><topic level="8" name="Ranged Legerdemain" origname="Ranged Legerdemain" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Ranged_Legerdemain" docbookid="EpicPrestigeClasses15" refname="Ranged Legerdemain" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,class,epic,legerdemain,prestig,progress,rang,trickster"><para reftype="classinfo" refcase="no" refname="Ranged Legerdemain"><b>Ranged Legerdemain:</b> The arcane trickster may use this ability one additional time per day for every 4 levels above 9th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Bonus_Feats" docbookid="EpicPrestigeClasses16" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,bonu,class,epic,feat,prestig,progress,trickster"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic arcane trickster gains a bonus feat selected from the list of epic arcane trickster feats) every 4 levels after 10th.</para><para><i>Epic Arcane Trickster Bonus Feat List:</i> Automatic Silent Spell Automatic Still Spell, Blinding Speed, Epic Skill Focus, Improved Combat Casting, Improved Sneak Attack, Improved Spell Capacity, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spell Knowledge, Spell Opportunity, Spell Stowaway.</para>
+</topic><topic level="8" name="Table: Epic Arcane Trickster" origname="Table: Epic Arcane Trickster" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Arcane_Trickster_Table_Epic_Arcane_Trickster" docbookid="EpicPrestigeClasses17" refname="Table: Epic Arcane Trickster" reftype="classinfo" refcase="no" refaltname="" keywords="arcan,class,epic,prestig,progress,tabl,trickster"><para reftype="classinfo" refcase="no" refname="Table: Epic Arcane Trickster"><b>Table: Epic Arcane Trickster</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>Impromptu sneak attack 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>Sneak attack +8d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Ranged legerdemain 4/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Sneak attack +9d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Impromptu sneak attack 4/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Sneak attack +10d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Ranged legerdemain 5/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Sneak attack +11d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Impromptu sneak attack 5/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Sneak attack +12d6</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Assassin" origname="Epic Assassin" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin" docbookid="EpicPrestigeClasses18" refname="Epic Assassin" reftype="class" refcase="no" refaltname="" keywords="assassin,class,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Assassin" style="heading 2">Epic Assassin</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Hit_Die" docbookid="EpicPrestigeClasses19" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,class,die,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses20" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,assassin,class,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Sneak Attack" origname="Sneak Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Sneak_Attack" docbookid="EpicPrestigeClasses21" refname="Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,attack,class,epic,prestig,progress,sneak"><para reftype="classinfo" refcase="no" refname="Sneak Attack"><b>Sneak Attack:</b> The epic assassin's sneak attack damage increases by +1d6 every two levels after 9th.</para>
+</topic><topic level="8" name="Death Attack" origname="Death Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Death_Attack" docbookid="EpicPrestigeClasses22" refname="Death Attack" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,attack,class,death,epic,prestig,progress"><para reftype="classinfo" refcase="no" refname="Death Attack"><b>Death Attack:</b> The assassin counts only half his or her class levels beyond 10th when determining the DC to resist this attack.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Spells" docbookid="EpicPrestigeClasses23" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,class,epic,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The assassin's caster level is equal to his or her class level. The assassin's number of spells per day does not increase after 10th level.</para>
+</topic><topic level="8" name="Uncanny Dodge" origname="Uncanny Dodge" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Uncanny_Dodge" docbookid="EpicPrestigeClasses24" refname="Uncanny Dodge" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,class,dodg,epic,prestig,progress,uncanni"><para reftype="classinfo" refcase="no" refname="Uncanny Dodge"><b>Uncanny Dodge:</b> The assassin's uncanny dodge bonus on saves against traps doesn't increase after 10th level.</para>
+</topic><topic level="8" name="Saving Throw Bonus Against Poison" origname="Saving Throw Bonus Against Poison" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Saving_Throw_Bonus_Against_Poison" docbookid="EpicPrestigeClasses25" refname="Saving Throw Bonus Against Poison" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,bonu,class,epic,poison,prestig,progress,save,throw"><para reftype="classinfo" refcase="no" refname="Saving Throw Bonus Against Poison"><b>Saving Throw Bonus against Poison:</b> The assassin's bonus on saves against poison increases by +1 every two levels after 10th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Bonus_Feats" docbookid="EpicPrestigeClasses26" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,bonu,class,epic,feat,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic assassin gains a bonus feat (selected from the list of epic assassin feats) every four levels after 10th.</para><para><i>Epic Assassin Bonus Feat List:</i> Dexterous Fortitude, Dexterous Will, Improved Combat Casting, Improved Death Attack, Improved Sneak Attack, Improved Spell Capacity, Legendary Tracker, Lingering Damage, Sneak Attack of Opportunity, Spell Knowledge, Spontaneous Spell, Superior Initiative, Tenacious Magic, Uncanny Accuracy.</para>
+</topic><topic level="8" name="Table: The Epic Assassin" origname="Table: The Epic Assassin" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Assassin_Table_The_Epic_Assassin" docbookid="EpicPrestigeClasses27" refname="Table: The Epic Assassin" reftype="classinfo" refcase="no" refaltname="" keywords="assassin,class,epic,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Assassin"><b>Table: The Epic Assassin</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>Sneak attack +6d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>+6 save against poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Sneak attack +7d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>+7 save against poison, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Sneak attack +8d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>+8 save against poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Sneak attack +9d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>+9 save against poison, bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Sneak attack +10d6</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>+10 save against poison</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Blackguard" origname="Epic Blackguard" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard" docbookid="EpicPrestigeClasses28" refname="Epic Blackguard" reftype="class" refcase="no" refaltname="" keywords="blackguard,class,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Blackguard" style="heading 2">Epic Blackguard</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Hit_Die" docbookid="EpicPrestigeClasses29" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,die,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses30" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,blackguard,class,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Spells" docbookid="EpicPrestigeClasses31" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,epic,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The blackguard's caster level is equal to his or her class level. The blackguard's number of spells per day does not increase after 10th level.</para>
+</topic><topic level="8" name="Smite Good" origname="Smite Good" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Smite_Good" docbookid="EpicPrestigeClasses32" refname="Smite Good" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,epic,good,prestig,progress,smite"><para reftype="classinfo" refcase="no" refname="Smite Good"><b>Smite Good:</b> The epic blackguard gains one additional daily use of smite good every 5 levels after 10th.  The epic blackguard adds his or her class level to damage with any smite good attack, as normal.</para>
+</topic><topic level="8" name="Command Undead" origname="Command Undead" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Command_Undead" docbookid="EpicPrestigeClasses33" refname="Command Undead" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,command,epic,prestig,progress,undead"><para reftype="classinfo" refcase="no" refname="Command Undead"><b>Command Undead:</b> The blackguard commands undead as a cleric of two levels lower, as normal.</para>
+</topic><topic level="8" name="Sneak Attack" origname="Sneak Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Sneak_Attack" docbookid="EpicPrestigeClasses34" refname="Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="attack,blackguard,class,epic,prestig,progress,sneak"><para reftype="classinfo" refcase="no" refname="Sneak Attack"><b>Sneak Attack:</b> The epic blackguard's sneak attack damage increases by +1d6 every three levels after 10th.</para>
+</topic><topic level="8" name="Fiendish Servant" origname="Fiendish Servant" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Fiendish_Servant" docbookid="EpicPrestigeClasses35" refname="Fiendish Servant" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,epic,fiendish,prestig,progress,servant"><para reftype="classinfo" refcase="no" refname="Fiendish Servant"><b>Fiendish Servant:</b> Up to 20th character level, a fiendish servant's powers depend on its master's character level, not his or her blackguard class level. After that, they depend on his or her blackguard level. For every five blackguard levels above 10th the fiendish servant gains +2 bonus Hit Dice, its natural armor in-creases by +2, and its Strength and Intelligence each increase by +1.</para>
+</topic><topic level="8" name="Fallen Paladins" origname="Fallen Paladins" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Fallen_Paladins" docbookid="EpicPrestigeClasses36" refname="Fallen Paladins" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,epic,fallen,paladin,prestig,progress"><para reftype="classinfo" refcase="no" refname="Fallen Paladins"><b>Fallen Paladins:</b> A blackguard who trades in more than ten levels of paladin can gain more than ten levels of blackguard, but only if his character level is 21st or higher.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Bonus_Feats" docbookid="EpicPrestigeClasses37" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,bonu,class,epic,feat,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic blackguard gains a bonus feat (selected from the list of epic blackguard feats) every three levels after 10th.</para><para><i>Epic Blackguard Bonus Feat List:</i> Armor Skin, Devastating Critical, Epic Leadership, Epic Prowess, Epic Reputation, Epic Toughness, Epic Weapon Focus, Great Smiting, Improved Aura of Despair, Improved Combat Casting, Improved Sneak Attack, Improved Spell Capacity, Legendary Commander, Legendary Rider, Lingering Damage, Negative Energy Burst, Overwhelming Critical, Perfect Health, Permanent Emanation, Planar Turning, Spontaneous Spell, Undead Mastery, Unholy Strike, Widen Aura of Despair, Zone of Animation.</para>
+</topic><topic level="8" name="Table: The Epic Blackguard" origname="Table: The Epic Blackguard" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Blackguard_Table_The_Epic_Blackguard" docbookid="EpicPrestigeClasses38" refname="Table: The Epic Blackguard" reftype="classinfo" refcase="no" refaltname="" keywords="blackguard,class,epic,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Blackguard"><b>Table: The Epic Blackguard</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Sneak attack +4d6, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Smite good 4/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Sneak attack +5d6, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Sneak attack +6d6, bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Smite good 5/day</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Dragon Disciple" origname="Epic Dragon Disciple" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple" docbookid="EpicPrestigeClasses39" refname="Epic Dragon Disciple" reftype="class" refcase="no" refaltname="" keywords="class,discipl,dragon,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Dragon Disciple" style="heading 2">Epic Dragon Disciple</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Hit_Die" docbookid="EpicPrestigeClasses40" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,discipl,dragon,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d12.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses41" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,discipl,dragon,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Natural Armor" origname="Natural Armor" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Natural_Armor" docbookid="EpicPrestigeClasses42" refname="Natural Armor" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,discipl,dragon,epic,natur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Natural Armor"><b>Natural Armor:</b> At 13th level, and every 3 levels thereafter, the dragon disciple's natural armor bonus increases by +1 (to +5 at 13th, +6 at 16th, and so on).</para>
+</topic><topic level="8" name="Breath Weapon" origname="Breath Weapon" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Breath_Weapon" docbookid="EpicPrestigeClasses43" refname="Breath Weapon" reftype="classinfo" refcase="no" refaltname="" keywords="breath,class,discipl,dragon,epic,prestig,progress,weapon"><para reftype="classinfo" refcase="no" refname="Breath Weapon"><b>Breath Weapon:</b> At 13th level, and every 4 levels thereafter, the damage dealt by the epic dragon disciple's breath weapon increases by 2d8.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Bonus_Feats" docbookid="EpicPrestigeClasses44" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,discipl,dragon,epic,feat,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic dragon disciple gains a bonus feat (selected from the list of epic dragon disciple feats) every 4 levels after 10th.</para><para><i>Epic Dragon Disciple Bonus Feat List:</i> Armor Skin, Damage Reduction, Epic Prowess, Epic Skill Focus (Knowledge [arcana]), Epic Toughness, Extended Life Span, Flyby Attack<sup><b>!</b></sup>, Great Charisma, Great Constitution, Great Strength, Hover<sup><b>!</b></sup>, Improved Combat Casting, Improved Darkvision, Improved Spell Capacity, Improved Spell Resistance, Snatch<sup><b>!</b></sup>, Spell Knowledge, Wingover<sup><b>!</b></sup>.</para><para><sup><b>!</b></sup>Non-epic feat. Treat the dragon disciple's age category as one-half his class level for the purpose of the Hover feat.</para>
+</topic><topic level="8" name="Table: Epic Dragon Disciple" origname="Table: Epic Dragon Disciple" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dragon_Disciple_Table_Epic_Dragon_Disciple" docbookid="EpicPrestigeClasses45" refname="Table: Epic Dragon Disciple" reftype="classinfo" refcase="no" refaltname="" keywords="class,discipl,dragon,epic,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: Epic Dragon Disciple"><b>Table: Epic Dragon Disciple</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Breath weapon (8d8), natural armor +5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Natural armor +6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Breath weapon (10d8)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Natural armor +7</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Duelist" origname="Epic Duelist" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist" docbookid="EpicPrestigeClasses46" refname="Epic Duelist" reftype="class" refcase="no" refaltname="" keywords="class,duelist,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Duelist" style="heading 2">Epic Duelist</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist_Hit_Die" docbookid="EpicPrestigeClasses47" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,duelist,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10</para>
+</topic><topic level="5" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses48" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,duelist,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level" style="heading 5"><b>Skill Points at Each Additional Level</b>: 4 + Int modifier</para><topic level="8" name="Precise Strike" origname="Precise Strike" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist_Skill_Points_at_Each_Additional_Level_Precise_Strike" docbookid="EpicPrestigeClasses49" refname="Precise Strike" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,duelist,epic,level,point,precis,prestig,progress,skill,strike"><para reftype="classinfo" refcase="no" refname="Precise Strike"><b>Precise Strike:</b> Every five levels above 10th, the extra damage inflicted by the epic duelist's precise strike increases by +1d6.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist_Skill_Points_at_Each_Additional_Level_Bonus_Feats" docbookid="EpicPrestigeClasses50" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="addition,bonu,class,duelist,epic,feat,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic duelist gains a bonus feat (selected from the list of epic duelist feats) every 3 levels after 10th.</para><para><i>Epic Duelist Bonus Feat List:</i> Blinding Speed, Epic Prowess, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Weapon Focus (rapier), Exceptional Deflection*, Improved Combat Reflexes, Improved Whirlwind Attack, Infinite Deflection*, Perfect Two-Weapon Fighting, Superior Initiative, Two-Weapon Rend.</para><para>*The epic duelist need not have Improved Unarmed Strike to qualify for these feats, but in that case must be using a light or one-handed piercing weapon.</para>
+</topic><topic level="8" name="Table: Epic Duelist" origname="Table: Epic Duelist" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Duelist_Skill_Points_at_Each_Additional_Level_Table_Epic_Duelist" docbookid="EpicPrestigeClasses51" refname="Table: Epic Duelist" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,duelist,epic,level,point,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: Epic Duelist"><b>Table: Epic Duelist</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Precise strike +3d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Precise strike +4d6</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Epic Dwarven Defender" origname="Epic Dwarven Defender" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender" docbookid="EpicPrestigeClasses52" refname="Epic Dwarven Defender" reftype="class" refcase="no" refaltname="" keywords="class,defend,dwarven,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Dwarven Defender" style="heading 2">Epic Dwarven Defender</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Hit_Die" docbookid="EpicPrestigeClasses53" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,defend,die,dwarven,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d12.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses54" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,defend,dwarven,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Defensive Stance" origname="Defensive Stance" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Defensive_Stance" docbookid="EpicPrestigeClasses55" refname="Defensive Stance" reftype="classinfo" refcase="no" refaltname="" keywords="class,defend,defens,dwarven,epic,prestig,progress,stanc"><para reftype="classinfo" refcase="no" refname="Defensive Stance"><b>Defensive Stance:</b> The epic dwarven defender gains one additional defensive stance per day every two levels above 9th.</para>
+</topic><topic level="8" name="Defensive Awareness" origname="Defensive Awareness" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Defensive_Awareness" docbookid="EpicPrestigeClasses56" refname="Defensive Awareness" reftype="classinfo" refcase="no" refaltname="" keywords="awar,class,defend,defens,dwarven,epic,prestig,progress"><para reftype="classinfo" refcase="no" refname="Defensive Awareness"><b>Defensive Awareness:</b> The dwarven defender's defensive awareness bonus on saves against traps doesn't increase after 10th level.</para>
+</topic><topic level="8" name="Damage Reduction" origname="Damage Reduction" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Damage_Reduction" docbookid="EpicPrestigeClasses57" refname="Damage Reduction" reftype="classinfo" refcase="no" refaltname="" keywords="class,damag,defend,dwarven,epic,prestig,progress,reduct"><para reftype="classinfo" refcase="no" refname="Damage Reduction"><b>Damage Reduction:</b> The epic dwarven defender's damage reduction increases by 3 points every four levels above 10th.</para>
+</topic><topic level="8" name="Trap Sense" origname="Trap Sense (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Trap_Sense" docbookid="EpicPrestigeClasses58" refname="Trap Sense" reftype="classinfo" refcase="no" refaltname="" keywords="class,defend,dwarven,epic,prestig,progress,sens,trap"><para reftype="classinfo" refcase="no" refname="Trap Sense"><b>Trap Sense (Ex):</b> The epic dwarven defender's bonus increases by +1 every four levels higher than 8th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Bonus_Feats" docbookid="EpicPrestigeClasses59" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,defend,dwarven,epic,feat,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic dwarven defender gains a bonus feat (selected from the list of epic dwarven defender feats) every five levels after 10th.</para><para><i>Epic Dwarven Defender Bonus Feat List:</i> Armor Skin, Bulwark of Defense, Damage Reduction, Devastating Critical, Energy Resistance, Epic Endurance, Epic Prowess, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Reflexes, Improved Darkvision, Instant Reload, Mobile Defense, Overwhelming Critical, Perfect Health, Spellcasting Harrier.</para>
+</topic><topic level="8" name="Table: The Epic Dwarven Defender" origname="Table: The Epic Dwarven Defender" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Dwarven_Defender_Table_The_Epic_Dwarven_Defender" docbookid="EpicPrestigeClasses60" refname="Table: The Epic Dwarven Defender" reftype="classinfo" refcase="no" refaltname="" keywords="class,defend,dwarven,epic,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Dwarven Defender"><b>Table: The Epic Dwarven Defender</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>Defensive stance 6/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>Trap sense +3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Defensive stance 7/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Damage reduction 9/-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Bonus feat, defensive stance 8/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Trap sense +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Defensive stance 9/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Damage reduction 12/-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Defensive stance 10/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Bonus feat, trap sense +5</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Eldritch Knight" origname="Epic Eldritch Knight" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight" docbookid="EpicPrestigeClasses61" refname="Epic Eldritch Knight" reftype="class" refcase="no" refaltname="" keywords="class,eldritch,epic,knight,prestig,progress"><para reftype="class" refcase="no" refname="Epic Eldritch Knight" style="heading 2">Epic Eldritch Knight</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight_Hit_Die" docbookid="EpicPrestigeClasses62" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,eldritch,epic,hit,knight,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses63" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,eldritch,epic,knight,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight_Spells" docbookid="EpicPrestigeClasses64" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,eldritch,epic,knight,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The epic eldritch knight's caster level increases by 1 per level gained above 10th. The epic eldritch knight continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the arcane spellcasting class to which the eldritch knight belonged before adding the prestige class.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight_Bonus_Feats" docbookid="EpicPrestigeClasses65" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,eldritch,epic,feat,knight,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic eldritch knight gains a bonus feat (selected from the list of epic eldritch knight feats) every 4 levels after 10th.</para><para><i>Epic Eldritch Knight Bonus Feat List:</i> Armor Skin, Automatic Still Spell, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Enhance Spell, Epic Prowess, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Epic Toughness, Epic Weapon Focus, Ignore Material Components, Improved Combat Casting, Improved Combat Reflexes, Improved Manyshot, Improved Spell Capacity, Improved Whirlwind Attack, Instant Reload, Legendary Rider, Overwhelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Permanent Emanation, Spell Knowledge, Spell Opportunity, Spell Stowaway, Spellcasting Harrier, Spontaneous Spell, Storm of Throws, Superior Initiative, Swarm of Arrows, Tenacious Magic, Two-Weapon Rend, Uncanny Accuracy.</para>
+</topic><topic level="8" name="Table: Epic Eldritch Knight" origname="Table: Epic Eldritch Knight" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Eldritch_Knight_Table_Epic_Eldritch_Knight" docbookid="EpicPrestigeClasses66" refname="Table: Epic Eldritch Knight" reftype="classinfo" refcase="no" refaltname="" keywords="class,eldritch,epic,knight,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: Epic Eldritch Knight"><b>Table: Epic Eldritch Knight</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b> </para></cell> <cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Horizon Walker" origname="Epic Horizon Walker" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker" docbookid="EpicPrestigeClasses67" refname="Epic Horizon Walker" reftype="class" refcase="no" refaltname="" keywords="class,epic,horizon,prestig,progress,walker"><para reftype="class" refcase="no" refname="Epic Horizon Walker" style="heading 2">Epic Horizon Walker</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Hit_Die" docbookid="EpicPrestigeClasses68" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,horizon,prestig,progress,walker"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses69" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,horizon,level,point,prestig,progress,skill,walker"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier</para>
+</topic><topic level="8" name="Improved Terrain Mastery" origname="Improved Terrain Mastery" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Improved_Terrain_Mastery" docbookid="EpicPrestigeClasses70" refname="Improved Terrain Mastery" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,horizon,improv,masteri,prestig,progress,terrain,walker"><para reftype="classinfo" refcase="no" refname="Improved Terrain Mastery"><b>Improved Terrain Mastery:</b> The epic horizon walker may select one of the terrains already in her terrain mastery repertoire. The insight bonus on attack and damage rolls against creatures of that terrain increases by +1. The maximum insight bonus for any one terrain is equal to the epic horizon walker's class level divided by 10, rounded up.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Bonus_Feats" docbookid="EpicPrestigeClasses71" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,horizon,prestig,progress,walker"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic horizon walker gains a bonus feat (selected from the list of epic horizon walker feats) every 4 levels after 10th.</para>
+</topic><topic level="5" name="Epic Horizon Walker Bonus Feat List" origname="Epic Horizon Walker Bonus Feat List" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Epic_Horizon_Walker_Bonus_Feat_List" docbookid="EpicPrestigeClasses72" refname="Epic Horizon Walker Bonus Feat List" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,horizon,list,prestig,progress,walker"><para reftype="classinfo" refcase="no" refname="Epic Horizon Walker Bonus Feat List"><b>Epic Horizon Walker Bonus Feat List</b>: Armor Skin, Blinding Speed, Energy Resistance, Epic Endurance, Epic Prowess, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Toughness, Extended Life Span, Legendary Climber, Perfect Health, Polyglot.</para><topic level="8" name="Table: Epic Horizon Walker" origname="Table: Epic Horizon Walker" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Horizon_Walker_Epic_Horizon_Walker_Bonus_Feat_List_Table_Epic_Horizon_Walker" docbookid="EpicPrestigeClasses73" refname="Table: Epic Horizon Walker" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,horizon,list,prestig,progress,tabl,walker"><para reftype="classinfo" refcase="no" refname="Table: Epic Horizon Walker"><b>Table: Epic Horizon Walker</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Bonus feat, improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Bonus feat, improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Improved Terrain Mastery</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Epic Loremaster" origname="Epic Loremaster" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster" docbookid="EpicPrestigeClasses74" refname="Epic Loremaster" reftype="class" refcase="no" refaltname="" keywords="class,epic,loremast,prestig,progress"><para reftype="class" refcase="no" refname="Epic Loremaster" style="heading 2">Epic Loremaster</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Hit_Die" docbookid="EpicPrestigeClasses75" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,loremast,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses76" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,loremast,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Spells" docbookid="EpicPrestigeClasses77" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,loremast,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The epic loremaster's caster level increases by 1 per level gained above 10th. The epic loremaster continues to gain new spells per day (and spells known, if applicable) at each new level, up to the maximum spells per day and spells known of the spellcasting class to which the loremaster belonged before adding the prestige class.</para>
+</topic><topic level="8" name="Secret" origname="Secret" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Secret" docbookid="EpicPrestigeClasses78" refname="Secret" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,loremast,prestig,progress,secret"><para reftype="classinfo" refcase="no" refname="Secret"><b>Secret:</b> The loremaster doesn't gain additional secrets after 10th level, because there is a limit to the number of secrets that can be gained, but the character can choose a lore-master secret instead of a bonus feat. Remember that a character can't select the same secret twice.</para>
+</topic><topic level="8" name="Lore" origname="Lore" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Lore" docbookid="EpicPrestigeClasses79" refname="Lore" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,lore,loremast,prestig,progress"><para reftype="classinfo" refcase="no" refname="Lore"><b>Lore:</b> Add the loremaster's class level + Intelligence modifier to all lore checks, as normal.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Bonus_Feats" docbookid="EpicPrestigeClasses80" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,loremast,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic loremaster gains a bonus feat (selected from the list of epic loremaster feats) every three levels after 10th.</para><para><i>Epic Loremaster Bonus Feat List:</i> Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Master Staff, Master Wand, Multispell, Permanent Emanation, Polyglot, Scribe Epic Scroll, Spell Knowledge, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic. In addition to the feats on this list, the loremaster can select a loremaster secret instead of a bonus feat.</para>
+</topic><topic level="8" name="Table: The Epic Loremaster" origname="Table: The Epic Loremaster" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Loremaster_Table_The_Epic_Loremaster" docbookid="EpicPrestigeClasses81" refname="Table: The Epic Loremaster" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,loremast,prestig,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Loremaster"><b>Table: The Epic Loremaster</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Mystic Theurge" origname="Epic Mystic Theurge" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge" docbookid="EpicPrestigeClasses82" refname="Epic Mystic Theurge" reftype="class" refcase="no" refaltname="" keywords="class,epic,mystic,prestig,progress,theurg"><para reftype="class" refcase="no" refname="Epic Mystic Theurge" style="heading 2">Epic Mystic Theurge</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge_Hit_Die" docbookid="EpicPrestigeClasses83" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,mystic,prestig,progress,theurg"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses84" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,mystic,point,prestig,progress,skill,theurg"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge_Spells" docbookid="EpicPrestigeClasses85" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,mystic,prestig,progress,spell,theurg"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> When an odd-numbered mystic theurge level above 10th is gained she gains new spells per day (and spells known, if applicable), as if she had gained a level in an arcane spellcasting class she belonged to previously, up to the maximum spells per day and spells known by that class. Her caster level in that class also increases by +1. When an even-numbered mystic theurge level above 10th is gained she gains new spells per day (and spells known, if applicable), as if she had gained a level in a divine spellcasting class she belonged to previously, up to the maximum spells per day and spells known by that class. Her caster level in that class also increases by +1.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge_Bonus_Feats" docbookid="EpicPrestigeClasses86" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,mystic,prestig,progress,theurg"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic mystic theurge gains a bonus feat (selected from the list of epic mystic theurge feats) every 6 levels after 10th.</para><para><i>Epic Mystic Theurge Bonus Feat List:</i> Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Spell Knowledge, Spell Opportunity, Spell Stowaway, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic.</para>
+</topic><topic level="8" name="Table: Epic Mystic Theurge" origname="Table: Epic Mystic Theurge" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Mystic_Theurge_Table_Epic_Mystic_Theurge" docbookid="EpicPrestigeClasses87" refname="Table: Epic Mystic Theurge" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,mystic,prestig,progress,tabl,theurg"><para reftype="classinfo" refcase="no" refname="Table: Epic Mystic Theurge"><b>Table: Epic Mystic Theurge</b></para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Shadowdancer" origname="Epic Shadowdancer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer" docbookid="EpicPrestigeClasses88" refname="Epic Shadowdancer" reftype="class" refcase="no" refaltname="" keywords="class,epic,prestig,progress,shadowdanc"><para reftype="class" refcase="no" refname="Epic Shadowdancer" style="heading 2">Epic Shadowdancer</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Hit_Die" docbookid="EpicPrestigeClasses89" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,prestig,progress,shadowdanc"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Skill_Points_at_Each_Additional_Level" docbookid="EpicPrestigeClasses90" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,prestig,progress,shadowdanc,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 6 + Int modifier.</para>
+</topic><topic level="8" name="Summon Shadow" origname="Summon Shadow" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Summon_Shadow" docbookid="EpicPrestigeClasses91" refname="Summon Shadow" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,shadow,shadowdanc,summon"><para reftype="classinfo" refcase="no" refname="Summon Shadow"><b>Summon Shadow:</b> Every third level gained after 9th adds +2 HD (and the requisite base attace and base save bonus increases) to the shadowdancer's shadow companion.</para>
+</topic><topic level="8" name="Shadow Jump" origname="Shadow Jump" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Shadow_Jump" docbookid="EpicPrestigeClasses92" refname="Shadow Jump" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,jump,prestig,progress,shadow,shadowdanc"><para reftype="classinfo" refcase="no" refname="Shadow Jump"><b>Shadow Jump:</b> The total distance of a shadowdancer's shadow jump doubles every two levels after 10th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Bonus_Feats" docbookid="EpicPrestigeClasses93" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,prestig,progress,shadowdanc"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic shadowdancer gains a bonus feat (selected from the list of epic shadowdancer feats) every three levels after 10th.</para><para><i>Epic Shadowdancer Bonus Feat List:</i> Blinding Speed, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Skill Focus, Epic Speed, Exceptional Deflection, Improved Combat Reflexes, Improved Darkvision, Improved Whirlwind Attack, Infinite Deflection, Legendary Leaper, Reflect Arrows, Self-Concealment, Spellcasting Harrier, Superior Initiative.</para>
+</topic><topic level="8" name="Table: The Epic Shadowdancer" origname="Table: The Epic Shadowdancer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Shadowdancer_Table_The_Epic_Shadowdancer" docbookid="EpicPrestigeClasses94" refname="Table: The Epic Shadowdancer" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,shadowdanc,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Shadowdancer"><b>Table: The Epic Shadowdancer</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>Summon shadow (four of 8 HD each), shadow jump (320 ft.)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>Shadow jump (640 ft.)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>Summon shadow (five of 10 HD each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>Shadow jump (1,280 ft.), bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>Summon shadow (six of 12 HD each), shadow jump (2,560 ft.)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>Shadow jump (5,120 ft.)</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Prestige Classes" origname="Epic Prestige Classes" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes" docbookid="EpicPrestigeClasses95" refname="Epic Prestige Classes" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress"><para reftype="class" refcase="no" refname="Epic Prestige Classes" style="heading 2">Epic Prestige Classes</para><para>These are classes that characters cannot pursue until they have already become epic characters in some other fashion. Characters add levels of epic prestige classes using the same rules as when multiclassing into a new character class at epic levels. As with other epic classes, a character can take as many levels in an epic prestige class as he or she desires.</para><para/><topic level="3" name="Agent Retriever" origname="Agent Retriever" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever" docbookid="EpicPrestigeClasses96" refname="Agent Retriever" reftype="class" refcase="no" refaltname="" keywords="agent,class,epic,prestig,progress,retriev"><para reftype="class" refcase="no" refname="Agent Retriever" style="heading 3">Agent Retriever</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Hit_Die" docbookid="EpicPrestigeClasses97" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,die,epic,hit,prestig,progress,retriev"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Requirements" docbookid="EpicPrestigeClasses98" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,prestig,progress,requir,retriev"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become an agent retriever, a character must fulfill all the following criteria.</para><topic level="8" name="Alignment" origname="Alignment" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Requirements_Alignment" docbookid="EpicPrestigeClasses99" refname="Alignment" reftype="classinfo" refcase="no" refaltname="" keywords="agent,align,class,epic,prestig,progress,requir,retriev"><para reftype="classinfo" refcase="no" refname="Alignment"><b>Alignment:</b> Any lawful.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Requirements_Skills" docbookid="EpicPrestigeClasses100" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,prestig,progress,requir,retriev,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Gather Information 24 ranks, Knowledge (the planes) 15 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Requirements_Feats" docbookid="EpicPrestigeClasses101" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,feat,prestig,progress,requir,retriev"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Track.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Skills" docbookid="EpicPrestigeClasses102" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,prestig,progress,retriev,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The agent retriever's class skills (and the key ability for each skill) are Appraise (Int), Decipher Script (Int), Diplomacy (Cha), Forgery (Int), Gather Information (Cha), Knowledge (arcana) (Int), Knowledge (geography) (Int), Knowledge (history) (Int), Knowledge (local) (Int), Knowledge (the planes) (Int), Listen (Wis), Search (Int), and Spot (Wis), Survival (Wis).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses103" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,level,point,prestig,progress,retriev,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 6 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Agent Retriever" origname="Table: The Agent Retriever" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Skills_Table_The_Agent_Retriever" docbookid="EpicPrestigeClasses104" refname="Table: The Agent Retriever" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,prestig,progress,retriev,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Agent Retriever"><b>Table: The Agent Retriever</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b></para></cell>
+<cell><para><b>Spells per Day</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para><i>Uncanny location</i>, tracking bonus +10</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para><i>Plane Shift</i> 1/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para><i>Force sphere</i> 1/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para><i>Ethereal Jaunt</i> 1/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Tracking bonus +20</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para><i>Plane Shift</i> 2/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para><i>Force sphere</i> 2/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para><i>Ethereal Jaunt</i> 2/day</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features" docbookid="EpicPrestigeClasses105" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,featur,prestig,progress,retriev"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the agent retriever prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses106" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="agent,armor,class,epic,featur,prestig,profici,progress,retriev,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> An agent retriever gains no proficiency with any weapons, armor, or shields.</para>
+</topic><topic level="8" name="Spells Per Day/Spells Known" origname="Spells Per Day/Spells Known" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Spells_Per_Day_Spells_Known" docbookid="EpicPrestigeClasses107" refname="Spells Per Day/Spells Known" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,day/spells,epic,featur,known,prestig,progress,retriev,spell"><para reftype="classinfo" refcase="no" refname="Spells Per Day/Spells Known"><b>Spells per Day/Spells Known:</b> At each agent retriever level, the character gains new spells per day (and spells known, if applicable) as if he or she had also gained a level in a spellcasting class to which he or she belonged before adding the prestige class level. If already an epic spellcaster, the character gains only the benefit noted under the Spells entry for that epic class. He or she does not, however, gain any other benefit a character of that class would have gained. If the character had more than one spellcasting class before becoming an agent retriever, the player must decide to which class to add the new level for the purpose of determining spells per day.</para>
+</topic><topic level="8" name="Uncanny Location" origname="Uncanny Location (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Uncanny_Location" docbookid="EpicPrestigeClasses108" refname="Uncanny Location" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,featur,locat,prestig,progress,retriev,uncanni"><para reftype="classinfo" refcase="no" refname="Uncanny Location"><b><i>uncanny location</i> (Sp):</b> When a agent retriever spends one day attuning him or herself to a person or object he or she is seeking, he or she automatically determines that person's or item's location as the <i>discern location</i> spell. Once he or she has established a sense of the location, the agent retriever can maintain this uncanny link even if the target moves, but only so long as he or she hunts down this person or item to the exclusion of all other pursuits. If he or she ever turns aside to undertake a second pursuit, the <i>uncanny location</i> ends, and the agent retriever must spend another day to reattune him or herself to the target.</para>
+</topic><topic level="8" name="Tracking Bonus" origname="Tracking Bonus (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Tracking_Bonus" docbookid="EpicPrestigeClasses109" refname="Tracking Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="agent,bonu,class,epic,featur,prestig,progress,retriev,track"><para reftype="classinfo" refcase="no" refname="Tracking Bonus"><b>Tracking Bonus (Ex):</b> The agent retriever gains a +10 insight bonus on Wilderness Lore checks to track the quarry. This bonus increases by +10 every five levels thereafter.</para>
+</topic><topic level="8" name="Plane Shift" origname="Plane Shift (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Plane_Shift" docbookid="EpicPrestigeClasses110" refname="Plane Shift" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,featur,plane,prestig,progress,retriev,shift"><para reftype="classinfo" refcase="no" refname="Plane Shift"><b><i>Plane Shift</i> (Sp):</b> The agent retriever can use <i>Plane Shift</i> as a 14th-level caster once per day starting at 2nd level, plus one additional time per day every five levels thereafter.</para><para reftype="classinfo" refcase="no" refname="Force Sphere"><b><i>Force sphere</i> (Sp):</b> The agent retriever gains the ability to call forth a <i>force sphere</i>. The agent retriever can attempt to enclose any creature or object he or she can see within 30 feet. The target is allowed a Reflex saving throw (DC 20 + 1/2 the class level of the agent retriever + the agent retriever's Dexterity modifier). Those who fail are then encapsulated in a sphere of force with a radius of up to 50 feet (the sphere is only as large as it needs to be, up to its maximum radius). Those trapped inside cannot escape except with methods that can bypass or destroy a <i>wall of force</i>. The sphere persists as long as the agent retriever desires, up to a maximum of seven days. A captured target does not count toward the capacity of the agent retriever's <i>Plane Shift</i> ability, and the agent retriever can plane shift with the target despite the presence of the <i>force sphere</i>. The agent retriever can use this power once per day at 3rd level, plus one additional time per day every five levels thereafter.</para>
+</topic><topic level="8" name="Ethereal Jaunt" origname="Ethereal Jaunt (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Ethereal_Jaunt" docbookid="EpicPrestigeClasses111" refname="Ethereal Jaunt" reftype="classinfo" refcase="no" refaltname="" keywords="agent,class,epic,ether,featur,jaunt,prestig,progress,retriev"><para reftype="classinfo" refcase="no" refname="Ethereal Jaunt"><b><i>Ethereal Jaunt</i> (Sp):</b> The agent retriever can use <i>Ethereal Jaunt</i> as a 14th-level caster once per day at 4th level, plus one additional time per day every five levels thereafter.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Agent_Retriever_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses112" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="agent,bonu,class,epic,feat,featur,prestig,progress,retriev"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The agent retriever gets a bonus feat at 5th level and an additional bonus feat every five levels thereafter. These bonus feats must be selected from the following list: Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Casting, Improved Spell Capacity, Legendary Climber, Legendary Rider, Legendary Tracker, Perfect Health, Permanent Emanation, Spontaneous Spell, Storm of Throws, Swarm of Arrows, and Uncanny Accuracy.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Cosmic Descryer" origname="Cosmic Descryer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer" docbookid="EpicPrestigeClasses113" refname="Cosmic Descryer" reftype="class" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress"><para reftype="class" refcase="no" refname="Cosmic Descryer" style="heading 3">Cosmic Descryer</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Hit_Die" docbookid="EpicPrestigeClasses114" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,die,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements" docbookid="EpicPrestigeClasses115" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a cosmic descryer, a character must fulfill all the following criteria.</para><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements_Skills" docbookid="EpicPrestigeClasses116" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Knowledge (the planes) 24 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements_Feats" docbookid="EpicPrestigeClasses117" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,feat,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Spell Focus (Conjuration).</para>
+</topic><topic level="8" name="Epic Feats" origname="Epic Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements_Epic_Feats" docbookid="EpicPrestigeClasses118" refname="Epic Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,feat,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Epic Feats"><b>Epic Feats:</b> Energy Resistance.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements_Spells" docbookid="EpicPrestigeClasses119" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,requir,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> Ability to cast <i>gate</i> plus any <i>planar ally</i> or <i>planar binding</i> spell<i/>.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Requirements_Special" docbookid="EpicPrestigeClasses120" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,requir,special"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Must have previously traveled to any other plane of existence.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Skills" docbookid="EpicPrestigeClasses121" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The cosmic descryer's class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge (arcana) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses122" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 2 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Cosmic Descryer" origname="Table: The Cosmic Descryer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Skills_Table_The_Cosmic_Descryer" docbookid="EpicPrestigeClasses123" refname="Table: The Cosmic Descryer" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Cosmic Descryer"><b>Table: The Cosmic Descryer</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b></para></cell>
+<cell><para><b>Spells per Day</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>Superior planar summoning (+4 HD)</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Naturalization (1 plane)</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para>Enduring gate (1 day)</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Naturalization (2 planes)</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Bonus feat, superior planar summoning (+8 HD)</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Naturalization (3 planes), enduring gate (2 days)</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>Cosmic connection 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Naturalization (4 planes)</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>Superior planar summoning (+12 HD), enduring gate (3 days)</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Naturalization (5 planes), bonus feat</para></cell>
+<cell><para>+1 level of existing class</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features" docbookid="EpicPrestigeClasses124" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,featur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the cosmic descryer prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses125" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,cosmic,descryer,epic,featur,prestig,profici,progress,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> A cosmic descryer gains no proficiency with any weapons, armor, or shields.</para>
+</topic><topic level="8" name="Spells Per Day/Spells Known" origname="Spells Per Day/Spells Known" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Spells_Per_Day_Spells_Known" docbookid="EpicPrestigeClasses126" refname="Spells Per Day/Spells Known" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,day/spells,descryer,epic,featur,known,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells Per Day/Spells Known"><b>Spells per Day/Spells Known:</b> At every other cosmic descryer level, the character gains new spells per day (and spells known, if applicable) as if he or she had also gained a level in a spellcasting class to which he or she belonged before adding the prestige class level. If already an epic spellcaster, the character gains only the benefit noted under the Spells entry for that epic class. He or she does not, however, gain any other benefit a character of that class would have gained. If the character had more than one spellcasting class before becoming a cosmic descryer, the player must decide to which class to add the new level for the purpose of determining spells per day.</para>
+</topic><topic level="8" name="Superior Planar Summoning" origname="Superior Planar Summoning (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Superior_Planar_Summoning" docbookid="EpicPrestigeClasses127" refname="Superior Planar Summoning" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,featur,planar,prestig,progress,summon,superior"><para reftype="classinfo" refcase="no" refname="Superior Planar Summoning"><b>Superior Planar Summoning (Ex):</b> Beginning at 1st level, the cosmic descryer can increase the power of any of the following spells-<i>elemental swarm</i>,  <i>gate</i>,  <i>greater planar ally</i>,  <i>greater planar binding</i>,  <i>summon monster IX</i>, <i/> or <i>summon nature's ally IX</i>-to affect or summon outsiders of 4 Hit Dice higher than the spell's normal limit or conjure creatures with 4 Hit Dice of advancement. Every four levels thereafter, the cosmic descryer can increase the number of extra Hit Dice by 4.</para>
+</topic><topic level="8" name="Naturalization" origname="Naturalization (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Naturalization" docbookid="EpicPrestigeClasses128" refname="Naturalization" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,epic,featur,natur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Naturalization"><b>Naturalization (Ex):</b> Starting at 2nd level, the cosmic descryer develops a natural affinity for one plane that he or she has visited, becoming resistant to any spells and spell-like effects that would normally affect any creature not native to that plane. Every two levels thereafter, the cosmic descryer gains naturalization to one additional plane.</para>
+</topic><topic level="8" name="Enduring Gate" origname="Enduring Gate (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Enduring_Gate" docbookid="EpicPrestigeClasses129" refname="Enduring Gate" reftype="classinfo" refcase="no" refaltname="" keywords="class,cosmic,descryer,endur,epic,featur,gate,prestig,progress"><para reftype="classinfo" refcase="no" refname="Enduring Gate"><b>Enduring Gate (Su):</b> Starting at 3rd level, as a full-round action, the cosmic descryer can make any casting of the <i>gate</i> spell remain for a full day, rather than disappearing after 1 round per caster level. Every three levels thereafter, the cosmic descryer can increase the duration of <i>gate</i> by one additional day.</para>
+</topic><topic level="8" name="Bonus Feat" origname="Bonus Feat (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Bonus_Feat" docbookid="EpicPrestigeClasses130" refname="Bonus Feat" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,cosmic,descryer,epic,feat,featur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feat"><b>Bonus Feat (Ex):</b> The cosmic descryer gains a bonus feat at 5th level and an additional bonus feat every five levels thereafter. These bonus feats must be selected from the following list: Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Combat Casting, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Familiar Spell, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Scribe Epic Scroll, Spell Focus, Spell Knowledge, Spell Mastery, Spell Opportunity, Spell Penetration, Spell Stowaway, Spontaneous Spell, Tenacious Magic.</para>
+</topic><topic level="8" name="Cosmic Connection" origname="Cosmic Connection (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Cosmic_Descryer_Class_Features_Cosmic_Connection" docbookid="EpicPrestigeClasses131" refname="Cosmic Connection" reftype="classinfo" refcase="no" refaltname="" keywords="class,connect,cosmic,descryer,epic,featur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Cosmic Connection"><b>Cosmic Connection (Su):</b> At 7th level, the cosmic descryer may join with the massive energy of the multiverse once per day, plus one additional time per day every five levels thereafter. The cosmic descryer can remain connected for a number of minutes equal to his or her class level. While connected, the character is immune to critical hits, is a native on any plane he or she visits, and can use <i>dimension door</i> at will as a 20th-level caster. The cosmic descryer can draw off excess energy from the multiverse itself to increase his or her effective caster level or enhance any attack roll, saving throw, skill check, or ability check. Drawing off excess energy from the multiverse is dangerous, and it deals the cosmic descryer 5 points of damage for each +1 bonus applied to a single roll or +1 caster level on a single spell.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Divine Emissary" origname="Divine Emissary" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary" docbookid="EpicPrestigeClasses132" refname="Divine Emissary" reftype="class" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress"><para reftype="class" refcase="no" refname="Divine Emissary" style="heading 3">Divine Emissary</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Hit_Die" docbookid="EpicPrestigeClasses133" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,divin,emissari,epic,hit,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements" docbookid="EpicPrestigeClasses134" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To become a divine emissary, the character must fulfill all the following criteria.</para><topic level="8" name="Base Attack Bonus" origname="Base Attack Bonus" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements_Base_Attack_Bonus" docbookid="EpicPrestigeClasses135" refname="Base Attack Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="attack,base,bonu,class,divin,emissari,epic,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Base Attack Bonus"><b>Base Attack Bonus:</b> +23.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements_Feats" docbookid="EpicPrestigeClasses136" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,feat,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Weapon Focus (deity's favored weapon).</para>
+</topic><topic level="8" name="Epic Feat" origname="Epic Feat" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements_Epic_Feat" docbookid="EpicPrestigeClasses137" refname="Epic Feat" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,feat,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Epic Feat"><b>Epic Feat:</b> Great Smiting.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements_Skills" docbookid="EpicPrestigeClasses138" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Knowledge (religion) 10 ranks.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Requirements_Special" docbookid="EpicPrestigeClasses139" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress,requir,special"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Must have a patron deity. Furthermore, the potential divine emissary must complete some quest that furthers his or her deity's goals so much that it impresses the deity.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Skills" docbookid="EpicPrestigeClasses140" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The divine emissary's class skills (and the key ability for each) are: Concentration (Con), Craft (Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Heal (Wis), Intimidate (Cha), Knowledge (religion) (Int), Profession (Wis), Search (Int), Sense Motive (Wis), Spellcraft (Int), Spot (Wis), and Use Magic Device (Cha).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses141" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Table: The Divine Emissary" origname="Table: The Divine Emissary" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Skills_Table_The_Divine_Emissary" docbookid="EpicPrestigeClasses142" refname="Table: The Divine Emissary" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Divine Emissary"><b>Table: The Divine Emissary</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para><i>Divine inspiration</i> 1/day, granted domain</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Extra smite 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para><i>greater planar ally</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para><i>Divine inspiration</i> 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Extra smite 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para><i>Divine inspiration</i> 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Extra smite 4/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>Divine hand 1/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para><i>Divine inspiration</i> 4/day</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features" docbookid="EpicPrestigeClasses143" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,featur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>All the following are features of the divine emissary prestige class.</para><topic level="8" name="Spells Per Day/Spells Known" origname="Spells Per Day/Spells Known" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Spells_Per_Day_Spells_Known" docbookid="EpicPrestigeClasses144" refname="Spells Per Day/Spells Known" reftype="classinfo" refcase="no" refaltname="" keywords="class,day/spells,divin,emissari,epic,featur,known,prestig,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells Per Day/Spells Known"><b>Spells per Day/Spells Known:</b> At each divine emissary level, the character gains new spells per day (and spells known, if applicable) as if he or she had also gained a level in a spellcasting class to which he or she belonged before adding the prestige class level. If already an epic spell-caster, the character gains only the benefit noted under the Spells entry for that epic class. He or she does not, however, gain any other benefit a character of that class would have gained. If the character had more than one spellcasting class before becoming a divine emissary, the player must decide to which class to add the new level for the purpose of determining spells per day.</para>
+</topic><topic level="8" name="Special Mount" origname="Special Mount" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Special_Mount" docbookid="EpicPrestigeClasses145" refname="Special Mount" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,featur,mount,prestig,progress,special"><para reftype="classinfo" refcase="no" refname="Special Mount"><b>Special Mount:</b> If he or she has one, the divine emissary's special mount continues to increase in power. Every five levels after 1st, the special mount gains +2 bonus Hit Dice, its natural armor increases by +2, its Strength adjustment increases by +1, and its Intelligence increases by +1. The mount's spell resistance equals the divine emissary's class level + the class level that provided the special mount + 5.</para>
+</topic><topic level="8" name="Granted Domain" origname="Granted Domain (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Granted_Domain" docbookid="EpicPrestigeClasses146" refname="Granted Domain" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,domain,emissari,epic,featur,grant,prestig,progress"><para reftype="classinfo" refcase="no" refname="Granted Domain"><b>Granted Domain (Ex):</b> A divine emissary gains access to one of his or her deity's domains, as well as the granted power of that domain. The extra domain expands a paladin's selection of spells, but he or she does not gain the ability to cast higher-level spells than he or she otherwise could. Clerics gain an additional domain but otherwise use the rules for preparing spells from their domains normally.</para><para reftype="classinfo" refcase="no" refname="Divine Inspiration"><b><i>Divine inspiration</i> (Sp):</b> A divine emissary gains a +2 luck bonus on his or her attack and damage rolls for 10 rounds, once per day at 1st level, plus one additional time per day every three levels thereafter.</para>
+</topic><topic level="8" name="Extra Smite" origname="Extra Smite (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Extra_Smite" docbookid="EpicPrestigeClasses147" refname="Extra Smite" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,extra,featur,prestig,progress,smite"><para reftype="classinfo" refcase="no" refname="Extra Smite"><b>Extra Smite (Su):</b> A divine emissary can use his or her smite ability two extra times per day, plus one additional time per day every three levels thereafter. To determine the damage with any smite attack, a divine emissary adds together his or her divine emissary levels and class levels that originally conferred the smite ability.</para>
+</topic><topic level="8" name="Greater Planar Ally" origname="Greater Planar Ally (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Greater_Planar_Ally" docbookid="EpicPrestigeClasses148" refname="Greater Planar Ally" reftype="classinfo" refcase="no" refaltname="" keywords="alli,class,divin,emissari,epic,featur,greater,planar,prestig,progress"><para reftype="classinfo" refcase="no" refname="Greater Planar Ally"><b><i>greater planar ally</i> (Sp):</b> The emissary can call a <i>greater planar ally</i> (as the spell) once per day at 3rd level, plus one additional time per day every ten levels thereafter. The ally does not request a return favor when a divine emissary uses this ability.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses149" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,divin,emissari,epic,feat,featur,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The divine emissary gains a bonus feat at 6th level and an additional bonus feat every ten levels thereafter. These bonus feats must be selected from the following list: Armor Skin, Devastating Critical, Epic Leadership, Epic Prowess, Epic Reputation, Epic Toughness, Epic Weapon Focus, Great Smiting, Holy Strike, Improved Aura of Courage, Improved Combat Casting, Improved Spell Capacity, Legendary Commander, Legendary Rider, Overwhelming Critical, Perfect Health, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spontaneous Spell, Widen Aura of Courage.</para>
+</topic><topic level="8" name="Divine Hand" origname="Divine Hand (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Divine_Emissary_Class_Features_Divine_Hand" docbookid="EpicPrestigeClasses150" refname="Divine Hand" reftype="classinfo" refcase="no" refaltname="" keywords="class,divin,emissari,epic,featur,hand,prestig,progress"><para reftype="classinfo" refcase="no" refname="Divine Hand"><b>Divine Hand (Su):</b> As a free action, the emissary gains a +20 sacred (or profane if appropriate) bonus on his next melee or ranged attack roll, as long as the attack is made with the deity's favored weapon. The emissary can use divine hand once per day at 9th level, plus one additional time per day every ten levels thereafter.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Epic Infiltrator" origname="Epic Infiltrator" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator" docbookid="EpicPrestigeClasses151" refname="Epic Infiltrator" reftype="class" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress"><para reftype="class" refcase="no" refname="Epic Infiltrator" style="heading 3">Epic Infiltrator</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Hit_Die" docbookid="EpicPrestigeClasses152" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,infiltr,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements" docbookid="EpicPrestigeClasses153" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become an epic infiltrator, a character must fulfill all the following criteria.</para><topic level="8" name="Alignment" origname="Alignment" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements_Alignment" docbookid="EpicPrestigeClasses154" refname="Alignment" reftype="classinfo" refcase="no" refaltname="" keywords="align,class,epic,infiltr,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Alignment"><b>Alignment:</b> Any nonchaotic.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements_Skills" docbookid="EpicPrestigeClasses155" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Bluff 24 ranks, Diplomacy 10 ranks, Disguise 24 ranks, Spot 10 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements_Feats" docbookid="EpicPrestigeClasses156" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,infiltr,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Alertness.</para>
+</topic><topic level="8" name="Epic Feat" origname="Epic Feat" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements_Epic_Feat" docbookid="EpicPrestigeClasses157" refname="Epic Feat" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,infiltr,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Epic Feat"><b>Epic Feat:</b> Polyglot.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Requirements_Special" docbookid="EpicPrestigeClasses158" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress,requir,special"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Must have successfully spent one month using the Disguise skill to pose as someone else.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Skills" docbookid="EpicPrestigeClasses159" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The epic infiltrator's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), and Spot (Wis).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses160" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 8 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Epic Infiltrator" origname="Table: The Epic Infiltrator" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Skills_Table_The_Epic_Infiltrator" docbookid="EpicPrestigeClasses161" refname="Table: The Epic Infiltrator" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,infiltr,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Infiltrator"><b>Table: The Epic Infiltrator</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>Improved cover identity (3), sneak attack +1d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Specialist training</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para>Read thoughts 1/day, <i>Mind Blank</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Far senses 1/day, sneak attack +2d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Specialist training, improved cover identity (4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Far senses 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>Read thoughts 2/day, sneak attack +3d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Far senses 3/day, specialist training</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>Improved cover identity (5)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Far senses 4/day, sneak attack +4d6</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features" docbookid="EpicPrestigeClasses162" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,infiltr,prestig,progress"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the epic infiltrator prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses163" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,epic,featur,infiltr,prestig,profici,progress,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> An epic infiltrator is proficient with all simple and martial weapons, all armor, and shields.</para>
+</topic><topic level="8" name="Improved Cover Identity" origname="Improved Cover Identity (Ex/Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Improved_Cover_Identity" docbookid="EpicPrestigeClasses164" refname="Improved Cover Identity" reftype="classinfo" refcase="no" refaltname="" keywords="class,cover,epic,featur,ident,improv,infiltr,prestig,progress"><para reftype="classinfo" refcase="no" refname="Improved Cover Identity"><b>Improved Cover Identity (Ex/Su):</b> At 1st level, an epic infiltrator establishes three specific cover identities, plus one additional cover identity every four levels thereafter. While operating in a cover identity, the epic infiltra-tor gains a +4 circumstance bonus on Disguise checks and a +2 circumstance bonus on Bluff and Gather Information checks. When the epic infiltrator has the option of adding a new cover identity, he or she may instead work on further perfecting a cover identity already possessed. An improved cover identity grants a +6 circumstance bonus on Disguise checks and a +4 circumstance bonus on Bluff and Gather Information checks while operating in that identity. A specific cover identity may be improved multiple times, each time adding +2 to the bonuses. It is impossible to detect the epic infiltrator's alignment with any form of divination. This ability functions exactly like an <i>undetectable alignment</i> spell, except that it is always active as a supernatural ability. Only divinations are confounded; spells that function only against certain alignments affect the epic infiltrator normally. Should the epic infiltrator wish to 'retire' a cover identity and develop a new one, he or she must spend one week practicing the new identity before he or she earns the bonuses. Cover identities do not in themselves provide the epic infiltrator with additional skills, proficiencies, or class features that others might expect of the pretended professions. The epic infiltrator can switch cover identities or don a disguise using the Disguise skill in 1d3 minutes. He or she can also put on or take off armor in one-half the normal time.</para>
+</topic><topic level="8" name="Sneak Attack" origname="Sneak Attack" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Sneak_Attack" docbookid="EpicPrestigeClasses165" refname="Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="attack,class,epic,featur,infiltr,prestig,progress,sneak"><para reftype="classinfo" refcase="no" refname="Sneak Attack"><b>Sneak Attack:</b> If an epic infiltrator can catch an opponent when the opponent is unable to defend effectively from his or her attack, he or she can strike a vital spot for extra damage. Any time the epic infiltrator's target would be denied his or her Dexterity bonus to AC (whether he or she actually has a Dexterity bonus or not), the epic infiltrator's attack deals +1d6 points of damage. This extra damage increases by +1d6 points every three levels. Should the epic infiltrator score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can only count as sneak attacks if the target is 30 feet away or less. With a sap or an unarmed strike, the epic infiltrator can make a sneak attack that deals subdual damage instead of normal damage. He or she cannot use a weapon that deals normal damage to deal subdual damage in a sneak attack, not even with the usual -4 penalty. An epic infiltrator can only sneak attack living creatures with discernible anatomies-undead, constructs, oozes, plants, and incorporeal creatures lack vital areas to attack. Additionally, any creature immune to critical hits is similarly immune to sneak attacks. Also, the epic infiltrator must also be able to see the target well enough to pick out a vital spot and must be able to reach a vital spot. The epic infiltrator cannot sneak attack while striking at a creature with concealment or by striking the limbs of a creature whose vitals are beyond reach. If an epic infiltrator gets a sneak attack bonus from another source, the bonuses to damage stack.</para>
+</topic><topic level="8" name="Specialist Training" origname="Specialist Training (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Specialist_Training" docbookid="EpicPrestigeClasses166" refname="Specialist Training" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,infiltr,prestig,progress,specialist,train"><para reftype="classinfo" refcase="no" refname="Specialist Training"><b>Specialist Training (Ex):</b> At 2nd level, the epic infiltrator gains the benefit of focusing his or her craft on a particular type of work, specializing in one of the following categories and receiving a +3 bonus on all checks with the listed skills. Every three levels thereafter, the epic infiltrator gains specialist training again. He or she may select the same category more than once.</para><para><i>Concealment:</i> Bluff, Disguise, and Forgery.</para><para><i>Subterfuge:</i> Hide, Move Silently, Open Lock, and Pick Pocket.</para><para><i>Espionage:</i> Listen, Search, and Spot.</para><para><i>Interaction:</i> Diplomacy, Gather Information, Intimidate, and Sense Motive.</para>
+</topic><topic level="8" name="Read Thoughts" origname="Read Thoughts (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Read_Thoughts" docbookid="EpicPrestigeClasses167" refname="Read Thoughts" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,infiltr,prestig,progress,read,thought"><para reftype="classinfo" refcase="no" refname="Read Thoughts"><b>Read Thoughts (Su):</b> Beginning at 3rd level, the epic infiltrator can <i>detect thoughts</i> as the spell cast by a 15th-level caster, except that it targets a single mind. Every four levels thereafter, the epic infiltrator can per-form this ability one additional time per day.</para>
+</topic><topic level="8" name="Far Senses" origname="Far Senses (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Far_Senses" docbookid="EpicPrestigeClasses168" refname="Far Senses" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,infiltr,prestig,progress,sens"><para reftype="classinfo" refcase="no" refname="Far Senses"><b>Far Senses (Su):</b> Starting at 4th level, the epic infiltrator can extend his or her vision or hearing into an area beyond his or her normal range, once per day, to a distance of 20 feet plus an additional 20 feet per epic infiltrator level. The epic infiltrator must have personally visited the physical location earlier to use far senses on it. Barriers do not impede far senses, and low-light vision or darkvision function normally if the epic infiltrator has one or both of those abilities. Far senses can also apply to the epic infiltrator's read thoughts ability. Every two levels beyond 4th the epic infiltrator can perform this ability one additional time per day. This ability functions as the <i>clairaudience/clairvoyance</i> spell cast by a 15th-level caster, except for the limit on range, the need to know the locale beforehand, and the ability to use the read thoughts ability.</para>
+</topic><topic level="8" name="Mind Blank" origname="Mind Blank (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Epic_Infiltrator_Class_Features_Mind_Blank" docbookid="EpicPrestigeClasses169" refname="Mind Blank" reftype="classinfo" refcase="no" refaltname="" keywords="blank,class,epic,featur,infiltr,mind,prestig,progress"><para reftype="classinfo" refcase="no" refname="Mind Blank"><b><i>Mind Blank</i> (Sp):</b> At 3rd level, the epic infiltrator can become immune to all mind-affecting spells and divinations once per day, plus one additional time per day every eight levels thereafter. This ability works as the <i>Mind Blank</i> spell cast by a 15th-level caster.</para><para/><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Guardian Paramount" origname="Guardian Paramount" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount" docbookid="EpicPrestigeClasses170" refname="Guardian Paramount" reftype="class" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress"><para reftype="class" refcase="no" refname="Guardian Paramount" style="heading 3">Guardian Paramount</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Hit_Die" docbookid="EpicPrestigeClasses171" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,guardian,hit,paramount,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements" docbookid="EpicPrestigeClasses172" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a guardian paramount, a character must fulfill all the following criteria.</para><topic level="8" name="Base Attack Bonus" origname="Base Attack Bonus" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements_Base_Attack_Bonus" docbookid="EpicPrestigeClasses173" refname="Base Attack Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="attack,base,bonu,class,epic,guardian,paramount,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Base Attack Bonus"><b>Base Attack Bonus:</b> +15.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements_Skills" docbookid="EpicPrestigeClasses174" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Spot 13 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements_Feats" docbookid="EpicPrestigeClasses175" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,guardian,paramount,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Alertness, Lightning Reflexes.</para>
+</topic><topic level="8" name="Epic Feats" origname="Epic Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements_Epic_Feats" docbookid="EpicPrestigeClasses176" refname="Epic Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,guardian,paramount,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Epic Feats"><b>Epic Feats:</b> Blinding Speed, Superior Initiative.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Requirements_Special" docbookid="EpicPrestigeClasses177" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress,requir,special"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Uncanny dodge, evasion.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Skills" docbookid="EpicPrestigeClasses178" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The guardian paramount's class skills (and the key ability for each skill) are Bluff (Cha), Climb (Str), Diplomacy (Cha), Intimidate (Cha), Jump (Str), Listen (Wis), Profession (Wis), and Spot (Wis).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses179" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,level,paramount,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 4 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Guardian Paramount" origname="Table: The Guardian Paramount" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Skills_Table_The_Guardian_Paramount" docbookid="EpicPrestigeClasses180" refname="Table: The Guardian Paramount" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,guardian,paramount,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Guardian Paramount"><b>Table: The Guardian Paramount</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>Bonus feat, uncanny dodge enabler 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Evasive preceptor 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para><i>Protective Aura</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Bonus feat, uncanny dodge enabler 4/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Adjust probability 2/day, evasive preceptor 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para><i>Call Back</i> 1/day, <i>Protective Aura</i> 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>Bonus feat, uncanny dodge enabler 5/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Evasive preceptor 3/day, adjust probability 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para><i>Protective Aura</i> 3/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Bonus feat, uncanny dodge enabler 6/day</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features" docbookid="EpicPrestigeClasses181" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,guardian,paramount,prestig,progress"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the guardian paramount prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses182" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,epic,featur,guardian,paramount,prestig,profici,progress,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> A guardian paramount is proficient with all simple and martial weapons, all armor, and shields.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses183" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,featur,guardian,paramount,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The guardian paramount gets a bonus feat at 1st level and an additional bonus feat every three levels thereafter. These bonus feats must be selected from the following list: Bulwark of Defense, Combat Archery, Damage Reduction, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Fortitude, Epic Reflexes, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Toughness, Epic Trapfinding, Epic Will, Exceptional Deflection, Fast Healing, Great Dexterity, Improved Combat Reflexes, Improved Sneak Attack, Improved Spell Resistance, Infinite Deflection, Legendary Climber, Lingering Damage, Mobile Defense, Perfect Health, Reflect Arrows, Self-Concealment, Sneak Attack of Opportunity, Spellcasting Harrier, and Uncanny Accuracy.</para>
+</topic><topic level="8" name="Uncanny Dodge Enabler" origname="Uncanny Dodge Enabler (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Uncanny_Dodge_Enabler" docbookid="EpicPrestigeClasses184" refname="Uncanny Dodge Enabler" reftype="classinfo" refcase="no" refaltname="" keywords="class,dodg,enabl,epic,featur,guardian,paramount,prestig,progress,uncanni"><para reftype="classinfo" refcase="no" refname="Uncanny Dodge Enabler"><b>Uncanny Dodge Enabler (Ex):</b> The guardian paramount must have the uncanny dodge class feature to qualify for the prestige class, so at a minimum the guardian paramount has the extraordinary ability to retain his or her Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. It is possible that the character has higher-level aspects of the uncanny dodge ability. Whatever the level of uncanny dodge attained by the character, the guardian paramount can extend the features of his or her uncanny dodge ability to include any one creature he or she designates within 5 feet of him or her (he or she can designate a creature or change designations as a free action once per round). The guardian paramount can extend his or her uncanny dodge ability three times per day at 1st level, plus one additional time per day every three levels thereafter.</para>
+</topic><topic level="8" name="Evasive Preceptor" origname="Evasive Preceptor (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Evasive_Preceptor" docbookid="EpicPrestigeClasses185" refname="Evasive Preceptor" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,evas,featur,guardian,paramount,preceptor,prestig,progress"><para reftype="classinfo" refcase="no" refname="Evasive Preceptor"><b>Evasive Preceptor (Ex):</b> The guardian paramount must have the evasion class feature, which allows the character to take no damage from an area attack with a successful Reflex save. He or she may also have improved evasion, though this is not a prerequisite. The character can extend evasion or improved evasion to include any one creature he or she designates within 5 feet of him or her. The guardian paramount can extend his or her evasion ability once per day at 2nd level, plus one additional time per day every three levels thereafter.</para>
+</topic><topic level="8" name="Protective Aura" origname="Protective Aura (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Protective_Aura" docbookid="EpicPrestigeClasses186" refname="Protective Aura" reftype="classinfo" refcase="no" refaltname="" keywords="aura,class,epic,featur,guardian,paramount,prestig,progress,protect"><para reftype="classinfo" refcase="no" refname="Protective Aura"><b><i>Protective Aura</i> (Sp):</b> Starting at 3rd level, the guardian paramount can use a special form of <i>shield other</i> once per day, plus one additional time per day every three levels thereafter. When a guardian paramount creates a <i>protective aura</i>, the transferred wounds are dealt to the guardian paramount as subdual damage, not normal damage, as with the <i>shield other</i> spell. Otherwise, the guardian paramount's <i>Protective Aura</i> functions like the <i>shield other spell</i> cast by an 8th-level cleric.</para>
+</topic><topic level="8" name="Adjust Probability" origname="Adjust Probability (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Adjust_Probability" docbookid="EpicPrestigeClasses187" refname="Adjust Probability" reftype="classinfo" refcase="no" refaltname="" keywords="adjust,class,epic,featur,guardian,paramount,prestig,probabl,progress"><para reftype="classinfo" refcase="no" refname="Adjust Probability"><b>Adjust Probability (Ex):</b> On reaching 5th level, the guardian paramount gains the ability to affect probability twice per day, plus one additional time per day per three levels thereafter. The guardian paramount can force a reroll of one attack roll, check, or saving throw that another creature within 25 feet-friend or enemy-just made. The guardian paramount can find out whether the attack roll, check, or save would have succeeded before using this ability. The recipient must take the second roll, whether it's better or worse than the original roll. The use of this ability takes place outside the normal initiative order, but the paramount guardian can't use it if he or she is flat-footed or unable to see the situation resulting in the roll. The guardian paramount must decide whether to reroll as soon as the result of the attack roll, check, or save is known.</para>
+</topic><topic level="8" name="Call Back" origname="Call Back (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Guardian_Paramount_Class_Features_Call_Back" docbookid="EpicPrestigeClasses188" refname="Call Back" reftype="classinfo" refcase="no" refaltname="" keywords="back,call,class,epic,featur,guardian,paramount,prestig,progress"><para reftype="classinfo" refcase="no" refname="Call Back"><b><i>Call Back</i> (Sp):</b> On reaching 6th level, the guardian paramount gains the ability to return a dead creature that he or she has previously used any of his or her other class abilities on back to life, as if he or she had cast <i>true resurrection</i> as a 20th-level cleric. The character can use this ability once per day, plus one additional time per day every six levels.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="High Proselytizer" origname="High Proselytizer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer" docbookid="EpicPrestigeClasses189" refname="High Proselytizer" reftype="class" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt"><para reftype="class" refcase="no" refname="High Proselytizer" style="heading 3">High Proselytizer</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Hit_Die" docbookid="EpicPrestigeClasses190" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,high,hit,prestig,progress,proselyt"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements" docbookid="EpicPrestigeClasses191" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a high proselytizer, a character must fulfill all the following criteria.</para><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements_Skills" docbookid="EpicPrestigeClasses192" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Diplomacy 12 ranks and either Knowledge (religion) 24 ranks or Knowledge (nature) 24 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements_Feats" docbookid="EpicPrestigeClasses193" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,high,prestig,progress,proselyt,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Leadership.</para>
+</topic><topic level="8" name="Epic Feats" origname="Epic Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements_Epic_Feats" docbookid="EpicPrestigeClasses194" refname="Epic Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,high,prestig,progress,proselyt,requir"><para reftype="classinfo" refcase="no" refname="Epic Feats"><b>Epic Feats:</b> Epic Leadership.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements_Spells" docbookid="EpicPrestigeClasses195" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,requir,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> Ability to cast 5th-level divine spells.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Requirements_Special" docbookid="EpicPrestigeClasses196" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,requir,special"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Must have a patron deity.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Skills" docbookid="EpicPrestigeClasses197" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The high proselytizer's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses198" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,level,point,prestig,progress,proselyt,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Table: The High Proselytizer" origname="Table: The High Proselytizer" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Skills_Table_The_High_Proselytizer" docbookid="EpicPrestigeClasses199" refname="Table: The High Proselytizer" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,high,prestig,progress,proselyt,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The High Proselytizer"><b>Table: The High Proselytizer</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b></para></cell>
+<cell><para><b>Spells per Day</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para><i>proselytize</i> 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para><i>heal</i> 1/day</para></cell>
+<cell><para>+1 level of divine spellcasting class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para><i>Proselytize (deific touch</i>) 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell><para>+1 level of divine spellcasting class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para><i>Proselytize (deific word</i>) 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para><i>heal</i> 2/day</para></cell>
+<cell><para>+1 level of divine spellcasting class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para><i>Proselytize (deific face</i>) 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell><para>+1 level of divine spellcasting class</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para><i>Proselytize (deific aura</i>) 1/day</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para><i>heal</i> 3/day</para></cell>
+<cell><para>+1 level of divine spellcasting class</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Features" docbookid="EpicPrestigeClasses200" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,high,prestig,progress,proselyt"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the high proselytizer prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses201" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,epic,featur,high,prestig,profici,progress,proselyt,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> High proselytizers are proficient with all simple weapons, all armor, and all shields.</para><para reftype="classinfo" refcase="no" refname="Spells Per Day"><b>Spells per Day:</b> At every other high proselytizer level, the character gains new spells per day as if he or she had also gained a level in a divine spellcasting class to which he or she belonged before adding the prestige class level. If already an epic spellcaster, the character gains only the benefit noted under the Spells entry for that epic class. He or she does not, however, gain any other benefit a character of that class would have gained. If the character had more than one divine spellcasting class before becoming a high proselytizer, the player must decide to which class to add each high proselytizer level for the purpose of determining spells per day.</para>
+</topic><topic level="8" name="Proselytize" origname="Proselytize (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Features_Proselytize" docbookid="EpicPrestigeClasses202" refname="Proselytize" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,high,prestig,progress,proselyt"><para reftype="classinfo" refcase="no" refname="Proselytize"><b><i>proselytize</i> (Sp):</b> At 1st level, the high proselytizer gains the ability to preach the word of his or her deity to large crowds with great effect. He or she may speak in such a manner once per day, plus one additional time per day per ten class levels thereafter.</para><para><i>proselytize</i> has three effects. First, any time the high proselytizer is speaking in this manner, he or she is treated as though affected by a <i>sanctuary</i> spell. Second, his or her voice can be heard clearly by anyone within a radius of 100 feet plus 50 feet per class level, regardless of background noise, and his or her speech can be understood as though the audience were affected by a <i>comprehend languages</i> spell. Finally, everyone in the range of the high proselytizer's voice immediately has a chance of becoming enraptured:</para><table>
+<row/>
+<row>
+<cell><para><b>Type of Listener</b></para></cell>
+<cell><para><b>Effect</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Followers of the same deity</para></cell>
+<cell><para>Automatic if 10 or fewer HD, otherwise Will save (DC 20 + 1/2 high proselytizer's class level + Wis modifier)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Others of the same alignment</para></cell>
+<cell><para>Automatic if 5 or fewer HD, otherwise Will save (as above)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All others</para></cell>
+<cell><para>Will save (as above)</para></cell>
+<cell/>
+</row>
+</table><para>Enraptured audience members act as though affected by a <i>symbol of persuasion</i>, changing alignment as appropriate and otherwise functioning according to the <i>charm person</i> spell. The high proselytizer can inspire the crowd to take any of a number of actions, depending on his or her alignment. Any suicidal suggestion grants audience members a new saving throw to break the rapture (with the exception of low-level followers of the same deity, who never got a save in the first place). This rapture lasts for 10 minutes plus an additional 5 minutes per high proselytizer level.</para><para>At 3rd level, the high proselytizer's proselytize ability includes deific touch once per day, plus one additional time per day per ten levels thereafter. During his or her speech, the high proselytizer can move among the enraptured, shaking hands, caressing brows, and otherwise making contact with audience members. Anyone so touched is healed of 1d4 points of damage and cured of any natural disease or poison. Up to six individuals per round can be so affected. An audience member can only benefit from deific touch once per proselytize session. The high proselytizer can use deific touch as long as his or her proselytize ability lasts.</para><para>At 5th level, the <i>proselytize</i> ability includes <i>deific word</i> once per day, plus one additional time per day per ten levels thereafter. The words spoken by the high proselytizer can, if he or she chooses, function as a triple-strength <i>sound burst</i> spell (3d8 points of sonic damage and a Will save to avoid being stunned for 3 rounds) to all who are not enraptured, as the spell cast by a 20th-level cleric. The <i>deific word</i> can occur at any point during his or her <i>proselytize</i> speech.</para><para>At 7th level, the <i>proselytize</i> ability includes <i>deific face</i> once per day, plus one additional time per day per ten levels thereafter. When the high proselytizer speaks, he or she can cause a blinding burst to shine from his or her face. <i>deific face</i> functions against all in the audience who are not enraptured as the <i>sunburst</i> spell cast by a 20th-level cleric. The <i>deific face</i> can occur at any point during his or her speech.</para><para>At 9th level, the <i>proselytize</i> ability includes <i>Deific aura</i> once per day, plus one additional time per day per ten levels thereafter. When the high proselytizer speaks, he or she can cause a rolling wave of deific power to spring from his or her body that functions as either a <i>blasphemy</i>,  <i>dictum</i>,  <i>holy word</i>, <i/> or <i>word of chaos</i> spell (as appropriate for his or her alignment), affecting only those in the audience who have resisted becoming enraptured. <i>Deific aura</i> otherwise functions as the relevant spell cast by a 20th-level cleric. The <i>Deific aura</i> can occur at any point during his or her speech.</para>
+</topic><topic level="8" name="Heal" origname="Heal (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Features_Heal" docbookid="EpicPrestigeClasses203" refname="Heal" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,heal,high,prestig,progress,proselyt"><para reftype="classinfo" refcase="no" refname="Heal"><b><i>heal</i> (Sp):</b> At 2nd level, the high proselytizer can use <i>heal</i> on his or herself or another creature once per day, plus one additional time per day per four levels thereafter.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_High_Proselytizer_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses204" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,featur,high,prestig,progress,proselyt"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The high proselytizer gets a bonus feat at 4th level and an additional bonus feat every four levels thereafter. These bonus feats must be chosen from the following list: Armor Skin, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Reputation, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Epic Will, Extended Life Span, Great Charisma, Great Wisdom, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Legendary Commander, Multispell, Negative Energy Burst, Per-manent Emanation, Planar Turning, Polyglot, Positive Energy Aura, Spectral Strike, Spell Stowaway, Spell Opportunity, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Legendary Dreadnought" origname="Legendary Dreadnought" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought" docbookid="EpicPrestigeClasses205" refname="Legendary Dreadnought" reftype="class" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,prestig,progress"><para reftype="class" refcase="no" refname="Legendary Dreadnought" style="heading 3">Legendary Dreadnought</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Hit_Die" docbookid="EpicPrestigeClasses206" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,dreadnought,epic,hit,legendari,prestig,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d12.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Requirements" docbookid="EpicPrestigeClasses207" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a legendary dreadnought, a character must fulfill all the following criteria.</para><topic level="8" name="Base Attack Bonus" origname="Base Attack Bonus" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Requirements_Base_Attack_Bonus" docbookid="EpicPrestigeClasses208" refname="Base Attack Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="attack,base,bonu,class,dreadnought,epic,legendari,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Base Attack Bonus"><b>Base Attack Bonus:</b> +23.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Requirements_Skills" docbookid="EpicPrestigeClasses209" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,prestig,progress,requir,skill"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Intimidate 15 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Requirements_Feats" docbookid="EpicPrestigeClasses210" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,feat,legendari,prestig,progress,requir"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Critical.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Skills" docbookid="EpicPrestigeClasses211" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The legendary dreadnought's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Intimidate (Cha), Jump (Str), and Swim (Str).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses212" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,level,point,prestig,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 2 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Legendary Dreadnought" origname="Table: The Legendary Dreadnought" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Skills_Table_The_Legendary_Dreadnought" docbookid="EpicPrestigeClasses213" refname="Table: The Legendary Dreadnought" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,legendari,prestig,progress,skill,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Legendary Dreadnought"><b>Table: The Legendary Dreadnought</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>Unstoppable 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Unmovable 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para>Shrug off punishment</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Thick skinned</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Unstoppable 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>Unmovable 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Shrug off punishment</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>Thick skinned</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features" docbookid="EpicPrestigeClasses214" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,featur,legendari,prestig,progress"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the legendary dreadnought prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses215" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,dreadnought,epic,featur,legendari,prestig,profici,progress,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> A legendary dreadnought is proficient with all simple and martial weapons, all armor, and all shields.</para>
+</topic><topic level="8" name="Unstoppable" origname="Unstoppable (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features_Unstoppable" docbookid="EpicPrestigeClasses216" refname="Unstoppable" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,featur,legendari,prestig,progress,unstopp"><para reftype="classinfo" refcase="no" refname="Unstoppable"><b>Unstoppable (Ex):</b> At 1st level, the legendary dreadnought can concentrate his or her power, gaining a +20 bonus on his or her Strength check to break or burst a door or item once per day, plus one additional time per day every five levels thereafter. As a special use of this ability, the legendary dreadnought can attempt to break a <i>wall of force</i> (Strength DC 32, and the character applies his or her unstoppable bonus to this check as well). Alternatively, the legendary dreadnought can apply the +20 bonus to a single attack roll.</para>
+</topic><topic level="8" name="Unmovable" origname="Unmovable (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features_Unmovable" docbookid="EpicPrestigeClasses217" refname="Unmovable" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,featur,legendari,prestig,progress,unmov"><para reftype="classinfo" refcase="no" refname="Unmovable"><b>Unmovable (Ex):</b> At 2nd level, the legendary dreadnought can concentrate his or her power, making him or herself unmovable once per day, plus one additional time per day every five levels thereafter.  This power grants the character a +20 bonus on any one of the following:</para><para>A grapple check made to avoid being grabbed with the improved grab ability.</para><para>A Strength check to avoid the effects of a bull rush, trip attempt, or similar effect.</para><para>A Strength check against any effect that would move the character either physically or magically.</para><para>Any one saving throw. If an effect that would move the character either physically or magically does not normally allow a saving throw, the legendary dreadnought can use this ability to gain a Will saving throw. He or she still gains the +20 bonus on the saving throw in such a case.</para><para reftype="classinfo" refcase="no" refname="Shrug Off Punishment"><b>Shrug off Punishment (Ex):</b> The legendary dreadnought gains 12 bonus hit points at 3rd level and 12 more every five levels thereafter.</para>
+</topic><topic level="8" name="Thick Skinned" origname="Thick Skinned (Ex)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features_Thick_Skinned" docbookid="EpicPrestigeClasses218" refname="Thick Skinned" reftype="classinfo" refcase="no" refaltname="" keywords="class,dreadnought,epic,featur,legendari,prestig,progress,skin,thick"><para reftype="classinfo" refcase="no" refname="Thick Skinned"><b>Thick Skinned (Ex):</b> At 4th level, the legendary dreadnought gains damage reduction 3/-. This does not stack with damage reduction granted by magic items or nonpermanent magical effects, but it does stack with any damage reduction granted by permanent magical effects, class features, the Damage Reduction feat, and this ability itself. The damage reduction improves by 3 points every five levels thereafter</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Legendary_Dreadnought_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses219" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,dreadnought,epic,feat,featur,legendari,prestig,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The legendary dreadnought gets a bonus feat at 5th level and an additional bonus feat every five levels thereafter. These bonus feats must be selected from the following list: Armor Skin, Devastating Critical, Dire Charge, Epic Fortitude, Epic Prowess, Epic Toughness, Epic Weapon Focus, Epic Weapon Specialization, Fast Healing, Great Constitution, Great Strength, Improved Combat Reflexes, Overwhelming Critical, Penetrate Damage Reduction.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Perfect Wight" origname="Perfect Wight" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight" docbookid="EpicPrestigeClasses220" refname="Perfect Wight" reftype="class" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,wight"><para reftype="class" refcase="no" refname="Perfect Wight" style="heading 3">Perfect Wight</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Hit_Die" docbookid="EpicPrestigeClasses221" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Requirements" docbookid="EpicPrestigeClasses222" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,requir,wight"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a perfect wight, a character must fulfill all the following criteria.</para><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Requirements_Skills" docbookid="EpicPrestigeClasses223" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,requir,skill,wight"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Hide 24 ranks, Move Silently 24 ranks.</para>
+</topic><topic level="8" name="Epic Feats" origname="Epic Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Requirements_Epic_Feats" docbookid="EpicPrestigeClasses224" refname="Epic Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,perfect,prestig,progress,requir,wight"><para reftype="classinfo" refcase="no" refname="Epic Feats"><b>Epic Feats:</b> Self-Concealment.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Requirements_Special" docbookid="EpicPrestigeClasses225" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,requir,special,wight"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Sneak attack +10d6.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Skills" docbookid="EpicPrestigeClasses226" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,skill,wight"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The perfect wight's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Disable Device (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Intimidate (Wis), Jump (Str), Knowledge (any) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Search (Int), Spot (Wis), Survival (Wis), Tumble (Dex), and Use Rope (Dex).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses227" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,level,perfect,point,prestig,progress,skill,wight"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 8 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Perfect Wight" origname="Table: The Perfect Wight" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Skills_Table_The_Perfect_Wight" docbookid="EpicPrestigeClasses228" refname="Table: The Perfect Wight" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,perfect,prestig,progress,skill,tabl,wight"><para reftype="classinfo" refcase="no" refname="Table: The Perfect Wight"><b>Table: The Perfect Wight</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>Greater invisibility 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>Improved legerdemain 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para>Incorporeal 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Shadow form 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>Greater invisibility 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>Improved legerdemain 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>Incorporeal 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>Shadow form 2/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features" docbookid="EpicPrestigeClasses229" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the perfect wight prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses230" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,epic,featur,perfect,prestig,profici,progress,weapon,wight"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> A perfect wight gains no proficiency with any weapons, armor, or shields.</para>
+</topic><topic level="8" name="Greater Invisibility" origname="Greater Invisibility (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Greater_Invisibility" docbookid="EpicPrestigeClasses231" refname="Greater Invisibility" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,greater,invis,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Greater Invisibility"><b>Greater Invisibility (Su):</b> Starting at 1st level, the perfect wight gains the benefit of <i>greater invisibility</i> once per day, plus one additional time per day every five levels thereafter. The <i>greater invisibility</i> is as the spell cast by a 20th-level caster.</para>
+</topic><topic level="8" name="Improved Legerdemain" origname="Improved Legerdemain (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Improved_Legerdemain" docbookid="EpicPrestigeClasses232" refname="Improved Legerdemain" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,improv,legerdemain,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Improved Legerdemain"><b>Improved Legerdemain (Su):</b> A perfect wight can perform the following class skills at a range of 30 feet: Disable Device, Open Lock, Pick Pocket, and Search. If desired, the perfect wight can take 10 on the check. Any object manipulated during the skill check must weigh 100 pounds or less. Alternatively, the perfect wight can use improved legerdemain to make one melee sneak attack against any creature within 30 feet. The perfect wight executes the sneak attack (or death attack, if applicable) as if attacking from a flanking position. If the attack is successful, the victim is dealt the appropriate sneak attack damage despite the fact that the perfect wight and his or her weapon do not physically cross the intervening distance. A perfect wight can use improved legerdemain once per day at 2nd level, plus one additional time per day every five levels thereafter.</para>
+</topic><topic level="8" name="Incorporeal" origname="Incorporeal (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Incorporeal" docbookid="EpicPrestigeClasses233" refname="Incorporeal" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,incorpor,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Incorporeal"><b>Incorporeal (Su):</b> At 3rd level, the perfect wight can become incorporeal once per day, plus one additional time per day every five levels thereafter. A perfect wight can remain incorporeal for a number of rounds equal to 20 + his or her perfect wight level. As an incorporeal creature, the perfect wight can be harmed only by other incorporeal creatures, +1 or better magic weapons, and spells, spell-like abilities, and supernatural abilities. He or she is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, the perfect wight has a 50% chance to ignore any damage from a corporeal source (except for force effects or attacks made with ghost touch weapons). An incorporeal perfect wight has no natural armor but has a deflection bonus equal to his or her Charisma modifier (always at least +1, even if his or her Charisma score does not normally provide a bonus). An incorporeal perfect wight can pass through solid objects at will, but not force effects. His or her attack ignores natural armor, armor, and shields, although deflection bonuses and force effects work normally against it. An incorporeal perfect wight moves silently and cannot be heard with Listen checks if he or she doesn't wish to be. While incorporeal, the perfect wight has no Strength score, so his or her Dexterity modifier applies to both melee and ranged attacks.</para>
+</topic><topic level="8" name="Shadow Form" origname="Shadow Form (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Shadow_Form" docbookid="EpicPrestigeClasses234" refname="Shadow Form" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,form,perfect,prestig,progress,shadow,wight"><para reftype="classinfo" refcase="no" refname="Shadow Form"><b>Shadow Form (Su):</b> At 4th level, the perfect wight can take shadow form once per day, plus one additional time per day every five levels thereafter. The perfect wight's shadow form lasts 1 minute per level of the prestige class. While in shadow form the perfect wight is incorporeal (see above), is immune to critical hits, and can fly at a speed of 100 feet (good). The perfect wight can also use the substance of his or her own shadow to enhance his or her effective level on any attack roll, check, or saving throw. Drawing power from his or her own shadow form deals the perfect wight 7 points of damage for each +1 bonus on a single roll or +1 effective level for any other single use.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Perfect_Wight_Class_Features_Bonus_Feats" docbookid="EpicPrestigeClasses235" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,featur,perfect,prestig,progress,wight"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The perfect wight gets a bonus feat at 5th level and an additional bonus feat every five levels thereafter. These bonus feats must be selected from the following list: Blinding Speed, Combat Archery, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Reputation, Epic Skill Focus, Epic Speed, Epic Trapfinding, Improved Combat Reflexes, Improved Sneak Attack, Legendary Climber, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spellcasting Harrier, Superior Initiative, Uncanny Accuracy.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Union Sentinel" origname="Union Sentinel" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel" docbookid="EpicPrestigeClasses236" refname="Union Sentinel" reftype="class" refcase="no" refaltname="" keywords="class,epic,prestig,progress,sentinel,union"><para reftype="class" refcase="no" refname="Union Sentinel" style="heading 3">Union Sentinel</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Hit_Die" docbookid="EpicPrestigeClasses237" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10.</para>
+</topic><topic level="5" name="Requirements" origname="Requirements" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements" docbookid="EpicPrestigeClasses238" refname="Requirements" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,requir,sentinel,union"><para reftype="classinfo" refcase="no" refname="Requirements" style="heading 5"><b>Requirements</b></para><para>To qualify to become a Union Sentinel, a character must fulfill all the following criteria.</para><topic level="8" name="Alignment" origname="Alignment" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Alignment" docbookid="EpicPrestigeClasses239" refname="Alignment" reftype="classinfo" refcase="no" refaltname="" keywords="align,class,epic,prestig,progress,requir,sentinel,union"><para reftype="classinfo" refcase="no" refname="Alignment"><b>Alignment:</b> Any lawful.</para>
+</topic><topic level="8" name="Base Attack Bonus" origname="Base Attack Bonus" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Base_Attack_Bonus" docbookid="EpicPrestigeClasses240" refname="Base Attack Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="attack,base,bonu,class,epic,prestig,progress,requir,sentinel,union"><para reftype="classinfo" refcase="no" refname="Base Attack Bonus"><b>Base Attack Bonus:</b> +21.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Skills" docbookid="EpicPrestigeClasses241" refname="Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,requir,sentinel,skill,union"><para reftype="classinfo" refcase="no" refname="Skills"><b>Skills:</b> Diplomacy 8 ranks, Knowledge (local) 8 ranks.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Feats" docbookid="EpicPrestigeClasses242" refname="Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,prestig,progress,requir,sentinel,union"><para reftype="classinfo" refcase="no" refname="Feats"><b>Feats:</b> Alertness, Improved Disarm.</para>
+</topic><topic level="8" name="Epic Feats" origname="Epic Feats" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Epic_Feats" docbookid="EpicPrestigeClasses243" refname="Epic Feats" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,feat,prestig,progress,requir,sentinel,union"><para reftype="classinfo" refcase="no" refname="Epic Feats"><b>Epic Feats:</b> Armor Skin.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Requirements_Special" docbookid="EpicPrestigeClasses244" refname="Special" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,requir,sentinel,special,union"><para reftype="classinfo" refcase="no" refname="Special"><b>Special:</b> Must reside in a demiplane-city.</para>
+</topic>
+</topic><topic level="5" name="Class Skills" origname="Class Skills" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Skills" docbookid="EpicPrestigeClasses245" refname="Class Skills" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,sentinel,skill,union"><para reftype="classinfo" refcase="no" refname="Class Skills" style="heading 5"><b>Class Skills</b></para><para>The Union Sentinel's class skills (and the key ability for each skill) are Diplomacy (Cha), Gather Information (Cha), Intimidate (Cha), Knowledge (local) (Int), Listen (Wis), Profession (Wis), Search (Int), Sense Motive (Wis), and Spot (Wis).</para><topic level="8" name="Skill Points at Each Level" origname="Skill Points at Each Level" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Skills_Skill_Points_at_Each_Level" docbookid="EpicPrestigeClasses246" refname="Skill Points at Each Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,level,point,prestig,progress,sentinel,skill,union"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Level"><b>Skill Points at Each Level:</b> 2 + Int modifier.</para><para/>
+</topic><topic level="8" name="Table: The Union Sentinel" origname="Table: The Union Sentinel" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Skills_Table_The_Union_Sentinel" docbookid="EpicPrestigeClasses247" refname="Table: The Union Sentinel" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,prestig,progress,sentinel,skill,tabl,union"><para reftype="classinfo" refcase="no" refname="Table: The Union Sentinel"><b>Table: The Union Sentinel</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1st</para></cell>
+<cell><para><i>sending</i> 1/day, <i>shield of law</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para><i>Freedom</i> 1/day, <i>knock</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para><i>Dimensional anchor</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>Portal guardian 1/day, <i>shield of law</i> 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para><i>forcecage</i> 1/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para><i>Dimensional anchor</i> 2/day, <i>knock</i> 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para><i>imprisonment</i> 1/day, <i>shield of law</i> 3/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para><i>Freedom</i> 2/day, <i>sending</i> 2/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para><i>Dimensional anchor</i> 3/day</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10th</para></cell>
+<cell><para><i>knock</i> 3/day, <i>forcecage</i> 2/day, portal guardian 2/day, shield of law 4/day</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Class Features" origname="Class Features" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features" docbookid="EpicPrestigeClasses248" refname="Class Features" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Class Features" style="heading 5"><b>Class Features</b></para><para>The following are class features of the Union Sentinel prestige class.</para><topic level="8" name="Weapon and Armor Proficiency" origname="Weapon and Armor Proficiency" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Weapon_and_Armor_Proficiency" docbookid="EpicPrestigeClasses249" refname="Weapon and Armor Proficiency" reftype="classinfo" refcase="no" refaltname="" keywords="armor,class,epic,featur,prestig,profici,progress,sentinel,union,weapon"><para reftype="classinfo" refcase="no" refname="Weapon and Armor Proficiency"><b>Weapon and Armor Proficiency:</b> Union Sentinels are proficient with all simple and martial weapons, all armor, and all shields.</para>
+</topic><topic level="8" name="Sending" origname="Sending (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Sending" docbookid="EpicPrestigeClasses250" refname="Sending" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,prestig,progress,send,sentinel,union"><para reftype="classinfo" refcase="no" refname="Sending"><b><i>sending</i> (Sp):</b> At 1st level, the Union Sentinel gains the use of the <i>sending</i> spell as a spell-like ability once per day, plus one additional time per day every seven levels thereafter. This ability functions as the spell cast by a 15th-level caster.</para>
+</topic><topic level="8" name="Shield of Law" origname="Shield of Law (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Shield_of_Law" docbookid="EpicPrestigeClasses251" refname="Shield of Law" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,law,prestig,progress,sentinel,shield,union"><para reftype="classinfo" refcase="no" refname="Shield of Law"><b><i>shield of law</i> (Sp):</b> At 1st level, the Union Sentinel gains the use of the <i>shield of law</i> spell as a spell-like ability once per day, plus one additional time per day every three levels thereafter. This ability functions as the spell cast by a 15th-level caster.</para>
+</topic><topic level="8" name="Freedom" origname="Freedom (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Freedom" docbookid="EpicPrestigeClasses252" refname="Freedom" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,freedom,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Freedom"><b><i>Freedom</i> (Sp):</b> At 2nd level, the Union Sentinel gains the use of the <i>Freedom</i> spell as a spell-like ability once per day, plus one additional time per day every six levels thereafter. This ability functions as the spell cast by an 18th-level caster.</para>
+</topic><topic level="8" name="Knock" origname="Knock (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Knock" docbookid="EpicPrestigeClasses253" refname="Knock" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,knock,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Knock"><b><i>knock</i> (Sp):</b> At 2nd level, the Union Sentinel gains the use of the <i>knock</i> spell as a spell-like ability once per day, plus one additional time per day every four levels thereafter. This ability functions as the spell cast by a 15th-level caster.</para>
+</topic><topic level="8" name="Dimensional Anchor" origname="Dimensional Anchor (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Dimensional_Anchor" docbookid="EpicPrestigeClasses254" refname="Dimensional Anchor" reftype="classinfo" refcase="no" refaltname="" keywords="anchor,class,dimension,epic,featur,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Dimensional Anchor"><b><i>Dimensional anchor</i> (Sp):</b> At 3rd level, the Union Sentinel gains the use of the <i>Dimensional anchor</i> spell as a spell-like ability once per day, plus one additional time per day every three levels thereafter. This ability functions as the spell cast by a 15th-level caster.</para>
+</topic><topic level="8" name="Portal Guardian" origname="Portal Guardian (Su)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Portal_Guardian" docbookid="EpicPrestigeClasses255" refname="Portal Guardian" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,guardian,portal,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Portal Guardian"><b>Portal Guardian (Su):</b> A 4th-level Union Sentinel can become a portal guardian once per day, plus one additional time per day every six levels thereafter. The Union Sentinel must position him or herself within 5 feet of a portal or <i>gate</i>, and while he or she remains, the portal cannot be activated from either side by any means. The Union Sentinel can defend him or herself and use any of his or her other abilities normally, as long as he or she remains adjacent to the blocked portal. This ability only functions against portals and the <i>gate</i> spell, not against creatures with other spell-like or supernatural interplanar traveling abilities.</para>
+</topic><topic level="8" name="Forcecage" origname="Forcecage (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Forcecage" docbookid="EpicPrestigeClasses256" refname="Forcecage" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,forcecag,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Forcecage"><b><i>forcecage</i> (Sp):</b> At 5th level, the Union Sentinel gains the use of the <i>forcecage</i> spell as a spell-like ability once per day, plus one additional time per day every five levels thereafter. This ability functions as the spell cast by a 20th-level caster.</para>
+</topic><topic level="8" name="Imprisonment" origname="Imprisonment (Sp)" linkname="Classes_Epic_Prestige_Class_Progressions_Epic_Prestige_Classes_Union_Sentinel_Class_Features_Imprisonment" docbookid="EpicPrestigeClasses257" refname="Imprisonment" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,featur,imprison,prestig,progress,sentinel,union"><para reftype="classinfo" refcase="no" refname="Imprisonment"><b><i>imprisonment</i> (Sp):</b> At 7th level, the Union Sentinel gains the use of the <i>imprisonment</i> spell as a spell-like ability once per week, plus one additional time per week every five levels thereafter. This ability functions as the spell cast by a 20th-level caster.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>

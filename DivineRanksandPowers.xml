@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Divine Characters &gt; Divine Ranks and Powers">
+<info>
+<title>RANKS OF DIVINE POWER</title>
+<author>asmith</author>
+<operator>asmith</operator>
+</info>
+<topic level="0" name="Divine Characters" linkname="Divine_Characters" docbookid="DivineRanksandPowers0" keywords="charact,divin"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Divine Ranks and Powers" origname="Divine Ranks and Powers" linkname="Divine_Characters_Divine_Ranks_and_Powers" docbookid="DivineRanksandPowers1" keywords="charact,divin,power,rank"><para style="heading 1">Divine Ranks and Powers</para><para/><topic level="5" name="Divine Ranks" origname="Divine Ranks" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks" docbookid="DivineRanksandPowers2" refname="Divine Ranks" reftype="salient" refcase="no" refaltname="" keywords="charact,divin,power,rank"><para reftype="salient" refcase="no" refname="Divine Ranks" style="heading 5">Divine Ranks</para><para>Each deity has a divine rank. A deity's divine rank determines how much power the entity has.</para><para/><topic level="8" name="Rank 0" origname="Rank 0" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_0" docbookid="DivineRanksandPowers3" refname="Rank 0" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 0"><b>Rank 0:</b> Creatures of this rank are sometimes called quasi-deities or hero deities. Creatures that have a mortal and a deity as parents also fall into this category. These entities cannot grant spells, but are immortal and usually have one or more ability scores that are far above the norm for their species. They may have some worshipers. Ordinary mortals do not have a divine rank of 0. They lack a divine rank altogether.</para><para/>
+</topic><topic level="8" name="Rank 1-5" origname="Rank 1-5" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_1_5" docbookid="DivineRanksandPowers4" refname="Rank 1-5" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 1-5"><b>Rank 1-5:</b> These entities, called demigods, are the weakest of the deities. A demigod can grant spells and perform a few deeds that are beyond mortal limits. A demigod has anywhere from a few hundred to a few thousand devoted mortal worshipers and may receive veneration or respect from many more. A demigod controls a small godly realm (usually on an Outer Plane) and has minor control over a portfolio that includes one or more aspects of mortal existence. A demigod might be very accomplished in a single skill or a group of related skills, gain combat advantages in special circumstances, or be able to bring about minor changes in reality itself related to the portfolio.</para><para/>
+</topic><topic level="8" name="Rank 6-10" origname="Rank 6-10" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_6_10" docbookid="DivineRanksandPowers5" refname="Rank 6-10" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 6-10"><b>Rank 6-10:</b> Called lesser deities, these entities grant spells and can perform more powerful deeds than demigods can. Lesser deities have anywhere from a few thousand to tens of thousands of worshipers and control larger godly realms than demigods. They also have keener senses where their portfolios are concerned.</para><para/>
+</topic><topic level="8" name="Rank 11-15" origname="Rank 11-15" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_11_15" docbookid="DivineRanksandPowers6" refname="Rank 11-15" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 11-15"><b>Rank 11-15:</b> These entities are called intermediate deities. They have hundreds of thousands of mortal worshipers and control larger godly realms than demigods or lesser deities.</para><para/>
+</topic><topic level="8" name="Rank 16-20" origname="Rank 16-20" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_16_20" docbookid="DivineRanksandPowers7" refname="Rank 16-20" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 16-20"><b>Rank 16-20:</b> Called greater deities, these entities may have millions of mortal worshipers, and they command respect even among other deities. The most powerful of greater deities rule over other deities just as mortal sovereigns rule over commoners.</para><para/>
+</topic><topic level="8" name="Rank 21+" origname="Rank 21+" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Ranks_Rank_21" docbookid="DivineRanksandPowers8" refname="Rank 21+" reftype="other" refcase="yes" refaltname="" keywords="charact,divin,power,rank"><para reftype="other" refcase="yes" refname="Rank 21+"><b>Rank 21+:</b> These entities are beyond the ken of mortals and care nothing for worshipers. They do not grant spells, do not answer prayers, and do not respond to queries. If they are known at all, it is to a handful of scholars on the Material Plane. They are called overdeities. In some pantheistic systems, the consent of an overdeity is required to become a god. 25</para><para/>
+</topic>
+</topic><topic level="5" name="Divine Characteristics" origname="Divine Characteristics" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics" docbookid="DivineRanksandPowers9" refname="Divine Characteristics" reftype="salient" refcase="no" refaltname="" keywords="charact,characterist,divin,power,rank"><para reftype="salient" refcase="no" refname="Divine Characteristics" style="heading 5">Divine Characteristics</para><para>Most deities are creatures of the outsider type (usually with 20 outsider Hit Dice). All deities that are outsiders have all alignment subtypes that correspond with their alignment.  Unlike other outsiders, they have no darkvision unless noted in the deity description. Deities' physical characteristics vary from deity to deity. A deity's outsider type, along with its class or classes, determines its weapon proficiencies, feats, and skills. Deities have some or all of the following additional qualities, depending on their divine rank.</para><para/><topic level="8" name="Levels" origname="Levels" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Levels" docbookid="DivineRanksandPowers10" refname="Levels" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,level,power,rank"><para reftype="other" refcase="yes" refname="Levels"><b>Levels:</b> Most deities are 20 HD outsiders with 30 to 50 character levels as well. These additional character levels beyond an effective character level of 20th follow the rules for epic levels.</para><para>Character levels above 20th confer some, but not all, of the benefits of normal levels. Deities gain all the class features for all their levels. The deity also gains the normal Hit Die for that class, plus additional skill points as if the deity had a level in that class normally. The deity gains an ability bonus every four levels, and a feat every three levels.</para><para>Beyond character level 20th, deities' attack and saving throw bonuses increase at new rates. Deities gain a +1 epic attack bonus at 21st level and every other level thereafter. No deity can have more than four attacks derived strictly from its base attack bonus.  Deities also gain a +1 bonus on saving throws at 22nd level and every other level thereafter.</para><para/>
+</topic><topic level="8" name="Hit Points" origname="Hit Points" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Hit_Points" docbookid="DivineRanksandPowers11" refname="Hit Points" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,hit,point,power,rank"><para reftype="other" refcase="yes" refname="Hit Points"><b>Hit Points:</b> Deities receive maximum hit points for each Hit Die.</para><para/>
+</topic><topic level="8" name="Speed" origname="Speed" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Speed" docbookid="DivineRanksandPowers12" refname="Speed" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,power,rank,spe"><para reftype="other" refcase="yes" refname="Speed"><b>Speed:</b> Deities can move much more quickly than mortals. A deity's base land speed depends on its form (biped or quadruped) and its size, as shown on the following table. Some deities are exceptions, with speeds faster or slower than the norm.</para><table>
+<row/>
+<row>
+<cell><para><b>Size</b> </para></cell> <cell><para><b>Biped*</b></para></cell>
+<cell><para><b>Quadruped**</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Fine</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Diminutive</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>70 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>80 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>50 ft.</para></cell>
+<cell><para>90 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>100 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>80 ft.</para></cell>
+<cell><para>120 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Huge</para></cell>
+<cell><para>100 ft.</para></cell>
+<cell><para>140 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gargantuan</para></cell>
+<cell><para>120 ft.</para></cell>
+<cell><para>160 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Colossal</para></cell>
+<cell><para>140 ft.</para></cell>
+<cell><para>180 ft.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>*Or any form with two or fewer legs.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>**Or any form with three or more legs.</para></cell>
+<cell/>
+</row>
+</table><para>Note: Use the Biped column for burrow and swim speeds for all deities regardless of form. Use half the value in the Biped column for climb speeds for all deities. Use twice the value in the Quadruped column for fly speeds for all deities capable of flying.</para><para/>
+</topic><topic level="8" name="Armor Class" origname="Armor Class" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Armor_Class" docbookid="DivineRanksandPowers13" refname="Armor Class" reftype="other" refcase="yes" refaltname="" keywords="armor,charact,characterist,class,divin,power,rank"><para reftype="other" refcase="yes" refname="Armor Class"><b>Armor Class:</b> A field of divine energy encompasses a deity's body, granting it a divine Armor Class bonus equal to its divine rank. This bonus stacks with all other Armor Class bonuses and is effective against touch attacks and incorporeal touch attacks.</para><para>Most deities (all those with 20 outsider Hit Dice) have a natural armor bonus of their divine rank +13. All deities also have a deflection bonus to their AC equal to their Charisma bonus (if any).</para><para>Deities who aren't outsiders have their normal natural armor bonus + their divine rank.</para><para>Many deities have other Armor Class bonuses as noted in their individual descriptions.</para><para/>
+</topic><topic level="8" name="Attacks" origname="Attacks" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Attacks" docbookid="DivineRanksandPowers14" refname="Attacks" reftype="other" refcase="yes" refaltname="" keywords="attack,charact,characterist,divin,power,rank"><para reftype="other" refcase="yes" refname="Attacks"><b>Attacks:</b> A deity's Hit Dice and type and character level determine its base attack bonus. In addition to the figures for weapon attacks, this section of the statistics block also includes melee touch attack and ranged touch attack bonuses, to be used when the deity casts a spell or uses a spell-like ability that requires a touch attack to affect its target. A deity gets its divine rank as a divine bonus on all attack rolls. Deities of rank 1 or higher do not automatically fail on a natural attack roll of 1.</para><para><i>Bypassing Damage Reduction:</i> As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing damage reduction.</para><para/>
+</topic><topic level="8" name="Always Maximize Roll" origname="Always Maximize Roll" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Always_Maximize_Roll" docbookid="DivineRanksandPowers15" refname="Always Maximize Roll" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,maxim,power,rank,roll"><para reftype="other" refcase="yes" refname="Always Maximize Roll"><b>Always Maximize Roll:</b> Greater deities (rank 16-20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the Maximize Spell feat, because their spells have maximum effect already.</para><para/>
+</topic><topic level="8" name="Saving Throws" origname="Saving Throws" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Saving_Throws" docbookid="DivineRanksandPowers16" refname="Saving Throws" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,power,rank,save,throw"><para reftype="other" refcase="yes" refname="Saving Throws"><b>Saving Throws:</b> A deity's outsider Hit Dice and character level determine its base saving throw bonuses. A deity gets its divine rank as a divine bonus on all saving throws. Deities of rank 1 or higher do not automatically fail on a natural saving throw roll of 1.</para><para/>
+</topic><topic level="8" name="Checks" origname="Checks" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Checks" docbookid="DivineRanksandPowers17" refname="Checks" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,check,divin,power,rank"><para reftype="other" refcase="yes" refname="Checks"><b>Checks:</b> A deity gets its divine rank as a divine bonus on all skill checks, ability checks, caster level checks, and turning checks. Lesser deities (rank 6-10) may take 10 on any check, provided they need to make a check at all. Intermediate and greater deities (rank 11-20) always get a result of 20 on any check, provided they need to make a check at all.</para><para><i>Deities and Synergy Bonuses</i>
+: For every 20 extra ranks a deity has in a skill, the deity's synergy bonus from the skill (if any) increases by +2.</para><para/>
+</topic><topic level="8" name="Immunities" origname="Immunities" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Immunities" docbookid="DivineRanksandPowers18" refname="Immunities" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,immun,power,rank"><para reftype="other" refcase="yes" refname="Immunities"><b>Immunities:</b> Deities have the following immunities. Individual deities may have more immunities. Unless otherwise indicated, these immunities do not apply if the attacker is a deity of equal or higher rank.</para><para><i>Transmutation:</i> A deity is immune to polymorphing, petrification, or any other attack that alters its form. Any shape-altering powers the deity might have work normally on itself.</para><para><i>Energy Drain</i>,  <i>Ability Drain</i>,  <i>Ability Damage:</i> A deity is not subject to energy drain, ability drain, or ability damage.</para><para><i>Mind-Affecting Effects:</i> A deity is immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).</para><para><i>Energy Immunity:</i> Deities of rank 1 or higher are immune to electricity, cold, and acid, even if the attacker is a deity of higher divine rank. Some deities have additional energy immunities.</para><para>Deities of rank 1 or higher are immune to disease and poison, stunning, sleep, paralysis, and death effects, and disintegration.</para><para>Deities of rank 6 or higher are immune to effects that imprison or banish them. Such effects include <i>banishment</i>,  <i>binding</i>,  <i>dimensional anchor</i>,  <i>dismissal</i>,  <i>imprisonment</i>,  <i>repulsion</i>,  <i>soul bind</i>,  <i>temporal stasis</i>,  <i>trap the soul</i>, <i/> and turning and rebuking.</para><para/>
+</topic><topic level="8" name="Damage Reduction" origname="Damage Reduction" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Damage_Reduction" docbookid="DivineRanksandPowers19" refname="Damage Reduction" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,damag,divin,power,rank,reduct"><para reftype="other" refcase="yes" refname="Damage Reduction"><b>Damage Reduction:</b> A deity has damage reduction as shown below</para><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b></para></cell> <cell><para><b>Damage Reduction</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Quasi-deity (0)</para></cell>
+<cell><para>10/epic</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Demigod (1-5)</para></cell>
+<cell><para>15/epic</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lesser deity (11-15)</para></cell>
+<cell><para>20/epic</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Intermediate deity (11-15)</para></cell>
+<cell><para>25/epic</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Greater deity (16-20)</para></cell>
+<cell><para>30/epic</para></cell>
+<cell/>
+</row>
+</table><para/><para>If the deity also has damage reduction from another source this damage reduction does not stack with the damage reduction granted by divine ranks. Instead, the deity gets the benefit of the best damage reduction in a given situation. Whenever a deity has a second kind of damage reduction that might apply to an attack, that damage reduction is listed in parentheses after the damage reduction entry in the deity's statistics block.</para><para/>
+</topic><topic level="8" name="Resistances" origname="Resistances" linkname="Divine_Characters_Divine_Ranks_and_Powers_Divine_Characteristics_Resistances" docbookid="DivineRanksandPowers20" refname="Resistances" reftype="other" refcase="yes" refaltname="" keywords="charact,characterist,divin,power,rank,resist"><para reftype="other" refcase="yes" refname="Resistances"><b>Resistances:</b> All deities have at least the following resistances.  Individual deities may have additional resistances.</para><para><i>Energy Resistance:</i> A deity has fire resistance of 5 + its divine rank.</para><para><i>Spell Resistance:</i> A deity has spell resistance of 32 + its divine rank.</para><para/>
+</topic>
+</topic><topic level="5" name="Salient Divine Abilities" origname="Salient Divine Abilities" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities" docbookid="DivineRanksandPowers21" refname="Salient Divine Abilities" reftype="salient" refcase="no" refaltname="" keywords="abil,charact,divin,power,rank,salient"><para reftype="salient" refcase="no" refname="Salient Divine Abilities"><b>Salient Divine Abilities</b>: Every deity of rank 1 or higher has at least one additional power, called a salient divine ability, per divine rank (see Salient Divine Abilities).</para><para/><topic level="8" name="Domain Powers" origname="Domain Powers" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Domain_Powers" docbookid="DivineRanksandPowers22" refname="Domain Powers" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,domain,power,rank,salient"><para reftype="other" refcase="yes" refname="Domain Powers"><b>Domain Powers:</b> A deity of rank 1 or higher can use any domain power it can grant a number of times per day equal to its divine rank (if the power normally can be used more often than that, the deity gets the greater number of uses). If a domain power is based on a cleric's level (or one-half a cleric's level), a deity with no cleric levels has an effective cleric level equal to the deity's divine rank (or one-half the deity's divine rank) for this purpose.</para><para/>
+</topic><topic level="8" name="Spell-Like Abilities" origname="Spell-Like Abilities" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Spell_Like_Abilities" docbookid="DivineRanksandPowers23" refname="Spell-Like Abilities" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,power,rank,salient,spell-like"><para reftype="other" refcase="yes" refname="Spell-Like Abilities"><b>Spell-Like Abilities:</b> A deity can use any domain spell it can grant as a spell-like ability at will. The deity's effective caster level for such abilities is 10 + the deity's divine rank. The saving throw DC for such abilities is 10 + the spell level + the deity's Charisma bonus (if any) + the deity's divine rank.</para><para/>
+</topic><topic level="8" name="Immortality" origname="Immortality" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Immortality" docbookid="DivineRanksandPowers24" refname="Immortality" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,immort,power,rank,salient"><para reftype="other" refcase="yes" refname="Immortality"><b>Immortality:</b> All deities (even those of rank 0) are naturally immortal and cannot die from natural causes. Deities do not age, and they do not need to eat, sleep, or breathe. The only way for a deity to die is through special circumstances, usually by being slain in magical or physical combat. Deities of rank 1 or higher are not subject to death from massive damage.</para><para/>
+</topic><topic level="8" name="Senses" origname="Senses" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Senses" docbookid="DivineRanksandPowers25" refname="Senses" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,power,rank,salient,sens"><para reftype="other" refcase="yes" refname="Senses"><b>Senses:</b> Deities of rank 1 or higher have incredibly sensitive perception. Such a deity's senses (including darkvision and low-light vision, if the deity has them) extend out to a radius of one mile per divine rank. Perception is limited to the senses a deity possesses. A deity cannot see through solid objects without using its remote sensing ability or some sort of x-ray vision power.</para><para><i>Remote Sensing:</i> As a standard action, a deity of rank 1 or higher can perceive everything within a radius of one mile per rank around any of its worshipers, holy sites, or other objects or locales sacred to the deity. This supernatural effect can also be centered on any place where someone speaks the deity's name or title for up to 1 hour after the name is spoken, and at any location when an event related to the deity's portfolio occurs. The remote sensing power can cross planes and penetrate any barrier except a divine shield (described in Salient Divine Abilities) or an area otherwise blocked by a deity of equal or higher rank. Remote sensing is not fooled by <i>misdirection</i> or <i>nondetection</i> or similar spells, and it does not create a magical sensor that other creatures can detect. A deity can extend its senses to two or more remote locations at once (depending on divine rank) and still sense what's going on nearby.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b></para></cell>
+<cell><para><b>Remote Locations</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1-5</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-10</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+</table><para/><para>Once a deity chooses a remote location to sense, it automatically receives sensory information from that location until it chooses a new location to sense, or until it can't sense the location.</para><para><i>Block Sensing:</i> As a standard action, a deity of rank 1 or higher can block the sensing ability of other deities of its rank or lower. This power extends for a radius of one mile per rank of the deity, or within the same distance around a temple or other locale sacred to the deity, or the same distance around a portfolio-related event. The deity can block two remote locations at once, plus the area within one mile of itself. The blockage lasts 1 hour per divine rank.</para><para/>
+</topic><topic level="8" name="Portfolio" origname="Portfolio" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Portfolio" docbookid="DivineRanksandPowers26" refname="Portfolio" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,portfolio,power,rank,salient"><para reftype="other" refcase="yes" refname="Portfolio"><b>Portfolio:</b> Every deity of rank 1 or higher has at least limited knowledge and control over some aspect of mortal existence. A deity's connection to its portfolio gives it a number of powers.</para><para><i>Portfolio Sense:</i> Demigods have a limited ability to sense events involving their portfolios. They automatically sense any event that involves one thousand or more people. The ability is limited to the present. Lesser deities automatically sense any event that involves their portfolios and affects five hundred or more people. Intermediate deities automatically sense any event that involves their portfolios, regardless of the number of people involved. In addition, their senses extend one week into the past for every divine rank they have. Greater deities automatically sense any event that involves their portfolios, regardless of the number of people involved. In addition, their senses extend one week into the past and one week into the future for every divine rank they have. When a deity senses an event, it merely knows that the event is occurring and where it is. The deity receives no sensory information about the event. Once a deity notices an event, it can use its remote sensing power to perceive the event.</para><para/>
+</topic><topic level="8" name="Automatic Actions" origname="Automatic Actions" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Automatic_Actions" docbookid="DivineRanksandPowers27" refname="Automatic Actions" reftype="other" refcase="yes" refaltname="" keywords="abil,action,automat,charact,divin,power,rank,salient"><para reftype="other" refcase="yes" refname="Automatic Actions"><b>Automatic Actions:</b> When performing an action within its portfolio, a deity can perform any action as a free action, as long as the check DC is equal to or less than the number on the table below. The number of free actions a deity can perform each round is also determined by the deity's divine rank.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b></para></cell> <cell><para><b>Maximum DC for Automatic Action</b></para></cell>
+<cell><para><b>Free Actions per Round</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1-5</para></cell>
+<cell><para>15</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-10</para></cell>
+<cell><para>20</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>25</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>30</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Create Magic Items" origname="Create Magic Items" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Create_Magic_Items" docbookid="DivineRanksandPowers28" refname="Create Magic Items" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,creat,divin,item,magic,power,rank,salient"><para reftype="other" refcase="yes" refname="Create Magic Items"><b>Create Magic Items:</b> A deity of rank 1 or higher can create magic items related to its portfolio without any requisite item creation feat, provided that the deity possesses all other prerequisites for the item. The maximum item value a deity can create is a function of its divine rank (see the table below). The item's cost and creation time remain unchanged, but the deity is free to undertake any activity when not laboring on the item.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b></para></cell> <cell><para><b>Maximum Market Price</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1-5</para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-10</para></cell>
+<cell><para>30,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>200,000 gp (any nonartifact)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>No maximum (including artifact)</para></cell>
+<cell/>
+</row>
+</table><para/><para>If a deity has the item creation feat pertaining to the item it wishes to create, the cost (in gold and XP) and creation times are halved.</para><para/>
+</topic><topic level="8" name="Divine Aura" origname="Divine Aura" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Divine_Aura" docbookid="DivineRanksandPowers29" refname="Divine Aura" reftype="other" refcase="yes" refaltname="" keywords="abil,aura,charact,divin,power,rank,salient"><para reftype="other" refcase="yes" refname="Divine Aura"><b>Divine Aura:</b> The mere presence of a deity of rank 1 or higher can deeply affect mortals and beings of lower divine rank. All divine aura effects are mind-affecting, extraordinary abilities. Mortals and other deities of lower rank can resist the aura's effects with successful Will saves; the DC is 10 + the deity's rank + the deity's Charisma modifier. Deities are immune to the auras of deities of equal or lower rank. Any being who makes a successful saving throw against a deity's aura power becomes immune to that deity's aura power for one day. Divine aura is an emanation that extends around the deity in a radius whose size is a function of divine rank. The deity chooses the size of the radius and can change it as a free action. If the deity chooses a radius of 0 feet, its aura power effectively becomes non-functional. When two or more deities' auras cover the same area, only the aura that belongs to the deity with the highest rank functions. If divine ranks are equal, the auras coexist.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b> </para></cell>
+<cell><para><b>Divine Aura Size</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1-5</para></cell>
+<cell><para>10 ft./rank</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-10</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>1 mile/rank</para></cell>
+<cell/>
+</row>
+</table><para/><para>The deity can make its own worshipers, beings of its alignment, or both types of individuals immune to the effect as a free action. The immunity lasts one day or until the deity dismisses it. Once affected by an aura power, creatures remain affected as long as they remain within the aura's radius. The deity can choose from the following effects each round as a free action.</para><para><i>Daze:</i> Affected beings just stare at the deity in fascination. They can defend themselves normally but can take no actions.</para><para><i>Fright:</i> Affected beings become shaken and suffer a -2 morale penalty on attack rolls, saves, and checks. The merest glance or gesture from the deity makes them frightened, and they flee as quickly as they can, although they can choose the path of their flight.</para><para><i>Resolve:</i> The deity's allies receive a +4 morale bonus on attack rolls, saves, and checks, while the deity's foes receive a -4 morale penalty on attack rolls, saves, and checks.</para><para/>
+</topic><topic level="8" name="Grant Spells" origname="Grant Spells" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Grant_Spells" docbookid="DivineRanksandPowers30" refname="Grant Spells" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,grant,power,rank,salient,spell"><para reftype="other" refcase="yes" refname="Grant Spells"><b>Grant Spells:</b> A deity automatically grants spells and domain powers to mortal divine spellcasters who pray to it. Most deities can grant spells from the cleric spell list, the ranger spell list, and from three or more domains. Deities with levels in the druid class can grant spells from the druid spell list, and deities with paladin levels can grant spells from the paladin spell list. A deity can withhold spells from any particular mortal as a free action; once a spell has been granted, it remains in the mortal's mind until expended.</para><para/>
+</topic><topic level="8" name="Spontaneous Casting" origname="Spontaneous Casting" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Spontaneous_Casting" docbookid="DivineRanksandPowers31" refname="Spontaneous Casting" reftype="other" refcase="yes" refaltname="" keywords="abil,cast,charact,divin,power,rank,salient,spontan"><para reftype="other" refcase="yes" refname="Spontaneous Casting"><b>Spontaneous Casting:</b> A deity of rank 1 or higher who has levels in a divine spellcasting class can spontaneously cast any spell it can grant.</para><para/>
+</topic><topic level="8" name="Communication" origname="Communication" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Communication" docbookid="DivineRanksandPowers32" refname="Communication" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,commun,divin,power,rank,salient"><para reftype="other" refcase="yes" refname="Communication"><b>Communication:</b> A deity of rank 1 or higher can understand, speak, and read any language, including nonverbal languages. The deity can speak directly to any beings within one mile of itself per divine rank.</para><para><i>Remote Communication:</i> As a standard action, a deity of rank 1 or higher can send a communication to a remote location. The deity can speak to any of its own worshipers, and to anyone within one mile per rank away from a site dedicated to the deity, or within one mile per rank away from a statue or other likeness of the deity. The creature being contacted can receive a telepathic message that only it can hear. Alternatively, the deity's voice can seem to issue from the air, the ground, or from some object of the deity's choosing (but not an object or locale dedicated to another deity of equal or higher rank than the deity who is speaking). In the latter case, anyone within earshot of the sound can hear it. The deity can send a manifestation or omen instead of a spoken or telepathic message. The exact nature of this communication varies with the deity, but it usually is some visible phenomenon. A deity's communication power can cross planes and penetrate any barrier. Once communication is initiated, the deity can continue communicating as a free action until it decides to end the communication. A deity can carry on as many remote communications at one time as it can remote sense at one time (see Remote Sensing, above).</para><para/>
+</topic><topic level="8" name="Godly Realm" origname="Godly Realm" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Godly_Realm" docbookid="DivineRanksandPowers33" refname="Godly Realm" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,godli,power,rank,realm,salient"><para reftype="other" refcase="yes" refname="Godly Realm"><b>Godly Realm:</b> Each deity of rank 1 or higher has a location that serves as a workplace, personal residence, audience chamber, and sometimes as a retreat or fortress. A deity is at its most powerful within its godly realm. A deity has at least modest control over the environment within its realm, controlling the temperature and minor elements of the environment. The radius of this control is a function of the deity's rank and whether the realm is located on an Outer Plane or some other plane (including the Material Plane).</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Divine Rank</b></para></cell> <cell><para><b>--- Radius of Control ---</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para><b>Outer Plane</b> </para></cell>
+<cell><para><b>Material Plane</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1-5</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-10</para></cell>
+<cell><para>1 mile</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>10 miles</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>100 miles</para></cell>
+<cell><para>100 ft./rank</para></cell>
+<cell/>
+</row>
+</table><para/><para>Within this area, the deity can set any temperature that is normal for the plane where the realm is located (for the Material Plane, any temperature from -20<sup>o</sup>F to 120<sup>o</sup>F), and fill the area with scents and sounds as the deity sees fit. Sounds can be no louder than one hundred humans could make, but not intelligible speech or harmful sound. The deity's ability to create scents is similar. Deities of rank 6 or higher can create the sounds of intelligible speech. A demigod or lesser deity can erect buildings and alter the landscape, but must do so through its own labor, through magic, or through its divine powers. A deity of rank 6 or higher not only has control over the environment, but also controls links to the Astral Plane. Manipulating a realm's astral links renders teleportation and similar effects useless within the realm. The deity can designate certain locales within the realm where astral links remain intact. Likewise, the deity can block off the realm from planar portals or designate locations where portals are possible. A deity of rank 11 or higher can also apply the enhanced magic or impeded magic trait to up to four groups of spells (schools, domains, or spells with the same descriptor). The enhanced magic trait enables a metamagic feat to be applied to a group of spells without requiring higher-level spell slots. Many deities apply the enhanced magic trait to their domain spells, making them maximized (as the Maximize Spell feat) within the boundaries of their realm. The impeded magic trait doesn't affect the deity's spells and spell-like abilities.</para><para>In addition, a deity of rank 11 or higher can erect buildings as desired and alter terrain within ten miles to become any terrain type found on the Material Plane. These buildings and alterations are manifestations of the deity's control over the realm.</para>
+</topic><topic level="8" name="Greater Deity" origname="A Greater Deity (Rank 16 or Higher) Also can Perform Any One of the Following Acts" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_A_Greater_Deity_Also_can_Perform_Any_One_of_the_Following_Acts" docbookid="DivineRanksandPowers34" refname="Greater Deity" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,deiti,divin,greater,power,rank,salient"><para reftype="other" refcase="yes" refname="Greater Deity">A greater deity (rank 16 or higher) also can perform any one of the following acts:</para><list>
+ <item> Change or apply a gravity trait within the realm.</item>
+ <item> Change or apply an elemental or energy trait within the realm.</item>
+ <item> Change or apply a time trait within the realm.</item>
+ <item> Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity's own spells and spell-like abilities are not limited by these restrictions.</item>
+</list><para>Once a deity sets the conditions in its realm, they are permanent, though the deity can change them. As a standard action, the deity can specify a new environmental condition. The change gradually takes effect over the next 10 minutes. Changing astral links, planar traits, or terrain requires more effort, and the deity must labor for a year and a day to change them. During this time, the deity must spend 8 hours a day on the project. During the remaining 16 hours of each day, the deity can perform any action it desires, so long as it remains within the realm. The astral links, planar traits, and terrain remain unchanged until the labor is complete.</para><para/>
+</topic><topic level="8" name="Travel" origname="Travel" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Travel" docbookid="DivineRanksandPowers35" refname="Travel" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,power,rank,salient,travel"><para reftype="other" refcase="yes" refname="Travel"><b>Travel:</b> A deity of rank 1 or higher can use <i>greater teleport</i> as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can transport only itself and up to 100 pounds of objects per divine rank. A deity of rank 6 or higher also can use <i>plane shift</i> as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can only transport itself and up to 100 pounds of objects. If the deity has a familiar, personal mount, or personal intelligent weapon, the creature can accompany the deity in any mode of travel if the deity touches it. The creature's weight counts against the deity's weight limit.</para><para/>
+</topic><topic level="8" name="Familiar" origname="Familiar" linkname="Divine_Characters_Divine_Ranks_and_Powers_Salient_Divine_Abilities_Familiar" docbookid="DivineRanksandPowers36" refname="Familiar" reftype="other" refcase="yes" refaltname="" keywords="abil,charact,divin,familiar,power,rank,salient"><para reftype="other" refcase="yes" refname="Familiar"><b>Familiar:</b> A deity of rank 1 or higher with levels as a sorcerer or a wizard has the ability to treat any creature of a given kind as a familiar, as long as that creature is within a distance of one mile per divine rank of the deity. This special familiar ability only applies to one creature at a time, but the deity can switch between one creature and another instantaneously, as long as the second creature is within range. This special familiar ability does not replace the deity's ability to have a normal familiar, which could be any kind of eligible creature.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

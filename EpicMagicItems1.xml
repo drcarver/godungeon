@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Equipment and Gear &gt; Epic Magic Items 1">
+<info>
+<title>Epic Magic Items</title>
+<author>AKSmith</author>
+<operator>asmith</operator>
+</info>
+<topic level="0" name="Equipment and Gear" linkname="Equipment_and_Gear" docbookid="EpicMagicItems10" keywords="equip,gear"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Epic Magic Items 1" origname="Epic Magic Items 1" linkname="Equipment_and_Gear_Epic_Magic_Items_1" docbookid="EpicMagicItems11" keywords="epic,equip,gear,item,magic"><para style="heading 1">Epic Magic Items 1</para><para/><para>While not truly an artifact, the epic magic item is a creation of such power that it surpasses other magic items<i/>. Epic magic items are objects of great power and value. The following are typical characteristics of an epic magic item. In general, an item with even one of these characteristics is an epic magic item.</para><list>
+ <item> Grants a bonus on attacks or damage greater than +5.</item>
+ <item> Grants an enhancement bonus to armor higher than +5.</item>
+ <item> Has a special ability with a market price modifier greater than +5.</item>
+ <item> Grants an armor bonus of greater than +10 (not including magic armor's enhancement bonus).</item>
+ <item> Grants a natural armor, deflection, or resistance bonus greater than +5.</item>
+ <item> Grants an enhancement bonus to an ability score greater than +6.</item>
+ <item> Grants an enhancement bonus on a skill check greater than +30.</item>
+ <item> Mimics a spell of an effective level higher than 9th.</item>
+ <item> Has a caster level above 20th.</item>
+ <item> Has a market price above 200,000 gp, not including material costs for armor or weapons, material component- or experience point-based costs, or additional value for intelligent items.</item>
+</list><para>An epic magic item that grants a bonus beyond those allowed for normal magic items has a higher market price than indicated by the formulas for non-epic items.</para><para>Epic magic items are not artifacts. They are not unique, though they are certainly very rare, and anyone with the proper item creation feats can build them. Even an epic magic item can never grant a dodge bonus, and the maximum inherent bonus that can be applied to an ability score is +5. An epic magic item cannot be created that uses or mimics an epic spell. A major artifact might be able to mimic such a spell, however.</para><para/><topic level="2" name="Creating Epic Magic Items" origname="Creating Epic Magic Items" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Creating_Epic_Magic_Items" docbookid="EpicMagicItems12" refname="Creating Epic Magic Items" reftype="item" refcase="no" refaltname="" keywords="creat,epic,equip,gear,item,magic"><para reftype="item" refcase="no" refname="Creating Epic Magic Items" style="heading 2">Creating Epic Magic Items</para><para>The process of creating an epic magic item is very similar to creating a nonepic magic item. However, certain important differences exist.</para><para/><topic level="3" name="Caster Level" origname="Caster Level" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Creating_Epic_Magic_Items_Caster_Level" docbookid="EpicMagicItems13" refname="Caster Level" reftype="item" refcase="no" refaltname="" keywords="caster,creat,epic,equip,gear,item,level,magic"><para reftype="item" refcase="no" refname="Caster Level" style="heading 3">Caster Level</para><para>Spells with an effective level of 10th or higher are possible at epic levels. Because these spell slots aren't automatically gained at a particular level like 0- to 9th-level spells are, they don't have a minimum caster level. For this reason, the minimum caster level for any spell of 10th level or higher is set at 11 + spell level.</para><para/>
+</topic><topic level="3" name="Prerequisites" origname="Prerequisites" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Creating_Epic_Magic_Items_Prerequisites" docbookid="EpicMagicItems14" refname="Prerequisites" reftype="item" refcase="no" refaltname="" keywords="creat,epic,equip,gear,item,magic,prerequisit"><para reftype="item" refcase="no" refname="Prerequisites" style="heading 3">Prerequisites</para><para>In addition to the materials and tools required for nonepic magic items<i/>, <i/> any epic magic item requires at least two item creation feats: the epic and nonepic version.</para><para/>
+</topic><topic level="3" name="Market Price" origname="Market Price" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Creating_Epic_Magic_Items_Market_Price" docbookid="EpicMagicItems15" refname="Market Price" reftype="item" refcase="no" refaltname="" keywords="creat,epic,equip,gear,item,magic,market,price"><para reftype="item" refcase="no" refname="Market Price" style="heading 3">Market Price</para><para>Use the guidelines for nonepic magic items to determine the market price of an epic magic item, with one addition: If the item gives a bonus beyond the limit allowed in for normal, nonepic magic items<i/>, <i/> multiply the portion of the market price derived from that characteristic by 10. Some epic characteristics, such as caster level, don't trigger this multiplier.</para><para/>
+</topic><topic level="3" name="Experience Point Cost" origname="Experience Point Cost" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Creating_Epic_Magic_Items_Experience_Point_Cost" docbookid="EpicMagicItems16" refname="Experience Point Cost" reftype="item" refcase="no" refaltname="" keywords="cost,creat,epic,equip,experi,gear,item,magic,point"><para reftype="item" refcase="no" refname="Experience Point Cost" style="heading 3">Experience Point Cost</para><para>The experience point cost to create an epic magic item is determined differently than for a normal magic item. For all epic magic items other than scrolls, divide the market price by 100, then add 10,000 XP to the result. The final number is the experience point cost to create the item.</para><para>For epic scrolls, divide the market price by 25 (as normal for creating a nonepic scroll), then add 1,000 XP to the result. The final number is the experience point cost to create the epic scroll.</para><para/>
+</topic>
+</topic><topic level="2" name="Magic Item Descriptions" origname="Magic Item Descriptions" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions" docbookid="EpicMagicItems17" refname="Magic Item Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic"><para reftype="item" refcase="no" refname="Magic Item Descriptions" style="heading 2">Magic Item Descriptions</para><para>In the following sections, each general type of magic item, such as armor or scrolls, has an overall description, followed by descriptions of specific items, if any. Each magic item description and table follows the same format used for nonepic magic items<i/>. Specific exceptions are noted as necessary.</para><para/><topic level="3" name="Armor" origname="Armor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor" docbookid="EpicMagicItems18" refname="Armor" reftype="item" refcase="no" refaltname="" keywords="armor,descript,epic,equip,gear,item,magic"><para reftype="item" refcase="no" refname="Armor" style="heading 3">Armor</para><para>Except when otherwise stated, epic magic armor and shields follow the rules for nonepic magic armor and shields<i/>.</para><para>There is no limit to the enhancement bonus of epic magic armor or shields, to the market price modifier of epic magic armor or shield special abilities, or to the total enhancement bonus and market price modifier of epic magic armor or shields.</para><para/><topic level="5" name="Epic Armor and Shield Base Price" origname="Epic Armor and Shield Base Price" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price" docbookid="EpicMagicItems19" refname="Epic Armor and Shield Base Price" reftype="item" refcase="no" refaltname="" keywords="armor,base,descript,epic,equip,gear,item,magic,price,shield"><para reftype="item" refcase="no" refname="Epic Armor and Shield Base Price" style="heading 5">Epic Armor and Shield Base Price</para><para>To find the base price of an epic suit of magic armor or an epic magic shield, roll on Table: Armor and Shields. Note that the +6 to +10 rows apply only to armor and shields that provide an enhancement bonus of +6 to +10 or armor and shields with a single special ability whose market price modifier is +6 to +10. Magic armor and shields with a total effective bonus of +6 to +10 but that have an enhancement bonus of +5 or less and special abilities whose individual market price modifiers are +5 or less use the table for nonepic magic armor to determine price.</para><para/><topic level="8" name="Table: Armor and Shields" origname="Table: Armor and Shields" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Armor_and_Shields" docbookid="EpicMagicItems110" refname="Table: Armor and Shields" reftype="item" refcase="no" refaltname="" keywords="armor,base,descript,epic,equip,gear,item,magic,price,shield,tabl"><para reftype="item" refcase="no" refname="Table: Armor and Shields"><b>Table: Armor and Shields</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Enhancement Bonus</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01</para></cell>
+<cell><para>+1 shield <sup><b>1</b></sup></para></cell>
+<cell><para>+1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>02</para></cell>
+<cell><para>+1 armor <sup><b>2</b></sup></para></cell>
+<cell><para>+1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03</para></cell>
+<cell><para>+2 shield <sup><b>1</b></sup></para></cell>
+<cell><para>+4,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04</para></cell>
+<cell><para>+2 armor <sup><b>2</b></sup></para></cell>
+<cell><para>+4,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-06</para></cell>
+<cell><para>+3 shield <sup><b>1</b></sup></para></cell>
+<cell><para>+9,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-08</para></cell>
+<cell><para>+3 armor <sup><b>2</b></sup></para></cell>
+<cell><para>+9,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-12</para></cell>
+<cell><para>+4 shield <sup><b>1</b></sup></para></cell>
+<cell><para>+16,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-16</para></cell>
+<cell><para>+4 armor <sup><b>2</b></sup></para></cell>
+<cell><para>+16,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-21</para></cell>
+<cell><para>+5 shield <sup><b>1</b></sup></para></cell>
+<cell><para>+25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-26</para></cell>
+<cell><para>+5 armor <sup><b>2</b></sup></para></cell>
+<cell><para>+25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-30</para></cell>
+<cell><para>+6 shield</para></cell>
+<cell><para>+360,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-34</para></cell>
+<cell><para>+6 armor</para></cell>
+<cell><para>+360,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-38</para></cell>
+<cell><para>+7 shield</para></cell>
+<cell><para>+490,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-42</para></cell>
+<cell><para>+7 armor</para></cell>
+<cell><para>+490,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-45</para></cell>
+<cell><para>+8 shield</para></cell>
+<cell><para>+640,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-48</para></cell>
+<cell><para>+8 armor</para></cell>
+<cell><para>+640,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-50</para></cell>
+<cell><para>+9 shield</para></cell>
+<cell><para>+810,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-52</para></cell>
+<cell><para>+9 armor</para></cell>
+<cell><para>+810,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-54</para></cell>
+<cell><para>+10 shield</para></cell>
+<cell><para>+1,000,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para>+10 armor</para></cell>
+<cell><para>+1,000,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>57-62</para></cell>
+<cell><para>Specific armor or shield <b>3</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>63-75</para></cell>
+<cell><para>Armor with special ability and roll again <b>4</b> </para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-98</para></cell>
+<cell><para>Shield with special ability and roll again <b>4</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>99</para></cell>
+<cell><para>Epic shield <sup><b>5</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>Epic armor <sup><b>5</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Roll also on nonepic magic item Table: Shield Special Abilities.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 Roll also on nonepic magic item Table: Armor Special Abilities.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3 Roll on Table: Specific Epic Magic Armor and Shields.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4 Roll on Table: Armor Special Abilities or Table: Shield Special Abilities.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>5 Roll on Table: Epic Armor and Shields.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Epic Armor and Shields" origname="Table: Epic Armor and Shields" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Epic_Armor_and_Shields" docbookid="EpicMagicItems111" refname="Table: Epic Armor and Shields" reftype="item" refcase="no" refaltname="" keywords="armor,base,descript,epic,equip,gear,item,magic,price,shield,tabl"><para reftype="item" refcase="no" refname="Table: Epic Armor and Shields"><b>Table: Epic Armor and Shields</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Enhancement Bonus</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-21</para></cell>
+<cell><para>+11</para></cell>
+<cell><para>+1,210,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-39</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>+1,440,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-54</para></cell>
+<cell><para>+13</para></cell>
+<cell><para>+1,690,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-66</para></cell>
+<cell><para>+14</para></cell>
+<cell><para>+1,960,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-76</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>+2,250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-84</para></cell>
+<cell><para>+16</para></cell>
+<cell><para>+2,560,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-90</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>+2,890,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-94</para></cell>
+<cell><para>+18</para></cell>
+<cell><para>+3,240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para>+19</para></cell>
+<cell><para>+3,610,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-99</para></cell>
+<cell><para>+20</para></cell>
+<cell><para>+4,000,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>Roll again and add +10 to bonus <sup><b>1</b></sup></para></cell>
+<cell><para><b>2</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 This is cumulative if rolled multiple times.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x10,000 gp.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Random Armor Type" origname="Table: Random Armor Type" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Random_Armor_Type" docbookid="EpicMagicItems112" refname="Table: Random Armor Type" reftype="item" refcase="no" refaltname="" keywords="armor,base,descript,epic,equip,gear,item,magic,price,random,shield,tabl,type"><para reftype="item" refcase="no" refname="Table: Random Armor Type"><b>Table: Random Armor Type</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Armor</b></para></cell>
+<cell><para><b>Armor Cost</b>
+ <b>1</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01</para></cell>
+<cell><para>Padded</para></cell>
+<cell><para>+155 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>02</para></cell>
+<cell><para>Leather</para></cell>
+<cell><para>+160 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-12</para></cell>
+<cell><para>Hide</para></cell>
+<cell><para>+165 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-27</para></cell>
+<cell><para>Studded leather</para></cell>
+<cell><para>+175 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-42</para></cell>
+<cell><para>Chain shirt <sup><b>2</b></sup></para></cell>
+<cell><para>+250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43</para></cell>
+<cell><para>Scale mail <sup><b>2</b></sup></para></cell>
+<cell><para>+200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44</para></cell>
+<cell><para>Chainmail <sup><b>2</b></sup></para></cell>
+<cell><para>+300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-57</para></cell>
+<cell><para>Breastplate <sup><b>2</b></sup></para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58</para></cell>
+<cell><para>Splint mail <sup><b>2</b></sup></para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59</para></cell>
+<cell><para>Banded mail <sup><b>2</b></sup></para></cell>
+<cell><para>+400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60</para></cell>
+<cell><para>Half-plate <sup><b>2</b></sup></para></cell>
+<cell><para>+750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-100</para></cell>
+<cell><para>Full plate <sup><b>2</b></sup></para></cell>
+<cell><para>+1,650 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All magic armor is masterwork armor (with an armor check penalty 1 lower than normal).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 Roll d% to determine material: 01-70 steel; 71-90 mithral; 91-99 adamantine; 100 other. Adjust price accordingly.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Random Shield Type" origname="Table: Random Shield Type" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Random_Shield_Type" docbookid="EpicMagicItems113" refname="Table: Random Shield Type" reftype="item" refcase="no" refaltname="" keywords="armor,base,descript,epic,equip,gear,item,magic,price,random,shield,tabl,type"><para reftype="item" refcase="no" refname="Table: Random Shield Type"><b>Table: Random Shield Type</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Shield</b></para></cell>
+<cell><para><b>Shield Cost</b>
+ <b>1</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>Buckler</para></cell>
+<cell><para>+165 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>Shield, light wooden <sup><b>2</b></sup></para></cell>
+<cell><para>+153 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para>Shield, light steel <sup><b>3</b></sup></para></cell>
+<cell><para>+159 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-30</para></cell>
+<cell><para>Shield, heavy wooden <sup><b>2</b></sup></para></cell>
+<cell><para>+157 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-95</para></cell>
+<cell><para>Shield, heavy steel <sup><b>3</b></sup></para></cell>
+<cell><para>+170 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>Shield, tower <sup><b>2</b></sup></para></cell>
+<cell><para>+180 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All magic shields are masterwork shields (with an armor check penalty 1 lower than normal).</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 Roll d% to determine material: 01-70 wood; 71-99 dark-wood; 100 other. Adjust price accordingly.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>3 Roll d% to determine material: 01-70 steel; 71-90 mithral; 91-99 adamantine; 100 other. Adjust price accordingly.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Armor Special Abilities" origname="Table: Armor Special Abilities" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Armor_Special_Abilities" docbookid="EpicMagicItems114" refname="Table: Armor Special Abilities" reftype="item" refcase="no" refaltname="" keywords="abil,armor,base,descript,epic,equip,gear,item,magic,price,shield,special,tabl"><para reftype="item" refcase="no" refname="Table: Armor Special Abilities"><b>Table: Armor Special Abilities</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Special Ability</b></para></cell>
+<cell><para><b>Market Price Modifier</b> 
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-06</para></cell>
+<cell><para>Great invulnerability (10/magic)</para></cell>
+<cell><para>+4 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-11</para></cell>
+<cell><para>Great invulnerability (15/magic)</para></cell>
+<cell><para>+5 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12-19</para></cell>
+<cell><para>Negating</para></cell>
+<cell><para>+5 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-26</para></cell>
+<cell><para>Acid warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-33</para></cell>
+<cell><para>Cold warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-40</para></cell>
+<cell><para>Fire warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-44</para></cell>
+<cell><para>Great invulnerability (5/epic)</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-50</para></cell>
+<cell><para>Great spell resistance (SR 21)</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-57</para></cell>
+<cell><para>Lightning warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-64</para></cell>
+<cell><para>Sonic warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-67</para></cell>
+<cell><para>Great invulnerability (10/epic)</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-72</para></cell>
+<cell><para>Great spell resistance (SR 23)</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-76</para></cell>
+<cell><para>Great spell resistance (SR 25)</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-79</para></cell>
+<cell><para>Great spell resistance (SR 27)</para></cell>
+<cell><para>+9 bonus</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>80-87</para></cell>
+<cell><para>Roll on nonepic magic item Table: Armor Special Abilities, then roll again on this table.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>88-95</para></cell>
+<cell><para>Roll twice on nonepic magic item Table: Armor Special Abilities.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>Roll twice again <b>2</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Shield Special Abilities" origname="Table: Shield Special Abilities" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Base_Price_Table_Shield_Special_Abilities" docbookid="EpicMagicItems115" refname="Table: Shield Special Abilities" reftype="item" refcase="no" refaltname="" keywords="abil,armor,base,descript,epic,equip,gear,item,magic,price,shield,special,tabl"><para reftype="item" refcase="no" refname="Table: Shield Special Abilities"><b>Table: Shield Special Abilities</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Shield Special Ability</b></para></cell>
+<cell><para><b>Market Price Modifier</b> 
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-06</para></cell>
+<cell><para>Great invulnerability (10/magic)</para></cell>
+<cell><para>+4 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-12</para></cell>
+<cell><para>Great invulnerability (15/magic)</para></cell>
+<cell><para>+5 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-19</para></cell>
+<cell><para>Acid warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-26</para></cell>
+<cell><para>Cold warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-33</para></cell>
+<cell><para>Fire warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-37</para></cell>
+<cell><para>Great invulnerability (5/epic)</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-43</para></cell>
+<cell><para>Great spell resistance (SR 21)</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-46</para></cell>
+<cell><para>Infinite arrow deflection</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-53</para></cell>
+<cell><para>Lightning warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-60</para></cell>
+<cell><para>Sonic warding</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-63</para></cell>
+<cell><para>Great invulnerability (10/epic)</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-68</para></cell>
+<cell><para>Great spell resistance (SR 23)</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-71</para></cell>
+<cell><para>Exceptional arrow deflection</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-75</para></cell>
+<cell><para>Great spell resistance (SR 25)</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-78</para></cell>
+<cell><para>Great spell resistance (SR 27)</para></cell>
+<cell><para>+9 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79</para></cell>
+<cell><para>Great reflection</para></cell>
+<cell><para>+10 bonus</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>80-87</para></cell>
+<cell><para>Roll on nonepic magic item Table: Shield Special Abilities, then roll again on this table.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>88-95</para></cell>
+<cell><para>Roll twice on nonepic magic item Table: Shield Special Abilities.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>Roll twice again <b>2</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Epic Armor and Shields to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Epic Armor and Shield Special Ability Descriptions" origname="Epic Armor and Shield Special Ability Descriptions" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions" docbookid="EpicMagicItems116" keywords="abil,armor,descript,epic,equip,gear,item,magic,shield,special"><para style="heading 5">Epic Armor and Shield Special Ability Descriptions</para><para>Most magic armor and shields only have enhancement bonuses. Such items can also have special abilities, such as those detailed below and nonepic abilities<i/>. Armor or a shield with a special ability must have at least a +1 enhancement bonus.</para><para/><topic level="8" name="Acid Warding" origname="Acid Warding" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Acid_Warding" docbookid="EpicMagicItems117" refname="Acid Warding" reftype="item" refcase="no" refaltname="" keywords="abil,acid,armor,descript,epic,equip,gear,item,magic,shield,special,ward"><para reftype="item" refcase="no" refname="Acid Warding"><b>Acid Warding:</b> The armor absorbs the first 50 points of acid damage per round that the wearer would normally take (similar to the <i>resist energy</i> spell).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price:</i> +6 bonus.</para>
+</topic><topic level="8" name="Cold Warding" origname="Cold Warding" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Cold_Warding" docbookid="EpicMagicItems118" refname="Cold Warding" reftype="item" refcase="no" refaltname="" keywords="abil,armor,cold,descript,epic,equip,gear,item,magic,shield,special,ward"><para reftype="item" refcase="no" refname="Cold Warding"><b>Cold Warding:</b> The armor absorbs the first 50 points of cold damage per round that the wearer would normally take (similar to the <i>resist energy</i> spell).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price:</i> +6 bonus.</para>
+</topic><topic level="8" name="Exceptional Arrow Deflection" origname="Exceptional Arrow Deflection" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Exceptional_Arrow_Deflection" docbookid="EpicMagicItems119" refname="Exceptional Arrow Deflection" reftype="item" refcase="no" refaltname="" keywords="abil,armor,arrow,deflect,descript,epic,equip,gear,item,magic,shield,special"><para reftype="item" refcase="no" refname="Exceptional Arrow Deflection"><b>Exceptional Arrow Deflection:</b> This shield functions like a <i>shield of arrow deflection</i> except that it can deflect any type of ranged attack (including spells that require a ranged touch attack) as if it were an arrow. Any time the bearer would normally be struck by a ranged attack, he or she can make a Reflex saving throw (DC 20). If the ranged attack has an enhancement bonus (or a spell level), the DC increases by that amount. If he or she succeeds, the shield deflects the attack. The bearer must be aware of the attack and not flat-footed. Attempting to deflect a ranged attack doesn't count as an action.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>shield</i>,  <i>wall of force; Market Price: +</i>8 bonus.</para>
+</topic><topic level="8" name="Fire Warding" origname="Fire Warding" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Fire_Warding" docbookid="EpicMagicItems120" refname="Fire Warding" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,fire,gear,item,magic,shield,special,ward"><para reftype="item" refcase="no" refname="Fire Warding"><b>Fire Warding:</b> The armor absorbs the first 50 points of fire damage per round that the wearer would normally take (similar to the <i>resist energy</i> spell).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Great Invulnerability" origname="Great Invulnerability" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Great_Invulnerability" docbookid="EpicMagicItems121" refname="Great Invulnerability" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,great,invulner,item,magic,shield,special"><para reftype="item" refcase="no" refname="Great Invulnerability"><b>Great Invulnerability:</b> This suit of armor or shield grants the wearer damage reduction. The damage reduction can be 10/magic, 15/magic, 5/epic, or 10/epic, depending on the armor.</para><para><i>Caster Level:</i> 19th (10/magic), 20th (15/magic), 21st (5/epic), 22nd (10/epic); <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>stoneskin</i>,  <i>wish</i>, <i/> or <i>miracle; Market Price:+</i>4 bonus (10/magic), +5 bonus (15/magic), +6 bonus (5/epic), +7 bonus (10/epic).</para>
+</topic><topic level="8" name="Great Reflection" origname="Great Reflection" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Great_Reflection" docbookid="EpicMagicItems122" refname="Great Reflection" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,great,item,magic,reflect,shield,special"><para reftype="item" refcase="no" refname="Great Reflection"><b>Great Reflection:</b> Any time its bearer of this shield is targeted with a spell, it automatically reflects the spell back at the caster (as the <i>spell turning</i> spell). The wearer can lower or raise this effect as a free action (thus allowing beneficial spells in as desired).</para><para><i>Caster Level:</i> 25th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>spell turning; Market Price: +</i>10 bonus.</para>
+</topic><topic level="8" name="Great Spell Resistance" origname="Great Spell Resistance" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Great_Spell_Resistance" docbookid="EpicMagicItems123" refname="Great Spell Resistance" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,great,item,magic,resist,shield,special,spell"><para reftype="item" refcase="no" refname="Great Spell Resistance"><b>Great Spell Resistance:</b> This suit of armor or shield grants the wearer spell resistance. The spell resistance can be 21, 23, 25, or 27, depending on the armor.</para><para><i>Caster Level:</i> 21st (SR 21), 22nd (SR 23), 23rd (SR 25), 24th (SR 27); <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>spell resistance; Market Price: +</i>6 bonus (SR 21), +7 bonus (SR 23), +8 bonus (SR 25), +9 bonus (SR 27).</para>
+</topic><topic level="8" name="Infinite Arrow Deflection" origname="Infinite Arrow Deflection" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Infinite_Arrow_Deflection" docbookid="EpicMagicItems124" refname="Infinite Arrow Deflection" reftype="item" refcase="no" refaltname="" keywords="abil,armor,arrow,deflect,descript,epic,equip,gear,infinit,item,magic,shield,special"><para reftype="item" refcase="no" refname="Infinite Arrow Deflection"><b>Infinite Arrow Deflection:</b> This shield functions like a <i>shield of arrow deflection</i>, though it can deflect any number of projectiles or thrown weapons each round. Any time the bearer would normally be struck by a ranged weapon, he or she can make a Reflex saving throw (DC 20). If the ranged weapon has an enhancement bonus, the DC increases by that amount. If he or she succeeds, the shield deflects the weapon. The bearer must be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn't count as an action. Exceptional ranged weapons, such as boulders hurled by giants or ranged spells<i/>, <i/> can't be deflected.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from arrows</i>,  <i>shield; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Lightning Warding" origname="Lightning Warding" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Lightning_Warding" docbookid="EpicMagicItems125" refname="Lightning Warding" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,item,lightn,magic,shield,special,ward"><para reftype="item" refcase="no" refname="Lightning Warding"><b>Lightning Warding:</b> The armor absorbs the first 50 points of lightning damage per round that the wearer would normally take (similar to the <i>resist energy</i> spell).</para><para><i>Caster Level:</i> 21st; <i>Prereq-uisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Negating" origname="Negating" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Negating" docbookid="EpicMagicItems126" refname="Negating" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,item,magic,negat,shield,special"><para reftype="item" refcase="no" refname="Negating"><b>Negating:</b> Immediately after the wearer of this armor is hit with a magic weapon, the armor casts <i>greater dispel magic</i> on the weapon. (In the case of projectile weapons, the armor casts <i>greater dispel magic</i> on the weapon that fired the projectile if it is in range. If it is out of range, the armor does nothing.) No weapon can be affected by the armor more than once per day (regardless of the success of the dispel check).</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>greater dispel magic; Market Price: +</i>5 bonus.</para>
+</topic><topic level="8" name="Sonic Warding" origname="Sonic Warding" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Sonic_Warding" docbookid="EpicMagicItems127" refname="Sonic Warding" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,item,magic,shield,sonic,special,ward"><para reftype="item" refcase="no" refname="Sonic Warding"><b>Sonic Warding:</b> The armor absorbs the first 50 points of sonic damage per round that the wearer would normally take (similar to the <i>resist energy</i> spell).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price: +</i>6 bonus.</para><para/>
+</topic><topic level="8" name="Table: Specific Epic Magic Armor and Shields" origname="Table: Specific Epic Magic Armor and Shields" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Epic_Armor_and_Shield_Special_Ability_Descriptions_Table_Specific_Epic_Magic_Armor_and_Shields" docbookid="EpicMagicItems128" refname="Table: Specific Epic Magic Armor and Shields" reftype="item" refcase="no" refaltname="" keywords="abil,armor,descript,epic,equip,gear,item,magic,shield,special,specif,tabl"><para reftype="item" refcase="no" refname="Table: Specific Epic Magic Armor and Shields"><b>Table: Specific Epic Magic Armor and Shields</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Specific Armor or Shield</b></para></cell>
+<cell><para><b>Market Price</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-20</para></cell>
+<cell><para>Shapeshifter's armor</para></cell>
+<cell><para>400,165 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-40</para></cell>
+<cell><para>Warlord's breastplate</para></cell>
+<cell><para>416,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-57</para></cell>
+<cell><para>Dragonskin armor</para></cell>
+<cell><para>564,550 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-71</para></cell>
+<cell><para>Armor of the celestial battalion</para></cell>
+<cell><para>616,300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-82</para></cell>
+<cell><para>Armor of the abyssal horde</para></cell>
+<cell><para>768,260 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-93</para></cell>
+<cell><para>Antimagic armor</para></cell>
+<cell><para>871,500 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>94-100</para></cell>
+<cell><para>Bulwark of the great dragon</para></cell>
+<cell><para>1,612,980 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Specific Armors and Shields" origname="Specific Armors and Shields" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields" docbookid="EpicMagicItems129" refname="Specific Armors and Shields" reftype="item" refcase="no" refaltname="" keywords="armor,descript,epic,equip,gear,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Specific Armors and Shields" style="heading 5">Specific Armors and Shields</para><para/><topic level="8" name="Antimagic Armor" origname="Antimagic Armor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Antimagic_Armor" docbookid="EpicMagicItems130" refname="Antimagic Armor" reftype="item" refcase="no" refaltname="" keywords="antimag,armor,descript,epic,equip,gear,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Antimagic Armor"><b>Antimagic Armor:</b> This +<i>1 negating full plate armor of invulnerability</i> is crafted of adamantine (and thus has damage reduction 3/-). The armor provides a -5 penalty on dispel checks made against it or its wearer.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>greater dispel magic</i>,  <i>stoneskin</i>,  <i>wish</i> or <i>miracle; Market Price:</i> 871,500 gp; <i>Cost to Create:</i> 436,500 gp + 18,700 XP.</para>
+</topic><topic level="8" name="Armor of the Abyssal Horde" origname="Armor of the Abyssal Horde" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Armor_of_the_Abyssal_Horde" docbookid="EpicMagicItems131" refname="Armor of the Abyssal Horde" reftype="item" refcase="no" refaltname="" keywords="abyss,armor,descript,epic,equip,gear,hord,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Armor of the Abyssal Horde"><b>Armor of the Abyssal Horde:</b> This+<i>6 full plate armor's</i> clawed gauntlets are effectively +4 keen weapons (1d10/19-20) that afflict the target as if she had been struck by an <i>energy drain</i> spell (Fortitude negates DC 23). The armor bestows two negative levels on any nonevil creature wearing it. These negative levels persist as long as the armor is worn and disappear when the armor is removed. The negative levels never result in actual level loss, but they cannot be overcome in any way (including <i>restoration</i> spells) while the armor is worn.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, creator must be evil, <i>energy drain; Market Price:</i> 768,260 gp; <i>Cost to Create:</i> 385,260 gp + 17,660 XP.</para>
+</topic><topic level="8" name="Armor of the Celestial Battalion" origname="Armor of the Celestial Battalion" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Armor_of_the_Celestial_Battalion" docbookid="EpicMagicItems132" refname="Armor of the Celestial Battalion" reftype="item" refcase="no" refaltname="" keywords="armor,battalion,celesti,descript,epic,equip,gear,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Armor of the Celestial Battalion"><b>Armor of the Celestial Battalion:</b> This+<i>7 chainmail</i> is so fine and light that it can be worn under normal clothing without revealing its presence. It has a maximum Dexterity bonus of +10, no armor check penalty, and an arcane spell failure chance of 10%. It is considered light armor, and it allows the wearer to fly at will (as the <i>fly</i> spell). Furthermore, the wearer is at all times surrounded by a <i>magic circle against evil</i> effect (as the spell) which, if dispelled, can be created again as a free action.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, creator must be good, <i>magic circle against evil; Market Price:</i> 616,300 gp; <i>Cost to Create:</i> 308,300 gp + 16,160 XP.</para>
+</topic><topic level="8" name="Bulwark of the Great Dragon" origname="Bulwark of the Great Dragon" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Bulwark_of_the_Great_Dragon" docbookid="EpicMagicItems133" refname="Bulwark of the Great Dragon" reftype="item" refcase="no" refaltname="" keywords="armor,bulwark,descript,dragon,epic,equip,gear,great,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Bulwark of the Great Dragon"><b>Bulwark of the Great Dragon:</b> This +<i>6 heavy shield</i> bears the image of a dragon's head. Three times per day, the bearer of the shield can command it to belch forth a breath weapon of the appropriate type. The range of this breath weapon is 80 feet (if a line) or 40 feet (if a cone). Regardless of the type, the breath weapon deals 20d6 points of damage. In addition, the shield provides the bearer with resistance 50 to the energy type that matches its breath weapon. To determine what type of <i>dragon shield</i> is found, roll d% and consult the following table:</para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Color</b></para></cell>
+<cell><para><b>Breath</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>Black</para></cell>
+<cell><para>Line of acid</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-20</para></cell>
+<cell><para>Blue</para></cell>
+<cell><para>Line of lightning</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-30</para></cell>
+<cell><para>Brass</para></cell>
+<cell><para>Line of fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-40</para></cell>
+<cell><para>Bronze</para></cell>
+<cell><para>Line of lightning</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-50</para></cell>
+<cell><para>Copper</para></cell>
+<cell><para>Line of acid</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-60</para></cell>
+<cell><para>Gold</para></cell>
+<cell><para>Cone of fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-70</para></cell>
+<cell><para>Green</para></cell>
+<cell><para>Cone of corrosive (acid) gas</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-80</para></cell>
+<cell><para>Red</para></cell>
+<cell><para>Cone of fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-90</para></cell>
+<cell><para>Silver</para></cell>
+<cell><para>Cone of cold</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>91-100</para></cell>
+<cell><para>White</para></cell>
+<cell><para>Cone of cold</para></cell>
+<cell/>
+</row>
+</table><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy; Market Price:</i> 1,612,970 gp; <i>Cost to Create:</i> 806,570 gp + 26,128 XP.</para>
+</topic><topic level="8" name="Dragonskin Armor" origname="Dragonskin Armor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Dragonskin_Armor" docbookid="EpicMagicItems134" refname="Dragonskin Armor" reftype="item" refcase="no" refaltname="" keywords="armor,descript,dragonskin,epic,equip,gear,item,magic,shield,specif"><para reftype="item" refcase="no" refname="Dragonskin Armor"><b>Dragonskin Armor:</b> This+<i>5 full plate armor</i> is crafted from the hide of a great wyrm dragon. At the wearer's command, the armor sprouts enormous dragon wings, allowing the wearer to fly at a speed of 90 feet (clumsy) for a total of 4 hours each day. The armor also grants immunity to a specific type of energy, based on the color of dragon that supplied the armor. Roll d% on the following table to determine the color and immunity.</para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Color</b></para></cell>
+<cell><para><b>Immunity</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>Black</para></cell>
+<cell><para>Acid</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-20</para></cell>
+<cell><para>Blue</para></cell>
+<cell><para>Lightning</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-30</para></cell>
+<cell><para>Brass</para></cell>
+<cell><para>Fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-40</para></cell>
+<cell><para>Bronze</para></cell>
+<cell><para>Lightning</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-50</para></cell>
+<cell><para>Copper</para></cell>
+<cell><para>Acid</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-60</para></cell>
+<cell><para>Gold</para></cell>
+<cell><para>Fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-70</para></cell>
+<cell><para>Green</para></cell>
+<cell><para>Acid</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-80</para></cell>
+<cell><para>Red</para></cell>
+<cell><para>Fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-90</para></cell>
+<cell><para>Silver</para></cell>
+<cell><para>Cold</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>91-100</para></cell>
+<cell><para>White</para></cell>
+<cell><para>Cold</para></cell>
+<cell/>
+</row>
+</table><para>The wearer of the armor takes a -4 circumstance penalty on Diplomacy checks with dragons, but gains a +4 circumstance bonus on Intimidate checks against dragons.</para><para><i>Caster Level:</i> 24th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from energy</i>,  <i>shapechange; Market Price:</i> 564,550 gp; <i>Cost to Create:</i> 283,250 gp + 15,629 XP.</para>
+</topic><topic level="8" name="Shapeshifter's Armor" origname="Shapeshifter's Armor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Shapeshifter_s_Armor" docbookid="EpicMagicItems135" refname="Shapeshifter's Armor" reftype="item" refcase="no" refaltname="" keywords="armor,descript,epic,equip,gear,item,magic,shapeshift,shield,specif"><para reftype="item" refcase="no" refname="Shapeshifter's Armor"><b>Shapeshifter's Armor:</b> This suit of +<i>6 hide armor</i> grants its full Armor Class bonus regardless of any form the wearer takes (with <i>polymorph</i>,  <i>shapechange</i>,  <i>wild shape</i>, <i/> or similar abilities).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>shapechange</i> or <i>wild shape</i> ability; <i>Market Price:</i> 400,165 gp; <i>Cost to Create:</i> 200,165 gp + 14,000 XP.</para>
+</topic><topic level="8" name="Warlord's Breastplate" origname="Warlord's Breastplate" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Armor_Specific_Armors_and_Shields_Warlord_s_Breastplate" docbookid="EpicMagicItems136" refname="Warlord's Breastplate" reftype="item" refcase="no" refaltname="" keywords="armor,breastplat,descript,epic,equip,gear,item,magic,shield,specif,warlord"><para reftype="item" refcase="no" refname="Warlord's Breastplate"><b>Warlord's Breastplate:</b> This +<i>6 mithral breastplate</i> has an armor check penalty of -1, a maximum Dexterity bonus of +5, and an arcane spell failure chance of 15%. It is considered light armor and weighs 15 pounds. It grants the wearer a +4 enhancement bonus to Charisma and allows the wearer to attract and lead a number of followers as if he or she had the Leadership feat (though this power doesn't allow the wearer to attract a cohort). If the wearer already has the Leadership feat, this armor has no cumulative effect on his or her followers.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>charm monster</i>,  <i>sympathy; Market Price:</i> 416,200 gp; <i>Cost to Create:</i> 210,200 gp + 14,120 XP.</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Weapons" origname="Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons" docbookid="EpicMagicItems137" refname="Weapons" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,weapon"><para reftype="item" refcase="no" refname="Weapons" style="heading 3">Weapons</para><para>Except when otherwise stated, epic magic weapons follow the rules for nonepic magic weapons.  There is no limit to an epic magic weapon's enhancement bonus, to the market price modifier of an epic magic weapon special ability, or to the total of an epic magic weapon's enhancement bonus and market price modifier.</para><para/><topic level="5" name="Epic Weapon Base Price" origname="Epic Weapon Base Price" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price" docbookid="EpicMagicItems138" refname="Epic Weapon Base Price" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,price,weapon"><para reftype="item" refcase="no" refname="Epic Weapon Base Price" style="heading 5">Epic Weapon Base Price</para><para>To find the base price of an epic magic weapon, roll on Table: Weapons. Note that the +6 to +10 rows apply only to weapons that provide an enhancement bonus of +6 to +10 or weapons with a single special ability whose market price modifier is +6 to +10. Magic weapons with a total effective bonus of +6 to +10 but that have an enhancement bonus of +5 or less and special abilities whose individual market price modifiers are +5 or less use the table for nonepic magic weapons to determine price.</para><para/><topic level="8" name="Table: Weapons" origname="Table: Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Weapons" docbookid="EpicMagicItems139" refname="Table: Weapons" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,price,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Weapons"><b>Table: Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Enhancement Bonus</b> </para></cell>
+<cell><para><b>Market Price</b><sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>+2,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-07</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>+8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-13</para></cell>
+<cell><para>+3</para></cell>
+<cell><para>+18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-20</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+32,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-28</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-36</para></cell>
+<cell><para>+6</para></cell>
+<cell><para>+720,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-43</para></cell>
+<cell><para>+7</para></cell>
+<cell><para>+980,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-49</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>+1,280,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-53</para></cell>
+<cell><para>+9</para></cell>
+<cell><para>+1,620,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-56</para></cell>
+<cell><para>+10</para></cell>
+<cell><para>+2,000,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>57-61</para></cell>
+<cell><para>Specific weapon<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-80</para></cell>
+<cell><para>Melee weapon with special ability and roll again<sup><b>3</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-99</para></cell>
+<cell><para>Ranged weapon with special ability and roll again<sup><b>3</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>Roll on Table: Epic Weapons</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 This price is for 50 arrows, crossbow bolts, or sling bullets.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 See Table: Specific Weapons.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>3 See Table: Melee Weapon Special Abilities for melee weapons or Table: Ranged Weapon Special Abilities for ranged weapons.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Epic Weapons" origname="Table: Epic Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Epic_Weapons" docbookid="EpicMagicItems140" refname="Table: Epic Weapons" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,price,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Epic Weapons"><b>Table: Epic Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Enhancement Bonus</b> </para></cell>
+<cell><para><b>Market Price</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-21</para></cell>
+<cell><para>+11</para></cell>
+<cell><para>+2,420,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-39</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>+2,880,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-54</para></cell>
+<cell><para>+13</para></cell>
+<cell><para>+3,380,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-66</para></cell>
+<cell><para>+14</para></cell>
+<cell><para>+3,920,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-76</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>+4,500,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-84</para></cell>
+<cell><para>+16</para></cell>
+<cell><para>+5,120,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-90</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>+5,780,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-94</para></cell>
+<cell><para>+18</para></cell>
+<cell><para>+6,480,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para>+19</para></cell>
+<cell><para>+7,220,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-99</para></cell>
+<cell><para>+20</para></cell>
+<cell><para>+8,000,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>Roll again and add +10 to bonus<sup><b>1</b></sup></para></cell>
+<cell><para><b>2</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1This is cumulative if rolled multiple times.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 For enhancement bonuses higher than +20, the market price modifier is equal to the square of the bonus x20,000 gp.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Weapon Type Determination" origname="Table: Weapon Type Determination" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Weapon_Type_Determination" docbookid="EpicMagicItems141" refname="Table: Weapon Type Determination" reftype="item" refcase="no" refaltname="" keywords="base,descript,determin,epic,equip,gear,item,magic,price,tabl,type,weapon"><para reftype="item" refcase="no" refname="Table: Weapon Type Determination"><b>Table: Weapon Type Determination</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Weapon Type</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-70</para></cell>
+<cell><para>Roll on Table: Common Melee Weapon</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-80</para></cell>
+<cell><para>Roll on Table: Uncommon Melee Weapons</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>81-100</para></cell>
+<cell><para>Roll on Table: Ranged Weapons</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Common Melee Weapons" origname="Table: Common Melee Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Common_Melee_Weapons" docbookid="EpicMagicItems142" refname="Table: Common Melee Weapons" reftype="item" refcase="no" refaltname="" keywords="base,common,descript,epic,equip,gear,item,magic,mele,price,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Common Melee Weapons"><b>Table: Common Melee Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Weapon</b>
+<sup><b>1</b></sup></para></cell>
+<cell><para><b>Weapon Cost</b>
+<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-04</para></cell>
+<cell><para>Dagger</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-14</para></cell>
+<cell><para>Greataxe</para></cell>
+<cell><para>+320 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-24</para></cell>
+<cell><para>Greatsword</para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-28</para></cell>
+<cell><para>Kama</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-41</para></cell>
+<cell><para>Longsword</para></cell>
+<cell><para>+315 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-45</para></cell>
+<cell><para>Mace, light</para></cell>
+<cell><para>+305 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-50</para></cell>
+<cell><para>Mace, heavy</para></cell>
+<cell><para>+312 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-54</para></cell>
+<cell><para>Nunchaku</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para>Quarterstaff <sup><b>3</b></sup></para></cell>
+<cell><para>+600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-61</para></cell>
+<cell><para>Rapier</para></cell>
+<cell><para>+320 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-66</para></cell>
+<cell><para>Scimitar</para></cell>
+<cell><para>+315 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-70</para></cell>
+<cell><para>Shortspear</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-74</para></cell>
+<cell><para>Siangham</para></cell>
+<cell><para>+303 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-84</para></cell>
+<cell><para>Sword, bastard</para></cell>
+<cell><para>+335 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-89</para></cell>
+<cell><para>Sword, short</para></cell>
+<cell><para>+310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-100</para></cell>
+<cell><para>Waraxe, dwarven</para></cell>
+<cell><para>+330 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All magic weapons are masterwork weapons.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1 For weapons normally made of steel, roll d% to determine material: 01-85 steel; 86-99 adamantine; 100 other. Adjust price accordingly.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 Add to enhancement bonus on Table: Weapons to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01-50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51-100 on d%) and it has no special abilities.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Uncommon Melee Weapons" origname="Table: Uncommon Melee Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Uncommon_Melee_Weapons" docbookid="EpicMagicItems143" refname="Table: Uncommon Melee Weapons" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,mele,price,tabl,uncommon,weapon"><para reftype="item" refcase="no" refname="Table: Uncommon Melee Weapons"><b>Table: Uncommon Melee Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Weapon</b>
+<sup><b>1</b></sup></para></cell>
+<cell><para><b>Weapon Cost 2</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para>Axe, orc double<sup><b>3</b></sup></para></cell>
+<cell><para>+660 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-07</para></cell>
+<cell><para>Battleaxe</para></cell>
+<cell><para>+310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-10</para></cell>
+<cell><para>Chain, spiked</para></cell>
+<cell><para>+325 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-12</para></cell>
+<cell><para>Club</para></cell>
+<cell><para>+300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-16</para></cell>
+<cell><para>Crossbow, hand</para></cell>
+<cell><para>+400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para>Crossbow, repeating</para></cell>
+<cell><para>+550 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-21</para></cell>
+<cell><para>Dagger, punching</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-23</para></cell>
+<cell><para>Falchion</para></cell>
+<cell><para>+375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-26</para></cell>
+<cell><para>Flail, dire <sup><b>3</b></sup></para></cell>
+<cell><para>+690 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-31</para></cell>
+<cell><para>Flail, heavy</para></cell>
+<cell><para>+315 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-35</para></cell>
+<cell><para>Flail, light</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para>Gauntlet</para></cell>
+<cell><para>+302 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para>Gauntlet, spiked</para></cell>
+<cell><para>+305 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-41</para></cell>
+<cell><para>Glaive</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para>Greatclub</para></cell>
+<cell><para>+305 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para>Guisarme</para></cell>
+<cell><para>+309 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-48</para></cell>
+<cell><para>Halberd</para></cell>
+<cell><para>+310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-51</para></cell>
+<cell><para>Halfspear</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para>Hammer, gnome hooked <sup><b>3</b></sup></para></cell>
+<cell><para>+620 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para>Hammer, light</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-58</para></cell>
+<cell><para>Handaxe</para></cell>
+<cell><para>+306 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-61</para></cell>
+<cell><para>Kukri</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-63</para></cell>
+<cell><para>Lance, heavy</para></cell>
+<cell><para>+310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-65</para></cell>
+<cell><para>Lance, light</para></cell>
+<cell><para>+306 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-67</para></cell>
+<cell><para>Longspear</para></cell>
+<cell><para>+305 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-70</para></cell>
+<cell><para>Morningstar</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-72</para></cell>
+<cell><para>Net</para></cell>
+<cell><para>+320 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-74</para></cell>
+<cell><para>Pick, heavy</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-76</para></cell>
+<cell><para>Pick, light</para></cell>
+<cell><para>+304 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para>Ranseur</para></cell>
+<cell><para>+310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-80</para></cell>
+<cell><para>Sap</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-82</para></cell>
+<cell><para>Scythe</para></cell>
+<cell><para>+318 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-84</para></cell>
+<cell><para>Shuriken</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-86</para></cell>
+<cell><para>Sickle</para></cell>
+<cell><para>+306 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-89</para></cell>
+<cell><para>Sword, two-bladed <sup><b>3</b></sup></para></cell>
+<cell><para>+700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para>Trident</para></cell>
+<cell><para>+315 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-94</para></cell>
+<cell><para>Urgrosh, dwarven <sup><b>3</b></sup></para></cell>
+<cell><para>+650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para>Warhammer</para></cell>
+<cell><para>+312 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para>Whip</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All magic weapons are masterwork weapons.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1 For weapons normally made of steel, roll d% to determine material: 01-85 steel; 86-99 adamantine; 100 other. Adjust price accordingly.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 Add to enhancement bonus on Table: Weapons to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>3 Masterwork double weapons incur double the masterwork cost to account for each head (+300 gp masterwork cost per head for a total of +600 gp). Double weapons have separate bonuses for their different heads. If randomly determined, the second head of a double weapon has the same enhancement bonus as the main head (01-50 on d%), doubling the cost of the bonus, or its enhancement bonus is one less (51-100) and it has no special abilities.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Ranged Weapons" origname="Table: Ranged Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Ranged_Weapons" docbookid="EpicMagicItems144" refname="Table: Ranged Weapons" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,price,rang,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Ranged Weapons"><b>Table: Ranged Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Weapon</b> </para></cell>
+<cell><para><b>Weapon Cost</b><sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>Ammunition</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-50</para></cell>
+<cell><para>Arrows (50)</para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-80</para></cell>
+<cell><para>Bolts, crossbow (50)</para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-100</para></cell>
+<cell><para>Bullets, sling (50)</para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>Axe, throwing</para></cell>
+<cell><para>+308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-25</para></cell>
+<cell><para>Crossbow, heavy</para></cell>
+<cell><para>+350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-35</para></cell>
+<cell><para>Crossbow, light</para></cell>
+<cell><para>+335 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-39</para></cell>
+<cell><para>Dart</para></cell>
+<cell><para>+300 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-41</para></cell>
+<cell><para>Javelin</para></cell>
+<cell><para>+301 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-46</para></cell>
+<cell><para>Shortbow</para></cell>
+<cell><para>+330 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-51</para></cell>
+<cell><para>Shortbow, composite</para></cell>
+<cell><para>+375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-56</para></cell>
+<cell><para>Shortbow, composite (+1 Str bonus)</para></cell>
+<cell><para>+450 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-61</para></cell>
+<cell><para>Shortbow, composite (+2 Str bonus)</para></cell>
+<cell><para>+525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-65</para></cell>
+<cell><para>Sling</para></cell>
+<cell><para>+300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-75</para></cell>
+<cell><para>Longbow</para></cell>
+<cell><para>+375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-80</para></cell>
+<cell><para>Longbow, composite</para></cell>
+<cell><para>+400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-85</para></cell>
+<cell><para>Longbow, composite (+1 Str bonus)</para></cell>
+<cell><para>+500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-90</para></cell>
+<cell><para>Longbow, composite (+2 Str bonus)</para></cell>
+<cell><para>+600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-95</para></cell>
+<cell><para>Longbow, composite (+3 Str bonus)</para></cell>
+<cell><para>+700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>Longbow, composite (+4 Str bonus)</para></cell>
+<cell><para>+800 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All magic weapons are masterwork weapons.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Weapons to determine total market price.</para></cell>
+<cell/>
+</row>
+</table>
+</topic><topic level="8" name="Table: Melee Weapon Special Abilities" origname="Table: Melee Weapon Special Abilities" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Melee_Weapon_Special_Abilities" docbookid="EpicMagicItems145" refname="Table: Melee Weapon Special Abilities" reftype="item" refcase="no" refaltname="" keywords="abil,base,descript,epic,equip,gear,item,magic,mele,price,special,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Melee Weapon Special Abilities"><b>Table: Melee Weapon Special Abilities</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Special Ability</b> </para></cell>
+<cell><para><b>Market Price Modifier</b><sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-08</para></cell>
+<cell><para>Acidic blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-16</para></cell>
+<cell><para>Fiery blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-24</para></cell>
+<cell><para>Icy blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-32</para></cell>
+<cell><para>Lightning blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-40</para></cell>
+<cell><para>Mighty disruption</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-48</para></cell>
+<cell><para>Sonic blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-56</para></cell>
+<cell><para>Dread</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-61</para></cell>
+<cell><para>Anarchic power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-66</para></cell>
+<cell><para>Everdancing</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-71</para></cell>
+<cell><para>Holy power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-76</para></cell>
+<cell><para>Axiomatic power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-81</para></cell>
+<cell><para>Unholy power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>82-89</para></cell>
+<cell><para>Roll on nonepic magic item Table: Melee Weapon Special Abilities, then roll again on this table.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-97</para></cell>
+<cell><para>Roll twice on nonepic magic item Table: Melee Weapon Special Abilities.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para>Roll twice again<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Epic Weapons to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Ranged Weapon Special Abilities" origname="Table: Ranged Weapon Special Abilities" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Ranged_Weapon_Special_Abilities" docbookid="EpicMagicItems146" refname="Table: Ranged Weapon Special Abilities" reftype="item" refcase="no" refaltname="" keywords="abil,base,descript,epic,equip,gear,item,magic,price,rang,special,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Ranged Weapon Special Abilities"><b>Table: Ranged Weapon Special Abilities</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Special Ability</b> </para></cell>
+<cell><para><b>Market Price Modifier</b><sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-07</para></cell>
+<cell><para>Acidic blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-14</para></cell>
+<cell><para>Distant shot</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-21</para></cell>
+<cell><para>Fiery blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-28</para></cell>
+<cell><para>Icy blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-35</para></cell>
+<cell><para>Lightning blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-41</para></cell>
+<cell><para>Sonic blast</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-48</para></cell>
+<cell><para>Triple-throw</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-53</para></cell>
+<cell><para>Unerring accuracy</para></cell>
+<cell><para>+6 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-60</para></cell>
+<cell><para>Dread</para></cell>
+<cell><para>+7 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-65</para></cell>
+<cell><para>Anarchic power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-70</para></cell>
+<cell><para>Holy power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-75</para></cell>
+<cell><para>Axiomatic power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-80</para></cell>
+<cell><para>Unholy power</para></cell>
+<cell><para>+8 bonus</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>81-88</para></cell>
+<cell><para>Roll on nonepic magic item Table: Ranged Weapon Special Abilities, then roll again on this table.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-96</para></cell>
+<cell><para>Roll twice on nonepic magic item Table: Ranged Weapon Special Abilities.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-100</para></cell>
+<cell><para>Roll twice again<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Add to enhancement bonus on Table: Weapons to determine total market price.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 If a special ability is rolled twice, only one counts. If two versions of the same special ability are rolled, use the better.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="8" name="Table: Specific Weapons" origname="Table: Specific Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Base_Price_Table_Specific_Weapons" docbookid="EpicMagicItems147" refname="Table: Specific Weapons" reftype="item" refcase="no" refaltname="" keywords="base,descript,epic,equip,gear,item,magic,price,specif,tabl,weapon"><para reftype="item" refcase="no" refname="Table: Specific Weapons"><b>Table: Specific Weapons</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Specific Weapon</b> </para></cell>
+<cell><para><b>Market Price</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-18</para></cell>
+<cell><para><i>Stormbrand</i> </para></cell>
+<cell><para>235,350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-33</para></cell>
+<cell><para><i>Quarterstaff of alacrity</i> </para></cell>
+<cell><para>462,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-48</para></cell>
+<cell><para><i>Souldrinker</i> </para></cell>
+<cell><para>478,335 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-60</para></cell>
+<cell><para><i>Backstabber</i> </para></cell>
+<cell><para>770,310 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-68</para></cell>
+<cell><para><i>Mace of ruin</i> </para></cell>
+<cell><para>1,000,312 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-72</para></cell>
+<cell><para><i>Gripsoul</i> </para></cell>
+<cell><para>1,856,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-78</para></cell>
+<cell><para><i>Elven greatbow</i> </para></cell>
+<cell><para>2,900,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-64</para></cell>
+<cell><para><i>Finaldeath</i> </para></cell>
+<cell><para>3,580,308 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-90</para></cell>
+<cell><para><i>Chaosbringer</i> </para></cell>
+<cell><para>4,025,350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-94</para></cell>
+<cell><para><i>Holy devastator</i> </para></cell>
+<cell><para>4,620,315 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-98</para></cell>
+<cell><para><i>Unholy despoiler</i> </para></cell>
+<cell><para>4,620,315 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>everwhirling chain</i> </para></cell>
+<cell><para>5,220,325 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Epic Weapon Special Ability Descriptions" origname="Epic Weapon Special Ability Descriptions" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions" docbookid="EpicMagicItems148" refname="Epic Weapon Special Ability Descriptions" reftype="item" refcase="no" refaltname="" keywords="abil,descript,epic,equip,gear,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Epic Weapon Special Ability Descriptions" style="heading 5">Epic Weapon Special Ability Descriptions</para><para>Most magic weapons only have enhancement bonuses. They can also have special abilities, such as those detailed below and nonepic abilities. A weapon with a special ability must have at least a +1 enhancement bonus.</para><para/><topic level="8" name="Acidic Blast" origname="Acidic Blast" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Acidic_Blast" docbookid="EpicMagicItems149" refname="Acidic Blast" reftype="item" refcase="no" refaltname="" keywords="abil,acid,blast,descript,epic,equip,gear,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Acidic Blast"><b>Acidic Blast:</b> On command, an acidic blast weapon drips acid (though this deals no damage to the wielder). On any hit, this acid splashes the creature struck, dealing +3d6 points of bonus acid damage. On a successful critical hit it instead deals +6d6 points of acid damage (or +9d6 if the critical multiplier is x3, or +12d6 if the critical multiplier is x4). Bows, crossbows, and slings with this special ability bestow the bonus acid damage upon their ammunition.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>acid fog; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Anarchic Power" origname="Anarchic Power" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Anarchic_Power" docbookid="EpicMagicItems150" refname="Anarchic Power" reftype="item" refcase="no" refaltname="" keywords="abil,anarch,descript,epic,equip,gear,item,magic,power,special,weapon"><para reftype="item" refcase="no" refname="Anarchic Power"><b>Anarchic Power:</b> This weapon is chaos-aligned and thus bypasses the corresponding damage reduction. When a weapon of anarchic power strikes a lawful target, this power deals +3d6 points of bonus chaotic damage to the target, and the target gains one negative level (Fortitude DC 23 to remove 24 hours later). On a successful critical hit it instead deals +6d6 points of chaotic damage and bestows two negative levels (or +9d6 and three negative levels if the critical multiplier is x3, or +12d6 and four negative levels if the critical multiplier is x4). The weapon bestows three negative levels on any lawful creature attempting to wield it. These negative levels remain as long as the weapon is in hand and disappear when the weapon is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including <i>restoration</i> spells) while the weapon is wielded. Bows, crossbows, and slings with this special ability bestow the anarchic power upon their ammunition. This special ability does not stack with the nonepic anarchic special ability<i/>. </para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>word of chaos; Market Price: +</i>8 bonus.</para>
+</topic><topic level="8" name="Axiomatic Power" origname="Axiomatic Power" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Axiomatic_Power" docbookid="EpicMagicItems151" refname="Axiomatic Power" reftype="item" refcase="no" refaltname="" keywords="abil,axiomat,descript,epic,equip,gear,item,magic,power,special,weapon"><para reftype="item" refcase="no" refname="Axiomatic Power"><b>Axiomatic Power:</b> This weapon is lawful-aligned and thus bypasses the corresponding damager reduction. When a weapon of axiomatic power strikes a chaotic target, this power erupts forth and deals +3d6 points of bonus lawful damage to the target, and the target gains one negative level (Fortitude DC 23 to remove 24 hours later). On a successful critical hit it instead deals +6d6 points of lawful damage and bestows two negative levels (or +9d6 and three negative levels if the critical multiplier is x3, or +12d6 and four negative levels if the critical multiplier is x4). The weapon bestows three negative levels on any chaotic creature attempting to wield it. These negative levels remain as long as the weapon is in hand and disappear when the weapon is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including <i>restoration</i> spells) while the weapon is wielded. Bows, crossbows, and slings with this special ability bestow the lawful power upon their ammunition. This special ability does not stack with the nonepic axiomatic special ability.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>dictum; Market Price: +</i>8 bonus.</para>
+</topic><topic level="8" name="Distant Shot" origname="Distant Shot" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Distant_Shot" docbookid="EpicMagicItems152" refname="Distant Shot" reftype="item" refcase="no" refaltname="" keywords="abil,descript,distant,epic,equip,gear,item,magic,shot,special,weapon"><para reftype="item" refcase="no" refname="Distant Shot"><b>Distant Shot:</b> A distant shot weapon can be used against any target within line of sight at no penalty for range.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>discern location; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Dread" origname="Dread" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Dread" docbookid="EpicMagicItems153" refname="Dread" reftype="item" refcase="no" refaltname="" keywords="abil,descript,dread,epic,equip,gear,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Dread"><b>Dread:</b> A dread weapon excels at attacking one type of creature. Against its designated foe, its effective enhancement bonus is +4 better than its normal enhancement bonus. Further, it deals +4d6 points of bonus damage against the foe, and if it scores a successful critical hit against the foe, that creature must make a Fortitude save (DC 27) or be destroyed instantly and turned to dust. (This even affects creatures immune to critical hits or death magic.) To randomly determine a dread weapon's designated foe, roll on the following table.</para><para><i>Caster Level:</i> 22nd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>summon monster IX; Market Price: +</i>7 bonus.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Designated Foe</b></para></cell>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Designated Foe</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-05</para></cell>
+<cell><para>Aberrations</para></cell>
+<cell><para>58-60</para></cell>
+<cell><para>Humanoids, orc</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-09</para></cell>
+<cell><para>Animals</para></cell>
+<cell><para>61-65</para></cell>
+<cell><para>Magical beasts</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-16</para></cell>
+<cell><para>Constructs</para></cell>
+<cell><para>66-70</para></cell>
+<cell><para>Monstrous humanoids</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-22</para></cell>
+<cell><para>Dragons</para></cell>
+<cell><para>71-72</para></cell>
+<cell><para>Oozes</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-27</para></cell>
+<cell><para>Elementals</para></cell>
+<cell><para>73</para></cell>
+<cell><para>Outsiders, air</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-32</para></cell>
+<cell><para>Fey</para></cell>
+<cell><para>74-76</para></cell>
+<cell><para>Outsiders, chaotic</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-39</para></cell>
+<cell><para>Giants</para></cell>
+<cell><para>77</para></cell>
+<cell><para>Outsiders, earth</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40</para></cell>
+<cell><para>Humanoids, aquatic</para></cell>
+<cell><para>78-80</para></cell>
+<cell><para>Outsiders, evil</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-42</para></cell>
+<cell><para>Humanoids, dwarf</para></cell>
+<cell><para>81</para></cell>
+<cell><para>Outsiders, fire</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-44</para></cell>
+<cell><para>Humanoids, elf</para></cell>
+<cell><para>82-84</para></cell>
+<cell><para>Outsiders, good</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45</para></cell>
+<cell><para>Humanoids, gnoll</para></cell>
+<cell><para>85-87</para></cell>
+<cell><para>Outsiders, lawful</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46</para></cell>
+<cell><para>Humanoids, gnome</para></cell>
+<cell><para>88</para></cell>
+<cell><para>Outsiders, water</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-49</para></cell>
+<cell><para>Humanoids, goblinoid</para></cell>
+<cell><para>89-90</para></cell>
+<cell><para>Plants</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50</para></cell>
+<cell><para>Humanoids, halfling</para></cell>
+<cell><para>91-98</para></cell>
+<cell><para>Undead</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-54</para></cell>
+<cell><para>Humanoids, human</para></cell>
+<cell><para>99-100</para></cell>
+<cell><para>Vermin</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para>Humanoids, reptilian</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><sect/><para/>
+</topic><topic level="8" name="Everdancing" origname="Everdancing" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Everdancing" docbookid="EpicMagicItems154" refname="Everdancing" reftype="item" refcase="no" refaltname="" keywords="abil,descript,epic,equip,everdanc,gear,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Everdancing"><b>Everdancing:</b> An everdancing weapon is much like a dancing weapon, though it can be loosed with a free action and will fight as long as desired. It can move up to 60 feet away from its owner. Its owner can instruct it to move to a different target as a move-equivalent action. If its owner is rendered unconscious or otherwise unable to direct it, it will fight the same opponent as long as that opponent is conscious and within range. The owner of an everdancing weapon can grasp it again as a free action (assuming it is within reach).</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>animate objects; Market Price: +</i>8 bonus.</para>
+</topic><topic level="8" name="Fiery Blast" origname="Fiery Blast" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Fiery_Blast" docbookid="EpicMagicItems155" refname="Fiery Blast" reftype="item" refcase="no" refaltname="" keywords="abil,blast,descript,epic,equip,fieri,gear,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Fiery Blast"><b>Fiery Blast:</b> On command, a fiery blast weapon is sheathed in fire (though this deals no damage to the wielder). On any hit, this fire engulfs the creature struck, dealing +3d6 points of bonus fire damage. On a successful critical hit it instead deals +6d6 points of fire damage (or +9d6 if the critical multiplier is x3, or +12d6 if the critical multiplier is x4). Bows, crossbows, and slings with this special ability bestow the bonus fire damage upon their ammunition.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>fireball; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Holy Power" origname="Holy Power" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Holy_Power" docbookid="EpicMagicItems156" refname="Holy Power" reftype="item" refcase="no" refaltname="" keywords="abil,descript,epic,equip,gear,holi,item,magic,power,special,weapon"><para reftype="item" refcase="no" refname="Holy Power"><b>Holy Power:</b> This weapon is good-aligned and thus bypasses the corresponding damager reduction. When a weapon of holy power strikes an evil target, this power erupts forth and deals +3d6 points of bonus holy (good) damage to the target, and the target gains one negative level (Fortitude DC 23 to remove 24 hours later). On a successful critical hit it instead deals +6d6 points of holy (good) damage and bestows two negative levels (or +9d6 and three negative levels if the critical multiplier is x3, or +12d6 and four negative levels if the critical multiplier is x4). The weapon bestows three negative levels on any evil creature attempting to wield it. These negative levels remain as long as the weapon is in hand and disappear when the weapon is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including <i>restoration</i> spells) while the weapon is wielded. Bows, crossbows, and slings with this special ability bestow the holy power upon their ammunition. This special ability does not stack with the nonepic holy special ability.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>holy word; Market Price: +</i>8 bonus.</para>
+</topic><topic level="8" name="Icy Blast" origname="Icy Blast" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Icy_Blast" docbookid="EpicMagicItems157" refname="Icy Blast" reftype="item" refcase="no" refaltname="" keywords="abil,blast,descript,epic,equip,gear,ici,item,magic,special,weapon"><para reftype="item" refcase="no" refname="Icy Blast"><b>Icy Blast:</b> On command, an icy blast weapon is sheathed in icy cold (though this deals no damage to the wielder). On any hit, this cold washes over the creature struck, dealing+3d6 points of bonus cold damage. On a successful critical hit it instead deals +6d6 points of cold damage (or +9d6 if the critical multiplier is x3, or +12d6 if the critical multiplier is x4). Bows, crossbows, and slings with this special ability bestow the bonus cold damage upon their ammunition.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>cone of cold; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Lightning Blast" origname="Lightning Blast" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Lightning_Blast" docbookid="EpicMagicItems158" refname="Lightning Blast" reftype="item" refcase="no" refaltname="" keywords="abil,blast,descript,epic,equip,gear,item,lightn,magic,special,weapon"><para reftype="item" refcase="no" refname="Lightning Blast"><b>Lightning Blast:</b> On command, a lightning blast weapon crackles with electrical energy (though this deals no damage to the wielder). On any hit, lightning coruscates around the creature struck, dealing +3d6 points of bonus electricity damage. On a successful critical hit it instead deals +6d6 points of electricity damage (or +9d6 if the critical multiplier is x3, or +12d6 if the critical multiplier is x4). Bows, crossbows, and slings with this special ability bestow the bonus electricity damage upon their ammunition.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>lightning bolt; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Mighty Disruption" origname="Mighty Disruption" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Mighty_Disruption" docbookid="EpicMagicItems159" refname="Mighty Disruption" reftype="item" refcase="no" refaltname="" keywords="abil,descript,disrupt,epic,equip,gear,item,magic,mighti,special,weapon"><para reftype="item" refcase="no" refname="Mighty Disruption"><b>Mighty Disruption:</b> Any undead creature struck in combat must succeed at a Fortitude save (DC 21) or be destroyed. A weapon of mighty disruption must be a bludgeoning weapon. (If this property is rolled for a piercing or slashing weapon, reroll.)</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>true resurrection; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Sonic Blast" origname="Sonic Blast" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Sonic_Blast" docbookid="EpicMagicItems160" refname="Sonic Blast" reftype="item" refcase="no" refaltname="" keywords="abil,blast,descript,epic,equip,gear,item,magic,sonic,special,weapon"><para reftype="item" refcase="no" refname="Sonic Blast"><b>Sonic Blast:</b> On command, a sonic blast weapon emits a low thrumming hum (though this deals no damage to the wielder). On any hit, this becomes a thunderous roar that deals +3d6 points of bonus sonic damage to the creature struck. On a successful critical hit it instead deals +6d6 points of sonic damage (or +9d6 if the critical multiplier is x3, or +12d6 if the critical multiplier is x4). Bows, crossbows, and slings with this special ability bestow the bonus sonic damage upon their ammunition.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>shout; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Triple-Throw" origname="Triple-Throw" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Triple_Throw" docbookid="EpicMagicItems161" refname="Triple-Throw" reftype="item" refcase="no" refaltname="" keywords="abil,descript,epic,equip,gear,item,magic,special,triple-throw,weapon"><para reftype="item" refcase="no" refname="Triple-Throw"><b>Triple-Throw:</b> This special ability can only be placed on a weapon that can be thrown. (If this property is rolled for a weapon that cannot be thrown, reroll.) A triple-throw weapon creates two duplicates of itself when thrown. Both the original and the duplicate weapons attack separately (at the same attack bonus). Regardless of the success of any of the attacks, the duplicates immediately disappear after the attack is completed. Any bonuses on damage due to accuracy or precision (including those from sneak attacks, the Precise Shot feat, or the ranger's favored enemy bonus) apply only to the original weapon's damage, not to the duplicates.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>shades; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Unerring Accuracy" origname="Unerring Accuracy" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Unerring_Accuracy" docbookid="EpicMagicItems162" refname="Unerring Accuracy" reftype="item" refcase="no" refaltname="" keywords="abil,accuraci,descript,epic,equip,gear,item,magic,special,uner,weapon"><para reftype="item" refcase="no" refname="Unerring Accuracy"><b>Unerring Accuracy:</b> Ranged attacks made with this weapon negate the AC bonus granted by any cover short of total cover.  The weapon's ranged attacks also ignore any miss chance from concealment (including total concealment, but the must still aim his or her attacks at the correct square).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>true seeing; Market Price: +</i>6 bonus.</para>
+</topic><topic level="8" name="Unholy Power" origname="Unholy Power" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Epic_Weapon_Special_Ability_Descriptions_Unholy_Power" docbookid="EpicMagicItems163" refname="Unholy Power" reftype="item" refcase="no" refaltname="" keywords="abil,descript,epic,equip,gear,item,magic,power,special,unholi,weapon"><para reftype="item" refcase="no" refname="Unholy Power"><b>Unholy Power:</b> This weapon is evil-aligned and this bypasses the corresponding damage reduction. When a weapon of unholy power strikes a good target, this power erupts forth and deals +3d6 points of bonus unholy (evil) damage to the target, and the target gains one negative level (Fortitude DC 23 to remove 24 hours later). On a successful critical hit it instead deals +6d6 points of unholy (evil) damage and bestows two negative levels (or +9d6 and three negative levels if the critical multiplier is x3, or +12d6 and four negative levels if the critical multiplier is x4). The weapon bestows three negative levels on any good creature attempting to wield it. These negative levels remain as long as the weapon is in hand and disappear when the weapon is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including <i>restoration</i> spells) while the weapon is wielded. Bows, crossbows, and slings with this special ability bestow the unholy power upon their ammunition. This special ability does not stack with the nonepic unholy special ability.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>unholy word; Market Price: +</i>8 bonus.</para><para/>
+</topic>
+</topic><topic level="5" name="Specific Weapons" origname="Specific Weapons" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons" docbookid="EpicMagicItems164" refname="Specific Weapons" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Specific Weapons" style="heading 5">Specific Weapons</para><para/><topic level="8" name="Backstabber" origname="Backstabber" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Backstabber" docbookid="EpicMagicItems165" refname="Backstabber" reftype="item" refcase="no" refaltname="" keywords="backstabb,descript,epic,equip,gear,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Backstabber"><b>Backstabber:</b> This +<i>6 short sword</i> adds +2d6 to the wielder's sneak attack damage. If the wielder does not have the sneak attack ability, this weapon does not grant it.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>inflict moderate</i> <i>wounds; Market Price:</i> 770,310 gp; <i>Cost to Create:</i> 385,310 gp + 17,700 XP.</para>
+</topic><topic level="8" name="Chaosbringer" origname="Chaosbringer" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Chaosbringer" docbookid="EpicMagicItems166" refname="Chaosbringer" reftype="item" refcase="no" refaltname="" keywords="chaosbring,descript,epic,equip,gear,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Chaosbringer"><b>Chaosbringer:</b> This +<i>6 greataxe of anarchic power</i> grants its wielder the ability to fly into a rage (identical to a barbarian's rage) once per day (or one additional time per day if the wielder already has the rage class feature). If the wielder has the greater rage class feature, the weapon also grants the wielder the Incite Rage epic feat.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>rage</i>,  <i>mass charm monster; Market Price:</i> 4,025,350 gp; <i>Cost to Create:</i> 2,012,850 gp + 50,250 XP.</para>
+</topic><topic level="8" name="Elven Greatbow" origname="Elven Greatbow" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Elven_Greatbow" docbookid="EpicMagicItems167" refname="Elven Greatbow" reftype="item" refcase="no" refaltname="" keywords="descript,elven,epic,equip,gear,greatbow,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Elven Greatbow"><b>Elven Greatbow:</b> In the hands of any nonelf, this bow performs only as a +<i>2 composite longbow</i>. In the hands of an elf, this weapon functions as a +<i>5 composite longbow of unerring accuracy</i> with a Strength bonus that matches its elven wielder's current Strength at all times. Furthermore, any arrows loosed from the bow are considered keen, regardless of the enhancement bonus of the arrow fired.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>bull's strength</i>,  <i>keen edge</i>,  <i>true seeing; Market Price:</i> 2,900,400 gp; <i>Cost to Create:</i> 1,450,400 gp + 39,400 XP.</para>
+</topic><topic level="8" name="Everwhirling Chain" origname="Everwhirling Chain" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Everwhirling_Chain" docbookid="EpicMagicItems168" refname="Everwhirling Chain" reftype="item" refcase="no" refaltname="" keywords="chain,descript,epic,equip,everwhirl,gear,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Everwhirling Chain"><b>Everwhirling Chain:</b> This +<i>4 defending everdancing spiked chain of speed</i> continuously twitches in its wielder's hands. The wielder of the <i>everwhirling chain</i> can use it to make any number of attacks of opportunity per round (as if he or she had the Improved Combat Reflexes feat).</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>animate objects</i>,  <i>haste</i>,  <i>shield</i> (or <i>shield of faith</i>); <i>Market Price:</i> 5,220,325 gp; <i>Cost to Create:</i> 2,610,325 gp + 52,200 XP.</para>
+</topic><topic level="8" name="Finaldeath" origname="Finaldeath" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Finaldeath" docbookid="EpicMagicItems169" refname="Finaldeath" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,finaldeath,gear,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Finaldeath"><b>Finaldeath:</b> This +<i>5 undead dread ghost touch morningstar</i> also grants its wielder immunity to energy drain attacks. Furthermore, if its wielder is capable of turning undead, he or she gains the Positive Energy Aura feat.</para><para><i>Caster Level:</i> 22nd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>death ward</i>,  <i>plane shift</i>,  <i>summon monster IX</i>, <i/> creator must be able to turn undead; <i>Market Price:</i> 3,580,308 gp; <i>Cost to Create:</i> 1,790,308 gp + 45,800 XP.</para>
+</topic><topic level="8" name="Gripsoul" origname="Gripsoul" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Gripsoul" docbookid="EpicMagicItems170" refname="Gripsoul" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,gripsoul,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Gripsoul"><b>Gripsoul:</b> <i>Gripsoul</i> is a +<i>6 keen long-sword</i>, <i/> but instead of dealing additional damage on a critical hit, the weapon imprisons the victim in a gem set in the pommel of the sword as per a <i>binding</i> spell heightened to 16th level (DC 30). The same is true of any blow that would otherwise kill a foe or knock him or her unconscious. Only one creature can be so held, but the wielder can release the bound soul at any time with a command word.</para><para><i>Caster Level:</i> 27th; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>binding; Market Price:</i> 1,856,500 gp; <i>Cost to Create:</i> 934,500 gp + 28,440 XP.</para>
+</topic><topic level="8" name="Holy Devastator" origname="Holy Devastator" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Holy_Devastator" docbookid="EpicMagicItems171" refname="Holy Devastator" reftype="item" refcase="no" refaltname="" keywords="descript,devast,epic,equip,gear,holi,item,magic,specif,weapon"><para reftype="item" refcase="no" refname="Holy Devastator"><b>Holy Devastator:</b> In the hands of any character other than a paladin, this sword performs as a +<i>3 holy longsword</i>. In the hands of a paladin, this weapon functions as a +<i>7 longsword of holy power</i> and grants a +5 sacred bonus on the wielder's saving throws against spells with the evil descriptor or spells cast by evil characters. If the paladin wielder smites evil with the <i>holy devastator</i>, <i/> he or she adds twice his or her paladin level to damage (rather than his or her paladin level).</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>holy aura</i>,  <i>holy smite</i>,  <i>holy word; Market Price:</i> 4,620,315 gp; <i>Cost to Create:</i> 2,310,315 gp + 56,200 XP.</para>
+</topic><topic level="8" name="Mace of Ruin" origname="Mace of Ruin" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Mace_of_Ruin" docbookid="EpicMagicItems172" refname="Mace of Ruin" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,mace,magic,ruin,specif,weapon"><para reftype="item" refcase="no" refname="Mace of Ruin"><b>Mace of Ruin:</b> This +<i>7 heavy mace</i> ignores the hardness or damage reduction of any object or creature it strikes. Furthermore, the weapon can deal critical hits to objects and constructs as if they were living creatures.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>disintegrate; Market Price:</i> 1,000,312 gp; <i>Cost to Create:</i> 500,312 gp + 20,000 XP.</para>
+</topic><topic level="8" name="Quarterstaff of Alacrity" origname="Quarterstaff of Alacrity" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Quarterstaff_of_Alacrity" docbookid="EpicMagicItems173" refname="Quarterstaff of Alacrity" reftype="item" refcase="no" refaltname="" keywords="alacr,descript,epic,equip,gear,item,magic,quarterstaff,specif,weapon"><para reftype="item" refcase="no" refname="Quarterstaff of Alacrity"><b>Quarterstaff of Alacrity:</b> Both ends of this +<i>5 quarterstaff of speed</i> have equal enhancement and special powers, meaning that it allows an additional attack with each end every round. While the <i>Quarterstaff of alacrity</i> is held, it grants its wielder a +5 resistance bonus on Reflex saves. It also deflects ranged weapons as if the wielder had the Deflect Arrows and Infinite Deflection feats.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>protection from arrows</i>,  <i>shield; Market Price:</i> 462,600 gp; <i>Cost to Create:</i> 231,600 gp + 14,620 XP.</para>
+</topic><topic level="8" name="Souldrinker" origname="Souldrinker" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Souldrinker" docbookid="EpicMagicItems174" refname="Souldrinker" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,souldrink,specif,weapon"><para reftype="item" refcase="no" refname="Souldrinker"><b>Souldrinker:</b> This +<i>5 bastard sword</i> bestows 2d4 negative levels on its target whenever it deals damage, just as if its target had been struck by the <i>energy drain</i> spell. Each negative level bestowed grants the wielder 5 temporary hit points. One day after being struck, the subject must make a Fortitude save (DC 25) for each negative level or lose a level. If this sword's power causes a character to have negative levels at least equal to his or her current level, the character is instantly slain and the wielder gains an additional 10 temporary hit points. Temporary hit points gained from this weapon last for a maximum of 1 hour.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Spell Focus (Necromancy), <i>energy drain; Market Price:</i> 478,335 gp; <i>Cost to Create:</i> 239,315 gp + 14,780 XP.</para>
+</topic><topic level="8" name="Stormbrand" origname="Stormbrand" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Stormbrand" docbookid="EpicMagicItems175" refname="Stormbrand" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,specif,stormbrand,weapon"><para reftype="item" refcase="no" refname="Stormbrand"><b>Stormbrand:</b> This +<i>4 thundering shocking burst greatsword</i> allows its wielder to fly at will (as the <i>fly</i> spell). Furthermore, the wielder can move normally (including flying) even in the strongest winds. When the weapon is drawn, the wielder gains electricity resistance 30 and sonic resistance 30.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>blindness/deafness</i>,  <i>call lightning</i> or <i>lightning bolt</i>,  <i>control winds</i>,  <i>fly</i>,  <i>protection from energy; Market Price:</i> 235,350 gp; <i>Cost to Create:</i> 117,850 gp + 12,350 XP.</para>
+</topic><topic level="8" name="Unholy Despoiler" origname="Unholy Despoiler" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Weapons_Specific_Weapons_Unholy_Despoiler" docbookid="EpicMagicItems176" refname="Unholy Despoiler" reftype="item" refcase="no" refaltname="" keywords="descript,despoil,epic,equip,gear,item,magic,specif,unholi,weapon"><para reftype="item" refcase="no" refname="Unholy Despoiler"><b>Unholy Despoiler:</b> In the hands of any character other than a blackguard, this sword performs as a +<i>3 unholy longsword</i>. In the hands of a blackguard, this weapon functions as a +<i>7 longsword of unholy power</i> and grants a +5 profane bonus on the wielder's saving throws against spells with the good descriptor or spells cast by good characters. If a blackguard wielder smites good with the <i>unholy despoiler</i>, he or she adds twice his or her blackguard level to damage (rather than his or her blackguard level).</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>blasphemy</i>,  <i>unholy aura</i>,  <i>unholy blight; Market Price:</i> 4,650,315 gp; <i>Cost to Create:</i> 2,325,315 gp + 56,500 XP.</para><para/><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Rings" origname="Rings" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings" docbookid="EpicMagicItems177" refname="Rings" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Rings" style="heading 3">Rings</para><para/><topic level="5" name="Nonepic Magic Item" origname="Nonepic Magic Item" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Nonepic_Magic_Item" docbookid="EpicMagicItems178" refname="Nonepic Magic Item" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,nonep,ring"><para reftype="item" refcase="no" refname="Nonepic Magic Item" style="heading 5">Nonepic Magic Item</para><topic level="8" name="Universal Energy Resistance, Minor" origname="Universal Energy Resistance, Minor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Nonepic_Magic_Item_Universal_Energy_Resistance_Minor" docbookid="EpicMagicItems179" refname="Universal Energy Resistance, Minor" reftype="item" refcase="no" refaltname="" keywords="descript,energi,epic,equip,gear,item,magic,minor,nonep,resist,ring,univers"><para reftype="item" refcase="no" refname="Universal Energy Resistance, Minor"><b>Universal Energy Resistance, Minor:</b> This ring functions as a <i>ring of minor energy resistance</i> for all types of energy: fire, cold, electricity, acid, and sonic. When the wearer would normally take such damage, subtract 10 points of damage per round from the amount before applying. This is a nonepic magic item.</para><para><i>Caster Level:</i> 15th; <i>Prerequisites:</i> Forge Ring, <i>protection from energy; Market Price:</i> 84,000 gp.</para><para/><para/>
+</topic><topic level="8" name="Table: Epic Rings" origname="Table: Epic Rings" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Nonepic_Magic_Item_Table_Epic_Rings" docbookid="EpicMagicItems180" refname="Table: Epic Rings" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,nonep,ring,tabl"><para reftype="item" refcase="no" refname="Table: Epic Rings"><b>Table: Epic Rings</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Ring</b> </para></cell>
+<cell><para><b>Market Price</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-08</para></cell>
+<cell><para><i>Universal energy resistance</i>,  <i>greater</i></para></cell>
+<cell><para>308,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-13</para></cell>
+<cell><para><i>Energy immunity (acid)</i> </para></cell>
+<cell><para>240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-15</para></cell>
+<cell><para><i>Energy immunity (cold)</i> </para></cell>
+<cell><para>240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-23</para></cell>
+<cell><para><i>Energy immunity (electricity)</i> </para></cell>
+<cell><para>240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-28</para></cell>
+<cell><para><i>Energy immunity (fire)</i> </para></cell>
+<cell><para>240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-33</para></cell>
+<cell><para><i>Energy immunity (sonic)</i> </para></cell>
+<cell><para>240,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-38</para></cell>
+<cell><para><i>Adamant law</i> </para></cell>
+<cell><para>250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-43</para></cell>
+<cell><para><i>Chaotic fury</i> </para></cell>
+<cell><para>250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-48</para></cell>
+<cell><para><i>Epic wizardry (V)</i> </para></cell>
+<cell><para>250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-53</para></cell>
+<cell><para><i>Ineffable evil</i> </para></cell>
+<cell><para>250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-58</para></cell>
+<cell><para><i>Virtuous good</i> </para></cell>
+<cell><para>250,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-63</para></cell>
+<cell><para><i>Rapid healing</i> </para></cell>
+<cell><para>300,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-68</para></cell>
+<cell><para><i>Sequestering</i> </para></cell>
+<cell><para>300,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-72</para></cell>
+<cell><para><i>Epic wizardry (VI)</i> </para></cell>
+<cell><para>360,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-76</para></cell>
+<cell><para><i>Ironskin</i> </para></cell>
+<cell><para>400,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-80</para></cell>
+<cell><para><i>Epic wizardry (VII)</i> </para></cell>
+<cell><para>490,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-83</para></cell>
+<cell><para><i>Weaponbreaking</i> </para></cell>
+<cell><para>600,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-86</para></cell>
+<cell><para><i>Epic wizardry (VIII)</i> </para></cell>
+<cell><para>640,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-89</para></cell>
+<cell><para><i>Epic protection +6</i> </para></cell>
+<cell><para>720,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-92</para></cell>
+<cell><para><i>Epic wizardry (IX)</i></para></cell>
+<cell><para>810,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93-95</para></cell>
+<cell><para><i>Epic protection +7</i> </para></cell>
+<cell><para>980,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-97</para></cell>
+<cell><para><i>Epic protection +8</i> </para></cell>
+<cell><para>1,280,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98</para></cell>
+<cell><para><i>Epic protection +9</i> </para></cell>
+<cell><para>1,620,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99</para></cell>
+<cell><para><i>Epic protection +10</i> </para></cell>
+<cell><para>2,000,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>100</para></cell>
+<cell><para><i>Universal energy immunity</i> </para></cell>
+<cell><para>2,160,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Epic Ring Descriptions" origname="Epic Ring Descriptions" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions" docbookid="EpicMagicItems181" refname="Epic Ring Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Epic Ring Descriptions" style="heading 5">Epic Ring Descriptions</para><para>Standard epic rings are described below.</para><para/><topic level="8" name="Adamant Law" origname="Adamant Law" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Adamant_Law" docbookid="EpicMagicItems182" refname="Adamant Law" reftype="item" refcase="no" refaltname="" keywords="adam,descript,epic,equip,gear,item,law,magic,ring"><para reftype="item" refcase="no" refname="Adamant Law"><b>Adamant Law:</b>  The wearer of this ring is constantly sheathed in a <i>shield of law</i> effect. It bestows one negative level on any chaotic creature that puts it on. The negative level remains as long as the ring is worn and disappears when the ring is removed. This negative level never results in actual level loss, but it cannot be overcome in any way (including <i>restoration</i> spells) while the ring is worn.</para><para><i>Caster Level:</i> 15th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>shield of law</i>, <i/> creator must be lawful; <i>Market Price:</i> 250,000 gp.</para>
+</topic><topic level="8" name="Chaotic Fury" origname="Chaotic Fury" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Chaotic_Fury" docbookid="EpicMagicItems183" refname="Chaotic Fury" reftype="item" refcase="no" refaltname="" keywords="chaotic,descript,epic,equip,furi,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Chaotic Fury"><b>Chaotic Fury:</b> The wearer of this ring is constantly sheathed in a <i>cloak of chaos</i> effect. It bestows one negative level on any lawful creature that puts it on. The negative level remains as long as the ring is worn and disappears when the ring is removed. This negative level never results in actual level loss, but it cannot be overcome in any way (including <i>restoration</i> spells) while the ring is worn.</para><para><i>Caster Level:</i> 15th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>cloak of chaos</i>, <i/> creator must be chaotic; <i>Market Price:</i> 250,000 gp.</para>
+</topic><topic level="8" name="Energy Immunity" origname="Energy Immunity" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Energy_Immunity" docbookid="EpicMagicItems184" refname="Energy Immunity" reftype="item" refcase="no" refaltname="" keywords="descript,energi,epic,equip,gear,immun,item,magic,ring"><para reftype="item" refcase="no" refname="Energy Immunity"><b>Energy Immunity:</b> This band continually provides the wearer with immunity to a single type of energy: fire, cold, electricity, acid, or sonic. The wearer takes no damage from the energy of the specific type.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>protection from energy; Market Price:</i> 240,000 gp. Epic</para>
+</topic><topic level="8" name="Protection" origname="Protection" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Protection" docbookid="EpicMagicItems185" refname="Protection" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,protect,ring"><para reftype="item" refcase="no" refname="Protection"><b>Protection:</b> This ring offers continual magical protection in the form of a deflection bonus to Armor Class of +6 or higher.</para><para><i>Caster Level:</i> 20th: <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>shield of faith</i>, <i/> creator's caster level must be three times the ring's bonus; <i>Market Price:</i> 720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10).</para>
+</topic><topic level="8" name="Epic Wizardry" origname="Epic Wizardry" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Epic_Wizardry" docbookid="EpicMagicItems186" refname="Epic Wizardry" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,ring,wizardri"><para reftype="item" refcase="no" refname="Epic Wizardry"><b>Epic Wizardry:</b> Like the <i>ring of wizardry</i>, <i/> this ring comes in a variety of types useful only to arcane spellcasters. The wearer's arcane spells per day are doubled for one particular spell level. An <i>epic ring of wizardry V</i> doubles 5th-level spells, an <i>epic ring of wizardry VI</i> doubles 6th-level spells, an <i>epic ring of wizardry VII</i> doubles 7th-level spells, an <i>epic ring of wizardry VIII</i> doubles 8th-level spells, and an <i>epic ring of wizardry IX</i> doubles 9th-level spells. Bonus spells from high ability scores, school specialization, or any other source are not doubled.</para><para><i>Caster Level:</i> 23rd (<i>epic wizardry</i> V), 26th (<i>epic wizardry VI</i>), 29th (<i>epic wizardry VII</i>), 32nd (<i>epic wizardry VIII</i>), 35th (<i>epic wizardry IX</i>); <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>wish; Market Price:</i> 250,000 gp (<i>epic wizardry</i> V), 360,000 gp (<i>epic wizardry VI</i>), 490,000 gp (<i>epic wizardry VII</i>), 640,000 gp (<i>epic wizardry VIII</i>), 810,000 gp (<i>epic wizardry IX</i>).</para>
+</topic><topic level="8" name="Ineffable Evil" origname="Ineffable Evil" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Ineffable_Evil" docbookid="EpicMagicItems187" refname="Ineffable Evil" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,evil,gear,ineff,item,magic,ring"><para reftype="item" refcase="no" refname="Ineffable Evil"><b>Ineffable Evil:</b> The wearer of this ring is constantly sheathed in an <i>unholy aura</i> effect. It bestows one negative level on any good creature that puts it on. The negative level remains as long as the ring is worn and disappears when the ring is removed. This negative level never results in actual level loss, but it cannot be overcome in any way (including <i>restoration</i> spells) while the ring is worn.</para><para><i>Caster Level:</i> 15th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>unholy aura</i>, <i/> creator must be evil; <i>Market Price:</i> 250,000 gp.</para>
+</topic><topic level="8" name="Ironskin" origname="Ironskin" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Ironskin" docbookid="EpicMagicItems188" refname="Ironskin" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,ironskin,item,magic,ring"><para reftype="item" refcase="no" refname="Ironskin"><b>Ironskin:</b> This ring grants its wearer damage reduction 15/adamantine.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>iron body; Market Price:</i> 400,000 gp.</para>
+</topic><topic level="8" name="Rapid Healing" origname="Rapid Healing" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Rapid_Healing" docbookid="EpicMagicItems189" refname="Rapid Healing" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,heal,item,magic,rapid,ring"><para reftype="item" refcase="no" refname="Rapid Healing"><b>Rapid Healing:</b> This ring grants a living wearer fast healing 3. It must be worn for 24 hours before its powers activate, and if removed it will not function again until it has been worn for 24 hours by the same individual.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>regenerate; Market Price:</i> 300,000 gp.</para>
+</topic><topic level="8" name="Sequestering" origname="Sequestering" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Sequestering" docbookid="EpicMagicItems190" refname="Sequestering" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,ring,sequest"><para reftype="item" refcase="no" refname="Sequestering"><b>Sequestering:</b> This ring becomes invisible when worn. Upon command, the wearer gains the benefits of a <i>sequester</i> spell (though he or she does not become comatose as normal for the spell).</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>sequester; Market Price:</i> 300,000 gp.</para>
+</topic><topic level="8" name="Universal Energy Immunity" origname="Universal Energy Immunity" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Universal_Energy_Immunity" docbookid="EpicMagicItems191" refname="Universal Energy Immunity" reftype="item" refcase="no" refaltname="" keywords="descript,energi,epic,equip,gear,immun,item,magic,ring,univers"><para reftype="item" refcase="no" refname="Universal Energy Immunity"><b>Universal Energy Immunity:</b> This ring functions as a <i>ring of energy immunity</i> for all types of energy- fire, cold, electricity, acid, and sonic. The wearer takes no damage from energy of any of these types.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>protection from energy; Market Price:</i> 2,160,000 gp.</para>
+</topic><topic level="8" name="Universal Energy Resistance, Greater" origname="Universal Energy Resistance, Greater" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Universal_Energy_Resistance_Greater" docbookid="EpicMagicItems192" refname="Universal Energy Resistance, Greater" reftype="item" refcase="no" refaltname="" keywords="descript,energi,epic,equip,gear,greater,item,magic,resist,ring,univers"><para reftype="item" refcase="no" refname="Universal Energy Resistance, Greater"><b>Universal Energy Resistance, Greater:</b> This ring functions as a <i>ring of greater energy resistance</i> for all types of energy-fire, cold, electricity, acid, and sonic. When the wearer would normally take such damage, subtract 30 points of damage per round from the amount before applying.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>protection from energy; Market Price:</i> 308,000 gp; <i>Cost to Create:</i> 154,000 gp + 13,080 XP.</para>
+</topic><topic level="8" name="Virtuous Good" origname="Virtuous Good" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Virtuous_Good" docbookid="EpicMagicItems193" refname="Virtuous Good" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,good,item,magic,ring,virtuou"><para reftype="item" refcase="no" refname="Virtuous Good"><b>Virtuous Good:</b> The wearer of this ring is constantly sheathed in a <i>holy aura</i> effect. It bestows one negative level on any evil creature that puts it on. The negative level remains as long as the ring is worn and disappears when the ring is removed. This negative level never results in actual level loss, but it cannot be over-come in any way (including <i>restoration</i> spells) while the ring is worn.</para><para><i>Caster Level:</i> 15th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>holy aura</i>, <i/> creator must be good; <i>Market Price:</i> 250,000 gp; <i>Cost to Create:</i> 125,000 gp + 12,500 XP.</para>
+</topic><topic level="8" name="Weaponbreaking" origname="Weaponbreaking" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Weaponbreaking" docbookid="EpicMagicItems194" refname="Weaponbreaking" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,ring,weaponbreak"><para reftype="item" refcase="no" refname="Weaponbreaking"><b>Weaponbreaking:</b> A <i>ring of weaponbreaking</i> is identical to a <i>ring of ironskin</i>, <i/> and has one additional power. Any weapon that successfully strikes the wearer must also make a Fortitude saving throw (DC 20) or be shattered into pieces.</para><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Forge Ring, Forge Epic Ring, <i>iron body</i>,  <i>shatter; Market Price:</i> 600,000 gp; <i>Cost to Create:</i> 300,000 gp + 16,000 XP.</para>
+</topic><topic level="8" name="Epic Psionics" origname="Epic Psionics" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rings_Epic_Ring_Descriptions_Epic_Psionics" docbookid="EpicMagicItems195" refname="Epic Psionics" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,psionic,ring"><para reftype="item" refcase="no" refname="Epic Psionics"><b>Epic Psionics:</b> This special crystal ring comes in a variety of types useful only to psionic characters (characters who have power points per day). The wearer's total power points per day are increased, depending on the ring. The points granted are not bonus points-while the ring is worn, it actually increases the wearer's points per day, but a night's rest is required before gaining access to the increased power point per day total. (Power points are not actually stored in the ring, as would be the case for a crystal capacitor. Instead, the ring grants power points by magnifying the manifester's own power.)</para><para>A <i>ring of epic psionics V</i> increases the wearer's daily power points by 43 points, a <i>ring of epic psionics VI</i> grants 63 power points, a <i>ring of epic psionics VII</i> grants 87 power points, a <i>ring of epic psionics VIII</i> grants 115 points, and a <i>ring of epic psionics IX</i> grants 147 power points.</para><para><i>Manifester Level:</i> 23rd (<i>epic psionics</i> V), 26th (<i>epic psionics VI</i>), 29th (<i>epic psionics VII</i>), 32nd (<i>epic psionics VIII</i>), 35th (<i>epic psionics IX</i>); <i>Prerequisites:</i> Craft Universal Item, Craft Epic Universal Item, <i>great emulation; Market Price:</i> 250,000 gp (<i>epic psionics</i> V), 360,000 gp (<i>epic psionics VI</i>), 490,000 gp (<i>epic psionics VII</i>), 640,000 gp (<i>epic psionics VIII</i>), 810,000 gp (<i>epic psionics IX</i>).</para><para/>
+</topic>
+</topic>
+</topic><topic level="3" name="Rods" origname="Rods" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods" docbookid="EpicMagicItems196" refname="Rods" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Rods" style="heading 3">Rods</para><para/><topic level="8" name="Table: Epic Rods" origname="Table: Epic Rods" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Table_Epic_Rods" docbookid="EpicMagicItems197" refname="Table: Epic Rods" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod,tabl"><para reftype="item" refcase="no" refname="Table: Epic Rods"><b>Table: Epic Rods</b> </para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell> <cell><para><b>Rod</b> </para></cell>
+<cell><para><b>Market Price</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-08</para></cell>
+<cell><para><i>Epic spellcaster</i> </para></cell>
+<cell><para>245,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-16</para></cell>
+<cell><para><i>Nightmares</i> </para></cell>
+<cell><para>284,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-24</para></cell>
+<cell><para><i>Epic splendor</i> </para></cell>
+<cell><para>297,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-31</para></cell>
+<cell><para><i>The path</i> </para></cell>
+<cell><para>306,870 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-38</para></cell>
+<cell><para><i>Epic cancellation</i> </para></cell>
+<cell><para>330,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-45</para></cell>
+<cell><para><i>Epic negation</i> </para></cell>
+<cell><para>446,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-51</para></cell>
+<cell><para><i>Besiegement</i> </para></cell>
+<cell><para>447,745 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-57</para></cell>
+<cell><para><i>Fortification</i> </para></cell>
+<cell><para>465,665 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-63</para></cell>
+<cell><para><i>Epic rulership</i> </para></cell>
+<cell><para>575,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-69</para></cell>
+<cell><para><i>Invulnerability</i></para></cell>
+<cell><para>600,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-75</para></cell>
+<cell><para><i>Paradise</i> </para></cell>
+<cell><para>610,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-80</para></cell>
+<cell><para><i>Restless death</i> </para></cell>
+<cell><para>625,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-85</para></cell>
+<cell><para><i>Excellent magic</i> </para></cell>
+<cell><para>650,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>Wyrm</i> (white)</para></cell>
+<cell><para>1,458,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para><i>Wyrm</i> (brass)</para></cell>
+<cell><para>1,458,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-90</para></cell>
+<cell><para><i>Epic absorption</i> </para></cell>
+<cell><para>1,500,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91</para></cell>
+<cell><para><i>Wyrm</i> (copper)</para></cell>
+<cell><para>1,562,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92</para></cell>
+<cell><para><i>Wyrm</i> (black)</para></cell>
+<cell><para>1,562,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93</para></cell>
+<cell><para><i>Wyrm</i> (bronze)</para></cell>
+<cell><para>1,670,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94</para></cell>
+<cell><para><i>Wyrm</i> (green)</para></cell>
+<cell><para>1,670,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95</para></cell>
+<cell><para><i>Wyrm</i> (blue)</para></cell>
+<cell><para>1,782,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96</para></cell>
+<cell><para><i>Wyrm</i> (silver)</para></cell>
+<cell><para>1,782,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97</para></cell>
+<cell><para><i>Wyrm</i> (gold)</para></cell>
+<cell><para>1,897,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98</para></cell>
+<cell><para><i>Wyrm</i> (red)</para></cell>
+<cell><para>1,897,400 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>Epic might</i> </para></cell>
+<cell><para>4,293,432 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Epic Rod Descriptions" origname="Epic Rod Descriptions" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions" docbookid="EpicMagicItems198" refname="Epic Rod Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Epic Rod Descriptions" style="heading 5">Epic Rod Descriptions</para><para>Standard epic rods are described below.</para><para/><topic level="8" name="Besiegement" origname="Besiegement" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Besiegement" docbookid="EpicMagicItems199" refname="Besiegement" reftype="item" refcase="no" refaltname="" keywords="besieg,descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Besiegement"><b>Besiegement:</b>  This rod functions as a +<i>3 light mace</i>. In addition, it is useful for besieging fortifications. Whenever the wielder makes a charge attack, the rod improves to a +6 weapon. Twice per day, the rod can create a battering ram that lasts for 24 rounds. This ram can strike once per round, dealing 20 points of damage with each hit. It cannot be used to target individuals, only fortifications. It can be damaged by normal means (65 hp, AC 22), and <i>disintegrate</i> or <i>dispel magic</i> destroys it. The rod also has the following powers: <i>Siege Engine:</i> One heavy catapult, two light catapults, or three siege towers may be generated with each use of this power. Each weapon created lasts for 12 hours.  The power can be used three times per day. Ammunition for 20 shots is included with each weapon created.</para><para><i>Transmute Rock to Mud:</i> This power can be used three times per day (caster level 24th, save DC 17).</para><para><i>Caster Level:</i> 24th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, <i>clenched fist</i>,  <i>passwall</i>,   <i>telepathic bond</i>,  <i>transmute rock to mud; Market Price:</i> 447,745 gp; <i>Cost to Create:</i> 224,025 gp + 14,474 XP.</para>
+</topic><topic level="8" name="Epic Absorption" origname="Epic Absorption" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Absorption" docbookid="EpicMagicItems1100" refname="Epic Absorption" reftype="item" refcase="no" refaltname="" keywords="absorpt,descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Epic Absorption"><b>Epic Absorption:</b> Like a <i>rod of absorption</i>, <i/> this rod draws single-target or ray spells and spell-like abilities into itself, nullifying the effect and storing the potential spell levels until the wielder releases the energy in the form of spells of his or her own. Spells of any level (including those boosted beyond 9th level by metamagic) can be absorbed, although epic spells cannot. The rod absorbs a maximum of 150 spell levels and can thereafter only discharge any remaining potential it might have. The rod cannot be recharged.</para><para><i>Caster Level:</i> 23rd; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Empower Spell, Maximize Spell, empowered maximized <i>spell turning; Market Price:</i> 1,500,000 gp.</para>
+</topic><topic level="8" name="Epic Cancellation" origname="Epic Cancellation" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Cancellation" docbookid="EpicMagicItems1101" refname="Epic Cancellation" reftype="item" refcase="no" refaltname="" keywords="cancel,descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Epic Cancellation"><b>Epic Cancellation:</b> This rod's touch drains an item of all magical properties, including the magical energy in epic magic items (but not most artifacts). The item touched gets a Will saving throw (DC 26). If a creature is holding the magic item at the time, then the item can use the holder's Will save bonus in place of its own. In such cases, contact is established by making a melee touch attack roll. Upon draining three items, the rod becomes brittle and useless. Drained items can only be restored by <i>wish</i>,  <i>miracle</i>, <i/> or epic spells specifically designed to restore lost power. A <i>rod of epic cancellation</i> can neutralize a normal <i>sphere of annihilation</i> without itself being cancelled.</para><para><i>Caster Level:</i> 25th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>dispel magic; Market Price:</i> 330,000 gp.</para>
+</topic><topic level="8" name="Epic Might" origname="Epic Might" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Might" docbookid="EpicMagicItems1102" refname="Epic Might" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Epic Might"><b>Epic Might:</b> This rod is similar to a <i>rod of lordly might</i>, <i/> although it is far more powerful. It is larger than its normal counterpart, and it is constructed of adamantine rather than normal metal. It has six buttons, several spell-like functions, and several mundane uses, and it can also be used as a magic weapon of various sorts.</para><para>The following spell-like functions of the rod can each be used once per day.</para><list>
+ <item> <i>Dominate Person:</i> Touched foe is recipient of a <i>dominate person</i> spell, if the wielder so commands (Will save DC 24). The wielder must choose to use this power and then succeed with a melee touch attack to activate the power. If the attack fails, the effect is lost.</item>
+ <item> <i>Stun:</i> Upon command, all enemies viewing the rod are stunned, as per the <i>power word</i>,  <i>stun</i> spell (10-foot maximum range, Will save DC 24). Invoking this power is a standard action.</item>
+ <item> <i>Damage:</i> Upon command, the rod deals 10d8 points of damage to an opponent on a successful touch attack and cures the wielder of a like amount of damage (Will save DC 26). The wielder must choose to use this power before attacking, as with <i>dominate person</i>.</item>
+</list><para>The following weapon uses of the rod have no limits on their use.</para><list>
+ <item> In its normal form, the rod can be used as a +<i>6 heavy mace</i>. </item>
+ <item> When button 1 is pushed, the rod becomes a +<i>3 longsword of fiery blasting</i>. </item>
+ <item> When button 2 is pushed, the rod becomes a +<i>8 battleaxe</i>. </item>
+ <item> When button 3 is pushed, the rod becomes a +<i>10 shortspear</i> or +<i>10 longspear</i>.</item>
+</list><para>The following mundane uses of the rod also have no limits on their use.</para><list>
+ <item> Climbing pole/ladder: When button 4 is pushed, a spike that can anchor in granite is extruded from the ball, while the other end sprouts three sharp hooks. The rod lengthens to anywhere between 5 and 150 feet in a single round, stopping when button 4 is pushed again. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, in staggered progression. The rod is firmly held by the spike and hooks and can bear up to 10,000 pounds. The wielder can retract the pole by pushing button 5.</item>
+ <item> The ladder function can be used to force open doors. The wielder plants the rod's base 30 feet or less from the portal to be forced and in line with it, then pushes button 4. The force exerted has a Strength bonus of+24.</item>
+ <item> When button 6 is pushed, the rod indicates magnetic north and gives the wielder a knowledge of his or her approximate depth beneath the surface or height above it.</item>
+</list><para><i>Caster Level:</i> 30th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, <i>cure critical wounds</i>,  <i>inflict critical wounds</i>,  <i>bull's strength</i>,  <i>fireball</i>,  <i>dominate person</i>,  <i>power word stun; Market Price:</i> 4,293,432 gp; <i>Cost to Create:</i> 2,151,372 gp + 52,841 XP.</para>
+</topic><topic level="8" name="Epic Negation" origname="Epic Negation" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Negation" docbookid="EpicMagicItems1103" refname="Epic Negation" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,negat,rod"><para reftype="item" refcase="no" refname="Epic Negation"><b>Epic Negation:</b> This rod negates the spell or spell-like function or functions of magic items, including epic magic items (but not artifacts). The wielder points the rod at the magic item, and a beam shoots forth to touch the target device, attacking as a ray (a ranged touch attack). The ray negates any currently active item function and has a 75% chance to negate any other spell or spell-like functions of that device, regardless of the level or power of the functions, for 2d4 rounds. To negate instantaneous effects, the rod wielder needs to have readied an action. The target item gets no saving throw or means to resist this effect. The rod can function three times per day.</para><para><i>Caster Level:</i> 24th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>dispel magic</i>,  <i>limited wish</i> or <i>miracle; Market Price:</i> 446,000 gp.</para>
+</topic><topic level="8" name="Epic Rulership" origname="Epic Rulership" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Rulership" docbookid="EpicMagicItems1104" refname="Epic Rulership" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod,rulership"><para reftype="item" refcase="no" refname="Epic Rulership"><b>Epic Rulership:</b> This rod appears to be a royal scepter worth at least 25,000 gp in materials and work-manship alone. The wielder can command the obedience and fealty of creatures within 360 feet when he or she activates the device (a standard action). Creatures totaling 900 Hit Dice can be ruled, but creatures with Intelligence scores of 17 or higher are entitled to a Will saving throw (DC 29) to negate the effect. Ruled creatures obey the wielder as if he or she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 1,500 total minutes before crumbling to dust. This duration need not be continuous.</para><para><i>Caster Level:</i> 25th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Improved Heighten Spell, improved heightened <i>mass charm; Market Price:</i> 575,000 gp; <i>Cost to Create:</i> 300,000 gp + 15,500 XP.</para>
+</topic><topic level="8" name="Epic Spellcaster" origname="Epic Spellcaster" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Spellcaster" docbookid="EpicMagicItems1105" refname="Epic Spellcaster" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod,spellcast"><para reftype="item" refcase="no" refname="Epic Spellcaster"><b>Epic Spellcaster:</b> This magnificent adamantine rod grants its wielder a +10 insight bonus on Spellcraft checks made to cast epic spells for as long as he or she holds or carries the rod.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod; <i>Market Price:</i> 245,400 gp.</para>
+</topic><topic level="8" name="Epic Splendor" origname="Epic Splendor" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Epic_Splendor" docbookid="EpicMagicItems1106" refname="Epic Splendor" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod,splendor"><para reftype="item" refcase="no" refname="Epic Splendor"><b>Epic Splendor:</b> This rod grants its wielder a +8 enhancement bonus to Charisma for as long as he or she holds or carries the item. Three times per day, the rod creates and garbs him or her in clothing of the finest fabrics, plus adornments of fur and jewels. Apparel created by the rod can remain in existence up to 24 hours. The value of the garb ranges from 70,000 to 100,000 gp (1d4+6 x10,000 gp)-10,000 gp for the fabric, 50,000 gp for the furs, and the rest for jewel trim (maximum of 40 gems, maximum value 1,000 gp each). In addition, the rod can, once per week, create a palatial mansion in any floor plan the user desires. The mansion is palatial, able to accommodate up to 250 people, housing them in private chambers and serving them fine banquets. The mansion lasts for three days, after which time it, and everything originally in it (including items removed from the mansion), disappear.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>fabricate</i>,  <i>mage's magnificent mansion; Market Price:</i> 297,400 gp; <i>Cost to Create:</i> 191,200 gp + 12,124 XP.</para>
+</topic><topic level="8" name="Excellent Magic" origname="Excellent Magic" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Excellent_Magic" docbookid="EpicMagicItems1107" refname="Excellent Magic" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,excel,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Excellent Magic"><b>Excellent Magic:</b> Once per day when casting a nonepic or epic spell that has an experience point component, the rod supplies up to 2,000 XP, not the caster. If more experience points are required to cast the spell, the caster provides them. As a special use of the rod, the caster can substitute the power inherent in the rod for the experience point development cost of an epic spell. Doing so drains all the power from the rod, rendering it useless.</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod; <i>Market Price:</i> 650,000 gp; <i>Cost to Create:</i> 325,000 gp + 26,000 XP.</para>
+</topic><topic level="8" name="Fortification" origname="Fortification" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Fortification" docbookid="EpicMagicItems1108" refname="Fortification" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,fortif,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Fortification"><b>Fortification:</b> This rod functions as a +<i>3 light mace</i>. In addition, it is useful for the construction and defense of fortifications. Whenever the wielder is benefiting from cover, the rod improves that to nine-tenths cover (+10 cover AC bonus and +4 cover Reflex save bonus; failure on the save results in half damage and success results in no damage). Three times per day, the rod can create food and water, as per the cleric spell, for twenty-four people. The rod also has the following powers: <i>Fortify:</i> Four times per day, a stone wall can be created that is 12 inches thick, 10 feet high, and 30 feet long. This wall has a parapet and battlements across the top. (Alternatively, the power can be used to mend a broken existing wall. The gap to be filled can be no more than 300 square feet in area.) In addition, once per day, a great door of iron can be created that is set into one of the newly created walls. This door, 4 inches thick, may be a double door, a drawbridge, or a portcullis, as chosen by the wielder. <i>Siege Engine:</i> One heavy catapult, two light catapults, or three ballistae may be generated with each use of this power. The power can be used four times per day. Ammunition for 20 shots is included with each weapon created.</para><para><i>Caster Level:</i> 24th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, <i>inter-posing hand</i>,  <i>create food and water</i>,  <i>major creation</i>,  <i>wall of iron</i>,  <i>wall of stone; Market Price:</i> 465,665 gp; <i>Cost to Create:</i> 231,985 gp + 14,634 XP.</para>
+</topic><topic level="8" name="Invulnerability" origname="Invulnerability" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Invulnerability" docbookid="EpicMagicItems1109" refname="Invulnerability" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,invulner,item,magic,rod"><para reftype="item" refcase="no" refname="Invulnerability"><b>Invulnerability:</b> When held, this rod grants its wielder the following powers.</para><list>
+ <item> +5 enhancement bonus to natural armor.</item>
+ <item> +5 resistance bonus on saving throws.</item>
+ <item> Damage reduction 15/adamantine.</item>
+ <item> Immunity to critical hits.</item>
+ <item> Spell resistance 32.</item>
+</list><para><i>Caster Level:</i> 20th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>iron body</i>,  <i>resistance</i>,  <i>spell resistance; Market Price:</i> 600,000 gp.</para>
+</topic><topic level="8" name="Nightmares" origname="Nightmares" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Nightmares" docbookid="EpicMagicItems1110" refname="Nightmares" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,nightmar,rod"><para reftype="item" refcase="no" refname="Nightmares"><b>Nightmares:</b> Anyone who comes within 20 feet of the wielder of this rod feels a grave sense of unease. Each person so affected must make a Will save (DC 17) or suffer the effects of a <i>nightmare</i> spell the next time he or she falls asleep. The wielder is immune to this effect. Three times per day, the wielder can utter a command word that causes the rod to emit a horrid, inhuman scream. Up to twenty of the closest creatures within a 30-foot radius who hear this terrible wail believe that their worst nightmares have become reality and suffer the effects of a <i>wail of the banshee</i> spell (DC 23).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>nightmare</i>,  <i>permanency</i>,  <i>wail of the banshee; Market Price:</i> 284,000 gp.</para>
+</topic><topic level="8" name="Paradise" origname="Paradise" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Paradise" docbookid="EpicMagicItems1111" refname="Paradise" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,parad,rod"><para reftype="item" refcase="no" refname="Paradise"><b>Paradise:</b> This item creates a nondimensional space, similar in effect to a <i>rod of security</i>. However, the rod's possessor and up to 999 other creatures can stay in complete safety for up to 1,000 days divided by the number of creatures affected. Natural healing takes place at five times the normal pace. The rod functions like its nonepic counterpart in all other ways.</para><para><i>Caster Level:</i> 24th; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Improved Heighten Spell, improved heightened <i>gate; Market Price:</i> 610,000 gp.</para>
+</topic><topic level="8" name="Path" origname="The Path" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_The_Path" docbookid="EpicMagicItems1112" refname="Path" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,path,rod"><para reftype="item" refcase="no" refname="Path"><b>The Path:</b> This rod serves as an aid to trailblazing and travel. It grants the wielder a +30 enhancement bonus on Wilderness Lore checks for tracking and Intuit Direction checks. The handle of the rod is hollow, functioning like a telescope. When the wielder peers through it, the limits of vision are three times normal (and spotting distances for encounters are tripled). In addition, the telescoping handle enables the wielder to view things as though affected by a <i>true seeing</i> spell. The rod also has the following powers. <i>Map:</i> Three times per day a section of the rod unrolls like a scroll from a tube, revealing a map of the surrounding area, centered on the location of the rod. The area shown on the map covers an area as small as 50 feet in radius to as large as 24 miles in radius, zooming in or out with a set of command words. The map reveals natural topography and all types of structures (even hidden ones), but it will not show the location of creatures.</para><para><i>Passage:</i> Three times per day, this power allows the wielder and up to five others in a 20-foot radius to move unhindered through natural plant growth or bodies of water (as per the <i>freedom of movement</i> spell).</para><para><i>Bridge:</i> Once per day, this power allows the user to create a 5-foot-wide, 40-foot-long stone cause-way across chasms and canyons. The bridge created lasts for 1 hour.</para><para><i>Pass without Trace:</i> Once per day, this power can be used on the wielder and twenty others, for 21 minutes. It is otherwise as the spell of the same name (caster level 24th).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>find the path</i>,  <i>freedom of movement</i>,  <i>pass without trace</i>,  <i>wall of stone; Market Price:</i> 306,870 gp.</para>
+</topic><topic level="8" name="Restless Death" origname="Restless Death" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Restless_Death" docbookid="EpicMagicItems1113" refname="Restless Death" reftype="item" refcase="no" refaltname="" keywords="death,descript,epic,equip,gear,item,magic,restless,rod"><para reftype="item" refcase="no" refname="Restless Death"><b>Restless Death:</b> The holder of this rod can rebuke or control undead as if he or she were four levels higher. (The rod doesn't grant the ability to rebuke or control undead if the holder doesn't already have it.) In addition, the wielder may speak a command word to cast <i>animate dead</i>. Any skeletons or zombies animated by the rod's power are automatically controlled by the rod, up to the rod's maximum limit of 42 HD, and they follow the orders of the rod's wielder. These undead don't count toward the wielder's limit of controlled undead. Finally, the wielder can speak a second command word to cast <i>slay living</i> (heightened to 10th level; DC 25).</para><para><i>Caster Level:</i> 21st; <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, <i>animate dead</i>,  <i>control undead</i>,  <i>slay living; Market Price:</i> 625,000 gp.</para>
+</topic><topic level="8" name="Wyrm" origname="Wyrm" linkname="Equipment_and_Gear_Epic_Magic_Items_1_Magic_Item_Descriptions_Rods_Epic_Rod_Descriptions_Wyrm" docbookid="EpicMagicItems1114" refname="Wyrm" reftype="item" refcase="no" refaltname="" keywords="descript,epic,equip,gear,item,magic,rod,wyrm"><para reftype="item" refcase="no" refname="Wyrm"><b>Wyrm:</b> Any of the various rods in this series functions as a +<i>5 quarterstaff</i>. Upon casting the rod to the ground (a standard action) and uttering a command word, the rod grows into a specific type of dragon (depending on the specific type of rod) by the end of the round. The dragon created is a wyrm and obeys the commands of the owner. The dragon returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 500 feet from the owner. If the dragon form is slain, it returns to rod form and cannot be activated again for three days. A <i>wyrm rod</i> only functions if the possessor is of the same alignment as the dragon type.</para><para><i>Caster Level:</i> 34th (white or brass), 35th (black or copper), 36th (green or bronze), 37th (blue or silver), 38th (red or gold); <i>Prerequisites:</i> Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Improved Heighten Spell, improved heightened <i>polymorph</i>, <i/> creator must be same alignment as dragon type; <i>Market Price:</i> 1,458,200 gp (brass or white), 1,562,600 gp (black or copper), 1,670,600 gp (bronze or green), 1,782,200 gp (blue or silver), 1,897,400 gp (gold or red); <i>Cost to Create:</i> 729,400 gp + 24,576 XP (brass or white), 781,600 gp + 25,620 XP (black or copper), 835,600 gp + 26,700 XP (bronze or green), 891,400 gp + 27,816 XP (blue or silver), 949,000 gp + 28,968 XP (gold or red).</para><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>

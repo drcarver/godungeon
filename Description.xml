@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Basic Rules &gt; Description">
+<info>
+<title>ALIGNMENT</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Basic Rules" linkname="Basic_Rules" docbookid="Description0" keywords="basic,rule"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Description" origname="Description" linkname="Basic_Rules_Description" docbookid="Description1" keywords="basic,descript,rule"><para style="heading 1">Description</para><para/><topic level="2" name="Alignment" origname="Alignment" linkname="Basic_Rules_Description_Alignment" docbookid="Description2" refname="Alignment" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,rule"><para reftype="description" refcase="yes" refname="Alignment" style="heading 2">Alignment</para><para>A creature's general moral and personal attitudes are represented by its alignment: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, or chaotic evil.</para><para>Alignment is a tool for developing your character's identity. It is not a straitjacket for restricting your character. Each alignment represents a broad range of personality types or personal philosophies, so two characters of the same alignment can still be quite different from each other. In addition, few people are completely consistent.</para><para/><topic level="5" name="Good Vs. Evil" origname="Good Vs. Evil" linkname="Basic_Rules_Description_Alignment_Good_Vs_Evil" docbookid="Description3" refname="Good Vs. Evil" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,evil,good,rule"><para reftype="description" refcase="yes" refname="Good Vs. Evil" style="heading 5">Good Vs. Evil</para><para>Good characters and creatures protect innocent life. Evil characters and creatures debase or destroy innocent life, whether for fun or profit.</para><para>'Good' implies altruism, respect for life, and a concern for the dignity of sentient beings. Good characters make personal sacrifices to help others.</para><para>'Evil' implies hurting, oppressing, and killing others. Some evil creatures simply have no compassion for others and kill without qualms if doing so is convenient. Others actively pursue evil, killing for sport or out of duty to some evil deity or master.</para><para>People who are neutral with respect to good and evil have compunctions against killing the innocent but lack the commitment to make sacrifices to protect or help others. Neutral people are committed to others by personal relationships.</para><para>Being good or evil can be a conscious choice. For most people, though, being good or evil is an attitude that one recognizes but does not choose. Being neutral on the good-evil axis usually represents a lack of commitment one way or the other, but for some it represents a positive commitment to a balanced view. While acknowledging that good and evil are objective states, not just opinions, these folk maintain that a balance between the two is the proper place for people, or at least for them.</para><para>Animals and other creatures incapable of moral action are neutral rather than good or evil. Even deadly vipers and tigers that eat people are neutral because they lack the capacity for morally right or wrong behavior.</para><para/>
+</topic><topic level="5" name="Law Vs. Chaos" origname="Law Vs. Chaos" linkname="Basic_Rules_Description_Alignment_Law_Vs_Chaos" docbookid="Description4" refname="Law Vs. Chaos" reftype="description" refcase="yes" refaltname="" keywords="align,basic,chao,descript,law,rule"><para reftype="description" refcase="yes" refname="Law Vs. Chaos" style="heading 5">Law Vs. Chaos</para><para>Lawful characters tell the truth, keep their word, respect authority, honor tradition, and judge those who fall short of their duties.</para><para>Chaotic characters follow their consciences, resent being told what to do, favor new ideas over tradition, and do what they promise if they feel like it.</para><para>'Law' implies honor, trustworthiness, obedience to authority, and reliability. On the downside, lawfulness can include close-mindedness, reactionary adherence to tradition, judgmentalness, and a lack of adaptability. Those who consciously promote lawfulness say that only lawful behavior creates a society in which people can depend on each other and make the right decisions in full confidence that others will act as they should.</para><para>'Chaos' implies freedom, adaptability, and flexibility. On the downside, chaos can include recklessness, resentment toward legitimate authority, arbitrary actions, and irresponsibility. Those who promote chaotic behavior say that only unfettered personal freedom allows people to express themselves fully and lets society benefit from the potential that its individuals have within them.</para><para>Someone who is neutral with respect to law and chaos has a normal respect for authority and feels neither a compulsion to obey nor a compulsion to rebel. She is honest but can be tempted into lying or deceiving others.</para><para>Devotion to law or chaos may be a conscious choice, but more often it is a personality trait that is recognized rather than being chosen. Neutrality on the lawful-chaotic axis is usually simply a middle state, a state of not feeling compelled toward one side or the other. Some few such neutrals, however, espouse neutrality as superior to law or chaos, regarding each as an extreme with its own blind spots and drawbacks.</para><para>Animals and other creatures incapable of moral action are neutral. Dogs may be obedient and cats free-spirited, but they do not have the moral capacity to be truly lawful or chaotic.</para><para/>
+</topic>
+</topic><topic level="2" name="Nine Alignments" origname="The Nine Alignments" linkname="Basic_Rules_Description_The_Nine_Alignments" docbookid="Description5" refname="Nine Alignments" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,nine,rule"><para reftype="description" refcase="yes" refname="Nine Alignments" style="heading 2">The Nine Alignments</para><para>Nine distinct alignments define all the possible combinations of the lawful-chaotic axis with the good-evil axis. Each alignment description below depicts a typical character of that alignment. Remember that individuals vary from this norm, and that a given character may act more or less in accord with his or her alignment from day to day. Use these descriptions as guidelines, not as scripts.</para><para>The first six alignments, lawful good through chaotic neutral, are the standard alignments for player characters. The three evil alignments are for monsters and villains.</para><para/><topic level="8" name="Lawful Good, 'Crusader'" origname="Lawful Good, 'Crusader'" linkname="Basic_Rules_Description_The_Nine_Alignments_Lawful_Good__Crusader" docbookid="Description6" refname="Lawful Good, 'Crusader'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,crusad,descript,good,law,nine,rule"><para reftype="description" refcase="yes" refname="Lawful Good, 'Crusader'"><b>Lawful Good, 'Crusader':</b> A lawful good character acts as a good person is expected or required to act. She combines a commitment to oppose evil with the discipline to fight relentlessly. She tells the truth, keeps her word, helps those in need, and speaks out against injustice. A lawful good character hates to see the guilty go unpunished.</para><para>Lawful good is the best alignment you can be because it combines honor and compassion.</para><para/>
+</topic><topic level="8" name="Neutral Good, 'Benefactor'" origname="Neutral Good, 'Benefactor'" linkname="Basic_Rules_Description_The_Nine_Alignments_Neutral_Good__Benefactor" docbookid="Description7" refname="Neutral Good, 'Benefactor'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,benefactor,descript,good,neutral,nine,rule"><para reftype="description" refcase="yes" refname="Neutral Good, 'Benefactor'"><b>Neutral Good, 'Benefactor':</b> A neutral good character does the best that a good person can do. He is devoted to helping others. He works with kings and magistrates but does not feel beholden to them..</para><para>Neutral good is the best alignment you can be because it means doing what is good without bias for or against order.</para><para/>
+</topic><topic level="8" name="Chaotic Good, 'Rebel'" origname="Chaotic Good, 'Rebel'" linkname="Basic_Rules_Description_The_Nine_Alignments_Chaotic_Good__Rebel" docbookid="Description8" refname="Chaotic Good, 'Rebel'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,chaotic,descript,good,nine,rebel,rule"><para reftype="description" refcase="yes" refname="Chaotic Good, 'Rebel'"><b>Chaotic Good, 'Rebel':</b> A chaotic good character acts as his conscience directs him with little regard for what others expect of him. He makes his own way, but he's kind and benevolent. He believes in goodness and right but has little use for laws and regulations. He hates it when people try to intimidate others and tell them what to do. He follows his own moral compass, which, although good, may not agree with that of society.</para><para>Chaotic good is the best alignment you can be because it combines a good heart with a free spirit.</para><para/>
+</topic><topic level="8" name="Lawful Neutral, 'Judge'" origname="Lawful Neutral, 'Judge'" linkname="Basic_Rules_Description_The_Nine_Alignments_Lawful_Neutral__Judge" docbookid="Description9" refname="Lawful Neutral, 'Judge'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,judg,law,neutral,nine,rule"><para reftype="description" refcase="yes" refname="Lawful Neutral, 'Judge'"><b>Lawful Neutral, 'Judge':</b> A lawful neutral character acts as law, tradition, or a personal code directs her. Order and organization are paramount to her. She may believe in personal order and live by a code or standard, or she may believe in order for all and favor a strong, organized government.</para><para>Lawful neutral is the best alignment you can be because it means you are reliable and honorable without being a zealot.</para><para/>
+</topic><topic level="8" name="Neutral, 'Undecided'" origname="Neutral, 'Undecided'" linkname="Basic_Rules_Description_The_Nine_Alignments_Neutral__Undecided" docbookid="Description10" refname="Neutral, 'Undecided'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,neutral,nine,rule,undecid"><para reftype="description" refcase="yes" refname="Neutral, 'Undecided'"><b>Neutral, 'Undecided':</b> A neutral character does what seems to be a good idea. She doesn't feel strongly one way or the other when it comes to good vs. evil or law vs. chaos. Most neutral characters exhibit a lack of conviction or bias rather than a commitment to neutrality. Such a character thinks of good as better than evil-after all, she would rather have good neighbors and rulers than evil ones. Still, she's not personally committed to upholding good in any abstract or universal way.</para><para>Some neutral characters, on the other hand, commit themselves philosophically to neutrality. They see good, evil, law, and chaos as prejudices and dangerous extremes. They advocate the middle way of neutrality as the best, most balanced road in the long run.</para><para>Neutral is the best alignment you can be because it means you act naturally, without prejudice or compulsion.</para><para/>
+</topic><topic level="8" name="Chaotic Neutral, 'Free Spirit'" origname="Chaotic Neutral, 'Free Spirit'" linkname="Basic_Rules_Description_The_Nine_Alignments_Chaotic_Neutral__Free_Spirit" docbookid="Description11" refname="Chaotic Neutral, 'Free Spirit'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,chaotic,descript,free,neutral,nine,rule,spirit"><para reftype="description" refcase="yes" refname="Chaotic Neutral, 'Free Spirit'"><b>Chaotic Neutral, 'Free Spirit':</b> A chaotic neutral character follows his whims. He is an individualist first and last. He values his own liberty but doesn't strive to protect others' freedom. He avoids authority, resents restrictions, and challenges traditions. A chaotic neutral character does not intentionally disrupt organizations as part of a campaign of anarchy. To do so, he would have to be motivated either by good (and a desire to liberate others) or evil (and a desire to make those different from himself suffer). A chaotic neutral character may be unpredictable, but his behavior is not totally random. He is not as likely to jump off a bridge as to cross it.</para><para>Chaotic neutral is the best alignment you can be because it represents true freedom from both society's restrictions and a do-gooder's zeal.</para><para/>
+</topic><topic level="8" name="Lawful Evil, 'Dominator'" origname="Lawful Evil, 'Dominator'" linkname="Basic_Rules_Description_The_Nine_Alignments_Lawful_Evil__Dominator" docbookid="Description12" refname="Lawful Evil, 'Dominator'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,domin,evil,law,nine,rule"><para reftype="description" refcase="yes" refname="Lawful Evil, 'Dominator'"><b>Lawful Evil, 'Dominator':</b> A lawful evil villain methodically takes what he wants within the limits of his code of conduct without regard for whom it hurts. He cares about tradition, loyalty, and order but not about freedom, dignity, or life. He plays by the rules but without mercy or compassion. He is comfortable in a hierarchy and would like to rule, but is willing to serve. He condemns others not according to their actions but according to race, religion, homeland, or social rank. He is loath to break laws or promises.</para><para>This reluctance comes partly from his nature and partly because he depends on order to protect himself from those who oppose him on moral grounds. Some lawful evil villains have particular taboos, such as not killing in cold blood (but having underlings do it) or not letting children come to harm (if it can be helped). They imagine that these compunctions put them above unprincipled villains.</para><para>Some lawful evil people and creatures commit themselves to evil with a zeal like that of a crusader committed to good. Beyond being willing to hurt others for their own ends, they take pleasure in spreading evil as an end unto itself. They may also see doing evil as part of a duty to an evil deity or master.</para><para>Lawful evil is sometimes called 'diabolical,' because devils are the epitome of lawful evil.</para><para>Lawful evil is the most dangerous alignment because it represents methodical, intentional, and frequently successful evil.</para><para/>
+</topic><topic level="8" name="Neutral Evil, 'Malefactor'" origname="Neutral Evil, 'Malefactor'" linkname="Basic_Rules_Description_The_Nine_Alignments_Neutral_Evil__Malefactor" docbookid="Description13" refname="Neutral Evil, 'Malefactor'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,descript,evil,malefactor,neutral,nine,rule"><para reftype="description" refcase="yes" refname="Neutral Evil, 'Malefactor'"><b>Neutral Evil, 'Malefactor':</b> A neutral evil villain does whatever she can get away with. She is out for herself, pure and simple. She sheds no tears for those she kills, whether for profit, sport, or convenience. She has no love of order and holds no illusion that following laws, traditions, or codes would make her any better or more noble. On the other hand, she doesn't have the restless nature or love of conflict that a chaotic evil villain has.</para><para>Some neutral evil villains hold up evil as an ideal, committing evil for its own sake. Most often, such villains are devoted to evil deities or secret societies.</para><para>Neutral evil is the most dangerous alignment because it represents pure evil without honor and without variation.</para><para/>
+</topic><topic level="8" name="Chaotic Evil, 'Destroyer'" origname="Chaotic Evil, 'Destroyer'" linkname="Basic_Rules_Description_The_Nine_Alignments_Chaotic_Evil__Destroyer" docbookid="Description14" refname="Chaotic Evil, 'Destroyer'" reftype="description" refcase="yes" refaltname="" keywords="align,basic,chaotic,descript,destroy,evil,nine,rule"><para reftype="description" refcase="yes" refname="Chaotic Evil, 'Destroyer'"><b>Chaotic Evil, 'Destroyer':</b> A chaotic evil character does whatever his greed, hatred, and lust for destruction drive him to do. He is hot-tempered, vicious, arbitrarily violent, and unpredictable. If he is simply out for whatever he can get, he is ruthless and brutal. If he is committed to the spread of evil and chaos, he is even worse. Thankfully, his plans are haphazard, and any groups he joins or forms are poorly organized. Typically, chaotic evil people can be made to work together only by force, and their leader lasts only as long as he can thwart attempts to topple or assassinate him.</para><para>Chaotic evil is sometimes called 'demonic' because demons are the epitome of chaotic evil.</para><para>Chaotic evil is the most dangerous alignment because it represents the destruction not only of beauty and life but also of the order on which beauty and life depend.</para><para/>
+</topic>
+</topic><topic level="2" name="Vital Statistics" origname="Vital Statistics" linkname="Basic_Rules_Description_Vital_Statistics" docbookid="Description15" refname="Vital Statistics" reftype="description" refcase="yes" refaltname="" keywords="basic,descript,rule,statist,vital"><para reftype="description" refcase="yes" refname="Vital Statistics" style="heading 2">Vital Statistics</para><para/><topic level="3" name="Age" origname="Age" linkname="Basic_Rules_Description_Vital_Statistics_Age" docbookid="Description16" refname="Age" reftype="description" refcase="yes" refaltname="" keywords="ag,basic,descript,rule,statist,vital"><para reftype="description" refcase="yes" refname="Age" style="heading 3">Age</para><para>You can choose or randomly generate your character's age. If you choose it, it must be at least the minimum age for the character's race and class (see Table: Random Starting Ages). Your character's minimum starting age is the adulthood age of his or her race plus the number of dice indicated in the entry corresponding to the character's race and class on Table: Random Starting Ages.</para><para>Alternatively, refer to Table: Random Starting Ages and roll dice to determine how old your character is.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Random Starting Ages</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Race</b></para></cell>
+<cell><para><b>Adulthood</b></para></cell>
+<cell><para><b>Barbarian</b></para>
+<para><b>Rogue</b></para>
+<para><b>Sorcerer</b></para></cell>
+<cell><para><b>Bard</b></para>
+<para><b>Fighter</b></para>
+<para><b>Paladin</b></para>
+<para><b>Ranger</b></para></cell> <cell><para><b>Cleric</b></para>
+<para><b>Druid</b></para>
+<para><b>Monk</b></para>
+<para><b>Wizard</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para>Human</para></cell>
+<cell><para>15 years</para></cell>
+<cell><para>+1d4</para></cell>
+<cell><para>+1d6</para></cell>
+<cell><para>+2d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dwarf</para></cell>
+<cell><para>40 years</para></cell>
+<cell><para>+3d6</para></cell>
+<cell><para>+5d6</para></cell>
+<cell><para>+7d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Elf</para></cell>
+<cell><para>110 years</para></cell>
+<cell><para>+4d6</para></cell>
+<cell><para>+6d6</para></cell>
+<cell><para>+10d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gnome</para></cell>
+<cell><para>40 years</para></cell>
+<cell><para>+4d6</para></cell>
+<cell><para>+6d6</para></cell>
+<cell><para>+9d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-elf</para></cell>
+<cell><para>20 years</para></cell>
+<cell><para>+1d6</para></cell>
+<cell><para>+2d6</para></cell>
+<cell><para>+3d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-orc</para></cell>
+<cell><para>14 years</para></cell>
+<cell><para>+1d4</para></cell>
+<cell><para>+1d6</para></cell>
+<cell><para>+2d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Halfling</para></cell>
+<cell><para>20 years</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>+3d6</para></cell>
+<cell><para>+4d6</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><para>With age, a character's physical ability scores decrease and his or her mental ability scores increase (see Table: Aging Effects). The effects of each aging step are cumulative. However, none of a character's ability scores can be reduced below 1 in this way.</para><para>When a character reaches venerable age, secretly roll his or her maximum age, which is the number from the Venerable column on Table: Aging Effects plus the result of the dice roll indicated on the Maximum Age column on that table, and records the result, which the player does not know. A character who reaches his or her maximum age dies of old age at some time during the following year.</para><para>The maximum ages are for player characters. Most people in the world at large die from pestilence, accidents, infections, or violence before getting to venerable age.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Aging Effects</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Race</b> </para></cell>
+<cell><para><b>Middle Age</b>
+<sup><b>1</b></sup></para></cell>
+<cell><para><b>Old</b>
+<sup><b>2</b></sup></para></cell>
+<cell><para><b>Venerable</b>
+<sup><b>3</b></sup></para></cell>
+<cell><para><b>Maximum Age</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Human</para></cell>
+<cell><para>35 years</para></cell>
+<cell><para>53 years</para></cell>
+<cell><para>70 years</para></cell>
+<cell><para>+2d20 years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dwarf</para></cell>
+<cell><para>125 years</para></cell>
+<cell><para>188 years</para></cell>
+<cell><para>250 years</para></cell>
+<cell><para>+2d% years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Elf</para></cell>
+<cell><para>175 years</para></cell>
+<cell><para>263 years</para></cell>
+<cell><para>350 years</para></cell>
+<cell><para>+4d% years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gnome</para></cell>
+<cell><para>100 years</para></cell>
+<cell><para>150 years</para></cell>
+<cell><para>200 years</para></cell>
+<cell><para>+3d% years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-elf</para></cell>
+<cell><para>62 years</para></cell>
+<cell><para>93 years</para></cell>
+<cell><para>125 years</para></cell>
+<cell><para>+3d20 years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-orc</para></cell>
+<cell><para>30 years</para></cell>
+<cell><para>45 years</para></cell>
+<cell><para>60 years</para></cell>
+<cell><para>+2d10 years</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Halfling</para></cell>
+<cell><para>50 years</para></cell>
+<cell><para>75 years</para></cell>
+<cell><para>100 years</para></cell>
+<cell><para>+5d20 years</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 At middle age, -1 to Str, Dex, and Con; +1 to Int, Wis, and Cha.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 At old age, -2 to Str, Dex, and Con; +1 to Int, Wis, and Cha.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>3 At venerable age, -3 to Str, Dex, and Con; +1 to Int, Wis, and Cha.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Height and Weight" origname="Height and Weight" linkname="Basic_Rules_Description_Vital_Statistics_Height_and_Weight" docbookid="Description17" refname="Height and Weight" reftype="description" refcase="yes" refaltname="" keywords="basic,descript,height,rule,statist,vital,weight"><para reftype="description" refcase="yes" refname="Height and Weight" style="heading 3">Height and Weight</para><para>The dice roll given in the Height Modifier column determines the character's extra height beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight beyond the base weight.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Random Height and Weight</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Race</b></para></cell>
+<cell><para><b>Base Height</b></para></cell>
+<cell><para><b>Height Modifier</b></para></cell>
+<cell><para><b>Base Weight</b></para></cell>
+<cell><para><b>Weight Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Human, male</para></cell>
+<cell><para>4' 10"</para></cell>
+<cell><para>+2d10</para></cell>
+<cell><para>120 lb.</para></cell>
+<cell><para>x (2d4) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Human, female</para></cell>
+<cell><para>4' 5"</para></cell>
+<cell><para>+2d10</para></cell>
+<cell><para>85 lb.</para></cell>
+<cell><para>x (2d4) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dwarf, male</para></cell>
+<cell><para>3' 9"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>130 lb.</para></cell>
+<cell><para>x (2d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dwarf, female</para></cell>
+<cell><para>3' 7"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>100 lb.</para></cell>
+<cell><para>x (2d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Elf, male</para></cell>
+<cell><para>4' 5"</para></cell>
+<cell><para>+2d6</para></cell>
+<cell><para>85 lb.</para></cell>
+<cell><para>x (1d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Elf, female</para></cell>
+<cell><para>4' 5"</para></cell>
+<cell><para>+2d6</para></cell>
+<cell><para>80 lb.</para></cell>
+<cell><para>x (1d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gnome, male</para></cell>
+<cell><para>3' 0"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>40 lb.</para></cell>
+<cell><para>x 1 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gnome, female</para></cell>
+<cell><para>2' 10"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>35 lb.</para></cell>
+<cell><para>x 1 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-elf, male</para></cell>
+<cell><para>4' 7"</para></cell>
+<cell><para>+2d8</para></cell>
+<cell><para>100 lb.</para></cell>
+<cell><para>x (2d4) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-elf, female</para></cell>
+<cell><para>4' 5"</para></cell>
+<cell><para>+2d8</para></cell>
+<cell><para>80 lb.</para></cell>
+<cell><para>x (2d4) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-orc, male</para></cell>
+<cell><para>4' 10"</para></cell>
+<cell><para>+2d12</para></cell>
+<cell><para>150 lb.</para></cell>
+<cell><para>x (2d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Half-orc, female</para></cell>
+<cell><para>4' 5"</para></cell>
+<cell><para>+2d12</para></cell>
+<cell><para>110 lb.</para></cell>
+<cell><para>x (2d6) lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Halfling, male</para></cell>
+<cell><para>2' 8"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>30 lb.</para></cell>
+<cell><para>x 1 lb.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Halfling, female</para></cell>
+<cell><para>2' 6"</para></cell>
+<cell><para>+2d4</para></cell>
+<cell><para>25 lb.</para></cell>
+<cell><para>x 1 lb.</para></cell>
+<cell/>
+</row>
+</table><para/><para/><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

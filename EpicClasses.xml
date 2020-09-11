@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Classes &gt; Epic Class Progressions">
+<info>
+<title>620_88169 EpicLevel Ch1a</title>
+<author>asmith</author>
+<operator>asmith</operator>
+</info>
+<topic level="0" name="Classes" linkname="Classes" docbookid="EpicClasses0" keywords="class"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Epic Class Progressions" origname="Epic Class Progressions" linkname="Classes_Epic_Class_Progressions" docbookid="EpicClasses1" keywords="class,epic,progress"><para style="heading 1">Epic Class Progressions</para><para/><topic level="2" name="Epic Barbarian" origname="Epic Barbarian" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian" docbookid="EpicClasses2" refname="Epic Barbarian" reftype="class" refcase="no" refaltname="" keywords="barbarian,class,epic,progress"><para reftype="class" refcase="no" refname="Epic Barbarian" style="heading 2">Epic Barbarian</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Hit_Die" docbookid="EpicClasses3" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,die,epic,hit,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d12</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses4" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,barbarian,class,epic,level,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier</para>
+</topic><topic level="8" name="Barbarian Rage" origname="Barbarian Rage" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Barbarian_Rage" docbookid="EpicClasses5" refname="Barbarian Rage" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,epic,progress,rage"><para reftype="classinfo" refcase="no" refname="Barbarian Rage"><b>Barbarian Rage:</b> The epic barbarian gains one use of rage per day every four levels after 20th.</para>
+</topic><topic level="8" name="Trap Sense" origname="Trap Sense (Ex)" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Trap_Sense" docbookid="EpicClasses6" refname="Trap Sense" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,epic,progress,sens,trap"><para reftype="classinfo" refcase="no" refname="Trap Sense"><b>Trap Sense (Ex):</b> The epic barbarian's bonus increases by +1 every three levels higher than 18th.</para>
+</topic><topic level="8" name="Damage Reduction" origname="Damage Reduction (Ex)" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Damage_Reduction" docbookid="EpicClasses7" refname="Damage Reduction" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,damag,epic,progress,reduct"><para reftype="classinfo" refcase="no" refname="Damage Reduction"><b>Damage Reduction (Ex):</b> The epic barbarian's damage reduction increases by 1 point every three levels higher than 19th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Bonus_Feats" docbookid="EpicClasses8" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,bonu,class,epic,feat,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic barbarian gains a bonus feat (selected from the list of epic barbarian bonus feats) every four levels higher than 20th.</para><para reftype="classinfo" refcase="no" refname="Epic Barbarian Bonus Feat List"><b><i>Epic Barbarian Bonus Feat List:</i> </b>Armor Skin, Chaotic Rage, Damage Reduction, Devastating Critical, Dire Charge, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Incite Rage, Legendary Climber, Legendary Leaper, Legendary Rider, Legendary Tracker, Legendary Wrestler, Mighty Rage, Overwhelming Critical, Ruinous Rage, Terrifying Rage, Thundering Rage.</para>
+</topic><topic level="8" name="Table: The Epic Barbarian" origname="Table: The Epic Barbarian" linkname="Classes_Epic_Class_Progressions_Epic_Barbarian_Table_The_Epic_Barbarian" docbookid="EpicClasses9" refname="Table: The Epic Barbarian" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,epic,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Barbarian"><b>Table: The Epic Barbarian</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Barbarian</b> 
+<b>Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>Trap sense +7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>Damage reduction 6/-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>Rage 7/day, Trap sense +8, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>Damage reduction 7/-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>Trap sense +9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>Damage reduction 8/-, Rage 8/day, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>Trap sense +10</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Bard" origname="Epic Bard" linkname="Classes_Epic_Class_Progressions_Epic_Bard" docbookid="EpicClasses10" refname="Epic Bard" reftype="class" refcase="no" refaltname="" keywords="bard,class,epic,progress"><para reftype="class" refcase="no" refname="Epic Bard" style="heading 2">Epic Bard</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Hit_Die" docbookid="EpicClasses11" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="bard,class,die,epic,hit,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses12" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,bard,class,epic,level,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 6 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Spells" docbookid="EpicClasses13" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="bard,class,epic,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The bard's caster level is equal to his or her class level. The bard's number of spells per day does not increase after 20th level. The bard does not learn additional spells unless he or she selects the Spell Knowledge feat.</para>
+</topic><topic level="8" name="Bardic Music" origname="Bardic Music" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Bardic_Music" docbookid="EpicClasses14" refname="Bardic Music" reftype="classinfo" refcase="no" refaltname="" keywords="bard,bardic,class,epic,music,progress"><para reftype="classinfo" refcase="no" refname="Bardic Music"><b>Bardic Music:</b> The bard gains no new bardic music effects from his or her Perform ranks. However, he or she may select epic feats that grant new bardic music effects</para>
+</topic><topic level="8" name="Bardic Knowledge" origname="Bardic Knowledge" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Bardic_Knowledge" docbookid="EpicClasses15" refname="Bardic Knowledge" reftype="classinfo" refcase="no" refaltname="" keywords="bard,bardic,class,epic,knowledg,progress"><para reftype="classinfo" refcase="no" refname="Bardic Knowledge"><b>Bardic Knowledge:</b> Add the bard's class level + Intelligence modifier to all bardic knowledge checks, as normal.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Bonus_Feats" docbookid="EpicClasses16" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bard,bonu,class,epic,feat,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic bard gains a bonus feat (selected from the list of epic bard bonus feats) every three levels after 20th.</para><para><i>Epic Bard Bonus Feat List:</i> Augmented Alchemy, Deafening Song, Epic Inspiration, Epic Leadership, Epic Reputation, Epic Skill Focus, Group Inspiration, Hindering Song, Improved Combat Casting, Improved Metamagic, Improved Spell Capacity, Inspire Excellence, Lasting Inspiration, Master Staff, Master Wand, Music of the Gods, Permanent Emanation, Polyglot, Ranged Inspiration, Rapid Inspiration, Reactive Countersong, Spell Knowledge, Spell Stowaway, Spell Opportunity, Tenacious Magic.</para>
+</topic><topic level="8" name="Inspire Courage" origname="Inspire Courage (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Inspire_Courage" docbookid="EpicClasses17" refname="Inspire Courage" reftype="classinfo" refcase="no" refaltname="" keywords="bard,class,courag,epic,inspir,progress"><para reftype="classinfo" refcase="no" refname="Inspire Courage"><b>Inspire Courage (Su):</b> The epic bard's bonus when this ability is used increases by +1 every six levels higher than 20th.</para><para/>
+</topic><topic level="8" name="Table: The Epic Bard" origname="Table: The Epic Bard" linkname="Classes_Epic_Class_Progressions_Epic_Bard_Table_The_Epic_Bard" docbookid="EpicClasses18" refname="Table: The Epic Bard" reftype="classinfo" refcase="no" refaltname="" keywords="bard,class,epic,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Bard"><b>Table: The Epic Bard</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Bard Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Inspire Courage +5, Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Cleric" origname="Epic Cleric" linkname="Classes_Epic_Class_Progressions_Epic_Cleric" docbookid="EpicClasses19" refname="Epic Cleric" reftype="class" refcase="no" refaltname="" keywords="class,cleric,epic,progress"><para reftype="class" refcase="no" refname="Epic Cleric" style="heading 2">Epic Cleric</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Hit_Die" docbookid="EpicClasses20" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,cleric,die,epic,hit,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses21" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,cleric,epic,level,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Spells" docbookid="EpicClasses22" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,cleric,epic,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The cleric's caster level is equal to his or her class level. The cleric's number of spells per day does not increase after 20th level</para>
+</topic><topic level="8" name="Turn or Rebuke Undead" origname="Turn or Rebuke Undead" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Turn_or_Rebuke_Undead" docbookid="EpicClasses23" refname="Turn or Rebuke Undead" reftype="classinfo" refcase="no" refaltname="" keywords="class,cleric,epic,progress,rebuk,turn,undead"><para reftype="classinfo" refcase="no" refname="Turn or Rebuke Undead"><b>Turn or Rebuke Undead:</b> Use the cleric's class level to determine the most powerful undead affected by a turn or rebuke check and the turning damage, just as normal.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Bonus_Feats" docbookid="EpicClasses24" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,cleric,epic,feat,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic cleric gains a bonus feat (selected from the list of epic cleric bonus feats) every three levels after 20th.</para><para><i>Epic Cleric Bonus Feat List:</i> Armor Skin, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Negative Energy Burst, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spell Stowaway, Spell Opportunity, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.</para><para/>
+</topic><topic level="8" name="Table: The Epic Cleric" origname="Table: The Epic Cleric" linkname="Classes_Epic_Class_Progressions_Epic_Cleric_Table_The_Epic_Cleric" docbookid="EpicClasses25" refname="Table: The Epic Cleric" reftype="classinfo" refcase="no" refaltname="" keywords="class,cleric,epic,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Cleric"><b>Table: The Epic Cleric</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Cleric Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Druid" origname="Epic Druid" linkname="Classes_Epic_Class_Progressions_Epic_Druid" docbookid="EpicClasses26" refname="Epic Druid" reftype="class" refcase="no" refaltname="" keywords="class,druid,epic,progress"><para reftype="class" refcase="no" refname="Epic Druid" style="heading 2">Epic Druid</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Hit_Die" docbookid="EpicClasses27" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,druid,epic,hit,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses28" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,druid,epic,level,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Spells" docbookid="EpicClasses29" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,druid,epic,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The druid's caster level is equal to his or her class level. The druid's number of spells per day does not increase after 20th level.</para>
+</topic><topic level="8" name="Animal Companion" origname="Animal Companion" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Animal_Companion" docbookid="EpicClasses30" refname="Animal Companion" reftype="classinfo" refcase="no" refaltname="" keywords="anim,class,companion,druid,epic,progress"><para reftype="classinfo" refcase="no" refname="Animal Companion"><b>Animal Companion:</b> The Druid's animal companion continues to increase in power.  Every three levels higher than 20th the animal companion gains 2 bonus hit dice, +1 strength and dexterity, and an additional trick.</para>
+</topic><topic level="8" name="Wild Shape" origname="Wild Shape" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Wild_Shape" docbookid="EpicClasses31" refname="Wild Shape" reftype="classinfo" refcase="no" refaltname="" keywords="class,druid,epic,progress,shape,wild"><para reftype="classinfo" refcase="no" refname="Wild Shape"><b><i>Wild Shape:</i></b> The epic druid can use this ability to take the form of an animal one additional time per day every four levels higher than 18th.  The druid's ability to wild shape into an elemental does not improve.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Bonus_Feats" docbookid="EpicClasses32" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,druid,epic,feat,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic druid gains a bonus feat (selected from the list of epic druid bonus feats) every four levels after 20th.</para><para>Epic Druid Bonus Feat List: Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Colossal Wild Shape, Diminutive Wild Shape, Dragon Wild Shape, Energy Resistance, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Fast Healing, Fine Wild Shape, Gargantuan Wild Shape, Ignore Material Components, Improved Combat Casting, Improved Elemental Wild Shape, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Magical Beast Companion, Magical Beast Wild Shape, Multispell, Perfect Health, Permanent Emanation, Plant Wild Shape, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic, Vermin Wild Shape.</para>
+</topic><topic level="8" name="Table: The Epic Druid" origname="Table: The Epic Druid" linkname="Classes_Epic_Class_Progressions_Epic_Druid_Table_The_Epic_Druid" docbookid="EpicClasses33" refname="Table: The Epic Druid" reftype="classinfo" refcase="no" refaltname="" keywords="class,druid,epic,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Druid"><b>Table: The Epic Druid</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Druid Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para><i>Wild shape</i> 7/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para><i>Wild shape</i> 8/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para><i>Wild shape</i> 9/day</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Fighter" origname="Epic Fighter" linkname="Classes_Epic_Class_Progressions_Epic_Fighter" docbookid="EpicClasses34" refname="Epic Fighter" reftype="class" refcase="no" refaltname="" keywords="class,epic,fighter,progress"><para reftype="class" refcase="no" refname="Epic Fighter" style="heading 2">Epic Fighter</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Fighter_Hit_Die" docbookid="EpicClasses35" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,fighter,hit,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Fighter_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses36" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,fighter,level,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Fighter_Bonus_Feats" docbookid="EpicClasses37" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,fighter,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic fighter gains a bonus feat (selected from the list of epic fighter bonus feats) every two levels after 20th.</para><para><i>Epic Fighter Bonus Feat List:</i> Armor Skin, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Energy Resistance, Epic Endurance, Epic Leadership, Epic Prowess, Epic Toughness, Epic Weapon Focus, Epic Weapon Specialization, Exceptional Deflection, Improved Combat Reflexes, Improved Manyshot, Improved Stunning Fist, Improved Whirlwind Attack, Infinite Deflection, Instant Reload, Legendary Commander, Legendary Rider, Legendary Wrestler, Overwhelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Reflect Arrows, Spellcasting Harrier, Storm of Throws, Superior Initiative, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy. In addition to the feats on this list, the fighter may treat any feat designated as a fighter bonus feat, but not listed here, as being on his or her bonus feat list.</para>
+</topic><topic level="8" name="Table: The Epic Fighter" origname="Table: The Epic Fighter" linkname="Classes_Epic_Class_Progressions_Epic_Fighter_Table_The_Epic_Fighter" docbookid="EpicClasses38" refname="Table: The Epic Fighter" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,fighter,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Fighter"><b>Table: The Epic Fighter</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Fighter Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Monk" origname="Epic Monk" linkname="Classes_Epic_Class_Progressions_Epic_Monk" docbookid="EpicClasses39" refname="Epic Monk" reftype="class" refcase="no" refaltname="" keywords="class,epic,monk,progress"><para reftype="class" refcase="no" refname="Epic Monk" style="heading 2">Epic Monk</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Hit_Die" docbookid="EpicClasses40" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,monk,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses41" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,monk,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier</para>
+</topic><topic level="8" name="AC Bonus" origname="AC Bonus" linkname="Classes_Epic_Class_Progressions_Epic_Monk_AC_Bonus" docbookid="EpicClasses42" refname="AC Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="ac,bonu,class,epic,monk,progress"><para reftype="classinfo" refcase="no" refname="AC Bonus"><b>AC Bonus:</b> The monk's bonus to Armor Class when unarmored increases by +1 every five levels higher than 20th.</para>
+</topic><topic level="8" name="Unarmed Strike" origname="Unarmed Strike" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Unarmed_Strike" docbookid="EpicClasses43" refname="Unarmed Strike" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,monk,progress,strike,unarm"><para reftype="classinfo" refcase="no" refname="Unarmed Strike"><b>Unarmed Strike:</b> The damage for a monk's unarmed strike does not increase after 16th level.</para>
+</topic><topic level="8" name="Stunning Attack" origname="Stunning Attack" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Stunning_Attack" docbookid="EpicClasses44" refname="Stunning Attack" reftype="classinfo" refcase="no" refaltname="" keywords="attack,class,epic,monk,progress,stun"><para reftype="classinfo" refcase="no" refname="Stunning Attack"><b>Stunning Attack:</b> If the monk has the Stunning Fist feat use the monk's class level when determining the DC to resist this attack, as normal.</para>
+</topic><topic level="8" name="Unarmored Speed Bonus" origname="Unarmored Speed Bonus" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Unarmored_Speed_Bonus" docbookid="EpicClasses45" refname="Unarmored Speed Bonus" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,monk,progress,spe,unarmor"><para reftype="classinfo" refcase="no" refname="Unarmored Speed Bonus"><b>Unarmored Speed Bonus:</b> The epic monk's speed when wearing no armor increases by 10 feet every three levels higher than 18th. The unarmored speed of Small and dwarven monks increases by 5 feet instead of 10 feet.</para>
+</topic><topic level="8" name="Ki Strike" origname="Ki Strike" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Ki_Strike" docbookid="EpicClasses46" refname="Ki Strike" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,ki,monk,progress,strike"><para reftype="classinfo" refcase="no" refname="Ki Strike"><b><i>ki</i> Strike:</b> The monk's <i>ki</i> strike ability does not automatically increase with class level after 16th level.</para>
+</topic><topic level="8" name="Wholeness of Body" origname="Wholeness of Body (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Wholeness_of_Body" docbookid="EpicClasses47" refname="Wholeness of Body" reftype="classinfo" refcase="no" refaltname="" keywords="bodi,class,epic,monk,progress,whole"><para reftype="classinfo" refcase="no" refname="Wholeness of Body"><b>Wholeness of Body (Su):</b> The epic monk can cure up to twice his or her class level in hit points each day, as normal.</para>
+</topic><topic level="8" name="Abundant Step" origname="Abundant Step (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Abundant_Step" docbookid="EpicClasses48" refname="Abundant Step" reftype="classinfo" refcase="no" refaltname="" keywords="abund,class,epic,monk,progress,step"><para reftype="classinfo" refcase="no" refname="Abundant Step"><b>Abundant Step (Su):</b> Use the monk's class level when determining the effective caster level of this ability, as normal.</para>
+</topic><topic level="8" name="Diamond Soul" origname="Diamond Soul (Ex)" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Diamond_Soul" docbookid="EpicClasses49" refname="Diamond Soul" reftype="classinfo" refcase="no" refaltname="" keywords="class,diamond,epic,monk,progress,soul"><para reftype="classinfo" refcase="no" refname="Diamond Soul"><b>Diamond Soul (Ex):</b> The epic monk's spell resistance is equal to his or her class level +10, as normal.</para>
+</topic><topic level="8" name="Quivering Palm" origname="Quivering Palm (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Quivering_Palm" docbookid="EpicClasses50" refname="Quivering Palm" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,monk,palm,progress,quiver"><para reftype="classinfo" refcase="no" refname="Quivering Palm"><b>Quivering Palm (Su):</b> Use the monk's class level when determining the DC to resist this attack, as normal.</para>
+</topic><topic level="8" name="Empty Body" origname="Empty Body (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Empty_Body" docbookid="EpicClasses51" refname="Empty Body" reftype="classinfo" refcase="no" refaltname="" keywords="bodi,class,empti,epic,monk,progress"><para reftype="classinfo" refcase="no" refname="Empty Body"><b>Empty Body (Su):</b> Use the monk's class level when determining the duration of this effect, as normal.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Bonus_Feats" docbookid="EpicClasses52" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,monk,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic monk gains a bonus feat (selected from the list of epic monk bonus feats) every five levels higher than 20th.</para><para><i>Epic Monk Bonus Feat List:</i> Armor Skin, Blinding Speed, Damage Reduction, Energy Resistance, Epic Prowess, Epic Speed, Epic Toughness, Exceptional Deflection, Fast Healing, Improved Combat Reflexes, Improved <i>ki</i> Strike, Improved Spell Resistance, Improved Stunning Fist, Infinite Deflection, Keen Strike, Legendary Climber, Legendary Wrestler, Reflect Arrows, Righteous Strike, Self-Concealment, Shattering Strike, Vorpal Strike.</para>
+</topic><topic level="8" name="Table: The Epic Monk" origname="Table: The Epic Monk" linkname="Classes_Epic_Class_Progressions_Epic_Monk_Table_The_Epic_Monk" docbookid="EpicClasses53" refname="Table: The Epic Monk" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,monk,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Monk"><b>Table: The Epic Monk</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Monk Level</b></para></cell>
+<cell><para><b>AC Bonus</b></para></cell>
+<cell><para><b>Unarmored Speed Bonus</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+70 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+70 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+70 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+80 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+80 ft.</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+80 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+90 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+90 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>+90 ft.</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>+6</para></cell>
+<cell><para>+100 ft.</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Paladin" origname="Epic Paladin" linkname="Classes_Epic_Class_Progressions_Epic_Paladin" docbookid="EpicClasses54" refname="Epic Paladin" reftype="class" refcase="no" refaltname="" keywords="class,epic,paladin,progress"><para reftype="class" refcase="no" refname="Epic Paladin" style="heading 2">Epic Paladin</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Hit_Die" docbookid="EpicClasses55" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,paladin,progress"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses56" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,paladin,point,progress,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier</para>
+</topic><topic level="8" name="Lay on Hands" origname="Lay on Hands (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Lay_on_Hands" docbookid="EpicClasses57" refname="Lay on Hands" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,hand,lai,paladin,progress"><para reftype="classinfo" refcase="no" refname="Lay on Hands"><b><i>Lay on Hands</i> (Su)<i>:</i></b> Each day a paladin can cure a total number of hit points equal to his or her Charisma bonus (if any) times his or her class level, as normal</para>
+</topic><topic level="8" name="Smite Evil" origname="Smite Evil (Su)" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Smite_Evil" docbookid="EpicClasses58" refname="Smite Evil" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,evil,paladin,progress,smite"><para reftype="classinfo" refcase="no" refname="Smite Evil"><b>Smite Evil (Su):</b> The epic paladin adds his or her class level to damage with any smite evil attack, as normal. He or she can smite one additional time per day for every five levels higher than 20th.</para>
+</topic><topic level="8" name="Turn Undead" origname="Turn Undead" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Turn_Undead" docbookid="EpicClasses59" refname="Turn Undead" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,paladin,progress,turn,undead"><para reftype="classinfo" refcase="no" refname="Turn Undead"><b>Turn Undead:</b> The paladin turns undead as a cleric of two levels lower, as normal.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Spells" docbookid="EpicClasses60" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,paladin,progress,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The paladin's caster level is equal to one-half his or her class level, as normal.  The paladin's number of spells per day does not increase after 20th level.</para>
+</topic><topic level="8" name="Special Mount" origname="Special Mount" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Special_Mount" docbookid="EpicClasses61" refname="Special Mount" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,mount,paladin,progress,special"><para reftype="classinfo" refcase="no" refname="Special Mount"><b>Special Mount:</b> The epic paladin's special mount continues to increase in power. Every five levels after 20th the special mount gains +2 bonus Hit Dice, its natural armor increases by +2, its Strength adjustment increases by +1, and its Intelligence increases by +1. The mount's spell resistance equals the paladin's class level + 5.</para><para reftype="classinfo" refcase="no" refname="Remove Disease"><b><i>Remove Disease</i> (Sp)<i>:</i> </b>The epic paladin can use <i>remove disease</i> one additional time per week for every three levels higher than 18th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Bonus_Feats" docbookid="EpicClasses62" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,paladin,progress"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic paladin gains a bonus feat (selected from the list of epic paladin feats) every three levels higher than 20th.</para><para><i>Epic Paladin Bonus Feat List:</i> Armor Skin, Devastating Critical, Epic Leadership, Epic Prowess, Epic Reputation, Epic Toughness, Epic Weapon Focus, Great Smiting, Holy Strike, Improved Aura of Courage, Improved Combat Casting, Improved Spell Capacity, Legendary Commander, Legendary Rider, Overwhelming Critical, Perfect Health, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spontaneous Spell, Widen Aura of Courage.</para>
+</topic><topic level="8" name="Table: The Epic Paladin" origname="Table: The Epic Paladin" linkname="Classes_Epic_Class_Progressions_Epic_Paladin_Table_The_Epic_Paladin" docbookid="EpicClasses63" refname="Table: The Epic Paladin" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,paladin,progress,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Paladin"><b>Table: The Epic Paladin</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Paladin Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para><i>remove disease</i> 6/week</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para><i>remove disease</i> 7/week</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>Smite evil 6/day</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para><i>remove disease</i> 8/week</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para><i>remove disease</i> 9/week</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Ranger" origname="Epic Ranger" linkname="Classes_Epic_Class_Progressions_Epic_Ranger" docbookid="EpicClasses64" refname="Epic Ranger" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,ranger"><para reftype="class" refcase="no" refname="Epic Ranger" style="heading 2">Epic Ranger</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Hit_Die" docbookid="EpicClasses65" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,ranger"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses66" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,ranger,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 6 + Int modifier</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Spells" docbookid="EpicClasses67" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,ranger,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The ranger's caster level is equal to one-half his or her class level, as normal. The ranger's number of spells per day does not increase after 20th level.</para>
+</topic><topic level="8" name="Favored Enemy" origname="Favored Enemy (Ex)" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Favored_Enemy" docbookid="EpicClasses68" refname="Favored Enemy" reftype="classinfo" refcase="no" refaltname="" keywords="class,enemi,epic,favor,progress,ranger"><para reftype="classinfo" refcase="no" refname="Favored Enemy"><b>Favored Enemy (Ex):</b> The epic ranger gains one additional favored enemy, and his or her bonuses against one category of favored enemies goes up by +2, every five levels higher than 20th.</para>
+</topic><topic level="8" name="Animal Companion" origname="Animal Companion" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Animal_Companion" docbookid="EpicClasses69" refname="Animal Companion" reftype="classinfo" refcase="no" refaltname="" keywords="anim,class,companion,epic,progress,ranger"><para reftype="classinfo" refcase="no" refname="Animal Companion"><b>Animal companion:</b>  The epic ranger's animal companion continues to increase in power.  The ranger's effective druid level is half his or her ranger level.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Bonus_Feats" docbookid="EpicClasses70" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,ranger"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic ranger gains a bonus feat (selected from the list of epic ranger feats) every three levels after 20th.</para><para><i>Epic Ranger Bonus Feat List:</i> Bane of Enemies, Blinding Speed, Combat Archery, Death of Enemies, Distant Shot, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Casting, Improved Favored Enemy, Improved Manyshot, Improved Spell Capacity, Legendary Climber, Legendary Rider, Legendary Tracker, Perfect Health, Perfect Two-Weapon Fighting, Permanent Emanation, Spontaneous Spell, Storm of Throws, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy.</para>
+</topic><topic level="8" name="Table: The Epic Ranger" origname="Table: The Epic Ranger" linkname="Classes_Epic_Class_Progressions_Epic_Ranger_Table_The_Epic_Ranger" docbookid="EpicClasses71" refname="Table: The Epic Ranger" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,ranger,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Ranger"><b>Table: The Epic Ranger</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Ranger Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>6th favored enemy</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>7th favored enemy</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Rogue" origname="Epic Rogue" linkname="Classes_Epic_Class_Progressions_Epic_Rogue" docbookid="EpicClasses72" refname="Epic Rogue" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,rogu"><para reftype="class" refcase="no" refname="Epic Rogue" style="heading 2">Epic Rogue</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Hit_Die" docbookid="EpicClasses73" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,rogu"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses74" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,rogu,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 8 + Int modifier.</para>
+</topic><topic level="8" name="Sneak Attack" origname="Sneak Attack" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Sneak_Attack" docbookid="EpicClasses75" refname="Sneak Attack" reftype="classinfo" refcase="no" refaltname="" keywords="attack,class,epic,progress,rogu,sneak"><para reftype="classinfo" refcase="no" refname="Sneak Attack"><b>Sneak Attack:</b> The epic rogue's sneak attack damage increases by +1d6 at every odd-numbered level.</para>
+</topic><topic level="8" name="Special Abilities" origname="Special Abilities" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Special_Abilities" docbookid="EpicClasses76" refname="Special Abilities" reftype="classinfo" refcase="no" refaltname="" keywords="abil,class,epic,progress,rogu,special"><para reftype="classinfo" refcase="no" refname="Special Abilities"><b>Special Abilities:</b> The rogue does not gain additional rogue special abilities after 19th level, but can choose one of the rogue class special abilities (crippling strike, defensive roll, improved evasion, opportunist, skill mastery, or slippery mind) instead of a bonus feat.</para>
+</topic><topic level="8" name="Trap Sense" origname="Trap Sense (Ex)" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Trap_Sense" docbookid="EpicClasses77" refname="Trap Sense" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,rogu,sens,trap"><para reftype="classinfo" refcase="no" refname="Trap Sense"><b>Trap Sense (Ex):</b> The epic rogue's bonus increases by +1 every three levels higher than 18th.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Bonus_Feats" docbookid="EpicClasses78" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,rogu"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic rogue gains a bonus feat (selected from the list of epic rogue feats) every four levels after 20th.</para><para><i>Epic Rogue Bonus Feat List:</i> Blinding Speed, Combat Archery, Dexterous Fortitude, Dexterous Will, Epic Dodge, Epic Reputation, Epic Skill Focus, Epic Speed, Improved Combat Reflexes, Improved Sneak Attack, Legendary Climber, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spellcasting Harrier, Superior Initiative, Trap Sense, Uncanny Accuracy. The rogue may choose a special rogue ability instead of a bonus feat.</para>
+</topic><topic level="8" name="Table: The Epic Rogue" origname="Table: The Epic Rogue" linkname="Classes_Epic_Class_Progressions_Epic_Rogue_Table_The_Epic_Rogue" docbookid="EpicClasses79" refname="Table: The Epic Rogue" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,rogu,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Rogue"><b>Table: The Epic Rogue</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Rogue Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>Sneak attack +11d6, trap sense +7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Sneak attack +12d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>Trap sense +8, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>Sneak attack +13d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>Sneak attack +14d6, trap sense +9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Sneak attack +15d6</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>Trap sense +10</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Sorcerer" origname="Epic Sorcerer" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer" docbookid="EpicClasses80" refname="Epic Sorcerer" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,sorcer"><para reftype="class" refcase="no" refname="Epic Sorcerer" style="heading 2">Epic Sorcerer</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Hit_Die" docbookid="EpicClasses81" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,sorcer"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses82" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,skill,sorcer"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Spells" docbookid="EpicClasses83" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,sorcer,spell"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The sorcerer's caster level is equal to his or her class level. The sorcerer's number of spells per day does not increase after 20th level. The sorcerer does not learn additional spells unless he or she selects the Spell Knowledge feat.</para>
+</topic><topic level="8" name="Familiar" origname="Familiar" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Familiar" docbookid="EpicClasses84" refname="Familiar" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,familiar,progress,sorcer"><para reftype="classinfo" refcase="no" refname="Familiar"><b>Familiar:</b> The sorcerer's familiar continues to increase in power. Every two levels beyond 20th the familiar's natural armor and Intelligence each increase by +1. The familiar's spell resistance is equal to the master's class level + 5. At 21st level and again every ten levels higher than 21st, the familiar gains the benefit of the Familiar Spell epic feat for a spell of its master's choice.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Bonus_Feats" docbookid="EpicClasses85" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,sorcer"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic sorcerer gains a bonus feat (selected from the list of epic sorcerer bonus feats) every three levels after 20th.</para><para><i>Epic Sorcerer Bonus Feat List:</i> Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Energy Resistance, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Familiar Spell, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Master Staff, Master Wand, Multispell, Permanent Emanation, Spell Knowledge, Spell Stowaway, Spell Opportunity.</para>
+</topic><topic level="8" name="Table: The Epic Sorcerer" origname="Table: The Epic Sorcerer" linkname="Classes_Epic_Class_Progressions_Epic_Sorcerer_Table_The_Epic_Sorcerer" docbookid="EpicClasses86" refname="Table: The Epic Sorcerer" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,sorcer,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Sorcerer"><b>Table: The Epic Sorcerer</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Sorcerer Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Wizard" origname="Epic Wizard" linkname="Classes_Epic_Class_Progressions_Epic_Wizard" docbookid="EpicClasses87" refname="Epic Wizard" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,wizard"><para reftype="class" refcase="no" refname="Epic Wizard" style="heading 2">Epic Wizard</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Hit_Die" docbookid="EpicClasses88" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,wizard"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses89" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,skill,wizard"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Spells" origname="Spells" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Spells" docbookid="EpicClasses90" refname="Spells" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,spell,wizard"><para reftype="classinfo" refcase="no" refname="Spells"><b>Spells:</b> The wizard's caster level is equal to her class level. The wizard's number of spells per day does not increase after 20th level. Each time the wizard achieves a new level, he or she learns two new spells of any spell levels that he or she can cast (according to his or her new level).</para>
+</topic><topic level="8" name="Familiar" origname="Familiar" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Familiar" docbookid="EpicClasses91" refname="Familiar" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,familiar,progress,wizard"><para reftype="classinfo" refcase="no" refname="Familiar"><b>Familiar:</b> The wizards's familiar continues to increase in power. Every two levels beyond 20th the familiar's natural armor and Intelligence each increase by +1. The familiar's spell resistance is equal to the master's class level + 5. At 21st level and again every ten levels higher than 21st, the familiar gains the benefit of the Familiar Spell epic feat for a spell of its master's choice.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Bonus_Feats" docbookid="EpicClasses92" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,wizard"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic wizard gains a bonus feat (selected from the list of epic wizard feats) every three levels after 20th.</para><para><i>Epic Wizard Bonus Feat List:</i> Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Combat Casting, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Familiar Spell, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Permanent Emanation, Scribe Epic Scroll, Spell Focus, Spell Knowledge, Spell Mastery, Spell Penetration Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic. In addition to the feats on this list, the wizard may select any item creation feat or metamagic feat not listed here.</para>
+</topic><topic level="8" name="Table: The Epic Wizard" origname="Table: The Epic Wizard" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Table_The_Epic_Wizard" docbookid="EpicClasses93" refname="Table: The Epic Wizard" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,tabl,wizard"><para reftype="classinfo" refcase="no" refname="Table: The Epic Wizard"><b>Table: The Epic Wizard</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Wizard Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic><topic level="3" name="Familiars at Epic Level" origname="Familiars at Epic Level" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Familiars_at_Epic_Level" docbookid="EpicClasses94" refname="Familiars at Epic Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,familiar,level,progress,wizard"><para reftype="class" refcase="no" refname="Familiars at Epic Level" style="heading 3">Familiars at Epic Level</para><para>Special abilities granted to a familiar continue to grow as the level of its master increases beyond 20th, as shown on Table: Epic Familiar Special Abilities. Even though the table shows advancement only to 42nd level, that is not the limit. The patterns in the table continue infinitely. Familiar special abilities gained at less than 20th level also continue to improve.</para><para><i>Familiar Spell:</i> The familiar gains the benefit of the Familiar Spell epic feat for the spell its master chooses.</para><topic level="8" name="Table: Epic Familiar Special Abilities" origname="Table: Epic Familiar Special Abilities" linkname="Classes_Epic_Class_Progressions_Epic_Wizard_Familiars_at_Epic_Level_Table_Epic_Familiar_Special_Abilities" docbookid="EpicClasses95" refname="Table: Epic Familiar Special Abilities" reftype="classinfo" refcase="no" refaltname="" keywords="abil,class,epic,familiar,level,progress,special,tabl,wizard"><para reftype="classinfo" refcase="no" refname="Table: Epic Familiar Special Abilities"><b>Table: Epic Familiar Special Abilities</b></para><table>
+<row/>
+<row>
+<cell><para><b>Master Class Level</b></para></cell>
+<cell><para><b>Natural Armor</b></para></cell>
+<cell><para><b>Int</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st-22nd</para></cell>
+<cell><para>+11</para></cell>
+<cell><para>16</para></cell>
+<cell><para>Familiar Spell</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd-24th</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>17</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>25th-26th</para></cell>
+<cell><para>+13</para></cell>
+<cell><para>18</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>27th-28th</para></cell>
+<cell><para>+14</para></cell>
+<cell><para>19</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>29th-30th</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>31st-32nd</para></cell>
+<cell><para>+16</para></cell>
+<cell><para>21</para></cell>
+<cell><para>Familiar Spell</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33rd-34th</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>22</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>35th-36th</para></cell>
+<cell><para>+18</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>37th-38th</para></cell>
+<cell><para>+19</para></cell>
+<cell><para>24</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>39th-40th</para></cell>
+<cell><para>+20</para></cell>
+<cell><para>25</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>41st-42nd</para></cell>
+<cell><para>+21</para></cell>
+<cell><para>26</para></cell>
+<cell><para>Familiar Spell</para></cell>
+<cell/>
+</row>
+</table><para/><para/><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Epic Psionic Class Progressions" origname="Epic Psionic Class Progressions" linkname="Classes_Epic_Class_Progressions_Epic_Psionic_Class_Progressions" docbookid="EpicClasses96" refname="Epic Psionic Class Progressions" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,psionic"><para reftype="class" refcase="no" refname="Epic Psionic Class Progressions" style="heading 2">Epic Psionic Class Progressions</para><para>Epic level psionic characters follow the same epic progression as non-psionics epic characters, except as noted below.</para><list>
+ <item> For manifesters, manifester level continues to increase after 20th level. However, a manifester's power points and powers known at each level do not increase automatically after 20th level.</item>
+ <item> The powers of psicrystals that are based on the creator's level continue to increase as their owner gains levels.</item>
+ <item> Bonus feats for epic psionic classes can be chosen from among any epic feats for which the character meets the prerequisites or any psionic, metapsionic, or psionic item creation feat, as normal.</item>
+</list><para/><topic level="3" name="No Epic Bonus Power Progression" origname="No Epic Bonus Power Progression" linkname="Classes_Epic_Class_Progressions_Epic_Psionic_Class_Progressions_No_Epic_Bonus_Power_Progression" docbookid="EpicClasses97" refname="No Epic Bonus Power Progression" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,power,progress,psionic"><para reftype="class" refcase="no" refname="No Epic Bonus Power Progression" style="heading 3">No Epic Bonus Power Progression</para><para>Epic psionic characters do not gain additional bonus power points above 20th. They may still gain more power points as their key ability score increases.</para><para>Psionic characters can take the Improved Manifestation feat, which grants them additional power points each time they take the feat. Epic manifesters can also take Epic Expanded Knowledge or Power Knowledge, which give them access to additional powers, and Epic Psionic Focus, which allows manifesters to use more than one metapsionic power each time they expend their psionic focus.</para><para/>
+</topic>
+</topic><topic level="2" name="Epic Psion" origname="Epic Psion" linkname="Classes_Epic_Class_Progressions_Epic_Psion" docbookid="EpicClasses98" refname="Epic Psion" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,psion"><para reftype="class" refcase="no" refname="Epic Psion" style="heading 2">Epic Psion</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Hit_Die" docbookid="EpicClasses99" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,psion"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d4.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses100" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,psion,skill"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Powers" origname="Powers" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Powers" docbookid="EpicClasses101" refname="Powers" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,power,progress,psion"><para reftype="classinfo" refcase="no" refname="Powers"><b>Powers:</b> The psion's manifester level is equal to his class level. The psion's base power points do not increase after 20th level. Each time the psion attains a new level, he learns two new powers of any level or levels that he can manifest.</para>
+</topic><topic level="8" name="Psicrystal" origname="Psicrystal" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Psicrystal" docbookid="EpicClasses102" refname="Psicrystal" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,psicryst,psion"><para reftype="classinfo" refcase="no" refname="Psicrystal"><b>Psicrystal:</b> The epic psion's psicrystal, if he has one, continues to increase in power. At every odd-numbered level higher than 20th (21st, 23rd, and so on) the psicrystal's natural armor bonus and Intelligence each increase by 1. The psicrystal's power resistance is equal to the master's level + 5. At 21st level and again every ten levels higher than 21st, the psicrystal gains the benefit of the Psicrystal Power epic feat for a power of its master's choice.</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Bonus_Feats" docbookid="EpicClasses103" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,psion"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic psion gains a bonus feat every three levels higher than 20th (23rd, 26th, and so on).</para>
+</topic><topic level="8" name="Table: The Epic Psion" origname="Table: The Epic Psion" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Table_The_Epic_Psion" docbookid="EpicClasses104" refname="Table: The Epic Psion" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,psion,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Psion"><b>Table: The Epic Psion</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Psion Level</b></para></cell> <cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Psicrystals at Epic Level" origname="Psicrystals at Epic Level" linkname="Classes_Epic_Class_Progressions_Epic_Psion_Psicrystals_at_Epic_Level" docbookid="EpicClasses105" refname="Psicrystals at Epic Level" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,level,progress,psicryst,psion"><para reftype="class" refcase="no" refname="Psicrystals at Epic Level" style="heading 3">Psicrystals at Epic Level</para><para>Special abilities granted to a psycrystal continue to grow as the level of its master increases beyond 20th, as shown on Table: Epic Psicrystal Special Abilities. Even though the table shows advancement only to 42nd level, that is not the limit. The patterns in the table continue infinitely. Psicrystal special abilities gained at less than 20th level also continue to improve.</para><para><i>Psicrystal Power:</i> The psicrystal gains the benefit of the Psicrystal Power epic feat for the power its master chooses.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table:</b>  <b>Epic</b> 
+<b>Psicrystal Special Abilities</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Owner Level</b></para></cell>
+<cell><para><b>Natural Armor Adj</b>.</para></cell>
+<cell><para><b>Int Adj</b>.</para></cell>
+<cell><para><b>Special</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st-22nd</para></cell>
+<cell><para>+10</para></cell>
+<cell><para>+10</para></cell>
+<cell><para>Psicrystal Power</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>23rd-24th</para></cell>
+<cell><para>+11</para></cell>
+<cell><para>+11</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>25th-26th</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>+12</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>27th-28th</para></cell>
+<cell><para>+13</para></cell>
+<cell><para>+13</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>29th-30th</para></cell>
+<cell><para>+14</para></cell>
+<cell><para>+14</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>31st-32nd</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>Psicrystal Power</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33rd-34th</para></cell>
+<cell><para>+16</para></cell>
+<cell><para>+16</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>35th-36th</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>+17</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>37th-38th</para></cell>
+<cell><para>+18</para></cell>
+<cell><para>+18</para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>39th-40th</para></cell>
+<cell><para>+19</para></cell>
+<cell><para>+19</para></cell>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>41st-42nd</para></cell>
+<cell><para>+20</para></cell>
+<cell><para>+20</para></cell>
+<cell><para>Psicrystal Power</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Epic Psychic Warrior" origname="Epic Psychic Warrior" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior" docbookid="EpicClasses106" refname="Epic Psychic Warrior" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,psychic,warrior"><para reftype="class" refcase="no" refname="Epic Psychic Warrior" style="heading 2">Epic Psychic Warrior</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior_Hit_Die" docbookid="EpicClasses107" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,psychic,warrior"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d8.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses108" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,psychic,skill,warrior"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 2 + Int modifier.</para>
+</topic><topic level="8" name="Powers" origname="Powers" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior_Powers" docbookid="EpicClasses109" refname="Powers" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,power,progress,psychic,warrior"><para reftype="classinfo" refcase="no" refname="Powers"><b>Powers:</b> The psychic warrior's manifester level is equal to her class level. The psychic warrior's base power points do not increase after 20th level. The epic psychic warrior gains one new power of any level that she can manifest at every even-numbered level she attains higher than 20th (22nd, 24th, 26th, and so on).</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior_Bonus_Feats" docbookid="EpicClasses110" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,psychic,warrior"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic psychic warrior gains a bonus feat (selected from the list of epic psychic warrior bonus feats) at 21st level and every three levels thereafter.</para>
+</topic><topic level="8" name="Table: The Epic Psychic Warrior" origname="Table: The Epic Psychic Warrior" linkname="Classes_Epic_Class_Progressions_Epic_Psychic_Warrior_Table_The_Epic_Psychic_Warrior" docbookid="EpicClasses111" refname="Table: The Epic Psychic Warrior" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,psychic,tabl,warrior"><para reftype="classinfo" refcase="no" refname="Table: The Epic Psychic Warrior"><b>Table: The Epic Psychic Warrior</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Psychic Warrior Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Soulknife" origname="Epic Soulknife" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife" docbookid="EpicClasses112" refname="Epic Soulknife" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,soulknif"><para reftype="class" refcase="no" refname="Epic Soulknife" style="heading 2">Epic Soulknife</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Hit_Die" docbookid="EpicClasses113" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,soulknif"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d10.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses114" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,skill,soulknif"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Mind Blade" origname="Mind Blade" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Mind_Blade" docbookid="EpicClasses115" refname="Mind Blade" reftype="classinfo" refcase="no" refaltname="" keywords="blade,class,epic,mind,progress,soulknif"><para reftype="classinfo" refcase="no" refname="Mind Blade"><b>Mind Blade:</b> At 25th level and every five levels thereafter, the soulknife gains an additional +1 enhancement bonus on attack rolls and damage rolls (+6 at 25th, +7 at 30th, and so on).</para>
+</topic><topic level="8" name="Mind Blade Enhancement" origname="Mind Blade Enhancement" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Mind_Blade_Enhancement" docbookid="EpicClasses116" refname="Mind Blade Enhancement" reftype="classinfo" refcase="no" refaltname="" keywords="blade,class,enhanc,epic,mind,progress,soulknif"><para reftype="classinfo" refcase="no" refname="Mind Blade Enhancement"><b>Mind Blade Enhancement:</b> The epic soulknife's mind blade gains additional powers as the soulknife gains epic levels. At 22nd level and every four levels thereafter, the soulknife can improve the value of the weapon special abilities on his mind blade by 1 (+5 equivalent bonus at 22nd, +6 at 26th, and so on). As noted in the soulknife class description, reassigning qualities still takes 8 hours of concentration.</para>
+</topic><topic level="8" name="Psychic Strike" origname="Psychic Strike" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Psychic_Strike" docbookid="EpicClasses117" refname="Psychic Strike" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,psychic,soulknif,strike"><para reftype="classinfo" refcase="no" refname="Psychic Strike"><b>Psychic Strike:</b> The epic soulknife's psychic strike progression continues past 20th level, continuing to grant an additional die (d8) of damage every four levels higher than 19th (+6d8 at 23rd, +7d8 at 27th, and so on).</para>
+</topic><topic level="8" name="Bonus Feats" origname="Bonus Feats" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Bonus_Feats" docbookid="EpicClasses118" refname="Bonus Feats" reftype="classinfo" refcase="no" refaltname="" keywords="bonu,class,epic,feat,progress,soulknif"><para reftype="classinfo" refcase="no" refname="Bonus Feats"><b>Bonus Feats:</b> The epic soulknife gains a bonus psionic feat every three levels higher than 20th (23rd, 26th, and so on).</para>
+</topic><topic level="8" name="Table: The Epic Soulknife" origname="Table: The Epic Soulknife" linkname="Classes_Epic_Class_Progressions_Epic_Soulknife_Table_The_Epic_Soulknife" docbookid="EpicClasses119" refname="Table: The Epic Soulknife" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,soulknif,tabl"><para reftype="classinfo" refcase="no" refname="Table: The Epic Soulknife"><b>Table: The Epic Soulknife</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Soulknife Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>Mind blade enhancement +5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para><i>+6 mind blade</i> </para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>Mind blade enhancement +5, bonus feat</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Bonus feat</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para><i>+</i>
+7
+ <i>mind blade</i> </para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Epic Wilder" origname="Epic Wilder" linkname="Classes_Epic_Class_Progressions_Epic_Wilder" docbookid="EpicClasses120" refname="Epic Wilder" reftype="class" refcase="no" refaltname="" keywords="class,epic,progress,wilder"><para reftype="class" refcase="no" refname="Epic Wilder" style="heading 2">Epic Wilder</para><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Hit_Die" docbookid="EpicClasses121" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="class,die,epic,hit,progress,wilder"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d6.</para>
+</topic><topic level="8" name="Skill Points at Each Additional Level" origname="Skill Points at Each Additional Level" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Skill_Points_at_Each_Additional_Level" docbookid="EpicClasses122" refname="Skill Points at Each Additional Level" reftype="classinfo" refcase="no" refaltname="" keywords="addition,class,epic,level,point,progress,skill,wilder"><para reftype="classinfo" refcase="no" refname="Skill Points at Each Additional Level"><b>Skill Points at Each Additional Level:</b> 4 + Int modifier.</para>
+</topic><topic level="8" name="Powers" origname="Powers" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Powers" docbookid="EpicClasses123" refname="Powers" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,power,progress,wilder"><para reftype="classinfo" refcase="no" refname="Powers"><b>Powers:</b> The epic wilder's manifester level is equal to her class level. The wilder's power points and powers known do not increase after 20th level (except through the use of epic feats).</para>
+</topic><topic level="8" name="Wild Surge" origname="Wild Surge" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Wild_Surge" docbookid="EpicClasses124" refname="Wild Surge" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,surg,wild,wilder"><para reftype="classinfo" refcase="no" refname="Wild Surge"><b>Wild Surge:</b> The epic wilder's wild surge continues to increase after 20th level. At 23rd level and every four levels higher than 23rd, the wild surge continues to gain an additional +1 boost to manifester level when used (+7 at 23rd, +8 at 27th, and so on).</para>
+</topic><topic level="8" name="Surging Euphoria" origname="Surging Euphoria" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Surging_Euphoria" docbookid="EpicClasses125" refname="Surging Euphoria" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,euphoria,progress,surg,wilder"><para reftype="classinfo" refcase="no" refname="Surging Euphoria"><b>Surging Euphoria:</b> The wilder's surging euphoria progression continues past 20th level. At 28th level and every eight levels higher than 28th, the morale bonus on her attack rolls, damage rolls, and saving throws increases by 1 (+4 at 28th, +5 at 36th, and so on).</para>
+</topic><topic level="8" name="Volatile Mind" origname="Volatile Mind" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Volatile_Mind" docbookid="EpicClasses126" refname="Volatile Mind" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,mind,progress,volatil,wilder"><para reftype="classinfo" refcase="no" refname="Volatile Mind"><b>Volatile Mind:</b> The epic wilder's volatile mind ability continues to increase. At 21st level and every four levels higher than 21st, the penalty assessed against telepathy powers manifested on the wilder is increased by 1 power point (5 points at 21st, 6 points at 25th, and so on).</para>
+</topic><topic level="8" name="Table: The Epic Wilder" origname="Table: The Epic Wilder" linkname="Classes_Epic_Class_Progressions_Epic_Wilder_Table_The_Epic_Wilder" docbookid="EpicClasses127" refname="Table: The Epic Wilder" reftype="classinfo" refcase="no" refaltname="" keywords="class,epic,progress,tabl,wilder"><para reftype="classinfo" refcase="no" refname="Table: The Epic Wilder"><b>Table: The Epic Wilder</b> </para><table>
+<row/>
+<row>
+<cell><para><b>Wilder Level</b></para></cell>
+<cell><para><b>Special</b> </para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>Volatile mind (5 power points)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>Wild surge +7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25th</para></cell>
+<cell><para>Volatile mind (6 power points)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27th</para></cell>
+<cell><para>Wild surge +8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28th</para></cell>
+<cell><para>Surging euphoria +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29th</para></cell>
+<cell><para>Volatile mind (7 power points)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>30th</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

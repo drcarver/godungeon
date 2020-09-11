@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Adventuring &gt; Carrying, Movement, and Exploration">
+<info>
+<title>Journeying from place to place is as much a part of the Game</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Adventuring" linkname="Adventuring" docbookid="CarryingandExploration0" keywords="adventur"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Carrying, Movement, and Exploration" origname="Carrying, Movement, and Exploration" linkname="Adventuring_Carrying_Movement_and_Exploration" docbookid="CarryingandExploration1" refname="Carrying, Movement, and Exploration" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem"><para reftype="adventuring" refcase="yes" refname="Carrying, Movement, and Exploration" style="heading 1">Carrying, Movement, and Exploration</para><para/><topic level="2" name="Carrying Capacity" origname="Carrying Capacity" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity" docbookid="CarryingandExploration2" refname="Carrying Capacity" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,capac,carri,explor,movem"><para reftype="adventuring" refcase="yes" refname="Carrying Capacity" style="heading 2">Carrying Capacity</para><para>Encumbrance rules determine how much a character's armor and equipment slow him or her down. Encumbrance comes in two parts: encumbrance by armor and encumbrance by total weight.</para><topic level="8" name="Encumbrance by Armor" origname="Encumbrance by Armor" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Encumbrance_by_Armor" docbookid="CarryingandExploration3" refname="Encumbrance by Armor" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,armor,capac,carri,encumbr,explor,movem"><para reftype="adventuring" refcase="yes" refname="Encumbrance by Armor"><b>Encumbrance by Armor:</b> A character's armor defines his or her maximum Dexterity bonus to AC, armor check penalty, speed, and running speed. Unless your character is weak or carrying a lot of gear, that's all you need to know. The extra gear your character carries won't slow him or her down any more than the armor already does.</para><para>If your character is weak or carrying a lot of gear, however, then you'll need to calculate encumbrance by weight. Doing so is most important when your character is trying to carry some heavy object.</para>
+</topic><topic level="8" name="Weight" origname="Weight" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Weight" docbookid="CarryingandExploration4" refname="Weight" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,capac,carri,explor,movem,weight"><para reftype="adventuring" refcase="yes" refname="Weight"><b>Weight:</b> If you want to determine whether your character's gear is heavy enough to slow him or her down more than the armor already does, total the weight of all the character's items, including armor, weapons, and gear. Compare this total to the character's Strength on Table: Carrying Capacity. Depending on how the weight compares to the character's carrying capacity, he or she may be carrying a light, medium, or heavy load. Like armor, a character's load affects his or her maximum Dexterity bonus to AC, carries a check penalty (which works like an armor check penalty), reduces the character's speed, and affects how fast the character can run, as shown on Table: Carrying Loads. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.</para><para>If your character is wearing armor, use the worse figure (from armor or from load) for each category. Do not stack the penalties.</para>
+</topic><topic level="8" name="Lifting and Dragging" origname="Lifting and Dragging" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Lifting_and_Dragging" docbookid="CarryingandExploration5" refname="Lifting and Dragging" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,capac,carri,drag,explor,lift,movem"><para reftype="adventuring" refcase="yes" refname="Lifting and Dragging"><b>Lifting and Dragging:</b> A character can lift as much as his or her maximum load over his or her head.</para><para>A character can lift as much as double his or her maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action).</para><para>A character can generally push or drag along the ground as much as five times his or her maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them to one-half or less.</para>
+</topic><topic level="8" name="Bigger and Smaller Creatures" origname="Bigger and Smaller Creatures" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Bigger_and_Smaller_Creatures" docbookid="CarryingandExploration6" refname="Bigger and Smaller Creatures" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,bigger,capac,carri,creatur,explor,movem,smaller"><para reftype="adventuring" refcase="yes" refname="Bigger and Smaller Creatures"><b>Bigger and Smaller Creatures:</b> The figures on Table: Carrying Capacity are for Medium bipedal creatures. A larger bipedal creature can carry more weight depending on its size category, as follows: Large x2, Huge x4, Gargantuan x8, Colossal x16. A smaller creature can carry less weight depending on its size category, as follows: Small x3/4, Tiny x1/2, Diminutive x1/4, Fine x1/8.</para><para>Quadrupeds can carry heavier loads than characters can. Instead of the multipliers given above, multiply the value corresponding to the creature's Strength score from Table: Carrying Capacity by the appropriate modifier, as follows: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium x1-1/2, Large x3, Huge x6, Gargantuan x12, Colossal x24.</para>
+</topic><topic level="8" name="Tremendous Strength" origname="Tremendous Strength" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Tremendous_Strength" docbookid="CarryingandExploration7" refname="Tremendous Strength" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,capac,carri,explor,movem,strength,tremend"><para reftype="adventuring" refcase="yes" refname="Tremendous Strength"><b>Tremendous Strength:</b> For Strength scores not shown on Table: Carrying Capacity, find the Strength score between 20 and 29 that has the same number in the 'ones' digit as the creature's Strength score does and multiply the numbers in that for by 4 for every ten points the creature's strength is above the score for that row.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Carrying Capacity</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Strength Score</b></para></cell>
+<cell><para><b>Light Load</b></para></cell>
+<cell><para><b>Medium Load</b></para></cell>
+<cell><para><b>Heavy Load</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1</para></cell>
+<cell><para>3 lb. or less</para></cell>
+<cell><para>4-6 lb.</para></cell>
+<cell><para>7-10 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2</para></cell>
+<cell><para>6 lb. or less</para></cell>
+<cell><para>7-13 lb.</para></cell>
+<cell><para>14-20 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3</para></cell>
+<cell><para>10 lb. or less</para></cell>
+<cell><para>11-20 lb.</para></cell>
+<cell><para>21-30 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4</para></cell>
+<cell><para>13 lb. or less</para></cell>
+<cell><para>14-26 lb.</para></cell>
+<cell><para>27-40 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5</para></cell>
+<cell><para>16 lb. or less</para></cell>
+<cell><para>17-33 lb.</para></cell>
+<cell><para>34-50 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6</para></cell>
+<cell><para>20 lb. or less</para></cell>
+<cell><para>21-40 lb.</para></cell>
+<cell><para>41-60 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7</para></cell>
+<cell><para>23 lb. or less</para></cell>
+<cell><para>24-46 lb.</para></cell>
+<cell><para>47-70 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8</para></cell>
+<cell><para>26 lb. or less</para></cell>
+<cell><para>27-53 lb.</para></cell>
+<cell><para>54-80 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9</para></cell>
+<cell><para>30 lb. or less</para></cell>
+<cell><para>31-60 lb.</para></cell>
+<cell><para>61-90 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10</para></cell>
+<cell><para>33 lb. or less</para></cell>
+<cell><para>34-66 lb.</para></cell>
+<cell><para>67-100 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11</para></cell>
+<cell><para>38 lb. or less</para></cell>
+<cell><para>39-76 lb.</para></cell>
+<cell><para>77-115 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12</para></cell>
+<cell><para>43 lb. or less</para></cell>
+<cell><para>44-86 lb.</para></cell>
+<cell><para>87-130 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13</para></cell>
+<cell><para>50 lb. or less</para></cell>
+<cell><para>51-100 lb.</para></cell>
+<cell><para>101-150 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14</para></cell>
+<cell><para>58 lb. or less</para></cell>
+<cell><para>59-116 lb.</para></cell>
+<cell><para>117-175 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15</para></cell>
+<cell><para>66 lb. or less</para></cell>
+<cell><para>67-133 lb.</para></cell>
+<cell><para>134-200 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16</para></cell>
+<cell><para>76 lb. or less</para></cell>
+<cell><para>77-153 lb.</para></cell>
+<cell><para>154-230 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17</para></cell>
+<cell><para>86 lb. or less</para></cell>
+<cell><para>87-173 lb.</para></cell>
+<cell><para>174-260 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18</para></cell>
+<cell><para>100 lb. or less</para></cell>
+<cell><para>101-200 lb.</para></cell>
+<cell><para>201-300 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19</para></cell>
+<cell><para>116 lb. or less</para></cell>
+<cell><para>117-233 lb.</para></cell>
+<cell><para>234-350 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para>133 lb. or less</para></cell>
+<cell><para>134-266 lb.</para></cell>
+<cell><para>267-400 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21</para></cell>
+<cell><para>153 lb. or less</para></cell>
+<cell><para>154-306 lb.</para></cell>
+<cell><para>307-460 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22</para></cell>
+<cell><para>173 lb. or less</para></cell>
+<cell><para>174-346 lb.</para></cell>
+<cell><para>347-520 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23</para></cell>
+<cell><para>200 lb. or less</para></cell>
+<cell><para>201-400 lb.</para></cell>
+<cell><para>401-600 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24</para></cell>
+<cell><para>233 lb. or less</para></cell>
+<cell><para>234-466 lb.</para></cell>
+<cell><para>467-700 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25</para></cell>
+<cell><para>266 lb. or less</para></cell>
+<cell><para>267-533 lb.</para></cell>
+<cell><para>534-800 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26</para></cell>
+<cell><para>306 lb. or less</para></cell>
+<cell><para>307-613 lb.</para></cell>
+<cell><para>614-920 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27</para></cell>
+<cell><para>346 lb. or less</para></cell>
+<cell><para>347-693 lb.</para></cell>
+<cell><para>694-1,040 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28</para></cell>
+<cell><para>400 lb. or less</para></cell>
+<cell><para>401-800 lb.</para></cell>
+<cell><para>801-1,200 lb.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29</para></cell>
+<cell><para>466 lb. or less</para></cell>
+<cell><para>467-933 lb.</para></cell>
+<cell><para>934-1,400 lb.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>+10</para></cell>
+<cell><para>x4</para></cell>
+<cell><para>x4</para></cell>
+<cell><para>x4</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Carrying Loads</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell/>
+<cell/>
+<cell><para><b>--- Speed ---</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Load</b></para></cell>
+<cell><para><b>Max Dex</b></para></cell>
+<cell><para><b>Check Penalty</b></para></cell>
+<cell><para><b>(30 ft.)</b></para></cell>
+<cell><para><b>(20 ft.)</b></para></cell>
+<cell><para><b>Run</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>+3</para></cell>
+<cell><para>-3</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>15 ft.</para></cell>
+<cell><para>x4</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Heavy</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>-6</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>15 ft.</para></cell>
+<cell><para>x3</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Armor and Encumbrance for Other Base Speeds" origname="Armor and Encumbrance for Other Base Speeds" linkname="Adventuring_Carrying_Movement_and_Exploration_Carrying_Capacity_Armor_and_Encumbrance_for_Other_Base_Speeds" docbookid="CarryingandExploration8" refname="Armor and Encumbrance for Other Base Speeds" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,armor,base,capac,carri,encumbr,explor,movem,spe"><para reftype="adventuring" refcase="yes" refname="Armor and Encumbrance for Other Base Speeds" style="heading 5">Armor and Encumbrance for Other Base Speeds</para><para>The table below provides reduced speed figures for all base speeds from 20 feet to 100 feet (in 10-foot increments).</para><table>
+<row/>
+<row>
+<cell><para><b>Base Speed</b></para></cell>
+<cell><para><b>Reduced Speed</b></para></cell>
+<cell><para><b>Base Speed</b></para></cell>
+<cell><para><b>Reduced Speed</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>20 ft.</para></cell>
+<cell><para>15 ft.</para></cell>
+<cell><para>70 ft.</para></cell>
+<cell><para>50 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30 ft.</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>80 ft.</para></cell>
+<cell><para>55 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40 ft.</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>90 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50 ft.</para></cell>
+<cell><para>35 ft.</para></cell>
+<cell><para>100 ft.</para></cell>
+<cell><para>70 ft.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>60 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Movement" origname="Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement" docbookid="CarryingandExploration9" refname="Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem"><para reftype="adventuring" refcase="yes" refname="Movement" style="heading 2">Movement</para><para>There are three movement scales, as follows.</para><list>
+ <item> Tactical, for combat, measured in feet (or squares) per round.</item>
+ <item> Local, for exploring an area, measured in feet per minute.</item>
+ <item> Overland, for getting from place to place, measured in miles per hour or miles per day.</item>
+</list><para/><topic level="8" name="Modes of Movement" origname="Modes of Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Modes_of_Movement" docbookid="CarryingandExploration10" refname="Modes of Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,mode,movem"><para reftype="adventuring" refcase="yes" refname="Modes of Movement"><b>Modes of Movement:</b> While moving at the different movement scales, creatures generally walk, hustle, or run.</para><para><i>Walk:</i> A walk represents unhurried but purposeful movement at 3 miles per hour for an unencumbered human.</para><para><i>Hustle:</i> A hustle is a jog at about 6 miles per hour for an unencumbered human. A character moving his or her speed twice in a single round, or moving that speed in the same round that he or she performs a standard action or another move action is hustling when he or she moves.</para><para><i>Run (x3):</i> Moving three times speed is a running pace for a character in heavy armor. It represents about 9 miles per hour for a human in full plate.</para><para><i>Run (</i>x<i>4):</i> Moving four times speed is a running pace for a character in light, medium, or no armor. It represents about 12 miles per hour for an unencumbered human, or 8 miles per hour for a human in chainmail.</para><para/>
+</topic><topic level="3" name="Tactical Movement" origname="Tactical Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Tactical_Movement" docbookid="CarryingandExploration11" refname="Tactical Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,tactic"><para reftype="adventuring" refcase="yes" refname="Tactical Movement" style="heading 3">Tactical Movement</para><para>Use tactical movement for combat. Characters generally don't walk during combat-they hustle or run. A character who moves his or her speed and takes some action is hustling for about half the round and doing something else the other half.</para><para/><topic level="8" name="Hampered Movement" origname="Hampered Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Tactical_Movement_Hampered_Movement" docbookid="CarryingandExploration12" refname="Hampered Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,hamper,movem,tactic"><para reftype="adventuring" refcase="yes" refname="Hampered Movement"><b>Hampered Movement:</b> Difficult terrain, obstacles, or poor visibility can hamper movement. When movement is hampered, each square moved into usually counts as two squares, effectively reducing the distance that a character can cover in a move.</para><para>If more than one condition applies, multiply together all additional costs that apply. (This is a specific exception to the normal rule for doubling)</para><para>In some situations, your movement may be so hampered that you don't have sufficient speed even to move 5 feet (1 square). In such a case, you may use a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it's not, and thus it provokes attacks of opportunity normally. (You can't take advantage of this rule to move through impassable terrain or to move when all movement is prohibited to you.)</para><para>You can't run or charge through any square that would hamper your movement.</para><para/>
+</topic>
+</topic><topic level="3" name="Local Movement" origname="Local Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Local_Movement" docbookid="CarryingandExploration13" refname="Local Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,local,movem"><para reftype="adventuring" refcase="yes" refname="Local Movement" style="heading 3">Local Movement</para><para>Characters exploring an area use local movement, measured in feet per minute.</para><topic level="8" name="Walk" origname="Walk" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Local_Movement_Walk" docbookid="CarryingandExploration14" refname="Walk" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,local,movem,walk"><para reftype="adventuring" refcase="yes" refname="Walk"><b>Walk:</b> A character can walk without a problem on the local scale.</para>
+</topic><topic level="8" name="Hustle" origname="Hustle" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Local_Movement_Hustle" docbookid="CarryingandExploration15" refname="Hustle" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,hustl,local,movem"><para reftype="adventuring" refcase="yes" refname="Hustle"><b>Hustle:</b> A character can hustle without a problem on the local scale. See Overland Movement, below, for movement measured in miles per hour.</para>
+</topic><topic level="8" name="Run" origname="Run" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Local_Movement_Run" docbookid="CarryingandExploration16" refname="Run" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,local,movem,run"><para reftype="adventuring" refcase="yes" refname="Run"><b>Run:</b> A character with a Constitution score of 9 or higher can run for a minute without a problem. Generally, a character can run for a minute or two before having to rest for a minute</para><para/>
+</topic>
+</topic><topic level="3" name="Overland Movement" origname="Overland Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement" docbookid="CarryingandExploration17" refname="Overland Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,overland"><para reftype="adventuring" refcase="yes" refname="Overland Movement" style="heading 3">Overland Movement</para><para>Characters covering long distances cross-country use overland movement. Overland movement is measured in miles per hour or miles per day. A day represents 8 hours of actual travel time. For rowed watercraft, a day represents 10 hours of rowing. For a sailing ship, it represents 24 hours.</para><topic level="8" name="Walk" origname="Walk" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Walk" docbookid="CarryingandExploration18" refname="Walk" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,overland,walk"><para reftype="adventuring" refcase="yes" refname="Walk"><b>Walk:</b> A character can walk 8 hours in a day of travel without a problem. Walking for longer than that can wear him or her out (see Forced March, below).</para>
+</topic><topic level="8" name="Hustle" origname="Hustle" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Hustle" docbookid="CarryingandExploration19" refname="Hustle" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,hustl,movem,overland"><para reftype="adventuring" refcase="yes" refname="Hustle"><b>Hustle:</b> A character can hustle for 1 hour without a problem. Hustling for a second hour in between sleep cycles deals 1 point of nonlethal damage, and each additional hour deals twice the damage taken during the previous hour of hustling. A character who takes any nonlethal damage from hustling becomes fatigued.</para><para>A fatigued character can't run or charge and takes a penalty of -2 to Strength and Dexterity. Eliminating the nonlethal damage also eliminates the fatigue.</para>
+</topic><topic level="8" name="Run" origname="Run" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Run" docbookid="CarryingandExploration20" refname="Run" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,overland,run"><para reftype="adventuring" refcase="yes" refname="Run"><b>Run:</b> A character can't run for an extended period of time.</para><para>Attempts to run and rest in cycles effectively work out to a hustle.</para>
+</topic><topic level="8" name="Terrain" origname="Terrain" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Terrain" docbookid="CarryingandExploration21" refname="Terrain" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,overland,terrain"><para reftype="adventuring" refcase="yes" refname="Terrain"><b>Terrain:</b> The terrain through which a character travels affects how much distance he or she can cover in an hour or a day (see Table: Terrain and Overland Movement). A highway is a straight, major, paved road. A road is typically a dirt track. A trail is like a road, except that it allows only single-file travel and does not benefit a party traveling with vehicles. Trackless terrain is a wild area with no paths.</para>
+</topic><topic level="8" name="Forced March" origname="Forced March" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Forced_March" docbookid="CarryingandExploration22" refname="Forced March" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,forc,march,movem,overland"><para reftype="adventuring" refcase="yes" refname="Forced March"><b>Forced March:</b> In a day of normal walking, a character walks for 8 hours. The rest of the daylight time is spent making and breaking camp, resting, and eating.</para><para>A character can walk for more than 8 hours in a day by making a forced march. For each hour of marching beyond 8 hours, a Constitution check (DC 10, +2 per extra hour) is required. If the check fails, the character takes 1d6 points of nonlethal damage. A character who takes any nonlethal damage from a forced march becomes fatigued. Eliminating the nonlethal damage also eliminates the fatigue. It's possible for a character to march into unconsciousness by pushing himself too hard.</para>
+</topic><topic level="8" name="Mounted Movement" origname="Mounted Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Mounted_Movement" docbookid="CarryingandExploration23" refname="Mounted Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,mount,movem,overland"><para reftype="adventuring" refcase="yes" refname="Mounted Movement"><b>Mounted Movement:</b> A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature can also be ridden in a forced march, but its Constitution checks automatically fail, and, again, the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.</para><para>See Table: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled by draft animals.</para>
+</topic><topic level="8" name="Waterborne Movement" origname="Waterborne Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Overland_Movement_Waterborne_Movement" docbookid="CarryingandExploration24" refname="Waterborne Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem,overland,waterborn"><para reftype="adventuring" refcase="yes" refname="Waterborne Movement"><b>Waterborne Movement:</b> See Table: Mounts and Vehicles for speeds for water vehicles.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Movement and Distance</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para><b>------- Speed -------</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para>15 feet</para></cell>
+<cell><para>20 feet</para></cell>
+<cell><para>30 feet</para></cell>
+<cell><para>40 feet</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>One Round (Tactical)</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Walk</para></cell>
+<cell><para>15 ft.</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hustle</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>80 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run (x3)</para></cell>
+<cell><para>45 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>90 ft.</para></cell>
+<cell><para>120 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run (x4)</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>80 ft.</para></cell>
+<cell><para>120 ft.</para></cell>
+<cell><para>160 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>One Minute (Local)</b></para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Walk</para></cell>
+<cell><para>150 ft.</para></cell>
+<cell><para>200 ft.</para></cell>
+<cell><para>300 ft.</para></cell>
+<cell><para>400 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hustle</para></cell>
+<cell><para>300 ft.</para></cell>
+<cell><para>400 ft.</para></cell>
+<cell><para>600 ft.</para></cell>
+<cell><para>800 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run (x3)</para></cell>
+<cell><para>450 ft.</para></cell>
+<cell><para>600 ft.</para></cell>
+<cell><para>900 ft.</para></cell>
+<cell><para>1,200 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run (x4)</para></cell>
+<cell><para>600 ft.</para></cell>
+<cell><para>800 ft.</para></cell>
+<cell><para>1,200 ft.</para></cell>
+<cell><para>1,600 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>One Hour (Overland)</b></para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Walk</para></cell>
+<cell><para>1-1/2 miles</para></cell>
+<cell><para>2 miles</para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>4 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hustle</para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>6 miles</para></cell>
+<cell><para>8 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>One Day (Overland)</b></para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Walk</para></cell>
+<cell><para>12 miles</para></cell>
+<cell><para>16 miles</para></cell>
+<cell><para>24 miles</para></cell>
+<cell><para>32 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hustle</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Run</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Tactical movement is often measured in squares on the battle grid (1 square = 5 feet) rather than feet.</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Hampered Movement</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Condition</b></para></cell>
+<cell><para><b>Additional Movement Cost</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Difficult terrain</para></cell>
+<cell><para>x2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Obstacle<sup><b>1</b></sup></para></cell>
+<cell><para>x2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Poor visibility</para></cell>
+<cell><para>x2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Impassable</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 May require a skill check</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Terrain and Overland Movement</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Terrain</b> </para></cell>
+<cell><para><b>Highway</b></para></cell>
+<cell><para><b>Road or Trail</b></para></cell>
+<cell><para><b>Trackless</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Desert, sandy</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x1/2</para></cell>
+<cell><para>x1/2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Forest</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x1/2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hills</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x1/2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Jungle</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x1/4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Moor</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mountains</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x1/2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Plains</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Swamp</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x1/2</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Tundra, frozen</para></cell>
+<cell><para>x1</para></cell>
+<cell><para>x3/4</para></cell>
+<cell><para>x3/4</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Mounts and Vehicles</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Mount/Vehicle</b></para></cell>
+<cell><para><b>Per Hour</b></para></cell>
+<cell><para><b>Per Day</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mount (carrying load)</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Light horse or light warhorse</para></cell>
+<cell><para>6 miles</para></cell>
+<cell><para>48 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light horse (151-450 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>32 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light warhorse (231-690 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>32 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Heavy horse or heavy warhorse</para></cell>
+<cell><para>5 miles</para></cell>
+<cell><para>40 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Heavy horse (201-600 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>3-1/2 miles</para></cell>
+<cell><para>28 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Heavy warhorse (301-900 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>3-1/2 miles</para></cell>
+<cell><para>28 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Pony or warpony</para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>32 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Pony (76-225 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>24 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Warpony (101-300 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>24 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Donkey or mule</para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>24 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Donkey (51-150 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>2 miles</para></cell>
+<cell><para>16 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mule (231-690 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>2 miles</para></cell>
+<cell><para>16 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dog, riding</para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>32 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dog, riding (101-300 lb.)<sup><b>1</b></sup></para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>24 miles</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Cart or wagon</para></cell>
+<cell><para>2 miles</para></cell>
+<cell><para>16 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Ship</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Raft or barge (poled or towed)<sup><b>2</b></sup></para></cell>
+<cell><para>1/2 mile</para></cell>
+<cell><para>5 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Keelboat (rowed)<sup><b>2</b></sup></para></cell>
+<cell><para>1 mile</para></cell>
+<cell><para>10 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Rowboat (rowed)<sup><b>2</b></sup></para></cell>
+<cell><para>1-1/2 miles</para></cell>
+<cell><para>15 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Sailing ship (sailed)</para></cell>
+<cell><para>2 miles</para></cell>
+<cell><para>48 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Warship (sailed and rowed)</para></cell>
+<cell><para>2-1/2 miles</para></cell>
+<cell><para>60 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Longship (sailed and rowed)</para></cell>
+<cell><para>3 miles</para></cell>
+<cell><para>72 miles</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Galley (rowed and sailed)</para></cell>
+<cell><para>4 miles</para></cell>
+<cell><para>96 miles</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Quadrupeds, such as horses, can carry heavier loads than characters can. See Carrying Capacity, above, for more information.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 Rafts, barges, keelboats, and rowboats are used on lakes and rivers.</para>
+<para>If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. In addition to 10 hours of being rowed, the vehicle can also float an additional 14 hours, if someone can guide it, so add an additional 42 miles to the daily distance traveled. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.</para></cell> <cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="3" name="Moving in Three Dimensions" origname="Moving in Three Dimensions" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Moving_in_Three_Dimensions" docbookid="CarryingandExploration25" refname="Moving in Three Dimensions" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,dimens,explor,move,movem,three"><para reftype="adventuring" refcase="yes" refname="Moving in Three Dimensions" style="heading 3">Moving in Three Dimensions</para><para/><topic level="5" name="Tactical Aerial Movement" origname="Tactical Aerial Movement" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Moving_in_Three_Dimensions_Tactical_Aerial_Movement" docbookid="CarryingandExploration26" refname="Tactical Aerial Movement" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,aerial,carri,dimens,explor,move,movem,tactic,three"><para reftype="adventuring" refcase="yes" refname="Tactical Aerial Movement" style="heading 5">Tactical Aerial Movement</para><para>Once movement becomes three-dimensional and involves turning in midair and maintaining a minimum velocity to stay aloft, it gets more complicated. Most flying creatures have to slow down at least a little to make a turn, and many are limited to fairly wide turns and must maintain a minimum forward speed. Each flying creature has a maneuverability, as shown on Table: Maneuverability. The entries on the table are defined below.</para><para><i>Minimum Forward Speed:</i> If a flying creature fails to maintain its minimum forward speed, it must land at the end of its movement. If it is too high above the ground to land, it falls straight down, descending 150 feet in the first round of falling. If this distance brings it to the ground, it takes falling damage. If the fall doesn't bring the creature to the ground, it must spend its next turn recovering from the stall. It must succeed on a DC 20 Reflex save to recover. Otherwise it falls another 300 feet. If it hits the ground, it takes falling damage. Otherwise, it has another chance to recover on its next turn.</para><para><i>Hover:</i> The ability to stay in one place while airborne.</para><para><i>Move Backward:</i> The ability to move backward without turning around.</para><para><i>Reverse:</i> A creature with good maneuverability uses up 5 feet of its speed to start flying backward.</para><para><i>Turn:</i> How much the creature can turn after covering the stated distance.</para><para><i>Turn in Place:</i> A creature with good or average maneuverability can use some of its speed to turn in place.</para><para><i>Maximum Turn:</i> How much the creature can turn in any one space.</para><para><i>Up Angle:</i> The angle at which the creature can climb.</para><para><i>Up Speed:</i> How fast the creature can climb.</para><para><i>Down Angle:</i> The angle at which the creature can descend.</para><para><i>Down Speed:</i> A flying creature can fly down at twice its normal flying speed.</para><para><i>Between Down and Up:</i> An average, poor, or clumsy flier must fly level for a minimum distance after descending and before climbing. Any flier can begin descending after a climb without an intervening distance of level flight.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Maneuverability</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para><b>Maneuverability</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para><b>Perfect</b></para></cell>
+<cell><para><b>Good</b></para></cell>
+<cell><para><b>Average</b></para></cell>
+<cell><para><b>Poor</b></para></cell>
+<cell><para><b>Clumsy</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Minimum forward speed</para></cell>
+<cell><para>None</para></cell>
+<cell><para>None</para></cell>
+<cell><para>Half</para></cell>
+<cell><para>Half</para></cell>
+<cell><para>Half</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hover</para></cell>
+<cell><para>Yes</para></cell>
+<cell><para>Yes</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Move backward</para></cell>
+<cell><para>Yes</para></cell>
+<cell><para>Yes</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Reverse</para></cell>
+<cell><para>Free</para></cell>
+<cell><para>-5 ft.</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Turn</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>90<sup>o</sup>/5 ft.</para></cell>
+<cell><para>45<sup>o</sup>/5 ft.</para></cell>
+<cell><para>45<sup>o</sup>/5 ft.</para></cell>
+<cell><para>45<sup>o</sup>/10 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Turn in place</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>+90<sup>o</sup>/-5 ft.</para></cell>
+<cell><para>+45<sup>o</sup>/-5 ft.</para></cell>
+<cell><para>No</para></cell>
+<cell><para>No</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Maximum turn</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>90<sup>o</sup></para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Up angle</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>60<sup>o</sup></para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Up speed</para></cell>
+<cell><para>Full</para></cell>
+<cell><para>Half</para></cell>
+<cell><para>Half</para></cell>
+<cell><para>Half</para></cell>
+<cell><para>Half</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Down angle</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>Any</para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell><para>45<sup>o</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Down speed</para></cell>
+<cell><para>Double</para></cell>
+<cell><para>Double</para></cell>
+<cell><para>Double</para></cell>
+<cell><para>Double</para></cell>
+<cell><para>Double</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Between down and up</para></cell>
+<cell><para>0</para></cell>
+<cell><para>0</para></cell>
+<cell><para>5 ft.</para></cell>
+<cell><para>10 ft.</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="3" name="Evasion and Pursuit" origname="Evasion and Pursuit" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Evasion_and_Pursuit" docbookid="CarryingandExploration27" refname="Evasion and Pursuit" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,evasion,explor,movem,pursuit"><para reftype="adventuring" refcase="yes" refname="Evasion and Pursuit" style="heading 3">Evasion and Pursuit</para><para>In round-by-round movement, simply counting off squares, it's impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it's no problem for a fast character to get away from a slower one.</para><para>When the speeds of the two concerned characters are equal, there's a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.</para><para>Sometimes a chase occurs overland and could last all day, with the two sides only occasionally getting glimpses of each other at a distance. In the case of a long chase, an opposed Constitution check made by all parties determines which can keep pace the longest. If the creature being chased rolls the highest, it gets away. If not, the chaser runs down its prey, outlasting it with stamina.</para><para/>
+</topic><topic level="3" name="Moving Around in Squares" origname="Moving Around in Squares" linkname="Adventuring_Carrying_Movement_and_Exploration_Movement_Moving_Around_in_Squares" docbookid="CarryingandExploration28" refname="Moving Around in Squares" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,move,movem,squar"><para reftype="adventuring" refcase="yes" refname="Moving Around in Squares" style="heading 3">Moving Around in Squares</para><para>In general, when the characters aren't engaged in round-by-round combat, they should be able to move anywhere and in any manner that you can imagine real people could. A 5-foot square, for instance, can hold several characters; they just can't all fight effectively in that small space. The rules for movement are important for combat, but outside combat they can impose unnecessary hindrances on character activities.</para><para/>
+</topic>
+</topic><topic level="2" name="Exploration" origname="Exploration" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration" docbookid="CarryingandExploration29" refname="Exploration" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,movem"><para reftype="adventuring" refcase="yes" refname="Exploration" style="heading 2">Exploration</para><para/><topic level="3" name="Vision and Light" origname="Vision and Light" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Vision_and_Light" docbookid="CarryingandExploration30" refname="Vision and Light" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,carri,explor,light,movem,vision"><para reftype="adventuring" refcase="yes" refname="Vision and Light" style="heading 3">Vision and Light</para><para>Dwarves and half-orcs have darkvision, but everyone else needs light to see by. See Table: Light Sources and Illumination for the radius that a light source illuminates and how long it lasts.</para><para>In an area of bright light, all characters can see clearly. A creature can't hide in an area of bright light unless it is invisible or has cover.</para><para>In an area of shadowy illumination, a character can see dimly. Creatures within this area have concealment relative to that character. A creature in an area of shadowy illumination can make a Hide check to conceal itself.</para><para>In areas of darkness, creatures without darkvision are effectively blinded. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a -2 penalty to AC, moves at half speed, and takes a -4 penalty on Search checks and most Strength and Dexterity-based skill checks.</para><para>Characters with low-light vision (elves, gnomes, and half-elves) can see objects twice as far away as the given radius. Double the effective radius of bright light and of shadowy illumination for such characters.</para><para>Characters with darkvision (dwarves and half-orcs) can see lit areas normally as well as dark areas within 60 feet. A creature can't hide within 60 feet of a character with darkvision unless it is invisible or has cover.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Light Sources and Illumination</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Object</b></para></cell>
+<cell><para><b>Bright</b></para></cell>
+<cell><para><b>Shadowy</b></para></cell>
+<cell><para><b>Duration</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Candle</para></cell>
+<cell><para>n/a<sup><b>1</b></sup></para></cell>
+<cell><para>5 ft.</para></cell>
+<cell><para>1 hr.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Everburning torch</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>Permanent</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lamp, common</para></cell>
+<cell><para>15 ft.</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>6 hr./pint</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lantern, bullseye<sup><b>2</b></sup></para></cell>
+<cell><para>60-ft. cone</para></cell>
+<cell><para>120-ft. cone</para></cell>
+<cell><para>6 hr./pint</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Lantern, hooded</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>6 hr./pint</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Sunrod</para></cell>
+<cell><para>30 ft.</para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>6 hr.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Torch</para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>1 hr.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Bright</b></para></cell>
+<cell><para><b>Shadowy</b></para></cell>
+<cell><para><b>Duration</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Continual flame</i></para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>Permanent</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Dancing lights</i> (torches)</para></cell>
+<cell><para>20 ft. (each)</para></cell>
+<cell><para>40 ft. (each)</para></cell>
+<cell><para>1 min.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Daylight</i></para></cell>
+<cell><para>60 ft.</para></cell>
+<cell><para>120 ft.</para></cell>
+<cell><para>30 min.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Light</i></para></cell>
+<cell><para>20 ft.</para></cell>
+<cell><para>40 ft.</para></cell>
+<cell><para>10 min.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 A candle does not provide bright illumination, only shadowy illumination.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 A bullseye lantern illuminates a cone, not a radius.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Breaking and Entering" origname="Breaking and Entering" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering" docbookid="CarryingandExploration31" refname="Breaking and Entering" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,movem"><para reftype="adventuring" refcase="yes" refname="Breaking and Entering" style="heading 3">Breaking and Entering</para><para>When attempting to break an object, you have two choices: smash it with a weapon or break it with sheer strength.</para><para/><topic level="5" name="Smashing an Object" origname="Smashing an Object" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Smashing_an_Object" docbookid="CarryingandExploration32" refname="Smashing an Object" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,movem,object,smash"><para reftype="adventuring" refcase="yes" refname="Smashing an Object" style="heading 5"><b>Smashing an Object</b></para><para>Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished by the sunder special attack. Smashing an object is a lot like sundering a weapon or shield, except that your attack roll is opposed by the object's AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.</para><topic level="8" name="Armor Class" origname="Armor Class" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Smashing_an_Object_Armor_Class" docbookid="CarryingandExploration33" refname="Armor Class" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,armor,break,carri,class,enter,explor,movem,object,smash"><para reftype="adventuring" refcase="yes" refname="Armor Class"><b>Armor Class:</b> Objects are easier to hit than creatures because they usually don't move, but many are tough enough to shrug off some damage from each blow. An object's Armor Class is equal to 10 + its size modifier + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (-5 penalty to AC), but also an additional -2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.</para>
+</topic><topic level="8" name="Hardness" origname="Hardness" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Smashing_an_Object_Hardness" docbookid="CarryingandExploration34" refname="Hardness" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,hard,movem,object,smash"><para reftype="adventuring" refcase="yes" refname="Hardness"><b>Hardness:</b> Each object has hardness-a number that represents how well it resists damage. Whenever an object takes damage, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object's hit points (see Table: Common Armor, Weapon, and Shield Hardness and Hit Points; Table: Substance Hardness and Hit Points; and Table: Object Hardness and Hit Points).</para>
+</topic><topic level="8" name="Hit Points" origname="Hit Points" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Smashing_an_Object_Hit_Points" docbookid="CarryingandExploration35" refname="Hit Points" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,hit,movem,object,point,smash"><para reftype="adventuring" refcase="yes" refname="Hit Points"><b>Hit Points:</b> An object's hit point total depends on what it is made of and how big it is (see Table: Common Armor, Weapon, and Shield Hardness and Hit Points; Table: Substance Hardness and Hit Points; and Table: Object Hardness and Hit Points). When an object's hit points reach 0, it's ruined.</para><para>Very large objects have separate hit point totals for different sections.</para><para><i>Energy Attacks:</i> Acid and sonic attacks deal damage to most objects just as they do to creatures; roll damage and apply it normally after a successful hit. Electricity and fire attacks deal half damage to most objects; divide the damage dealt by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage dealt by 4 before applying the hardness.</para><para><i>Ranged Weapon Damage:</i> Objects take half damage from ranged weapons (unless the weapon is a siege engine or something similar). Divide the damage dealt by 2 before applying the object's hardness.</para><para><i>Ineffective Weapons:</i> Certain weapons just can't effectively deal damage to certain objects.</para><para><i>Immunities</i>: Objects are immune to nonlethal damage and to critical hits.</para><para>Even animated objects, which are otherwise considered creatures, have these immunities because they are constructs.</para><para><i>Magic Armor</i>,  <i>Shields</i>,  <i>and Weapons:</i> Each +1 of enhancement bonus adds 2 to the hardness of armor, a weapon, or a shield and +10 to the item's hit points.</para><para><i>Vulnerability to Certain Attacks:</i> Certain attacks are especially successful against some objects. In such cases, attacks deal double their normal damage and may ignore the object's hardness.</para><para><i>Damaged Objects:</i> A damaged object remains fully functional until the item's hit points are reduced to 0, at which point it is destroyed.</para><para>Damaged (but not destroyed) objects can be repaired with the Craft skill.</para>
+</topic><topic level="8" name="Saving Throws" origname="Saving Throws" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Smashing_an_Object_Saving_Throws" docbookid="CarryingandExploration36" refname="Saving Throws" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,movem,object,save,smash,throw"><para reftype="adventuring" refcase="yes" refname="Saving Throws"><b>Saving Throws:</b> Nonmagical, unattended items never make saving throws. They are considered to have failed their saving throws, so they always are affected by spells. An item attended by a character (being grasped, touched, or worn) makes saving throws as the character (that is, using the character's saving throw bonus).</para><para>Magic items always get saving throws. A magic item's Fortitude, Reflex, and Will save bonuses are equal to 2 + one-half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.</para><para><i>Animated Objects:</i> Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).</para><para/>
+</topic>
+</topic><topic level="5" name="Breaking Items" origname="Breaking Items" linkname="Adventuring_Carrying_Movement_and_Exploration_Exploration_Breaking_and_Entering_Breaking_Items" docbookid="CarryingandExploration37" refname="Breaking Items" reftype="adventuring" refcase="yes" refaltname="" keywords="adventur,break,carri,enter,explor,item,movem"><para reftype="adventuring" refcase="yes" refname="Breaking Items" style="heading 5"><b>Breaking Items</b></para><para>When a character tries to break something with sudden force rather than by dealing damage, use a Strength check (rather than an attack roll and damage roll, as with the sunder special attack) to see whether he or she succeeds. The DC depends more on the construction of the item than on the material.</para><para>If an item has lost half or more of its hit points, the DC to break it drops by 2.</para><para>Larger and smaller creatures get size bonuses and size penalties on Strength checks to break open doors as follows: Fine -16, Diminutive -12, Tiny -8, Small -4, Large +4, Huge +8, Gargantuan +12, Colossal +16.</para><para>A crowbar or portable ram improves a character's chance of breaking open a door.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Common Armor, Weapon, and Shield Hardness and Hit Points</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Weapon or Shield</b></para></cell>
+<cell><para><b>Hardness</b></para></cell>
+<cell><para><b>HP</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light blade</para></cell>
+<cell><para>10</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>One-handed blade</para></cell>
+<cell><para>10</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Two-handed blade</para></cell>
+<cell><para>10</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light metal-hafted weapon</para></cell>
+<cell><para>10</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>One-handed metal-hafted weapon</para></cell>
+<cell><para>10</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light hafted weapon</para></cell>
+<cell><para>5</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>One-handed hafted weapon</para></cell>
+<cell><para>5</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Two-handed hafted weapon</para></cell>
+<cell><para>5</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Projectile weapon</para></cell>
+<cell><para>5</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Armor</para></cell>
+<cell><para>special<sup><b>2</b></sup></para></cell>
+<cell><para>armor bonus x5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Buckler</para></cell>
+<cell><para>10</para></cell>
+<cell><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light wooden shield</para></cell>
+<cell><para>5</para></cell>
+<cell><para>7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Heavy wooden shield</para></cell>
+<cell><para>5</para></cell>
+<cell><para>15</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Light steel shield</para></cell>
+<cell><para>10</para></cell>
+<cell><para>10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Heavy steel shield</para></cell>
+<cell><para>10</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Tower shield</para></cell>
+<cell><para>5</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 The hp value given is for Medium armor, weapons, and shields.</para>
+<para>Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 Varies by material; see Table: Substance Hardness and Hit Points.</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Substance Hardness and Hit Points</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Substance</b></para></cell>
+<cell><para><b>Hardness</b></para></cell>
+<cell><para><b>Hit Points</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Paper or cloth</para></cell>
+<cell><para>0</para></cell>
+<cell><para>2/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Rope</para></cell>
+<cell><para>0</para></cell>
+<cell><para>2/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Glass</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Ice</para></cell>
+<cell><para>0</para></cell>
+<cell><para>3/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Leather or hide</para></cell>
+<cell><para>2</para></cell>
+<cell><para>5/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Wood</para></cell>
+<cell><para>5</para></cell>
+<cell><para>10/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Stone</para></cell>
+<cell><para>8</para></cell>
+<cell><para>15/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Iron or steel</para></cell>
+<cell><para>10</para></cell>
+<cell><para>30/inch of thickness</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mithral</para></cell>
+<cell><para>15</para></cell>
+<cell><para>30/inch of thickness</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Adamantine</para></cell>
+<cell><para>20</para></cell>
+<cell><para>40/inch of thickness</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Size and Armor Class of Objects</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>AC Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Colossal</para></cell>
+<cell><para>-8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gargantuan</para></cell>
+<cell><para>-4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Huge</para></cell>
+<cell><para>-2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Diminutive</para></cell>
+<cell><para>+4</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Fine</para></cell>
+<cell><para>+8</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Object Hardness and Hit Points</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Object</b></para></cell>
+<cell><para><b>Hardness</b></para></cell>
+<cell><para><b>Hit Points</b></para></cell>
+<cell><para><b>Break DC</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Rope (1 inch diam.)</para></cell>
+<cell><para>0</para></cell>
+<cell><para>2</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Simple wooden door</para></cell>
+<cell><para>5</para></cell>
+<cell><para>10</para></cell>
+<cell><para>13</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small chest</para></cell>
+<cell><para>5</para></cell>
+<cell><para>1</para></cell>
+<cell><para>17</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Good wooden door</para></cell>
+<cell><para>5</para></cell>
+<cell><para>15</para></cell>
+<cell><para>18</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Treasure chest</para></cell>
+<cell><para>5</para></cell>
+<cell><para>15</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Strong wooden door</para></cell>
+<cell><para>5</para></cell>
+<cell><para>20</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Masonry wall (1 ft. thick)</para></cell>
+<cell><para>8</para></cell>
+<cell><para>90</para></cell>
+<cell><para>35</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hewn stone (3 ft. thick)</para></cell>
+<cell><para>8</para></cell>
+<cell><para>540</para></cell>
+<cell><para>50</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Chain</para></cell>
+<cell><para>10</para></cell>
+<cell><para>5</para></cell>
+<cell><para>26</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Manacles</para></cell>
+<cell><para>10</para></cell>
+<cell><para>10</para></cell>
+<cell><para>26</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Masterwork manacles</para></cell>
+<cell><para>10</para></cell>
+<cell><para>10</para></cell>
+<cell><para>28</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Iron door (2 in. thick)</para></cell>
+<cell><para>10</para></cell>
+<cell><para>60</para></cell>
+<cell><para>28</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: DCs to Break or Burst Items</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Strength Check to:</b></para></cell>
+<cell><para><b>DC</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Break down simple door</para></cell>
+<cell><para>13</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Break down good door</para></cell>
+<cell><para>18</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Break down strong door</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Burst rope bonds</para></cell>
+<cell><para>23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Bend iron bars</para></cell>
+<cell><para>24</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Break down barred door</para></cell>
+<cell><para>25</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Burst chain bonds</para></cell>
+<cell><para>26</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Break down iron door</para></cell>
+<cell><para>28</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Condition</b></para></cell>
+<cell><para><b>DC Adjustment</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Hold portal</i></para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Arcane lock</i></para></cell>
+<cell><para>+10</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 If both apply, use the larger number.</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>
