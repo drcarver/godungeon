@@ -1,0 +1,5855 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Equipment and Gear &gt; Magic Items IV">
+<info>
+<title>RODS</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Equipment and Gear" linkname="Equipment_and_Gear" docbookid="MagicItemsIV0" keywords="equip,gear"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Magic Items IV" origname="Magic Items IV (Scrolls, Staffs, and Wands)" linkname="Equipment_and_Gear_Magic_Items_IV" docbookid="MagicItemsIV1" refname="Magic Items IV" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic"><para reftype="item" refcase="no" refname="Magic Items IV" style="heading 1">Magic Items IV (Scrolls, Staffs, and Wands)</para><para/><topic level="2" name="Scrolls" origname="Scrolls" linkname="Equipment_and_Gear_Magic_Items_IV_Scrolls" docbookid="MagicItemsIV2" refname="Scrolls" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,scroll"><para reftype="item" refcase="no" refname="Scrolls" style="heading 2">Scrolls</para><para>A scroll is a spell (or collection of spells) that has been stored in written form. A spell on a scroll can be used only once. The writing vanishes from the scroll when the spell is activated. Using a scroll is basically like casting a spell.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_IV_Scrolls_Physical_Description" docbookid="MagicItemsIV3" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,physic,scroll"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> A scroll is a heavy sheet of fine vellum or high-quality paper. An area about 8 1/2 inches wide and 11 inches long is sufficient to hold one spell. The sheet is reinforced at the top and bottom with strips of leather slightly longer than the sheet is wide. A scroll holding more than one spell has the same width (about 8 1/2 inches) but is an extra foot or so long for each extra spell. Scrolls that hold three or more spells are usually fitted with reinforcing rods at each end rather than simple strips of leather. A scroll has AC 9, 1 hit point, hardness 0, and a break DC of 8.</para><para>To protect it from wrinkling or tearing, a scroll is rolled up from both ends to form a double cylinder. (This also helps the user unroll the scroll quickly.) The scroll is placed in a tube of ivory, jade, leather, metal, or wood. Most scroll cases are inscribed with magic symbols which often identify the owner or the spells stored on the scrolls inside. The symbols often hide magic traps.</para>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_IV_Scrolls_Activation" docbookid="MagicItemsIV4" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,scroll"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> To activate a scroll, a spellcaster must read the spell written on it. Doing so involves several steps and conditions.</para><para><i>Decipher the Writing:</i> The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a <i>read magic</i> spell or a successful Spellcraft check (DC 20 + spell level).</para><para>Deciphering a scroll to determine its contents does not activate its magic unless it is a specially prepared cursed scroll. A character can decipher the writing on a scroll in advance so that he or she can proceed directly to the next step when the time comes to use the scroll.</para><para><i>Activate the Spell:</i> Activating a scroll requires reading the spell from the scroll. The character must be able to see and read the writing on the scroll. Activating a scroll spell requires no material components or focus. (The creator of the scroll provided these when scribing the scroll.) Note that some spells are effective only when cast on an item or items. In such a case, the scroll user must provide the item when activating the spell. Activating a scroll spell is subject to disruption just as casting a normally prepared spell would be. Using a scroll is like casting a spell for purposes of arcane spell failure chance.</para><para>To have any chance of activating a scroll spell, the scroll user must meet the following requirements.</para><list>
+ <item> The spell must be of the correct type (arcane or divine). Arcane spellcasters (wizards, sorcerers, and bards) can only use scrolls containing arcane spells, and divine spellcasters (clerics, druids, paladins, and rangers) can only use scrolls containing divine spells. (The type of scroll a character creates is also determined by his or her class.)</item>
+ <item> The user must have the spell on his or her class list.</item>
+ <item> The user must have the requisite ability score.</item>
+</list><para>If the user meets all the requirements noted above, and her caster level is at least equal to the spell's caster level, she can automatically activate the spell without a check. If she meets all three requirements but her own caster level is lower than the scroll spell's caster level, then she has to make a caster level check (DC = scroll's caster level + 1) to cast the spell successfully. If she fails, she must make a DC 5 Wisdom check to avoid a mishap (see Scroll Mishaps, below). A natural roll of 1 always fails, whatever the modifiers.</para><para><i>Determine Effect:</i> A spell successfully activated from a scroll works exactly like a spell prepared and cast the normal way. Assume the scroll spell's caster level is always the minimum level required to cast the spell for the character who scribed the scroll (usually twice the spell's level, minus 1), unless the caster specifically desires otherwise.</para><para>The writing for an activated spell disappears from the scroll.</para><para><i>Scroll Mishaps:</i> When a mishap occurs, the spell on the scroll has a reversed or harmful effect. Possible mishaps are given below.</para><list>
+ <item> A surge of uncontrolled magical energy deals 1d6 points of damage per spell level to the scroll user.</item>
+ <item> Spell strikes the scroll user or an ally instead of the intended target, or a random target nearby if the scroll user was the intended recipient.</item>
+ <item> Spell takes effect at some random location within spell range.</item>
+ <item> Spell's effect on the target is contrary to the spell's normal effect.</item>
+ <item> The scroll user suffers some minor but bizarre effect related to the spell in some way. Most such effects should last only as long as the original spell's duration, or 2d10 minutes for instantaneous spells.</item>
+ <item> Some innocuous item or items appear in the spell's area.</item>
+ <item> Spell has delayed effect. Sometime within the next 1d12 hours, the spell activates. If the scroll user was the intended recipient, the spell takes effect normally. If the user was not the intended recipient, the spell goes off in the general direction of the original recipient or target, up to the spell's maximum range, if the target has moved away.</item>
+</list><para>Several arcane spells are different in level for sorcerers and wizards than they are for bards. Such spells appear on the table at the level appropriate to a sorcerer or wizard (considered the default because bards typically don't involve themselves in scribing scrolls).</para><para>Likewise, some divine spells are different in level for clerics and druids than they are for paladins and rangers. Such spells appear at the level appropriate to a cleric or druid (considered the default because paladins and rangers typically don't involve themselves in scribing scrolls).</para><para>If a divine spell is cast at different levels by clerics and druids, it appears at the level appropriate to a cleric (considered the default choice between clerics and druids).</para><para>Many spells are either arcane or divine, depending on the class of the caster. Such spells appear on both lists at the level appropriate to the class of the arcane or divine caster.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Scroll Types</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d% roll</b></para></cell>
+<cell><para><b>Type</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-70</para></cell>
+<cell><para>Arcane</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>71-100</para></cell>
+<cell><para>Divine</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Number of Spells on a Scroll</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Scroll Type</b></para></cell>
+<cell><para><b>Number of Spells</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Minor scroll</para></cell>
+<cell><para>1d3 spells</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium scroll</para></cell>
+<cell><para>1d4 spells</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Major scroll</para></cell>
+<cell><para>1d6 spells</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Scroll Spell Levels</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Minor</b></para></cell>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Spell Level</b></para></cell>
+<cell><para><b>Spell's Caster Level</b>
+<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-05</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>0</para></cell>
+<cell><para>1st</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-50</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>1st</para></cell>
+<cell><para>1st</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-95</para></cell>
+<cell><para>01-05</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2nd</para></cell>
+<cell><para>3rd</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>06-65</para></cell>
+<cell><para>-</para></cell>
+<cell><para>3rd</para></cell>
+<cell><para>5th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>66-95</para></cell>
+<cell><para>01-05</para></cell>
+<cell><para>4th</para></cell>
+<cell><para>7th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>06-50</para></cell>
+<cell><para>5th</para></cell>
+<cell><para>9th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>51-70</para></cell>
+<cell><para>6th</para></cell>
+<cell><para>11th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>71-85</para></cell>
+<cell><para>7th</para></cell>
+<cell><para>13th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>86-95</para></cell>
+<cell><para>8th</para></cell>
+<cell><para>15th</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>95-100</para></cell>
+<cell><para>9th</para></cell>
+<cell><para>17th</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 These numbers assume that the creator is a cleric, druid, or wizard.</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Arcane Spell Scrolls</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>0-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-04</para></cell>
+<cell><para><i>acid splash</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-08</para></cell>
+<cell><para><i>arcane mark</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-13</para></cell>
+<cell><para><i>dancing lights</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-17</para></cell>
+<cell><para><i>daze</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-24</para></cell>
+<cell><para><i>Detect magic</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-28</para></cell>
+<cell><para><i>detect poison</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-32</para></cell>
+<cell><para><i>disrupt undead</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-37</para></cell>
+<cell><para><i>flare</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-42</para></cell>
+<cell><para><i>ghost sound</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-44</para></cell>
+<cell><para><i>know direction</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-50</para></cell>
+<cell><para><i>light</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-52</para></cell>
+<cell><para><i>lullaby</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-57</para></cell>
+<cell><para><i>mage hand</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-62</para></cell>
+<cell><para><i>mending</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-67</para></cell>
+<cell><para><i>message</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-72</para></cell>
+<cell><para><i>open/close</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-77</para></cell>
+<cell><para><i>prestidigitation</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-81</para></cell>
+<cell><para><i>ray of frost</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-87</para></cell>
+<cell><para><i>read magic</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-94</para></cell>
+<cell><para><i>resistance</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-96</para></cell>
+<cell><para><i>summon instrument</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-100</para></cell>
+<cell><para><i>touch of fatigue</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>1st-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para><i>alarm</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-05</para></cell>
+<cell><para><i>animate rope</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-07</para></cell>
+<cell><para><i>Burning hands</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-09</para></cell>
+<cell><para><i>cause fear</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-12</para></cell>
+<cell><para><i>Charm person</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>chill touch</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-16</para></cell>
+<cell><para><i>Color spray</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para><i>comprehend languages</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para><i>confusion</i>,  <i>lesser</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21</para></cell>
+<cell><para><i>cure light wounds</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-24</para></cell>
+<cell><para><i>detect secret doors</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-26</para></cell>
+<cell><para><i>detect undead</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-29</para></cell>
+<cell><para><i>disguise self</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-32</para></cell>
+<cell><para><i>endure elements</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-35</para></cell>
+<cell><para><i>Enlarge person</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para><i>erase</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-40</para></cell>
+<cell><para><i>expeditious retreat</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41</para></cell>
+<cell><para><i>feather fall</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para><i>grease</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para><i>hold portal</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-47</para></cell>
+<cell><para><i>hypnotism</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-49</para></cell>
+<cell><para><i>identify</i></para></cell>
+<cell><para>125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para><i>jump</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para><i>mage armor</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para><i>magic missile</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-59</para></cell>
+<cell><para><i>magic weapon</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60-62</para></cell>
+<cell><para><i>mount</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>magic aura</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-66</para></cell>
+<cell><para><i>obscuring mist</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-74</para></cell>
+<cell><para><i>protection from chaos/evil/good/law</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-76</para></cell>
+<cell><para><i>ray of enfeeblement</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para><i>reduce person</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-80</para></cell>
+<cell><para><i>remove fear</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-82</para></cell>
+<cell><para><i>shield</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-84</para></cell>
+<cell><para><i>Shocking grasp</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-86</para></cell>
+<cell><para><i>silent image</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-88</para></cell>
+<cell><para><i>sleep</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>Summon monster I</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-93</para></cell>
+<cell><para><i>floating disk</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-95</para></cell>
+<cell><para><i>true strike</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96</para></cell>
+<cell><para><i>undetectable alignment</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-98</para></cell>
+<cell><para><i>unseen servant</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>ventriloquism</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>2nd-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01</para></cell>
+<cell><para><i>animal messenger</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>02</para></cell>
+<cell><para><i>animal trance</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03</para></cell>
+<cell><para><i>arcane lock</i></para></cell>
+<cell><para>175 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-06</para></cell>
+<cell><para><i>Bear's endurance</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-08</para></cell>
+<cell><para><i>blindness/deafness</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-10</para></cell>
+<cell><para><i>blur</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para><i>Bull's strength</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14</para></cell>
+<cell><para><i>calm emotions</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-17</para></cell>
+<cell><para><i>cat's grace</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-19</para></cell>
+<cell><para><i>command undead</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para><i>continual flame</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21</para></cell>
+<cell><para><i>cure moderate wounds</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22</para></cell>
+<cell><para><i>darkness</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-25</para></cell>
+<cell><para><i>darkvision</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26</para></cell>
+<cell><para><i>daze monster</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27</para></cell>
+<cell><para><i>Delay poison</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-29</para></cell>
+<cell><para><i>detect thoughts</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-31</para></cell>
+<cell><para><i>disguise self</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-34</para></cell>
+<cell><para><i>Eagle's splendor</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35</para></cell>
+<cell><para><i>enthrall</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para><i>false life</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para><i>flaming sphere</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40</para></cell>
+<cell><para><i>fog cloud</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-43</para></cell>
+<cell><para><i>fox's cunning</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44</para></cell>
+<cell><para><i>ghoul touch</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-46</para></cell>
+<cell><para><i>glitterdust</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47</para></cell>
+<cell><para><i>gust of wind</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-49</para></cell>
+<cell><para><i>hypnotic pattern</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-52</para></cell>
+<cell><para><i>Invisibility</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-55</para></cell>
+<cell><para><i>Knock</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56</para></cell>
+<cell><para><i>phantom trap</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-58</para></cell>
+<cell><para><i>Levitate</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59</para></cell>
+<cell><para><i>locate object</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60</para></cell>
+<cell><para><i>magic mouth</i></para></cell>
+<cell><para>160 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-62</para></cell>
+<cell><para><i>Acid arrow</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63</para></cell>
+<cell><para><i>minor image</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-65</para></cell>
+<cell><para><i>Mirror image</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66</para></cell>
+<cell><para><i>misdirection</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67</para></cell>
+<cell><para><i>obscure object</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-70</para></cell>
+<cell><para><i>owl's wisdom</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-73</para></cell>
+<cell><para><i>protection from arrows</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-75</para></cell>
+<cell><para><i>pyrotechnics</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-78</para></cell>
+<cell><para><i>resist energy</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79</para></cell>
+<cell><para><i>rope trick</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80</para></cell>
+<cell><para><i>scare</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-82</para></cell>
+<cell><para><i>scorching ray</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-85</para></cell>
+<cell><para><i>see invisibility</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>shatter</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para><i>Silence</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88</para></cell>
+<cell><para><i>sound burst</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89</para></cell>
+<cell><para><i>spectral hand</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para><i>spider climb</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-93</para></cell>
+<cell><para><i>summon monster II</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-95</para></cell>
+<cell><para><i>summon swarm</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96</para></cell>
+<cell><para><i>hideous laughter</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97</para></cell>
+<cell><para><i>touch of idiocy</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-99</para></cell>
+<cell><para><i>Web</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para><i>whispering wind</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>3rd-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>arcane sight</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-04</para></cell>
+<cell><para><i>blink</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-06</para></cell>
+<cell><para><i>clairaudience/clairvoyance</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07</para></cell>
+<cell><para><i>cure serious wounds</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-10</para></cell>
+<cell><para><i>daylight</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-12</para></cell>
+<cell><para><i>deep slumber</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-15</para></cell>
+<cell><para><i>dispel magic</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-17</para></cell>
+<cell><para><i>displacement</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18</para></cell>
+<cell><para><i>explosive runes</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-20</para></cell>
+<cell><para><i>fireball</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-22</para></cell>
+<cell><para><i>flame arrow</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-25</para></cell>
+<cell><para><i>fly</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-27</para></cell>
+<cell><para><i>gaseous form</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-29</para></cell>
+<cell><para><i>gentle repose</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30</para></cell>
+<cell><para><i>glibness</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31</para></cell>
+<cell><para><i>good hope</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-33</para></cell>
+<cell><para><i>halt undead</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-36</para></cell>
+<cell><para><i>haste</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-38</para></cell>
+<cell><para><i>heroism</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-40</para></cell>
+<cell><para><i>Hold person</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41</para></cell>
+<cell><para><i>illusory script</i></para></cell>
+<cell><para>425 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-44</para></cell>
+<cell><para><i>invisibility sphere</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-47</para></cell>
+<cell><para><i>keen edge</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-49</para></cell>
+<cell><para><i>tiny hut</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para><i>lightning bolt</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-59</para></cell>
+<cell><para><i>magic circle against chaos/evil/good/law</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60-62</para></cell>
+<cell><para><i>magic weapon</i>,  <i>greater</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>Major image</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-66</para></cell>
+<cell><para><i>nondetection</i></para></cell>
+<cell><para>425 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-68</para></cell>
+<cell><para><i>phantom steed</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-71</para></cell>
+<cell><para><i>protection from energy</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-73</para></cell>
+<cell><para><i>rage</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-75</para></cell>
+<cell><para><i>ray of exhaustion</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76</para></cell>
+<cell><para><i>sculpt sound</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77</para></cell>
+<cell><para><i>secret page</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78</para></cell>
+<cell><para><i>sepia snake sigil</i></para></cell>
+<cell><para>875 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79</para></cell>
+<cell><para><i>shrink item</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-81</para></cell>
+<cell><para><i>sleet storm</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-83</para></cell>
+<cell><para><i>Slow</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84</para></cell>
+<cell><para><i>speak with animals</i></para></cell>
+<cell><para>525 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-86</para></cell>
+<cell><para><i>stinking cloud</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-88</para></cell>
+<cell><para><i>Suggestion</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>summon monster III</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-93</para></cell>
+<cell><para><i>tongues</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-95</para></cell>
+<cell><para><i>vampiric touch</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-98</para></cell>
+<cell><para><i>water breathing</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>wind wall</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>4th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>animate dead</i></para></cell>
+<cell><para>1,050 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-05</para></cell>
+<cell><para><i>arcane eye</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-07</para></cell>
+<cell><para><i>bestow curse</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-10</para></cell>
+<cell><para><i>Charm monster</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para><i>confusion</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-15</para></cell>
+<cell><para><i>contagion</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-17</para></cell>
+<cell><para><i>crushing despair</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18</para></cell>
+<cell><para><i>Cure critical wounds</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19</para></cell>
+<cell><para><i>detect scrying</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-23</para></cell>
+<cell><para><i>dimension door</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-26</para></cell>
+<cell><para><i>Dimensional anchor</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-28</para></cell>
+<cell><para><i>enervation</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-30</para></cell>
+<cell><para><i>Enlarge person</i>,  <i>mass</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-32</para></cell>
+<cell><para><i>black tentacles</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-34</para></cell>
+<cell><para><i>Fear</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-37</para></cell>
+<cell><para><i>fire shield</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para><i>fire trap</i></para></cell>
+<cell><para>725 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-42</para></cell>
+<cell><para><i>freedom of movement</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43</para></cell>
+<cell><para><i>geas</i>,  <i>lesser</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-46</para></cell>
+<cell><para><i>globe of invulnerability</i>,  <i>lesser</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-48</para></cell>
+<cell><para><i>hallucinatory terrain</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-50</para></cell>
+<cell><para><i>ice storm</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-52</para></cell>
+<cell><para><i>illusory wall</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-55</para></cell>
+<cell><para><i>Invisibility</i>,  <i>greater</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56-57</para></cell>
+<cell><para><i>secure shelter</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58</para></cell>
+<cell><para><i>locate creature</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-60</para></cell>
+<cell><para><i>minor creation</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61</para></cell>
+<cell><para><i>modify memory</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62</para></cell>
+<cell><para><i>Neutralize poison</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>resilient sphere</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-66</para></cell>
+<cell><para><i>phantasmal killer</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-68</para></cell>
+<cell><para><i>polymorph</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-70</para></cell>
+<cell><para><i>rainbow pattern</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71</para></cell>
+<cell><para><i>mnemonic enhancer</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-73</para></cell>
+<cell><para><i>reduce person</i>,  <i>mass</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-76</para></cell>
+<cell><para><i>remove curse</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77</para></cell>
+<cell><para><i>repel vermin</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-79</para></cell>
+<cell><para><i>scrying</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-81</para></cell>
+<cell><para><i>shadow conjuration</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-83</para></cell>
+<cell><para><i>shout</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-85</para></cell>
+<cell><para><i>solid fog</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>speak with plants</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-88</para></cell>
+<cell><para><i>stone shape</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-91</para></cell>
+<cell><para><i>stoneskin</i></para></cell>
+<cell><para>950 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-93</para></cell>
+<cell><para><i>Summon monster IV</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-96</para></cell>
+<cell><para><i>wall of fire</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-99</para></cell>
+<cell><para><i>wall of ice</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para><i>zone of silence</i></para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>5th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>animal growth</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-05</para></cell>
+<cell><para><i>baleful polymorph</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-07</para></cell>
+<cell><para><i>interposing hand</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-09</para></cell>
+<cell><para><i>blight</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-12</para></cell>
+<cell><para><i>break enchantment</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>cloudkill</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-17</para></cell>
+<cell><para><i>cone of cold</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-19</para></cell>
+<cell><para><i>contact other plane</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para><i>cure light wounds</i>,  <i>mass</i></para></cell>
+<cell><para>1,625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-23</para></cell>
+<cell><para><i>dismissal</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-26</para></cell>
+<cell><para><i>dispel magic</i>,  <i>greater</i></para></cell>
+<cell><para>1,625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-28</para></cell>
+<cell><para><i>dominate person</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29</para></cell>
+<cell><para><i>dream</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-31</para></cell>
+<cell><para><i>fabricate</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-33</para></cell>
+<cell><para><i>false vision</i></para></cell>
+<cell><para>1,375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-35</para></cell>
+<cell><para><i>feeblemind</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-39</para></cell>
+<cell><para><i>hold monster</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40</para></cell>
+<cell><para><i>secret chest</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41</para></cell>
+<cell><para><i>magic jar</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para><i>major creation</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para><i>mind fog</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-47</para></cell>
+<cell><para><i>mirage arcana</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-49</para></cell>
+<cell><para><i>mage's faithful hound</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para><i>mage's private sanctum</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-53</para></cell>
+<cell><para><i>nightmare</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-57</para></cell>
+<cell><para><i>overland flight</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-60</para></cell>
+<cell><para><i>passwall</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61</para></cell>
+<cell><para><i>permanency</i></para></cell>
+<cell><para>10,125 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-63</para></cell>
+<cell><para><i>persistent image</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-65</para></cell>
+<cell><para><i>planar binding</i>,  <i>lesser</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-67</para></cell>
+<cell><para><i>prying eyes</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-69</para></cell>
+<cell><para><i>telepathic bond</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>seeming</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-74</para></cell>
+<cell><para><i>sending</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-76</para></cell>
+<cell><para><i>shadow evocation</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77</para></cell>
+<cell><para><i>song of discord</i></para></cell>
+<cell><para>1,625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-79</para></cell>
+<cell><para><i>summon monster V</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80</para></cell>
+<cell><para><i>symbol of pain</i></para></cell>
+<cell><para>2,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81</para></cell>
+<cell><para><i>symbol of sleep</i></para></cell>
+<cell><para>2,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-83</para></cell>
+<cell><para><i>telekinesis</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-88</para></cell>
+<cell><para><i>teleport</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>transmute mud to rock</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-92</para></cell>
+<cell><para><i>transmute rock to mud</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93-95</para></cell>
+<cell><para><i>wall of force</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-98</para></cell>
+<cell><para><i>wall of stone</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>waves of fatigue</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Includes experience point cost up to 2,000 XP.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b><i>6th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>acid fog</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-05</para></cell>
+<cell><para><i>analyze dweomer</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06</para></cell>
+<cell><para><i>animate objects</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-09</para></cell>
+<cell><para><i>antimagic field</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-12</para></cell>
+<cell><para><i>bear's endurance</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>forceful hand</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-17</para></cell>
+<cell><para><i>bull's strength</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-20</para></cell>
+<cell><para><i>cat's grace</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-23</para></cell>
+<cell><para><i>chain lightning</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-25</para></cell>
+<cell><para><i>circle of death</i></para></cell>
+<cell><para>2,150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26</para></cell>
+<cell><para><i>contingency</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-28</para></cell>
+<cell><para><i>control water</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29</para></cell>
+<cell><para><i>create undead</i></para></cell>
+<cell><para>2,350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30</para></cell>
+<cell><para><i>cure moderate wounds</i>,  <i>mass</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-33</para></cell>
+<cell><para><i>disintegrate</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-37</para></cell>
+<cell><para><i>dispel magic</i>,  <i>greater</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-40</para></cell>
+<cell><para><i>eagle's splendor</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-42</para></cell>
+<cell><para><i>eyebite</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43</para></cell>
+<cell><para><i>find the path</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para><i>flesh to stone</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-48</para></cell>
+<cell><para><i>fox's cunning</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49</para></cell>
+<cell><para><i>geas/quest</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-52</para></cell>
+<cell><para><i>globe of invulnerability</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53</para></cell>
+<cell><para><i>guards and wards</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54</para></cell>
+<cell><para><i>heroes' feast</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para><i>heroism</i>,  <i>greater</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57</para></cell>
+<cell><para><i>legend lore</i></para></cell>
+<cell><para>1,900 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-59</para></cell>
+<cell><para><i>mislead</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60</para></cell>
+<cell><para><i>mage's lucubration</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-62</para></cell>
+<cell><para><i>move earth</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>freezing sphere</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-67</para></cell>
+<cell><para><i>owl's wisdom</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-69</para></cell>
+<cell><para><i>permanent image</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>planar binding</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-73</para></cell>
+<cell><para><i>programmed image</i></para></cell>
+<cell><para>1,675 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-75</para></cell>
+<cell><para><i>repulsion</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-78</para></cell>
+<cell><para><i>shadow walk</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-81</para></cell>
+<cell><para><i>stone to flesh</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-83</para></cell>
+<cell><para><i>suggestion</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-85</para></cell>
+<cell><para><i>summon monster VI</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>symbol of fear</i></para></cell>
+<cell><para>2,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para><i>symbol of persuasion</i></para></cell>
+<cell><para>6,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88</para></cell>
+<cell><para><i>sympathetic vibration</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>transformation</i></para></cell>
+<cell><para>1,950 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-93</para></cell>
+<cell><para><i>true seeing</i></para></cell>
+<cell><para>1,900 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-95</para></cell>
+<cell><para><i>undeath to death</i></para></cell>
+<cell><para>2,150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-97</para></cell>
+<cell><para><i>veil</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>wall of iron</i></para></cell>
+<cell><para>1,700 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>7th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para><i>arcane sight</i>,  <i>greater</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-07</para></cell>
+<cell><para><i>banishment</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-10</para></cell>
+<cell><para><i>grasping hand</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para><i>control undead</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-16</para></cell>
+<cell><para><i>control weather</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para><i>delayed blast fireball</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-21</para></cell>
+<cell><para><i>instant summons</i></para></cell>
+<cell><para>3,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-25</para></cell>
+<cell><para><i>ethereal jaunt</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-28</para></cell>
+<cell><para><i>finger of death</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-31</para></cell>
+<cell><para><i>forcecage</i></para></cell>
+<cell><para>23775 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-35</para></cell>
+<cell><para><i>hold person</i>,  <i>mass</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-38</para></cell>
+<cell><para><i>insanity</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-42</para></cell>
+<cell><para><i>Invisibility</i>,  <i>mass</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43</para></cell>
+<cell><para><i>limited wish</i></para></cell>
+<cell><para>3,775 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para><i>mage's magnificent mansion</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-48</para></cell>
+<cell><para><i>mage's sword</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-51</para></cell>
+<cell><para><i>phase door</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para><i>plane shift</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para><i>power word blind</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-61</para></cell>
+<cell><para><i>prismatic spray</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-64</para></cell>
+<cell><para><i>project image</i></para></cell>
+<cell><para>2,280 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-67</para></cell>
+<cell><para><i>reverse gravity</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-70</para></cell>
+<cell><para><i>scrying</i>,  <i>greater</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-73</para></cell>
+<cell><para><i>sequester</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-76</para></cell>
+<cell><para><i>shadow conjuration</i>,  <i>greater</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77</para></cell>
+<cell><para><i>simulacrum</i></para></cell>
+<cell><para>7,275 gp<sup><b>2</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-80</para></cell>
+<cell><para><i>spell turning</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-82</para></cell>
+<cell><para><i>statue</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-85</para></cell>
+<cell><para><i>summon monster VII</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>symbol of stunning</i></para></cell>
+<cell><para>7,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para><i>symbol of weakness</i></para></cell>
+<cell><para>7,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-90</para></cell>
+<cell><para><i>teleport object</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-95</para></cell>
+<cell><para><i>teleport</i>,  <i>greater</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-97</para></cell>
+<cell><para><i>vision</i></para></cell>
+<cell><para>2,775 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>waves of exhaustion</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Assumes no material component in excess of 1,000 gp and no XP cost in excess of 300 XP.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 Assumes no XP cost in excess of 1,000 gp.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b><i>8th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>antipathy</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-05</para></cell>
+<cell><para><i>clenched fist</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-08</para></cell>
+<cell><para><i>binding</i></para></cell>
+<cell><para>8,500 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-12</para></cell>
+<cell><para><i>Charm monster</i>,  <i>mass</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13</para></cell>
+<cell><para><i>clone</i></para></cell>
+<cell><para>4,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-16</para></cell>
+<cell><para><i>create greater undead</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para><i>demand</i></para></cell>
+<cell><para>3,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-22</para></cell>
+<cell><para><i>dimensional lock</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-26</para></cell>
+<cell><para><i>discern location</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-29</para></cell>
+<cell><para><i>horrid wilting</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-32</para></cell>
+<cell><para><i>incendiary cloud</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-35</para></cell>
+<cell><para><i>iron body</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-38</para></cell>
+<cell><para><i>maze</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-41</para></cell>
+<cell><para><i>mind blank</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-44</para></cell>
+<cell><para><i>moment of prescience</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-48</para></cell>
+<cell><para><i>telekinetic sphere</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-51</para></cell>
+<cell><para><i>irresistible dance</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para><i>planar binding</i>,  <i>greater</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para><i>polar ray</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-60</para></cell>
+<cell><para><i>polymorph any object</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-63</para></cell>
+<cell><para><i>power word stun</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-66</para></cell>
+<cell><para><i>prismatic wall</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-70</para></cell>
+<cell><para><i>protection from spells</i></para></cell>
+<cell><para>3,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-73</para></cell>
+<cell><para><i>prying eyes</i>,  <i>greater</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-76</para></cell>
+<cell><para><i>scintillating pattern</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para><i>screen</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-81</para></cell>
+<cell><para><i>shadow evocation</i>,  <i>greater</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-84</para></cell>
+<cell><para><i>shout</i>,  <i>greater</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-87</para></cell>
+<cell><para><i>summon monster VIII</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-90</para></cell>
+<cell><para><i>sunburst</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91</para></cell>
+<cell><para><i>symbol of death</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92</para></cell>
+<cell><para><i>symbol of insanity</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93-94</para></cell>
+<cell><para><i>sympathy</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-98</para></cell>
+<cell><para><i>temporal stasis</i></para></cell>
+<cell><para>3,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>trap the soul</i></para></cell>
+<cell><para>13,000 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Assumes a creature of 10 HD or less.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b><i>9th-Level Arcane Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para><i>astral projection</i></para></cell>
+<cell><para>4,870 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-07</para></cell>
+<cell><para><i>crushing hand</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-12</para></cell>
+<cell><para><i>dominate monster</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-16</para></cell>
+<cell><para><i>energy drain</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-21</para></cell>
+<cell><para><i>etherealness</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-25</para></cell>
+<cell><para><i>foresight</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-31</para></cell>
+<cell><para><i>freedom</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-36</para></cell>
+<cell><para><i>gate</i></para></cell>
+<cell><para>8,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-40</para></cell>
+<cell><para><i>hold monster</i>,  <i>mass</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-44</para></cell>
+<cell><para><i>imprisonment</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-49</para></cell>
+<cell><para><i>meteor swarm</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-53</para></cell>
+<cell><para><i>mage's disjunction</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-58</para></cell>
+<cell><para><i>power word kill</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-62</para></cell>
+<cell><para><i>prismatic sphere</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-66</para></cell>
+<cell><para><i>refuge</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-70</para></cell>
+<cell><para><i>shades</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-76</para></cell>
+<cell><para><i>shapechange</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-79</para></cell>
+<cell><para><i>soul bind</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-83</para></cell>
+<cell><para><i>summon monster IX</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-86</para></cell>
+<cell><para><i>teleportation circle</i></para></cell>
+<cell><para>4,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-91</para></cell>
+<cell><para><i>time stop</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-95</para></cell>
+<cell><para><i>wail of the banshee</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-99</para></cell>
+<cell><para><i>weird</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para><i>wish</i></para></cell>
+<cell><para>28,825 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Assumes no material component cost in excess of 10,000 gp and no XP cost in excess of 5,000 XP.</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Divine Spell Scrolls</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>0-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-07</para></cell>
+<cell><para><i>create water</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-14</para></cell>
+<cell><para><i>cure minor wounds</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-22</para></cell>
+<cell><para><i>Detect magic</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-29</para></cell>
+<cell><para><i>detect poison</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-36</para></cell>
+<cell><para><i>flare</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-43</para></cell>
+<cell><para><i>guidance</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-50</para></cell>
+<cell><para><i>inflict minor wounds</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-57</para></cell>
+<cell><para><i>know direction</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-65</para></cell>
+<cell><para><i>light</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-72</para></cell>
+<cell><para><i>mending</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-79</para></cell>
+<cell><para><i>purify food and drink</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-86</para></cell>
+<cell><para><i>read magic</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-93</para></cell>
+<cell><para><i>resistance</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-100</para></cell>
+<cell><para><i>virtue</i></para></cell>
+<cell><para>12 gp 5 sp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>1st-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01</para></cell>
+<cell><para><i>alarm</i></para></cell>
+<cell><para>100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>02-03</para></cell>
+<cell><para><i>bane</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-06</para></cell>
+<cell><para><i>bless</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-09</para></cell>
+<cell><para><i>bless water</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10</para></cell>
+<cell><para><i>bless weapon</i></para></cell>
+<cell><para>100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-12</para></cell>
+<cell><para><i>calm animals</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>cause fear</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-16</para></cell>
+<cell><para><i>Charm animal</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para><i>command</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-21</para></cell>
+<cell><para><i>comprehend languages</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-26</para></cell>
+<cell><para><i>cure light wounds</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-28</para></cell>
+<cell><para><i>curse water</i></para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-30</para></cell>
+<cell><para><i>deathwatch</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-32</para></cell>
+<cell><para><i>detect animals or plants</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-35</para></cell>
+<cell><para><i>detect chaos/evil/good/law</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para><i>detect snares and pits</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para><i>detect undead</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-41</para></cell>
+<cell><para><i>divine favor</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para><i>doom</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-48</para></cell>
+<cell><para><i>endure elements</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-50</para></cell>
+<cell><para><i>entangle</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-52</para></cell>
+<cell><para><i>entropic shield</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-54</para></cell>
+<cell><para><i>faerie fire</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para><i>goodberry</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-58</para></cell>
+<cell><para><i>hide from animals</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-60</para></cell>
+<cell><para><i>hide from undead</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-62</para></cell>
+<cell><para><i>inflict light wounds</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>jump</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-66</para></cell>
+<cell><para><i>longstrider</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-68</para></cell>
+<cell><para><i>magic fang</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-72</para></cell>
+<cell><para><i>magic stone</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-74</para></cell>
+<cell><para><i>magic weapon</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-78</para></cell>
+<cell><para><i>obscuring mist</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-80</para></cell>
+<cell><para><i>pass without trace</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-82</para></cell>
+<cell><para><i>produce flame</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-86</para></cell>
+<cell><para><i>protection from chaos/evil/good/law</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-88</para></cell>
+<cell><para><i>remove fear</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>sanctuary</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-92</para></cell>
+<cell><para><i>shield of faith</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93-94</para></cell>
+<cell><para><i>shillelagh</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-96</para></cell>
+<cell><para><i>speak with animals</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-98</para></cell>
+<cell><para><i>Summon monster I</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>summon nature's ally I</i></para></cell>
+<cell><para>25 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>2nd-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01</para></cell>
+<cell><para><i>animal messenger</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>02</para></cell>
+<cell><para><i>animal trance</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-04</para></cell>
+<cell><para><i>augury</i></para></cell>
+<cell><para>175 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-06</para></cell>
+<cell><para><i>barkskin</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-09</para></cell>
+<cell><para><i>Bear's endurance</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-12</para></cell>
+<cell><para><i>Bull's strength</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>calm emotions</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-17</para></cell>
+<cell><para><i>cat's grace</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18</para></cell>
+<cell><para><i>chill metal</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-20</para></cell>
+<cell><para><i>consecrate</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-24</para></cell>
+<cell><para><i>cure moderate wounds</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-26</para></cell>
+<cell><para><i>darkness</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27</para></cell>
+<cell><para><i>death knell</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-30</para></cell>
+<cell><para><i>Delay poison</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-32</para></cell>
+<cell><para><i>desecrate</i></para></cell>
+<cell><para>200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-35</para></cell>
+<cell><para><i>Eagle's splendor</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para><i>enthrall</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para><i>find traps</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40</para></cell>
+<cell><para><i>fire trap</i></para></cell>
+<cell><para>175 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-42</para></cell>
+<cell><para><i>flame blade</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-44</para></cell>
+<cell><para><i>flaming sphere</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-46</para></cell>
+<cell><para><i>fog cloud</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47</para></cell>
+<cell><para><i>gentle repose</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48</para></cell>
+<cell><para><i>gust of wind</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49</para></cell>
+<cell><para><i>heat metal</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para><i>hold animal</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para><i>Hold person</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-56</para></cell>
+<cell><para><i>inflict moderate wounds</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-58</para></cell>
+<cell><para><i>make whole</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-61</para></cell>
+<cell><para><i>owl's wisdom</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62</para></cell>
+<cell><para><i>reduce animal</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>remove paralysis</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-67</para></cell>
+<cell><para><i>resist energy</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-70</para></cell>
+<cell><para><i>restoration</i>,  <i>lesser</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-72</para></cell>
+<cell><para><i>shatter</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-74</para></cell>
+<cell><para><i>shield other</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-76</para></cell>
+<cell><para><i>Silence</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77</para></cell>
+<cell><para><i>snare</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78</para></cell>
+<cell><para><i>soften earth and stone</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-80</para></cell>
+<cell><para><i>sound burst</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81</para></cell>
+<cell><para><i>speak with plants</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-83</para></cell>
+<cell><para><i>spider climb</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-85</para></cell>
+<cell><para><i>spiritual weapon</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86</para></cell>
+<cell><para><i>status</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-88</para></cell>
+<cell><para><i>summon monster II</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-90</para></cell>
+<cell><para><i>summon nature's ally II</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-92</para></cell>
+<cell><para><i>summon swarm</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93</para></cell>
+<cell><para><i>tree shape</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-95</para></cell>
+<cell><para><i>undetectable alignment</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-97</para></cell>
+<cell><para><i>warp wood</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98</para></cell>
+<cell><para><i>wood shape</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>zone of truth</i></para></cell>
+<cell><para>150 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>3rd-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para><i>animate dead</i></para></cell>
+<cell><para>625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-04</para></cell>
+<cell><para><i>bestow curse</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-06</para></cell>
+<cell><para><i>blindness/deafness</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-08</para></cell>
+<cell><para><i>call lightning</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>09-10</para></cell>
+<cell><para><i>contagion</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-12</para></cell>
+<cell><para><i>continual flame</i></para></cell>
+<cell><para>425 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-14</para></cell>
+<cell><para><i>create food and water</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-18</para></cell>
+<cell><para><i>cure serious wounds</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19</para></cell>
+<cell><para><i>darkvision</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-21</para></cell>
+<cell><para><i>daylight</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-23</para></cell>
+<cell><para><i>deeper darkness</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-25</para></cell>
+<cell><para><i>diminish plants</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-27</para></cell>
+<cell><para><i>dispel magic</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-29</para></cell>
+<cell><para><i>dominate animal</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-31</para></cell>
+<cell><para><i>glyph of warding</i></para></cell>
+<cell><para>575 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32</para></cell>
+<cell><para><i>heal mount</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-34</para></cell>
+<cell><para><i>helping hand</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-36</para></cell>
+<cell><para><i>inflict serious wounds</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-38</para></cell>
+<cell><para><i>invisibility purge</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-40</para></cell>
+<cell><para><i>locate object</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-46</para></cell>
+<cell><para><i>magic circle against chaos/evil/good/law</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-48</para></cell>
+<cell><para><i>magic fang</i>,  <i>greater</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-50</para></cell>
+<cell><para><i>magic vestment</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-52</para></cell>
+<cell><para><i>meld into stone</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-55</para></cell>
+<cell><para><i>Neutralize poison</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56-57</para></cell>
+<cell><para><i>obscure object</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-59</para></cell>
+<cell><para><i>plant growth</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60-62</para></cell>
+<cell><para><i>prayer</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>protection from energy</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-66</para></cell>
+<cell><para><i>quench</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-69</para></cell>
+<cell><para><i>remove blindness/deafness</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>remove curse</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-73</para></cell>
+<cell><para><i>remove disease</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-76</para></cell>
+<cell><para><i>searing light</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para><i>sleet storm</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-80</para></cell>
+<cell><para><i>snare</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-83</para></cell>
+<cell><para><i>speak with dead</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-85</para></cell>
+<cell><para><i>speak with plants</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-87</para></cell>
+<cell><para><i>spike growth</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-89</para></cell>
+<cell><para><i>stone shape</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para><i>summon monster III</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-93</para></cell>
+<cell><para><i>summon nature's ally III</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-96</para></cell>
+<cell><para><i>water breathing</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-98</para></cell>
+<cell><para><i>water walk</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>wind wall</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>4th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-05</para></cell>
+<cell><para><i>air walk</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-07</para></cell>
+<cell><para><i>antiplant shell</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-09</para></cell>
+<cell><para><i>blight</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-11</para></cell>
+<cell><para><i>break enchantment</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12-13</para></cell>
+<cell><para><i>command plants</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-15</para></cell>
+<cell><para><i>control water</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-21</para></cell>
+<cell><para><i>Cure critical wounds</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-26</para></cell>
+<cell><para><i>death ward</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-31</para></cell>
+<cell><para><i>Dimensional anchor</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-34</para></cell>
+<cell><para><i>discern lies</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-37</para></cell>
+<cell><para><i>dismissal</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para><i>divination</i></para></cell>
+<cell><para>725 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-42</para></cell>
+<cell><para><i>divine power</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-47</para></cell>
+<cell><para><i>freedom of movement</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-49</para></cell>
+<cell><para><i>giant vermin</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para><i>holy sword</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para><i>imbue with spell ability</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para><i>inflict critical wounds</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-60</para></cell>
+<cell><para><i>magic weapon</i>,  <i>greater</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-62</para></cell>
+<cell><para><i>nondetection</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-64</para></cell>
+<cell><para><i>planar ally</i>,  <i>lesser</i></para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>65-67</para></cell>
+<cell><para><i>Poison</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68-69</para></cell>
+<cell><para><i>reincarnate</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>repel vermin</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-76</para></cell>
+<cell><para><i>Restoration</i></para></cell>
+<cell><para>800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para><i>rusting grasp</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-81</para></cell>
+<cell><para><i>sending</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-85</para></cell>
+<cell><para><i>spell immunity</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-87</para></cell>
+<cell><para><i>spike stones</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-90</para></cell>
+<cell><para><i>Summon monster IV</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-93</para></cell>
+<cell><para><i>summon nature's ally IV</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-98</para></cell>
+<cell><para><i>tongues</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para><i>tree stride</i></para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>5th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para><i>animal growth</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-05</para></cell>
+<cell><para><i>atonement</i></para></cell>
+<cell><para>3,625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06</para></cell>
+<cell><para><i>awaken</i></para></cell>
+<cell><para>2,375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-09</para></cell>
+<cell><para><i>baleful polymorph</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-13</para></cell>
+<cell><para><i>break enchantment</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-16</para></cell>
+<cell><para><i>call lightning storm</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-20</para></cell>
+<cell><para><i>command</i>,  <i>greater</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21</para></cell>
+<cell><para><i>commune</i></para></cell>
+<cell><para>1,625 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22</para></cell>
+<cell><para><i>commune with nature</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-24</para></cell>
+<cell><para><i>control winds</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-30</para></cell>
+<cell><para><i>cure light wounds</i>,  <i>mass</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-34</para></cell>
+<cell><para><i>dispel chaos/evil/good/law</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-38</para></cell>
+<cell><para><i>disrupting weapon</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39-41</para></cell>
+<cell><para><i>flame strike</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para><i>hallow</i></para></cell>
+<cell><para>6,125 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-46</para></cell>
+<cell><para><i>ice storm</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-49</para></cell>
+<cell><para><i>inflict light wounds</i>,  <i>mass</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-52</para></cell>
+<cell><para><i>insect plague</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53</para></cell>
+<cell><para><i>mark of justice</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-56</para></cell>
+<cell><para><i>plane shift</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-58</para></cell>
+<cell><para><i>raise dead</i></para></cell>
+<cell><para>6,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-61</para></cell>
+<cell><para><i>righteous might</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-63</para></cell>
+<cell><para><i>scrying</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-66</para></cell>
+<cell><para><i>slay living</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-69</para></cell>
+<cell><para><i>spell resistance</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>stoneskin</i></para></cell>
+<cell><para>1,375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-74</para></cell>
+<cell><para><i>summon monster V</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-77</para></cell>
+<cell><para><i>summon nature's ally V</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78</para></cell>
+<cell><para><i>symbol of pain</i></para></cell>
+<cell><para>2,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79</para></cell>
+<cell><para><i>symbol of sleep</i></para></cell>
+<cell><para>2,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-82</para></cell>
+<cell><para><i>transmute mud to rock</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>83-85</para></cell>
+<cell><para><i>transmute rock to mud</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-89</para></cell>
+<cell><para><i>true seeing</i></para></cell>
+<cell><para>1,375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para><i>unhallow</i></para></cell>
+<cell><para>6,125 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-94</para></cell>
+<cell><para><i>wall of fire</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para><i>wall of stone</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>wall of thorns</i></para></cell>
+<cell><para>1,125 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Allows for a spell of up to 4th level to be tied to the <i>hallowed</i> or <i>unhallowed</i> area.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b><i>6th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para><i>animate objects</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-06</para></cell>
+<cell><para><i>antilife shell</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-09</para></cell>
+<cell><para><i>banishment</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-13</para></cell>
+<cell><para><i>bear's endurance</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-16</para></cell>
+<cell><para><i>blade barrier</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-20</para></cell>
+<cell><para><i>bull's strength</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-24</para></cell>
+<cell><para><i>cat's grace</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25</para></cell>
+<cell><para><i>create undead</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-29</para></cell>
+<cell><para><i>cure moderate wounds</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-33</para></cell>
+<cell><para><i>dispel magic</i>,  <i>greater</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-37</para></cell>
+<cell><para><i>eagle's splendor</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-40</para></cell>
+<cell><para><i>find the path</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-43</para></cell>
+<cell><para><i>fire seeds</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44</para></cell>
+<cell><para><i>forbiddance</i></para></cell>
+<cell><para>4,650 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45</para></cell>
+<cell><para><i>geas/quest</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46</para></cell>
+<cell><para><i>glyph of warding</i>,  <i>greater</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-49</para></cell>
+<cell><para><i>harm</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-52</para></cell>
+<cell><para><i>heal</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-55</para></cell>
+<cell><para><i>heroes' feast</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56-58</para></cell>
+<cell><para><i>inflict moderate wounds</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-61</para></cell>
+<cell><para><i>ironwood</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62</para></cell>
+<cell><para><i>liveoak</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-65</para></cell>
+<cell><para><i>move earth</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-69</para></cell>
+<cell><para><i>owl's wisdom</i>,  <i>mass</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>planar ally</i></para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-74</para></cell>
+<cell><para><i>repel wood</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-77</para></cell>
+<cell><para><i>spellstaff</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-80</para></cell>
+<cell><para><i>stone tell</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-83</para></cell>
+<cell><para><i>summon monster VI</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-86</para></cell>
+<cell><para><i>summon nature's ally VI</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para><i>symbol of fear</i></para></cell>
+<cell><para>2,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88</para></cell>
+<cell><para><i>symbol of persuasion</i></para></cell>
+<cell><para>6,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-91</para></cell>
+<cell><para><i>transport via plants</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-94</para></cell>
+<cell><para><i>undeath to death</i></para></cell>
+<cell><para>2,150 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para><i>wind walk</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>word of recall</i></para></cell>
+<cell><para>1,650 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Assumes an area equivalent to one 60-foot cube.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b><i>7th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-05</para></cell>
+<cell><para><i>animate plants</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-09</para></cell>
+<cell><para><i>blasphemy</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>10-14</para></cell>
+<cell><para><i>changestaff</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-16</para></cell>
+<cell><para><i>control weather</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-21</para></cell>
+<cell><para><i>creeping doom</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-27</para></cell>
+<cell><para><i>cure serious wounds</i>,  <i>mass</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-32</para></cell>
+<cell><para><i>destruction</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-36</para></cell>
+<cell><para><i>dictum</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-41</para></cell>
+<cell><para><i>ethereal jaunt</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-45</para></cell>
+<cell><para><i>holy word</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-50</para></cell>
+<cell><para><i>inflict serious wounds</i>,  <i>mass</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-55</para></cell>
+<cell><para><i>refuge</i></para></cell>
+<cell><para>3,775 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56-60</para></cell>
+<cell><para><i>regenerate</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-65</para></cell>
+<cell><para><i>repulsion</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-69</para></cell>
+<cell><para><i>restoration</i>,  <i>greater</i></para></cell>
+<cell><para>4,775 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-71</para></cell>
+<cell><para><i>resurrection</i></para></cell>
+<cell><para>12,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-76</para></cell>
+<cell><para><i>scrying</i>,  <i>greater</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-81</para></cell>
+<cell><para><i>summon monster VII</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-85</para></cell>
+<cell><para><i>summon nature's ally VII</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-90</para></cell>
+<cell><para><i>sunbeam</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91</para></cell>
+<cell><para><i>symbol of stunning</i></para></cell>
+<cell><para>7,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92</para></cell>
+<cell><para><i>symbol of weakness</i></para></cell>
+<cell><para>7,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>93-97</para></cell>
+<cell><para><i>transmute metal to wood</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>word of chaos</i></para></cell>
+<cell><para>2,275 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>8th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-04</para></cell>
+<cell><para><i>animal shapes</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-10</para></cell>
+<cell><para><i>antimagic field</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para><i>cloak of chaos</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-17</para></cell>
+<cell><para><i>control plants</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-20</para></cell>
+<cell><para><i>create greater undead</i></para></cell>
+<cell><para>3,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-27</para></cell>
+<cell><para><i>Cure critical wounds</i>,  <i>mass</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-32</para></cell>
+<cell><para><i>dimensional lock</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-36</para></cell>
+<cell><para><i>discern location</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-41</para></cell>
+<cell><para><i>earthquake</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-45</para></cell>
+<cell><para><i>finger of death</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-49</para></cell>
+<cell><para><i>fire storm</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-52</para></cell>
+<cell><para><i>holy aura</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-56</para></cell>
+<cell><para><i>inflict critical wounds</i>,  <i>mass</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-60</para></cell>
+<cell><para><i>planar ally</i>,  <i>greater</i></para></cell>
+<cell><para>5,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-65</para></cell>
+<cell><para><i>repel metal or stone</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-69</para></cell>
+<cell><para><i>reverse gravity</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-72</para></cell>
+<cell><para><i>shield of law</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-76</para></cell>
+<cell><para><i>spell immunity</i>,  <i>greater</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-80</para></cell>
+<cell><para><i>summon monster VIII</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-84</para></cell>
+<cell><para><i>summon nature's ally VIII</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-89</para></cell>
+<cell><para><i>sunburst</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para><i>symbol of death</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-93</para></cell>
+<cell><para><i>symbol of insanity</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-96</para></cell>
+<cell><para><i>unholy aura</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-100</para></cell>
+<cell><para><i>whirlwind</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b><i>9th-Level Divine Spells</i></b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Spell</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-04</para></cell>
+<cell><para><i>antipathy</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-07</para></cell>
+<cell><para><i>astral projection</i></para></cell>
+<cell><para>4,870 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-13</para></cell>
+<cell><para><i>elemental swarm</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-19</para></cell>
+<cell><para><i>energy drain</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-25</para></cell>
+<cell><para><i>etherealness</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-31</para></cell>
+<cell><para><i>foresight</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-37</para></cell>
+<cell><para><i>gate</i></para></cell>
+<cell><para>8,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-46</para></cell>
+<cell><para><i>heal</i>,  <i>mass</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-53</para></cell>
+<cell><para><i>implosion</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-55</para></cell>
+<cell><para><i>miracle</i></para></cell>
+<cell><para>28,825 gp<sup><b>1</b></sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>56-61</para></cell>
+<cell><para><i>regenerate</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-66</para></cell>
+<cell><para><i>shambler</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-72</para></cell>
+<cell><para><i>shapechange</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>73-77</para></cell>
+<cell><para><i>soul bind</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-83</para></cell>
+<cell><para><i>storm of vengeance</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-89</para></cell>
+<cell><para><i>summon monster IX</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-95</para></cell>
+<cell><para><i>summon nature's ally IX</i></para></cell>
+<cell><para>3,825 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-99</para></cell>
+<cell><para><i>sympathy</i></para></cell>
+<cell><para>5,325 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para><i>true resurrection</i></para></cell>
+<cell><para>28,825 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 Assumes powerful request but no expensive material components in excess of 100 gp and no additional XP cost.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Staffs" origname="Staffs" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs" docbookid="MagicItemsIV5" refname="Staffs" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Staffs" style="heading 2">Staffs</para><para>A staff is a long shaft of wood that stores several spells. Unlike wands, which can contain a wide variety of spells, each staff is of a certain kind and holds specific spells. A staff has 50 charges when created.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Physical_Description" docbookid="MagicItemsIV6" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,physic,staff"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> A typical staff is 4 feet to 7 feet long and 2 inches to 3 inches thick, weighing about 5 pounds. Most staffs are wood, but a rare few are bone, metal, or even glass. (These are extremely exotic.) Staffs often have a gem or some device at their tip or are shod in metal at one or both ends. Staffs are often decorated with carvings or runes. A typical staff is like a walking stick, quarterstaff, or cudgel. It has AC 7, 10 hit points, hardness 5, and a break DC of 24.</para>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Activation" docbookid="MagicItemsIV7" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> Staffs use the spell trigger activation method, so casting a spell from a staff is usually a standard action that doesn't provoke attacks of opportunity. (If the spell being cast, however, has a longer casting time than 1 standard action, it takes that long to cast the spell from a staff.) To activate a staff, a character must hold it forth in at least one hand (or whatever passes for a hand, for nonhumanoid creatures).</para>
+</topic><topic level="8" name="Special Qualities" origname="Special Qualities" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Special_Qualities" docbookid="MagicItemsIV8" refname="Special Qualities" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,qualiti,special,staff"><para reftype="item" refcase="no" refname="Special Qualities"><b>Special Qualities:</b> Roll d%. A 01-30 result indicates that something (a design, inscription, or the like) provides some clue to the staff's function, and 31-100 indicates no special qualities.</para><table>
+<row/>
+<row>
+<cell><para><b>Table: Staffs</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Staff</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-15</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para><i>Charming</i></para></cell>
+<cell><para>16,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-30</para></cell>
+<cell><para>04-09</para></cell>
+<cell><para><i>Fire</i></para></cell>
+<cell><para>17,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-40</para></cell>
+<cell><para>10-11</para></cell>
+<cell><para><i>Swarming insects</i></para></cell>
+<cell><para>24,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-60</para></cell>
+<cell><para>12-17</para></cell>
+<cell><para><i>Healing</i></para></cell>
+<cell><para>27,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-75</para></cell>
+<cell><para>18-19</para></cell>
+<cell><para><i>Size alteration</i></para></cell>
+<cell><para>29,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-90</para></cell>
+<cell><para>20-24</para></cell>
+<cell><para><i>Illumination</i></para></cell>
+<cell><para>48,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-95</para></cell>
+<cell><para>25-31</para></cell>
+<cell><para><i>Frost</i></para></cell>
+<cell><para>56,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>32-38</para></cell>
+<cell><para><i>Defense</i></para></cell>
+<cell><para>58,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>39-43</para></cell>
+<cell><para><i>Abjuration</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>44-48</para></cell>
+<cell><para><i>Conjuration</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>49-53</para></cell>
+<cell><para><i>Enchantment</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>54-58</para></cell>
+<cell><para><i>Evocation</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>59-63</para></cell>
+<cell><para><i>Illusion</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>64-68</para></cell>
+<cell><para><i>Necromancy</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>69-73</para></cell>
+<cell><para><i>Transmutation</i></para></cell>
+<cell><para>65,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>74-77</para></cell>
+<cell><para><i>divination</i></para></cell>
+<cell><para>73,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>78-82</para></cell>
+<cell><para><i>Earth and stone</i></para></cell>
+<cell><para>80,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>83-87</para></cell>
+<cell><para><i>Woodlands</i></para></cell>
+<cell><para>101,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>88-92</para></cell>
+<cell><para><i>Life</i></para></cell>
+<cell><para>155,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>93-97</para></cell>
+<cell><para><i>Passage</i></para></cell>
+<cell><para>170,500 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>-</para></cell>
+<cell><para>98-100</para></cell>
+<cell><para><i>Power</i></para></cell>
+<cell><para>211,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Staff Descriptions" origname="Staff Descriptions" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions" docbookid="MagicItemsIV9" refname="Staff Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Staff Descriptions" style="heading 5">Staff Descriptions</para><para>Staffs use the wielder's ability score and relevant feats to set the DC for saves against their spells. Unlike with other sorts of magic items, the wielder can use his caster level when activating the power of a staff if it's higher than the caster level of the staff.</para><para>This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder's ability score to set the save DC for the spell, spells from a staff are often harder to resist than ones from other magic items, which use the minimum ability score required to cast the spell.  Not only are aspects of the spell dependant on caster level (range, duration, and so on) potentially higher, but spells from a staff are harder to dispel and have a better chance of overcoming a target's spell resistance.</para><para>Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or lower. The minimum caster level of a staff is 8th. Standard staffs are described below.</para><topic level="8" name="Abjuration" origname="Abjuration" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Abjuration" docbookid="MagicItemsIV10" refname="Abjuration" reftype="item" refcase="no" refaltname="" keywords="abjur,descript,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Abjuration"><b>Abjuration:</b> Usually carved from the heartwood of an ancient oak or other large tree, this staff allows use of the following spells:</para><list>
+ <item> <i>Shield</i> (1 charge)</item>
+ <item> <i>Resist energy</i> (1 charge)</item>
+ <item> <i>Dispel magic</i> (1 charge)</item>
+ <item> <i>Lesser globe of invulnerability</i> (2 charges)</item>
+ <item> <i>Dismissal</i> (2 charges)</item>
+ <item> <i>Repulsion</i> (3 charges)</item>
+</list><para>Strong abjuration; CL 13th; Craft Staff, <i>dismissal</i>,  <i>dispel magic</i>,  <i>lesser globe of invulnerability</i>,  <i>resist energy</i>,  <i>repulsion</i>,  <i>shield</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Charming" origname="Charming" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Charming" docbookid="MagicItemsIV11" refname="Charming" reftype="item" refcase="no" refaltname="" keywords="charm,descript,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Charming"><b>Charming:</b> Made of twisting wood ornately shaped and carved, this staff allows use of the following spells:</para><list>
+ <item> <i>Charm person</i> (1 charge)</item>
+ <item> <i>Charm monster</i> (2 charges)</item>
+</list><para>Moderate enchantment; CL 8th; Craft Staff, <i>Charm person</i>,  <i>charm monster</i>; Price 16,500 gp.</para>
+</topic><topic level="8" name="Conjuration" origname="Conjuration" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Conjuration" docbookid="MagicItemsIV12" refname="Conjuration" reftype="item" refcase="no" refaltname="" keywords="conjur,descript,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Conjuration"><b>Conjuration:</b> This staff is usually made of ash or walnut and bears ornate carvings of many different kinds of creatures. It allows use of the following spells:</para><list>
+ <item> <i>Unseen servant</i> (1 charge)</item>
+ <item> <i>Summon swarm</i> (1 charge)</item>
+ <item> <i>Stinking cloud</i> (1 charge)</item>
+ <item> <i>Minor creation</i> (2 charges)</item>
+ <item> <i>Cloudkill</i> (2 charges)</item>
+ <item> <i>Summon monster VI</i> (3 charges)</item>
+</list><para>Strong conjuration; CL 13th; Craft Staff, <i>cloudkill</i>,  <i>stinking cloud</i>,  <i>summon monster VI</i>,  <i>summon swarm</i>,  <i>unseen servant</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Defense" origname="Defense" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Defense" docbookid="MagicItemsIV13" refname="Defense" reftype="item" refcase="no" refaltname="" keywords="defens,descript,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Defense"><b>Defense:</b> The <i>staff of defense</i> is a simple-looking staff that throbs with power when held defensively. It allows use of the following spells:</para><list>
+ <item> <i>Shield</i> (1 charge)</item>
+ <item> <i>Shield of faith</i> (1 charge)</item>
+ <item> <i>Shield other</i> (1 charge)</item>
+ <item> <i>Shield of law</i> (3 charges)</item>
+</list><para>Strong abjuration; CL 15th; Craft Staff, <i>shield</i>,  <i>shield of faith</i>,  <i>shield of law</i>,  <i>shield other</i>, creator must be lawful; Price 58,250 gp.</para>
+</topic><topic level="8" name="Divination" origname="Divination" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Divination" docbookid="MagicItemsIV14" refname="Divination" reftype="item" refcase="no" refaltname="" keywords="descript,divin,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Divination"><b>Divination:</b> Made from a supple length of willow, often with a forked tip, this staff allows use of the following spells:</para><list>
+ <item> <i>Detect secret doors</i> (1 charge)</item>
+ <item> <i>Locate object</i> (1 charge)</item>
+ <item> <i>Tongues</i> (1 charge)</item>
+ <item> <i>Locate creature</i> (2 charges)</item>
+ <item> <i>Prying eyes</i> (2 charges)</item>
+ <item> <i>True seeing</i> (3 charges)</item>
+</list><para>Strong divination; CL 13th; Craft Staff, <i>detect secret doors</i>, <i>locate creature</i>,  <i>locate object</i>,  <i>prying eyes</i>,  <i>tongues</i>, <i>true seeing</i>; Price 73,500 gp.</para>
+</topic><topic level="8" name="Earth and Stone" origname="Earth and Stone" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Earth_and_Stone" docbookid="MagicItemsIV15" refname="Earth and Stone" reftype="item" refcase="no" refaltname="" keywords="descript,earth,equip,gear,item,magic,staff,stone"><para reftype="item" refcase="no" refname="Earth and Stone"><b>Earth and Stone:</b> This staff is topped with a fist-sized emerald that gleams with smoldering power. It allows the use of the following spells:</para><list>
+ <item> <i>Passwall</i> (1 charge)</item>
+ <item> <i>Move earth</i> (1 charge)</item>
+</list><para>Moderate transmutation; CL 11th; Craft Staff, <i>move earth</i>,  <i>passwall</i>; Price 80,500 gp.</para>
+</topic><topic level="8" name="Enchantment" origname="Enchantment" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Enchantment" docbookid="MagicItemsIV16" refname="Enchantment" reftype="item" refcase="no" refaltname="" keywords="descript,enchant,equip,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Enchantment"><b>Enchantment:</b> Often made from applewood and topped with a clear crystal, this staff allows use of the following spells:</para><list>
+ <item> <i>Sleep</i> (1 charge)</item>
+ <item> <i>Hideous laughter</i> (1 charge)</item>
+ <item> <i>Suggestion</i> (1 charge)</item>
+ <item> <i>Crushing despair</i> (2 charges)</item>
+ <item> <i>Mind fog</i> (2 charges)</item>
+ <item> <i>Suggestion</i>,  <i>mass</i> (3 charges)</item>
+</list><para>Strong enchantment; CL 13th; Craft Staff, c<i>rushing despair</i>,  <i>mass suggestion</i>,  <i>mind fog</i>,  <i>sleep</i>,  <i>suggestion</i>,  <i>hideous laughter</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Evocation" origname="Evocation" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Evocation" docbookid="MagicItemsIV17" refname="Evocation" reftype="item" refcase="no" refaltname="" keywords="descript,equip,evoc,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Evocation"><b>Evocation:</b> Usually very smooth and carved from hickory, willow, or yew, this staff allows use of the following spells:</para><list>
+ <item> <i>Magic missile</i> (1 charge)</item>
+ <item> <i>Shatter</i> (1 charge)</item>
+ <item> <i>Fireball</i> (1 charge)</item>
+ <item> <i>Ice storm</i> (2 charges)</item>
+ <item> <i>Wall of force</i> (2 charges)</item>
+ <item> <i>Chain lightning</i> (3 charges)</item>
+</list><para>Strong evocation; CL 13th; Craft Staff<i/>,  <i>chain lightning</i>,  <i>fireball</i>,  <i>ice storm</i>,  <i>magic missile</i>, <i>shatter</i>,  <i>wall of force</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Fire" origname="Fire" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Fire" docbookid="MagicItemsIV18" refname="Fire" reftype="item" refcase="no" refaltname="" keywords="descript,equip,fire,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Fire"><b>Fire:</b> Crafted from bronzewood with brass bindings, this staff allows use of the following spells:</para><list>
+ <item> <i>Burning hands</i> (1 charge)</item>
+ <item> <i>Fireball</i> (1 charge)</item>
+ <item> <i>Wall of fire</i> (2 charges)</item>
+</list><para>Moderate evocation; CL 8th; Craft Staff, <i>Burning hands</i>,  <i>fireball</i>,  <i>wall of fire</i>; Price 17,750 gp.</para>
+</topic><topic level="8" name="Frost" origname="Frost" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Frost" docbookid="MagicItemsIV19" refname="Frost" reftype="item" refcase="no" refaltname="" keywords="descript,equip,frost,gear,item,magic,staff"><para reftype="item" refcase="no" refname="Frost"><b>Frost:</b> Tipped on either end with a glistening diamond, this rune-covered staff allows use of the following spells:</para><list>
+ <item> <i>Ice storm</i> (1 charge)</item>
+ <item> <i>Wall of ice</i> (1 charge)</item>
+ <item> <i>Cone of cold</i> (2 charge)</item>
+</list><para>Moderate evocation; CL 10th; Craft Staff<i/>,  <i>cone of cold</i>, <i>ice storm</i>,  <i>wall of ice</i>; Price 56,250 gp.</para>
+</topic><topic level="8" name="Healing" origname="Healing" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Healing" docbookid="MagicItemsIV20" refname="Healing" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,heal,item,magic,staff"><para reftype="item" refcase="no" refname="Healing"><b>Healing:</b> This white ash staff, with inlaid silver runes, allows use of the following spells:</para><list>
+ <item> <i>Lesser restoration</i> (1 charge)</item>
+ <item> <i>Cure serious wounds</i> (1 charge)</item>
+ <item> <i>Remove blindness/deafness</i> (2 charges)</item>
+ <item> <i>Remove disease</i> (3 charges)</item>
+</list><para>Moderate conjuration; CL 8th; Craft Staff, <i>cure serious wounds</i>,  <i>lesser restoration</i>,  <i>remove blindness/deafness</i>,  <i>remove disease</i>; Price 27,750 gp.</para>
+</topic><topic level="8" name="Illusion" origname="Illusion" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Illusion" docbookid="MagicItemsIV21" refname="Illusion" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,illusion,item,magic,staff"><para reftype="item" refcase="no" refname="Illusion"><b>Illusion:</b> This staff is made from ebony or other dark wood and carved into an intricately twisted, fluted, or spiral shape. It allows use of the following spells:</para><list>
+ <item> <i>Disguise self</i> (1 charge)</item>
+ <item> <i>Mirror image</i> (1 charge)</item>
+ <item> <i>Major image</i> (1 charge)</item>
+ <item> <i>Rainbow pattern</i> (2 charges)</item>
+ <item> <i>Persistent image</i> (2 charges)</item>
+ <item> <i>Mislead</i> (3 charges)</item>
+</list><para>Strong illusion; CL 13th; Craft Staff, <i>disguise self</i>,  <i>major image</i>,  <i>mirror image</i>,  <i>persistent image</i>,  <i>project image</i>,  <i>rainbow pattern</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Illumination" origname="Illumination" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Illumination" docbookid="MagicItemsIV22" refname="Illumination" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,illumin,item,magic,staff"><para reftype="item" refcase="no" refname="Illumination"><b>Illumination:</b> This staff is usually sheathed in silver and decorated with sunbursts. It allows use of the following spells:</para><list>
+ <item> <i>Dancing lights</i> (1 charge)</item>
+ <item> <i>Flare</i> (1 charge)</item>
+ <item> <i>Daylight</i> (2 charges)</item>
+ <item> <i>Sunburst</i> (3 charges)</item>
+</list><para>Strong evocation; CL 15th; Craft Staff, <i>dancing lights</i>,  <i>daylight</i>,  <i>flare</i>,  <i>sunburst</i>; Price 48,250 gp.</para>
+</topic><topic level="8" name="Life" origname="Life" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Life" docbookid="MagicItemsIV23" refname="Life" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,life,magic,staff"><para reftype="item" refcase="no" refname="Life"><b>Life:</b> Made of thick oak shod in gold, this staff allows use of the following spells:</para><list>
+ <item> <i>Heal</i> (1 charge)</item>
+ <item> <i>Raise dead</i> (5 charges)</item>
+</list><para>Moderate conjuration; CL 11th; Craft Staff, <i>heal</i>,  <i>resurrection</i>; Price 155,750 gp.</para>
+</topic><topic level="8" name="Necromancy" origname="Necromancy" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Necromancy" docbookid="MagicItemsIV24" refname="Necromancy" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,necrom,staff"><para reftype="item" refcase="no" refname="Necromancy"><b>Necromancy:</b> This staff is made from ebony or other dark wood and carved with the images of bones and skulls. It allows use of the following spells:</para><list>
+ <item> <i>Cause fear</i> (1 charge)</item>
+ <item> <i>Ghoul touch</i> (1 charge)</item>
+ <item> <i>Halt undead</i> (1 charge)</item>
+ <item> <i>Enervation</i> (2 charges)</item>
+ <item> <i>Waves of fatigue</i> (2 charges)</item>
+ <item> <i>Circle of death</i> (3 charges)</item>
+</list><para>Strong necromancy; CL 13th; Craft Staff, <i>cause fear</i>,  <i>circle of death</i>,  <i>enervation</i>,  <i>ghoul touch</i>,  <i>halt undead</i>,  <i>waves of fatigue</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Passage" origname="Passage" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Passage" docbookid="MagicItemsIV25" refname="Passage" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,passag,staff"><para reftype="item" refcase="no" refname="Passage"><b>Passage:</b> This potent item allows use of the following spells:</para><list>
+ <item> <i>Dimension door</i> (1 charge)</item>
+ <item> <i>Passwall</i> (1 charge)</item>
+ <item> <i>Phase door</i> (2 charges)</item>
+ <item> <i>Greater teleport</i> (2 charges)</item>
+ <item> <i>Astral projection</i> (2 charges)</item>
+</list><para>Strong varied; CL 17th; Craft Staff, <i>astral projection</i>,  <i>dimension door</i>,  <i>greater teleport</i>,  <i>passwall</i>,  <i>phase door</i>; Price 170,500 gp.</para>
+</topic><topic level="8" name="Power" origname="Power" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Power" docbookid="MagicItemsIV26" refname="Power" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,power,staff"><para reftype="item" refcase="no" refname="Power"><b>Power:</b> The <i>staff of power</i> is a very potent magic item, with offensive and defensive abilities. It is usually topped with a glistening gem, its shaft straight and smooth. It has the following powers:</para><list>
+ <item> <i>Magic missile</i> (1 charge)</item>
+ <item> <i>Ray of enfeeblement</i> (heightened to 5th level) (1 charge)</item>
+ <item> <i>Continual flame</i> (1 charge)</item>
+ <item> <i>Levitate</i> (1 charge)</item>
+ <item> <i>Lightning bolt</i> (heightened to 5th level) (1 charge)</item>
+ <item> <i>Fireball</i> (heightened to 5th level) (1 charge)</item>
+ <item> <i>Cone of cold</i> (2 charges)</item>
+ <item> <i>Hold monster</i> (2 charges)</item>
+ <item> <i>Wall of force</i> (in a 10-ft. -diameter hemisphere around the caster only) (2 charges)</item>
+ <item> <i>Globe of invulnerability</i> (2 charges)</item>
+</list><para>The wielder of a <i>staff of power</i> gains a +2 luck bonus to AC and saving throws. The staff is also a <i>+2 quarterstaff</i>, <i/> and its wielder may use it to smite opponents. If 1 charge is expended (as a free action), the staff causes double damage (x3 on a critical hit) for 1 round.</para><para>A <i>staff of power</i> can be used for a retributive strike, requiring it to be broken by its wielder. (If this breaking of the staff is purposeful and declared by the wielder, it can be performed as a standard action that does not require the wielder to make a Strength check.) All charges currently in the staff are instantly released in a 30-foot radius. All within 2 squares of the broken staff take points of damage equal to 8 x the number of charges in the staff, those 3 or 4 squares away take 6 x the number of charges in damage, and those 5 or 6 squares distant take 4 x the number of charges in damage. All those affected can make DC 17 Reflex saves to reduce the damage by half.</para><para>The character breaking the staff has a 50% chance of traveling to another plane of existence, but if he does not, the explosive release of spell energy destroys him. Only certain items, including the <i>staff of the magi</i> and the <i>staff of power</i>, <i/> are capable of being used for a retributive strike.</para><para>After all charges are used up from the staff, it remains a <i>+2 quarterstaff</i>. (Once empty of charges, it cannot be used for a retributive strike.)</para><para>Strong varied; CL 15th; Craft Staff, Craft Magic Arms and Armor, <i>magic missile</i>, <i/> heightened <i>ray of enfeeblement</i>,  <i>continual flame</i>,  <i>levitate</i>, <i/> heightened <i>fireball</i>, <i/> heightened <i>lightning bolt</i>,  <i>cone of cold</i>,  <i>hold monster</i>,  <i>wall of force</i>,  <i>globe of invulnerability</i>; Price 211,000 gp.</para>
+</topic><topic level="8" name="Size Alteration" origname="Size Alteration" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Size_Alteration" docbookid="MagicItemsIV27" refname="Size Alteration" reftype="item" refcase="no" refaltname="" keywords="alter,descript,equip,gear,item,magic,size,staff"><para reftype="item" refcase="no" refname="Size Alteration"><b>Size Alteration:</b> Stout and sturdy, this staff of dark wood allows use of the following spells:</para><list>
+ <item> <i>Enlarge person</i> (1 charge)</item>
+ <item> <i>Reduce person</i> (1 charge)</item>
+ <item> <i>Shrink item</i> (1 charge)</item>
+ <item> <i>Enlarge person</i>,  <i>mass</i> (1 charge)</item>
+ <item> <i>Reduce person</i>,  <i>mass</i> (1 charge)</item>
+</list><para>Faint conjuration; CL 8th; Craft Staff, <i>Enlarge person</i>,  <i>mass enlarge person</i>,  <i>reduce person</i>,  <i>mass reduce person</i>,  <i>shrink item</i>; Price 29,000 gp.</para>
+</topic><topic level="8" name="Swarming Insects" origname="Swarming Insects" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Swarming_Insects" docbookid="MagicItemsIV28" refname="Swarming Insects" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,insect,item,magic,staff,swarm"><para reftype="item" refcase="no" refname="Swarming Insects"><b>Swarming Insects:</b> Made of twisted dark wood with dark spots resembling crawling insects (which occasionally seem to move), this staff allows use of the following spells:</para><list>
+ <item> <i>Summon swarm</i> (1 charge)</item>
+ <item> <i>Insect plague</i> (3 charges)</item>
+</list><para>Moderate conjuration; CL 9th; Craft Staff, <i>insect plague</i>,  <i>summon swarm</i>; Price 24,750 gp.</para>
+</topic><topic level="8" name="Transmutation" origname="Transmutation" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Transmutation" docbookid="MagicItemsIV29" refname="Transmutation" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,staff,transmut"><para reftype="item" refcase="no" refname="Transmutation"><b>Transmutation:</b> This staff is generally carved from or decorated with petrified wood and allows use of the following spells:</para><list>
+ <item> <i>Expeditious retreat</i> (1 charge)</item>
+ <item> <i>Alter self</i> (1 charge)</item>
+ <item> <i>Blink</i> (1 charge)</item>
+ <item> <i>Polymorph</i> (2 charges)</item>
+ <item> <i>Baleful polymorph</i> (2 charges)</item>
+ <item> <i>Disintegrate</i> (3 charges)</item>
+</list><para>Strong transmutation; CL 13th; Craft Staff, <i>alter self</i>,  <i>baleful polymorph</i>,  <i>blink</i>,  <i>disintegrate</i>,  <i>expeditious retreat</i>,  <i>polymorph</i>; Price 65,000 gp.</para>
+</topic><topic level="8" name="Woodlands" origname="Woodlands" linkname="Equipment_and_Gear_Magic_Items_IV_Staffs_Staff_Descriptions_Woodlands" docbookid="MagicItemsIV30" refname="Woodlands" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,staff,woodland"><para reftype="item" refcase="no" refname="Woodlands"><b>Woodlands:</b> Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:</para><list>
+ <item> <i>Charm animal</i> (1 charge)</item>
+ <item> <i>Speak with animals</i> (1 charge)</item>
+ <item> <i>Barkskin</i> (2 charges)</item>
+ <item> <i>Wall of thorns</i> (3 charges)</item>
+ <item> <i>Summon nature's ally VI</i> (3 charges)</item>
+ <item> <i>Animate plants</i> (4 charges)</item>
+</list><para>The staff may be used as a weapon, functioning as a <i>+2 quarterstaff</i>. The <i>staff of the woodlands</i> also allows its wielder to <i>pass without trace</i> at will, with no charge cost. These two attributes continue to function after all the charges are expended.</para><para>Moderate varied; CL 13th; Craft Staff, Craft Magic Arms and Armor, <i>animate plants</i>,  <i>barkskin</i>,  <i>charm animal</i>,  <i>pass without trace</i>,  <i>speak with animals</i>,  <i>summon nature's ally VI</i>,  <i>wall of thorns</i>; Price 101,250 gp.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Wands" origname="Wands" linkname="Equipment_and_Gear_Magic_Items_IV_Wands" docbookid="MagicItemsIV31" refname="Wands" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,wand"><para reftype="item" refcase="no" refname="Wands" style="heading 2">Wands</para><para>A wand is a thin baton that contains a single spell of 4th level or lower. Each wand has 50 charges when created, and each charge expended allows the user to use the wand's spell one time. A wand that runs out of charges is just a stick.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_IV_Wands_Physical_Description" docbookid="MagicItemsIV32" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,physic,wand"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> A typical wand is 6 inches to 12 inches long and about 1/4 inch thick, and often weighs no more than 1 ounce. Most wands are wood, but some are bone. A rare few are metal, glass, or even ceramic, but these are quite exotic. Occasionally, a wand has a gem or some device at its tip, and most are decorated with carvings or runes. A typical wand has AC 7, 5 hit points, hardness 5, and a break DC of 16.</para>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_IV_Wands_Activation" docbookid="MagicItemsIV33" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,wand"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> Wands use the spell trigger activation method, so casting a spell from a wand is usually a standard action that doesn't provoke attacks of opportunity. (If the spell being cast, however, has a longer casting time than 1 action, it takes that long to cast the spell from a wand.) To activate a wand, a character must hold it in hand (or whatever passes for a hand, for nonhumanoid creatures) and point it in the general direction of the target or area. A wand may be used while grappling or while swallowed whole.</para>
+</topic><topic level="8" name="Special Qualities" origname="Special Qualities" linkname="Equipment_and_Gear_Magic_Items_IV_Wands_Special_Qualities" docbookid="MagicItemsIV34" refname="Special Qualities" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,qualiti,special,wand"><para reftype="item" refcase="no" refname="Special Qualities"><b>Special Qualities:</b> Roll d%. A 01-30 result indicates that something (a design, inscription, or the like) provides some clue to the wand's function, and 31-100 indicates no special qualities.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Wands</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Minor</b></para></cell>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Wand</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Detect magic</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>03-04</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>light</i></para></cell>
+<cell><para>375 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>05-07</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Burning hands</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Charm animal</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Charm person</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-16</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Color spray</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-19</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>cure light wounds</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-22</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>detect secret doors</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-25</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Enlarge person</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-28</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic missile (1st)</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-31</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Shocking grasp</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-34</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Summon monster I</i></para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-36</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic missile (3rd)</i></para></cell>
+<cell><para>2,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic missile (5th)</i></para></cell>
+<cell><para>3,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-40</para></cell>
+<cell><para>04-07</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Bear's endurance</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-43</para></cell>
+<cell><para>08-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Bull's strength</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-46</para></cell>
+<cell><para>12-15</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>cat's grace</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-49</para></cell>
+<cell><para>16-20</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>cure moderate wounds</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-51</para></cell>
+<cell><para>21-22</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>darkness</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>52-54</para></cell>
+<cell><para>23-24</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>daylight</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-57</para></cell>
+<cell><para>25-27</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Delay poison</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-60</para></cell>
+<cell><para>28-31</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Eagle's splendor</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-63</para></cell>
+<cell><para>32-33</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>false life</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-66</para></cell>
+<cell><para>34-37</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>fox's cunning</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>67-68</para></cell>
+<cell><para>38</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>ghoul touch</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-71</para></cell>
+<cell><para>39</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Hold person</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-74</para></cell>
+<cell><para>40-42</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Invisibility</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-77</para></cell>
+<cell><para>43-44</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Knock</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-80</para></cell>
+<cell><para>45</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Levitate</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-83</para></cell>
+<cell><para>46-47</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Acid arrow</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-86</para></cell>
+<cell><para>48-49</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Mirror image</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87-89</para></cell>
+<cell><para>50-53</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>owl's wisdom</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para>54</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>shatter</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-94</para></cell>
+<cell><para>55-56</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Silence</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>95-97</para></cell>
+<cell><para>57</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>summon monster II</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para>58-59</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Web</i></para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>60-62</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para><i>Magic missile (7th)</i></para></cell>
+<cell><para>5,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>63-64</para></cell>
+<cell><para>03-05</para></cell>
+<cell><para><i>Magic missile (9th)</i></para></cell>
+<cell><para>6,750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>65-67</para></cell>
+<cell><para>06-07</para></cell>
+<cell><para><i>Call lightning (5th)</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>68</para></cell>
+<cell><para>08</para></cell>
+<cell><para><i>Charm person</i>, <i/> heightened (3rd-level spell)</para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>69-70</para></cell>
+<cell><para>09-10</para></cell>
+<cell><para><i>contagion</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>71-74</para></cell>
+<cell><para>11-13</para></cell>
+<cell><para><i>cure serious wounds</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>75-77</para></cell>
+<cell><para>14-15</para></cell>
+<cell><para><i>dispel magic</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>78-81</para></cell>
+<cell><para>16-17</para></cell>
+<cell><para><i>Fireball (5th)</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>82-83</para></cell>
+<cell><para>18-19</para></cell>
+<cell><para><i>keen edge</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>84-87</para></cell>
+<cell><para>20-21</para></cell>
+<cell><para><i>Lightning bolt (5th)</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>88-89</para></cell>
+<cell><para>22-23</para></cell>
+<cell><para><i>Major image</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>90-91</para></cell>
+<cell><para>24-25</para></cell>
+<cell><para><i>Slow</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>92-94</para></cell>
+<cell><para>26-27</para></cell>
+<cell><para><i>Suggestion</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>95-97</para></cell>
+<cell><para>28-29</para></cell>
+<cell><para><i>summon monster III</i></para></cell>
+<cell><para>11,250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>98</para></cell>
+<cell><para>30-31</para></cell>
+<cell><para><i>Fireball (6th)</i></para></cell>
+<cell><para>13,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>99</para></cell>
+<cell><para>32-33</para></cell>
+<cell><para><i>Lightning bolt (6th)</i></para></cell>
+<cell><para>13,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para>34-35</para></cell>
+<cell><para><i>Searing light (6th)</i></para></cell>
+<cell><para>13,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>36-37</para></cell>
+<cell><para><i>Call lightning (8th)</i></para></cell>
+<cell><para>18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>38-39</para></cell>
+<cell><para><i>Fireball (8th)</i></para></cell>
+<cell><para>18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>40-41</para></cell>
+<cell><para><i>Lightning bolt (8th)</i></para></cell>
+<cell><para>18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>42-45</para></cell>
+<cell><para><i>Charm monster</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>46-50</para></cell>
+<cell><para><i>Cure critical wounds</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>51-52</para></cell>
+<cell><para><i>Dimensional anchor</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>53-55</para></cell>
+<cell><para><i>Fear</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>56-59</para></cell>
+<cell><para><i>Greater invisibility</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>60</para></cell>
+<cell><para><i>Hold person</i>, <i/> heightened (4th level)</para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>61-65</para></cell>
+<cell><para><i>ice storm</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>66-68</para></cell>
+<cell><para><i>inflict critical wounds</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>69-72</para></cell>
+<cell><para><i>Neutralize poison</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>73-74</para></cell>
+<cell><para><i>Poison</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>75-77</para></cell>
+<cell><para><i>polymorph</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>78</para></cell>
+<cell><para><i>ray of enfeeblement</i> heightened (4th level)</para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>79</para></cell>
+<cell><para><i>Suggestion</i>, <i/> heightened (4th level)</para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>80-82</para></cell>
+<cell><para><i>Summon monster IV</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>83-86</para></cell>
+<cell><para><i>wall of fire</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>87-90</para></cell>
+<cell><para><i>wall of ice</i></para></cell>
+<cell><para>21,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>91</para></cell>
+<cell><para><i>Dispel magic (10th)</i></para></cell>
+<cell><para>22,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>92</para></cell>
+<cell><para><i>Fireball (10th)</i></para></cell>
+<cell><para>22,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>93</para></cell>
+<cell><para><i>Lightning bolt (10th)</i></para></cell>
+<cell><para>22,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>94</para></cell>
+<cell><para><i>Chaos hammer (8th)</i></para></cell>
+<cell><para>24,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>95</para></cell>
+<cell><para><i>Holy smite (8th)</i></para></cell>
+<cell><para>24,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>96</para></cell>
+<cell><para><i>Order's wrath (8th)</i></para></cell>
+<cell><para>24,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>97</para></cell>
+<cell><para><i>Unholy blight (8th)</i></para></cell>
+<cell><para>24,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>98-99</para></cell>
+<cell><para><i>Restoration</i>
+<sup><b>1</b></sup></para></cell>
+<cell><para>26,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para><i>stoneskin</i>
+<sup><b>2</b></sup></para></cell>
+<cell><para>33,500 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 The cost to create a <i>wand of restoration</i> is 10,500 gp, 840 XP, plus 5,000 gp for the material components.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>2 The cost to create a <i>wand of stoneskin</i> is 10,500 gp, 840 XP, plus 12,500 gp for the material components.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Wand Descriptions" origname="Wand Descriptions" linkname="Equipment_and_Gear_Magic_Items_IV_Wands_Wand_Descriptions" docbookid="MagicItemsIV35" refname="Wand Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,wand"><para reftype="item" refcase="no" refname="Wand Descriptions" style="heading 5">Wand Descriptions</para><para>All wands are simply storage devices for spells and thus have no special descriptions. Refer to the spell descriptions for all pertinent details.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

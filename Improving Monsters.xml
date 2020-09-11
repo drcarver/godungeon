@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Monsters &gt; Improving Monsters">
+<info>
+<title>Improving Monsters</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Monsters" linkname="Monsters" docbookid="Improving Monsters0" keywords="monster"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Improving Monsters" origname="Improving Monsters" linkname="Monsters_Improving_Monsters" docbookid="Improving Monsters1" keywords="improv,monster"><para style="heading 1">Improving Monsters</para><para>Each of the monster entries describes a typical creature of its kind. However, there are several methods by which extraordinary or unique monsters can be created using a typical creature as the foundation: by adding character classes, increasing a monster's Hit Dice, or by adding a template to a monster. These methods are not mutually exclusive-it's possible for a monster with a template to be improved by both increasing its Hit Dice and adding character class levels.</para><topic level="8" name="Class Levels" origname="Class Levels" linkname="Monsters_Improving_Monsters_Class_Levels" docbookid="Improving Monsters2" refname="Class Levels" reftype="other" refcase="yes" refaltname="" keywords="class,improv,level,monster"><para reftype="other" refcase="yes" refname="Class Levels"><b>Class Levels:</b> Intelligent creatures that are reasonably humanoid in shape most commonly advance by adding class levels. Creatures that fall into this category have an entry of 'By character class' in their Advancement line. When a monster adds a class level, that level usually represents an increase in experience and learned skills and capabilities.</para>
+</topic><topic level="8" name="Increased Hit Dice" origname="Increased Hit Dice" linkname="Monsters_Improving_Monsters_Increased_Hit_Dice" docbookid="Improving Monsters3" refname="Increased Hit Dice" reftype="other" refcase="yes" refaltname="" keywords="dice,hit,improv,increas,monster"><para reftype="other" refcase="yes" refname="Increased Hit Dice"><b>Increased Hit Dice:</b> Intelligent creatures that are not humanoid in shape, and nonintelligent monsters, can advance by increasing their Hit Dice. Creatures with increased Hit Dice are usually superior specimens of their race, bigger and more powerful than their run-of-the-mill fellows.</para>
+</topic><topic level="8" name="Templates" origname="Templates" linkname="Monsters_Improving_Monsters_Templates" docbookid="Improving Monsters4" refname="Templates" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,templat"><para reftype="other" refcase="yes" refname="Templates"><b>Templates:</b> Both intelligent and nonintelligent creatures with an unusual heritage or an inflicted change in their essential nature may be modified with a template. Templates usually result in tougher monsters with capabilities that differ from those of their common kin.</para><para>Each of these three methods for improving monsters is discussed in more detail below.</para><para/>
+</topic><topic level="2" name="Ability Score Arrays" origname="Ability Score Arrays" linkname="Monsters_Improving_Monsters_Ability_Score_Arrays" docbookid="Improving Monsters5" refname="Ability Score Arrays" reftype="monsterinfo" refcase="no" refaltname="" keywords="abil,arrai,improv,monster,score"><para reftype="monster" refcase="no" refname="Ability Score Arrays" style="heading 2">Ability Score Arrays</para><para>Monsters are assumed to have completely average (or standard) ability scores-a 10 or an 11 in each ability, as modified by their racial bonuses. However, improved monsters are individuals and often have better than normal ability scores, and usually make use of either the elite array or the nonelite array of ability scores. Monsters who improve by adding a template, and monsters who improve by increasing their Hit Dice, may use any of the three arrays (standard, nonelite, or elite). Any monster unique enough to be improved could easily be considered elite.</para><topic level="8" name="Elite Array" origname="Elite Array" linkname="Monsters_Improving_Monsters_Ability_Score_Arrays_Elite_Array" docbookid="Improving Monsters6" refname="Elite Array" reftype="other" refcase="yes" refaltname="" keywords="abil,arrai,elit,improv,monster,score"><para reftype="other" refcase="yes" refname="Elite Array"><b>Elite Array:</b> The elite array is 15, 14, 13, 12, 10, 8. While the monster has one weakness compared to a typical member of its race, it is significantly better overall. The elite array is most appropriate for monsters who add levels in a player character class.</para>
+</topic><topic level="8" name="Nonelite Array" origname="Nonelite Array" linkname="Monsters_Improving_Monsters_Ability_Score_Arrays_Nonelite_Array" docbookid="Improving Monsters7" refname="Nonelite Array" reftype="other" refcase="yes" refaltname="" keywords="abil,arrai,improv,monster,nonelit,score"><para reftype="other" refcase="yes" refname="Nonelite Array"><b>Nonelite Array:</b> The nonelite array is 13, 12, 11, 10, 9, 8. The nonelite array does not necessarily make a monster better than normal, but it does customize the monster as an individual with strengths and weaknesses compared to a typical member of its race. The nonelite array is most appropriate for monsters who add class levels in a NPC class.</para>
+</topic><topic level="8" name="Ability Score Improvement" origname="Ability Score Improvement" linkname="Monsters_Improving_Monsters_Ability_Score_Arrays_Ability_Score_Improvement" docbookid="Improving Monsters8" refname="Ability Score Improvement" reftype="other" refcase="yes" refaltname="" keywords="abil,arrai,improv,monster,score"><para reftype="other" refcase="yes" refname="Ability Score Improvement"><b>Ability Score Improvement:</b> Treat monster Hit Dice the same as character level for determining ability score increases. This only applies to Hit Dice increases, monsters do not gain ability score increases for levels they 'already reached' with their racial Hit Dice, since these adjustments are included in their basic ability scores.</para><para/>
+</topic>
+</topic><topic level="2" name="Monsters and Class Levels" origname="Monsters and Class Levels" linkname="Monsters_Improving_Monsters_Monsters_and_Class_Levels" docbookid="Improving Monsters9" refname="Monsters and Class Levels" reftype="monsterinfo" refcase="no" refaltname="" keywords="class,improv,level,monster"><para reftype="monster" refcase="no" refname="Monsters and Class Levels" style="heading 2">Monsters and Class Levels</para><para>If a creature acquires a character class, it follows the rules for multiclass characters<i/>.</para><para>The creature's Hit Dice equal the number of class levels it has plus its racial Hit Dice. A creature's 'monster class' is always a favored class, and the creature never takes XP penalties for having it. Additional Hit Dice gained from taking levels in a character class never affect a creature's size.</para><topic level="8" name="Humanoids and Class Levels" origname="Humanoids and Class Levels" linkname="Monsters_Improving_Monsters_Monsters_and_Class_Levels_Humanoids_and_Class_Levels" docbookid="Improving Monsters10" refname="Humanoids and Class Levels" reftype="other" refcase="yes" refaltname="" keywords="class,humanoid,improv,level,monster"><para reftype="other" refcase="yes" refname="Humanoids and Class Levels"><b>Humanoids and Class Levels:</b> Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.</para>
+</topic><topic level="8" name="Level Adjustment and Effective Character Level" origname="Level Adjustment and Effective Character Level" linkname="Monsters_Improving_Monsters_Monsters_and_Class_Levels_Level_Adjustment_and_Effective_Character_Level" docbookid="Improving Monsters11" refname="Level Adjustment and Effective Character Level" reftype="other" refcase="yes" refaltname="" keywords="adjust,charact,class,effect,improv,level,monster"><para reftype="other" refcase="yes" refname="Level Adjustment and Effective Character Level"><b>Level Adjustment and Effective Character Level:</b> To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels. The monster is considered to have experience points equal to the minimum needed to be a character of its ECL.</para><para>If you choose to equip a monster with gear, use its ECL as its character level for purposes of determining how much equipment it can purchase. Generally, only monsters with an Advancement entry of 'By character class' receive NPC gear; other creatures adding character levels should be treated as monsters of the appropriate CR and assigned treasure, not equipment.</para>
+</topic><topic level="8" name="Feat Acquisition and Ability Score Increases" origname="Feat Acquisition and Ability Score Increases" linkname="Monsters_Improving_Monsters_Monsters_and_Class_Levels_Feat_Acquisition_and_Ability_Score_Increases" docbookid="Improving Monsters12" refname="Feat Acquisition and Ability Score Increases" reftype="other" refcase="yes" refaltname="" keywords="abil,acquisit,class,feat,improv,increas,level,monster,score"><para reftype="other" refcase="yes" refname="Feat Acquisition and Ability Score Increases"><b>Feat Acquisition and Ability Score Increases:</b> A monster's total Hit Dice, not its ECL, govern its acquisition of feats and ability score increases.</para><para/>
+</topic>
+</topic><topic level="2" name="Increasing Hit Dice" origname="Increasing Hit Dice" linkname="Monsters_Improving_Monsters_Increasing_Hit_Dice" docbookid="Improving Monsters13" refname="Increasing Hit Dice" reftype="monsterinfo" refcase="no" refaltname="" keywords="dice,hit,improv,increas,monster"><para reftype="monster" refcase="no" refname="Increasing Hit Dice" style="heading 2">Increasing Hit Dice</para><para>As its Hit Dice increase, a creature's attack bonuses and saving throw modifiers might improve. It gains more feats and skills, depending on its type, as shown on Table: Creature Improvement by Type.</para><para>Note that if a creature acquires a character class, it improves according to its class, not its type.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Creature Improvement by Type</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para><b>Hit Die</b></para></cell>
+<cell><para><b>Attack Bonus</b></para></cell>
+<cell><para><b>Good Saving Throws</b></para></cell>
+<cell><para><b>Skill Points*</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Aberration</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Will</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Animal</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Fort, Ref (and sometimes Will)</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Construct</para></cell>
+<cell><para>d10</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2 + Int mod per HD**</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dragon</para></cell>
+<cell><para>d12</para></cell>
+<cell><para>HD (as fighter)</para></cell>
+<cell><para>Fort, Ref, Will</para></cell>
+<cell><para>6 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Elemental</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Ref (Air, Fire), or</para>
+<para>Fort (Earth, Water)</para></cell> <cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Fey</para></cell>
+<cell><para>d6</para></cell>
+<cell><para>HD x1/2 (as wizard)</para></cell>
+<cell><para>Ref, Will</para></cell>
+<cell><para>6 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Giant</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Fort</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Humanoid</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Varies (any one)</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Magical beast</para></cell>
+<cell><para>d10</para></cell>
+<cell><para>HD (as fighter)</para></cell>
+<cell><para>Fort, Ref</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Monstrous humanoid</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD (as fighter)</para></cell>
+<cell><para>Ref, Will</para></cell>
+<cell><para>2 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Ooze</para></cell>
+<cell><para>d10</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2 + Int mod per HD**</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Outsider</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD (as fighter)</para></cell>
+<cell><para>Fort, Ref, Will</para></cell>
+<cell><para>8 + Int mod per HD</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Plant</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Fort</para></cell>
+<cell><para>2 + Int mod per HD**</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Undead</para></cell>
+<cell><para>d12</para></cell>
+<cell><para>HD x1/2 (as wizard)</para></cell>
+<cell><para>Will</para></cell>
+<cell><para>4 + Int mod per HD**</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Vermin</para></cell>
+<cell><para>d8</para></cell>
+<cell><para>HD x3/4 (as cleric)</para></cell>
+<cell><para>Fort</para></cell>
+<cell><para>2 + Int mod per HD**</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>All types have a number of feats equal to 1 + 1 per 3 Hit Dice.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>* As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die.</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>** Creatures with an Intelligence score of '-' gain no skill points or feats.</para></cell>
+<cell/>
+</row>
+</table><para/><topic level="3" name="Size Increases" origname="Size Increases" linkname="Monsters_Improving_Monsters_Increasing_Hit_Dice_Size_Increases" docbookid="Improving Monsters14" refname="Size Increases" reftype="monsterinfo" refcase="no" refaltname="" keywords="dice,hit,improv,increas,monster,size"><para reftype="monster" refcase="no" refname="Size Increases" style="heading 3">Size Increases</para><para>A creature may become larger when its Hit Dice are increased (the new size is noted parenthetically in the monster's Advancement entry).</para><para>A size increase affects any special ability the creature has that is affected by size. Increased size also affects a creature's ability scores, AC, attack bonuses, and damage values as indicated on the tables below.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Changes to Statistics by Size</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Old Size</b>*</para></cell>
+<cell><para><b>New Size</b></para></cell>
+<cell><para><b>Str</b></para></cell>
+<cell><para><b>Dex</b></para></cell>
+<cell><para><b>Con</b></para></cell>
+<cell><para><b>Natural Armor</b></para></cell>
+<cell><para><b>AC/</b></para>
+<para><b>Attack</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para>Fine</para></cell>
+<cell><para>Diminutive</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>-4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Diminutive</para></cell>
+<cell><para>Tiny</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>-2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>Small</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>Medium</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>Large</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>Huge</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+3</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Huge</para></cell>
+<cell><para>Gargantuan</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>-2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gargantuan</para></cell>
+<cell><para>Colossal</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>Same</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>-4</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>*Repeat the adjustment if the creature moves up more than one size.</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Increased Damage By Size</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Old Damage (Each)</b>*</para></cell>
+<cell><para><b>New Damage</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d2</para></cell>
+<cell><para>1d3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d3</para></cell>
+<cell><para>1d4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d4</para></cell>
+<cell><para>1d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d6</para></cell>
+<cell><para>1d8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d8</para></cell>
+<cell><para>2d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1d10</para></cell>
+<cell><para>2d8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2d6</para></cell>
+<cell><para>3d6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2d8</para></cell>
+<cell><para>3d8</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>* Repeat the adjustment if the creature moves up more than one size category.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="2" name="Templates" origname="Templates" linkname="Monsters_Improving_Monsters_Templates" docbookid="Improving Monsters15" refname="Templates" reftype="monsterinfo" refcase="no" refaltname="" keywords="improv,monster,templat"><para reftype="monster" refcase="no" refname="Templates" style="heading 2">Templates</para><para>Certain creatures are created by adding a template to an existing creature. A templated creature can represent a freak of nature, the individual creation of a single experimenter, or the first generation of offspring from parents of different species.</para><para/><topic level="3" name="Acquired and Inherited Templates" origname="Acquired and Inherited Templates" linkname="Monsters_Improving_Monsters_Templates_Acquired_and_Inherited_Templates" docbookid="Improving Monsters16" refname="Acquired and Inherited Templates" reftype="monsterinfo" refcase="no" refaltname="" keywords="acquir,improv,inherit,monster,templat"><para reftype="monster" refcase="no" refname="Acquired and Inherited Templates" style="heading 3">Acquired and Inherited Templates</para><para>Some templates can be added to creatures anytime. Templates such as these are referred to as acquired templates, indicating that the creature did not always have the attributes of the template.</para><para>Other templates, known as inherited templates, are part of a creature from the beginning of its existence. Creatures are born with these templates.</para><para>It's possible for a certain kind of template to be of either type.</para><para/>
+</topic><topic level="3" name="Reading A Template" origname="Reading A Template" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template" docbookid="Improving Monsters17" refname="Reading A Template" reftype="monsterinfo" refcase="no" refaltname="" keywords="improv,monster,read,templat"><para reftype="monster" refcase="no" refname="Reading A Template" style="heading 3">Reading A Template</para><para>A template's description provides a set of instructions for altering an existing creature, known as the base creature. The changes that a template might cause to each line of a creature's statistics block are discussed below. Generally, if a template does not cause a change to a certain statistic, that entry is missing from the template description. For clarity, the entry for a statistic or attribute that is not changed is sometimes given as 'Same as the base creature.'</para><topic level="8" name="Size and Type" origname="Size and Type" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Size_and_Type" docbookid="Improving Monsters18" refname="Size and Type" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,read,size,templat,type"><para reftype="other" refcase="yes" refname="Size and Type"><b>Size and Type:</b> Templates often change a creature's type, and may change the creature's size.</para><para>If a template changes the base creature's type, the creature also acquires the augmented subtype unless the template description indicates otherwise. The augmented subtype is always paired with the creature's original type. Unless a template indicates otherwise, the new creature has the traits of the new type but the features of the original type.</para><para>If a template changes a creature's size, use Table: Changes to Statistics by Size to calculate changes to natural armor, Armor Class, attack rolls, and grapple bonus.</para>
+</topic><topic level="8" name="Hit Dice and Hit Points" origname="Hit Dice and Hit Points" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Hit_Dice_and_Hit_Points" docbookid="Improving Monsters19" refname="Hit Dice and Hit Points" reftype="other" refcase="yes" refaltname="" keywords="dice,hit,improv,monster,point,read,templat"><para reftype="other" refcase="yes" refname="Hit Dice and Hit Points"><b>Hit Dice and Hit Points:</b> Most templates do not change the number of Hit Dice a monster has, but some do. Some templates change the size of a creature's Hit Dice (usually by changing the creature type). A few templates change previously acquired Hit Dice, and continue to change Hit Dice gained with class levels, but most templates that change Hit Dice change only the creature's original HD and leave class Hit Dice unchanged.</para><para>If the Hit Dice entry in a template description is missing, Hit Dice and hit points do not change unless the creature's Constitution modifier changes.</para>
+</topic><topic level="8" name="Initiative" origname="Initiative" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Initiative" docbookid="Improving Monsters20" refname="Initiative" reftype="other" refcase="yes" refaltname="" keywords="improv,initi,monster,read,templat"><para reftype="other" refcase="yes" refname="Initiative"><b>Initiative:</b> If a template changes the monster's Dexterity, or if it adds or removes the Improved Initiative feat, this entry changes.</para>
+</topic><topic level="8" name="Speed" origname="Speed" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Speed" docbookid="Improving Monsters21" refname="Speed" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,read,spe,templat"><para reftype="other" refcase="yes" refname="Speed"><b>Speed:</b> If a template modifies a creature's speed, the template states how that happens. More commonly, a template adds a new movement mode.</para>
+</topic><topic level="8" name="Armor Class" origname="Armor Class" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Armor_Class" docbookid="Improving Monsters22" refname="Armor Class" reftype="other" refcase="yes" refaltname="" keywords="armor,class,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Armor Class"><b>Armor Class:</b> If a template changes the creature's size, see Table: Changes to Statistics by Size to determine its new Armor Class and to see whether its natural armor changes. In some cases the method of determining Armor Class changes radically; the template description explains how to adjust the creature's AC.</para>
+</topic><topic level="8" name="Base Attack/Grapple" origname="Base Attack/Grapple" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Base_Attack_Grapple" docbookid="Improving Monsters23" refname="Base Attack/Grapple" reftype="other" refcase="yes" refaltname="" keywords="attack/grapple,base,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Base Attack/Grapple"><b>Base Attack/Grapple:</b> Templates usually do not change a creature's base attack bonus. If a template modifies a creature's base attack bonus, the template description states how that happens. Changes to a creature's Strength score can change a creature's grapple bonus, as can changes to its size.</para>
+</topic><topic level="8" name="Attack and Full Attack" origname="Attack and Full Attack" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Attack_and_Full_Attack" docbookid="Improving Monsters24" refname="Attack and Full Attack" reftype="other" refcase="yes" refaltname="" keywords="attack,full,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Attack and Full Attack"><b>Attack and Full Attack:</b> Most templates do not change a creature's attack bonus or modes of attack, even when the creature's type changes (the creature's base attack bonus is the same as a creature of the original type). Of course, any change in ability scores may affect attack bonuses. If Strength or Dexterity changes, use the new modifier to determine attack bonuses. A change in a monster's size also changes its attack bonus; see Table: Changes to Statistics by Size.</para>
+</topic><topic level="8" name="Damage" origname="Damage" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Damage" docbookid="Improving Monsters25" refname="Damage" reftype="other" refcase="yes" refaltname="" keywords="damag,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Damage"><b>Damage:</b> Damage changes with Strength. If the creature uses a two-handed weapon or has a single natural weapon, it adds 1-1/2 times its Strength bonus to the damage. If it has more than a single attack then it adds its Strength bonus to damage rolls for the primary attack and 1/2 its Strength bonus to all secondary attacks.</para>
+</topic><topic level="8" name="Space/Reach" origname="Space/Reach" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Space_Reach" docbookid="Improving Monsters26" refname="Space/Reach" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,read,space/reach,templat"><para reftype="other" refcase="yes" refname="Space/Reach"><b>Space/Reach:</b> A template may change this entry if it changes the monster's size. Note that this table does not take into account special situations such as exceptional reach.</para>
+</topic><topic level="8" name="Special Attacks" origname="Special Attacks" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Special_Attacks" docbookid="Improving Monsters27" refname="Special Attacks" reftype="other" refcase="yes" refaltname="" keywords="attack,improv,monster,read,special,templat"><para reftype="other" refcase="yes" refname="Special Attacks"><b>Special Attacks:</b> A template may add or remove special attacks. The template description gives the details of any special attacks a template provides, including how to determine saving throw DCs, if applicable.</para>
+</topic><topic level="8" name="Special Qualities" origname="Special Qualities" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Special_Qualities" docbookid="Improving Monsters28" refname="Special Qualities" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,qualiti,read,special,templat"><para reftype="other" refcase="yes" refname="Special Qualities"><b>Special Qualities:</b> A template may add or remove special qualities. The template description gives the details of any special qualities a template provides, including how to determine saving throw DCs, if applicable. Even if the special qualities entry is missing from a template description, the creature still gains any qualities associated with its new type.</para>
+</topic><topic level="8" name="Base Saves" origname="Base Saves" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Base_Saves" docbookid="Improving Monsters29" refname="Base Saves" reftype="other" refcase="yes" refaltname="" keywords="base,improv,monster,read,save,templat"><para reftype="other" refcase="yes" refname="Base Saves"><b>Base Saves:</b> As with attacks, changing a monster's type does not always change its base saving throw bonuses. You only need to adjust them for new modifiers for Constitution, Dexterity, or Wisdom. A template may, however, state that a monster has a different 'good' saving throw.</para>
+</topic><topic level="8" name="Abilities" origname="Abilities" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Abilities" docbookid="Improving Monsters30" refname="Abilities" reftype="other" refcase="yes" refaltname="" keywords="abil,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Abilities"><b>Abilities:</b> If a template changes one or more ability scores, these changes are noted here.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Skills" docbookid="Improving Monsters31" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,read,skill,templat"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> As with attacks, changing a monster's type does not always change its skill points. Most templates don't change the number of Hit Dice a creature has, so you don't need to adjust skills in that case unless the key abilities for those skills have changed, or the template gives a bonus on one or more skills, or unless the template gives a feat that provides a bonus on a skill check.</para><para>Some templates change how skill points are determined, but this change usually only affects skill points gained after the template is applied. Treat skills listed in the base creature's description as class skills, as well as any new skills provided by the template.</para>
+</topic><topic level="8" name="Feats" origname="Feats" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Feats" docbookid="Improving Monsters32" refname="Feats" reftype="other" refcase="yes" refaltname="" keywords="feat,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Feats"><b>Feats:</b> Since most templates do not change the number of Hit Dice a creature has, a template will not change the number of feats the creature has. Some templates grant one or more bonus feats.</para>
+</topic><topic level="8" name="Environment" origname="Environment" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Environment" docbookid="Improving Monsters33" refname="Environment" reftype="other" refcase="yes" refaltname="" keywords="environ,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Environment"><b>Environment:</b> Usually the same as the base creature.</para>
+</topic><topic level="8" name="Organization" origname="Organization" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Organization" docbookid="Improving Monsters34" refname="Organization" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,organ,read,templat"><para reftype="other" refcase="yes" refname="Organization"><b>Organization:</b> Usually the same as the base creature.</para>
+</topic><topic level="8" name="Challenge Rating" origname="Challenge Rating" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Challenge_Rating" docbookid="Improving Monsters35" refname="Challenge Rating" reftype="other" refcase="yes" refaltname="" keywords="challeng,improv,monster,rate,read,templat"><para reftype="other" refcase="yes" refname="Challenge Rating"><b>Challenge Rating:</b> Most templates increase the creature's Challenge Rating. A template might provide a modifier to be added to the base creature's CR, or it might specify a range of modifiers depending on the base creature's original Hit Dice or CR.</para>
+</topic><topic level="8" name="Treasure" origname="Treasure" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Treasure" docbookid="Improving Monsters36" refname="Treasure" reftype="other" refcase="yes" refaltname="" keywords="improv,monster,read,templat,treasur"><para reftype="other" refcase="yes" refname="Treasure"><b>Treasure:</b> Usually the same as the base creature.</para>
+</topic><topic level="8" name="Alignment" origname="Alignment" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Alignment" docbookid="Improving Monsters37" refname="Alignment" reftype="other" refcase="yes" refaltname="" keywords="align,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Alignment"><b>Alignment:</b> Usually the same as the base creature, unless the template is associated with a certain alignment.</para>
+</topic><topic level="8" name="Advancement" origname="Advancement" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Advancement" docbookid="Improving Monsters38" refname="Advancement" reftype="other" refcase="yes" refaltname="" keywords="advanc,improv,monster,read,templat"><para reftype="other" refcase="yes" refname="Advancement"><b>Advancement:</b> Usually the same as the base creature.</para>
+</topic><topic level="8" name="Level Adjustment" origname="Level Adjustment" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Level_Adjustment" docbookid="Improving Monsters39" refname="Level Adjustment" reftype="other" refcase="yes" refaltname="" keywords="adjust,improv,level,monster,read,templat"><para reftype="other" refcase="yes" refname="Level Adjustment"><b>Level Adjustment:</b> This entry is a modifier to the base creature's level adjustment. Any level adjustment is meaningless unless the creature retains a high enough Intelligence (minimum 3) to gain class levels after applying the template.</para><para/>
+</topic><topic level="5" name="Adding More Than One Template" origname="Adding More Than One Template" linkname="Monsters_Improving_Monsters_Templates_Reading_A_Template_Adding_More_Than_One_Template" docbookid="Improving Monsters40" refname="Adding More Than One Template" reftype="monsterinfo" refcase="no" refaltname="" keywords="ad,improv,monster,read,templat"><para reftype="monster" refcase="no" refname="Adding More Than One Template" style="heading 5">Adding More Than One Template</para><para>In theory, there's no limit to the number of templates you can add to a creature. To add more than one template, just apply each template one at a time. Always apply inherited templates before applying acquired templates. Whenever you add multiple templates, pay attention to the creature's type-you may add a template that makes the creature ineligible for other templates you might want to add.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Advanced Monster Challenge Rating" origname="Advanced Monster Challenge Rating" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating" docbookid="Improving Monsters41" refname="Advanced Monster Challenge Rating" reftype="monsterinfo" refcase="no" refaltname="" keywords="advanc,challeng,improv,monster,rate"><para reftype="monster" refcase="no" refname="Advanced Monster Challenge Rating" style="heading 2">Advanced Monster Challenge Rating</para><para>When adding class levels to a creature with 1 or less HD, you advance the creature like a character. Otherwise, use the following guidelines.</para><para/><topic level="3" name="Adding Class Levels" origname="Adding Class Levels" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Adding_Class_Levels" docbookid="Improving Monsters42" refname="Adding Class Levels" reftype="monsterinfo" refcase="no" refaltname="" keywords="ad,advanc,challeng,class,improv,level,monster,rate"><para reftype="monster" refcase="no" refname="Adding Class Levels" style="heading 3">Adding Class Levels</para><para>If you are advancing a monster by adding player character class levels, decide if the class levels directly improve the monster's existing capabilities.</para><para>When adding class levels to a creature, you should give it typical ability scores appropriate for that class. Most creatures are built using the standard array of ability scores: 11, 11, 11, 10, 10, 10, adjusted by racial modifiers. If you give a creature a PC class use the elite array of ability scores before racial adjustments: 15, 14, 13, 12, 10, 8. Creatures with NPC classes use the nonelite array of 13, 12, 11, 10, 9, 8. T</para><para/><topic level="5" name="Associated Class Levels" origname="Associated Class Levels" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Adding_Class_Levels_Associated_Class_Levels" docbookid="Improving Monsters43" refname="Associated Class Levels" reftype="monsterinfo" refcase="no" refaltname="" keywords="ad,advanc,associ,challeng,class,improv,level,monster,rate"><para reftype="monster" refcase="no" refname="Associated Class Levels" style="heading 5">Associated Class Levels</para><para>Class levels that increase a monster's existing strengths are known as associated class levels. Each associated class level a monster has increases its CR by 1.</para><para>Barbarian, fighter, paladin, and ranger are associated classes for a creature that relies on its fighting ability.</para><para>Rogue and ranger are associated classes for a creature that relies on stealth to surprise its foes, or on skill use to give itself an advantage.</para><para>A spellcasting class is an associated class for a creature that already has the ability to cast spells as a character of the class in question, since the monster's levels in the spellcasting class stack with its innate spellcasting ability.</para><para/>
+</topic><topic level="5" name="Nonassociated Class Levels" origname="Nonassociated Class Levels" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Adding_Class_Levels_Nonassociated_Class_Levels" docbookid="Improving Monsters44" refname="Nonassociated Class Levels" reftype="monsterinfo" refcase="no" refaltname="" keywords="ad,advanc,challeng,class,improv,level,monster,nonassoci,rate"><para reftype="monster" refcase="no" refname="Nonassociated Class Levels" style="heading 5">Nonassociated Class Levels</para><para>If you add a class level that doesn't directly play to a creature's strength the class level is considered nonassociated, and things get a little more complicated<i/>. Adding a nonassociated class level to a monster increases its CR by 1/2 per level until one of its nonassociated class levels equals its original Hit Dice. At that point, each additional level of the same class or a similar one is considered associated and increases the monster's CR by 1.</para><para>Levels in NPC classes are always treated as nonassociated.</para><para/>
+</topic>
+</topic><topic level="3" name="Adding Hit Dice" origname="Adding Hit Dice" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Adding_Hit_Dice" docbookid="Improving Monsters45" refname="Adding Hit Dice" reftype="monsterinfo" refcase="no" refaltname="" keywords="ad,advanc,challeng,dice,hit,improv,monster,rate"><para reftype="monster" refcase="no" refname="Adding Hit Dice" style="heading 3">Adding Hit Dice</para><para>When you improve a monster by adding Hit Dice, use Table: Improved Monster CR Increase to determine the effect on the creature's CR. Keep in mind that many monsters that advance by adding Hit Dice also increase in size. Do not stack this CR increase with any increase from class levels. In general, once you've doubled a creature's CR, you should closely watch any additional increases in its abilities. Adding Hit Dice to a creature improves several of its abilities, and radical increases might not follow this progression indefinitely. Compare the monster's improved attack bonus, saving throw bonuses, and any DCs of its special abilities from the HD increase to typical characters of the appropriate level and adjust the CR accordingly.</para><table>
+<row/>
+<row>
+<cell><para><b>Table: Improved Monster CR Increase</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Creature's Original Type</b></para></cell>
+<cell><para><b>CR Increase</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Aberration, construct, elemental, fey, giant, humanoid, ooze, plant, undead, vermin</para></cell>
+<cell><para>+1 per 4 HD added</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Animal, magical beast, monstrous humanoid</para></cell>
+<cell><para>+1 per 3 HD added</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dragon, outsider, nonassociated class levels</para></cell>
+<cell><para>+1 per 2 HD or 2 levels added</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Directly associated class levels</para></cell>
+<cell><para>+1 per level added</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Other Modifiers:</b></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Size increased to Large or larger</para></cell>
+<cell><para>+1 to CR</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Monster's ability scores based on elite array*</para></cell>
+<cell><para>+1 to CR</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Monster possesses special attacks or qualities that significantly improve combat effectiveness</para></cell>
+<cell><para>+2 to CR</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Monster possesses special attacks or qualities that improve combat effectiveness in a minor way</para></cell>
+<cell><para>+1 to CR</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Template added</para></cell>
+<cell><para>+ template CR modifier</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>* Do not apply this increase if you advance a monster by class levels. (Monsters advanced by class levels are assumed to use the elite array.)</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Increasing Size" origname="Increasing Size" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Increasing_Size" docbookid="Improving Monsters46" refname="Increasing Size" reftype="monsterinfo" refcase="no" refaltname="" keywords="advanc,challeng,improv,increas,monster,rate,size"><para reftype="monster" refcase="no" refname="Increasing Size" style="heading 3">Increasing Size</para><para>Generally, increasing a monster's size increases its combat effectiveness. Large creatures gain increased Strength, reach, and other benefits. Apply this modifier if you increase a creature beyond Medium and in conjunction with any other increases.</para><para>Be careful, though. Monsters that benefit from a smaller size may actually lose effectiveness because of a size increase. Monsters that don't benefit from size increases don't advance in that manner for this reason.</para><para/>
+</topic><topic level="3" name="Adding Special Abilities" origname="Adding Special Abilities" linkname="Monsters_Improving_Monsters_Advanced_Monster_Challenge_Rating_Adding_Special_Abilities" docbookid="Improving Monsters47" refname="Adding Special Abilities" reftype="monsterinfo" refcase="no" refaltname="" keywords="abil,ad,advanc,challeng,improv,monster,rate,special"><para reftype="monster" refcase="no" refname="Adding Special Abilities" style="heading 3">Adding Special Abilities</para><para>You can add any sort of spell-like, supernatural, or extraordinary ability to a creature. As with a class level, you should determine how much, or how little, this ability adds to the creature's existing repertoire. A suite of abilities that work together should be treated as a single modifier for this purpose. If the ability (or combination of abilities) significantly increases the monster's combat effectiveness, increase its CR by 2. Minor abilities increase the creature's CR by 1, and truly trivial abilities may not increase CR at all. If the special abilities a monster gains are not tied to a class or Hit Die increase, this CR increase stacks.</para><para>A significant special attack is one that stands a good chance of incapacitating or crippling a character in one round. A significant special quality is one that seriously diminishes the monster's vulnerability to common attacks. Do not add this factor twice if a monster has both special attacks and special qualities.</para><para>Make sure to 'scale' your evaluation of these abilities by the monster's current CR.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

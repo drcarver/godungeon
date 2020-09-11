@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Adventuring &gt; Treasure">
+<info>
+<title>TREASURE</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Adventuring" linkname="Adventuring" docbookid="Treasure0" keywords="adventur"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Treasure" origname="Treasure" linkname="Adventuring_Treasure" docbookid="Treasure1" keywords="adventur,treasur"><para style="heading 1">Treasure</para><para/><topic level="2" name="Monsters with Treasure" origname="Monsters with Treasure" linkname="Adventuring_Treasure_Monsters_with_Treasure" docbookid="Treasure2" refname="Monsters with Treasure" reftype="other" refcase="yes" refaltname="" keywords="adventur,monster,treasur"><para reftype="other" refcase="yes" refname="Monsters with Treasure" style="heading 2">Monsters with Treasure</para><para>Every monster has a treasure rating (indicating how much treasure it has, although for some creatures the rating is 'None'). The tables found below are used to determine the specifics. After referencing the level and kind of treasure (coins, goods, items) found in the creature's description, roll on the appropriate row and columns of the proper table.</para><para>When generating an encounter dealing with monsters away from their lair, remember that a creature only takes what it can easily carry with it. In the case of a creature that cannot use treasure, that generally means nothing. The monster safeguards or hides its treasure as well as it can, but it leaves it behind when outside the lair.</para><para/><topic level="5" name="Using the Treasure Table" origname="Using the Treasure Table" linkname="Adventuring_Treasure_Monsters_with_Treasure_Using_the_Treasure_Table" docbookid="Treasure3" refname="Using the Treasure Table" reftype="other" refcase="yes" refaltname="" keywords="adventur,monster,tabl,treasur,us"><para reftype="other" refcase="yes" refname="Using the Treasure Table" style="heading 5">Using the Treasure Table</para><para>Cross-reference the level of the treasure on the left with the type of treasure. The level of the treasure is equal to the CR of the monsters in the encounter. A standard treasure (one that includes coins, goods, and items) requires three rolls, one for each category.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Treasure Values per Encounter</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Encounter Level</b></para></cell>
+<cell><para><b>Treasure per Encounter</b></para></cell>
+<cell><para><b>Encounter Level</b></para></cell>
+<cell><para><b>Treasure per Encounter</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1</para></cell>
+<cell><para>300 gp</para></cell>
+<cell><para>11</para></cell>
+<cell><para>7,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2</para></cell>
+<cell><para>600 gp</para></cell>
+<cell><para>12</para></cell>
+<cell><para>9,800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3</para></cell>
+<cell><para>900 gp</para></cell>
+<cell><para>13</para></cell>
+<cell><para>13,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4</para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell><para>14</para></cell>
+<cell><para>17,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>5</para></cell>
+<cell><para>1,600 gp</para></cell>
+<cell><para>15</para></cell>
+<cell><para>22,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6</para></cell>
+<cell><para>2,000 gp</para></cell>
+<cell><para>16</para></cell>
+<cell><para>28,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>7</para></cell>
+<cell><para>2,600 gp</para></cell>
+<cell><para>17</para></cell>
+<cell><para>36,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8</para></cell>
+<cell><para>3,400 gp</para></cell>
+<cell><para>18</para></cell>
+<cell><para>47,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>9</para></cell>
+<cell><para>4,500 gp</para></cell>
+<cell><para>19</para></cell>
+<cell><para>61,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10</para></cell>
+<cell><para>5,800 gp</para></cell>
+<cell><para>20</para></cell>
+<cell><para>80,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/><para>On average, the PCs should earn one treasure suitable to their level for each encounter they overcome.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Average Treasure Results</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Type</b> </para></cell>
+<cell><para><b>Average Result</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gem</para></cell>
+<cell><para>275 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Art object</para></cell>
+<cell><para>1,100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Mundane item</para></cell>
+<cell><para>350 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Minor magic item</para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium magic item</para></cell>
+<cell><para>10,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Major magic item</para></cell>
+<cell><para>40,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Treasure</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>-- Coins --</b></para></cell>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Goods</b></para></cell>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Items</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>1st</para></cell>
+<cell><para>01-14</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-90</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-71</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>15-29</para></cell>
+<cell><para>1d6 x 1,000 cp</para></cell>
+<cell><para>91-95</para></cell>
+<cell><para>1 gem</para></cell>
+<cell><para>72-95</para></cell>
+<cell><para>1 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>30-52</para></cell>
+<cell><para>1d8 x 100 sp</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1 art</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>53-95</para></cell>
+<cell><para>2d8 x 10 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1d4 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>2nd</para></cell>
+<cell><para>01-13</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-81</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-49</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>14-23</para></cell>
+<cell><para>1d10 x 1,000 cp</para></cell>
+<cell><para>82-95</para></cell>
+<cell><para>1d3 gems</para></cell>
+<cell><para>50-85</para></cell>
+<cell><para>1 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>24-43</para></cell>
+<cell><para>2d10 x 100 sp</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1d3 art</para></cell>
+<cell><para>86-100</para></cell>
+<cell><para>1 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>44-95</para></cell>
+<cell><para>4d10 x 10 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>2d8 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>3rd</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-77</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-49</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>12-21</para></cell>
+<cell><para>2d10 x 1,000 cp</para></cell>
+<cell><para>78-95</para></cell>
+<cell><para>1d3 gems</para></cell>
+<cell><para>50-79</para></cell>
+<cell><para>1d3 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>22-41</para></cell>
+<cell><para>4d8 x 100 sp</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1d3 art</para></cell>
+<cell><para>80-100</para></cell>
+<cell><para>1 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>42-95</para></cell>
+<cell><para>1d4 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1d10 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>4th</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-70</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-42</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>12-21</para></cell>
+<cell><para>3d10 x 1,000 cp</para></cell>
+<cell><para>71-95</para></cell>
+<cell><para>1d4 gems</para></cell>
+<cell><para>43-62</para></cell>
+<cell><para>1d4 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>22-41</para></cell>
+<cell><para>4d12 x 1,000 sp</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1d3 art</para></cell>
+<cell><para>63-100</para></cell>
+<cell><para>1 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>42-95</para></cell>
+<cell><para>1d6 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1d8 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>5th</para></cell>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-60</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-57</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>11-19</para></cell>
+<cell><para>1d4 x 10,000 cp</para></cell>
+<cell><para>61-95</para></cell>
+<cell><para>1d4 gems</para></cell>
+<cell><para>58-67</para></cell>
+<cell><para>1d4 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>20-38</para></cell>
+<cell><para>1d6 x 1,000 sp</para></cell>
+<cell><para>96-100</para></cell>
+<cell><para>1d4 art</para></cell>
+<cell><para>68-100</para></cell>
+<cell><para>1d3 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>39-95</para></cell>
+<cell><para>1d8 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1d10 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>6th</para></cell>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-56</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-54</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>11-18</para></cell>
+<cell><para>1d6 x 10,000 cp</para></cell>
+<cell><para>57-92</para></cell>
+<cell><para>1d4 gems</para></cell>
+<cell><para>55-59</para></cell>
+<cell><para>1d4 mundane</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>19-37</para></cell>
+<cell><para>1d8 x 1,000 sp</para></cell>
+<cell><para>93-100</para></cell>
+<cell><para>1d4 art</para></cell>
+<cell><para>60-99</para></cell>
+<cell><para>1d3 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>38-95</para></cell>
+<cell><para>1d10 x 100 gp</para></cell>
+<cell><para>100</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1d12 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>7th</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-48</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-51</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>12-18</para></cell>
+<cell><para>1d10 x 10,000 cp</para></cell>
+<cell><para>49-88</para></cell>
+<cell><para>1d4 gems</para></cell>
+<cell><para>52-97</para></cell>
+<cell><para>1d3 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>19-35</para></cell>
+<cell><para>1d12 x 1,000 sp</para></cell>
+<cell><para>89-100</para></cell>
+<cell><para>1d4 art</para></cell>
+<cell><para>98-100</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>36-93</para></cell>
+<cell><para>2d6 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>94-100</para></cell>
+<cell><para>3d4 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>8th</para></cell>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-45</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-48</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>11-15</para></cell>
+<cell><para>1d12 x 10,000 cp</para></cell>
+<cell><para>46-85</para></cell>
+<cell><para>1d6 gems</para></cell>
+<cell><para>49-96</para></cell>
+<cell><para>1d4 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>16-29</para></cell>
+<cell><para>2d6 x 1,000 sp</para></cell>
+<cell><para>86-100</para></cell>
+<cell><para>1d4 art</para></cell>
+<cell><para>97-100</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>30-87</para></cell>
+<cell><para>2d8 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>88-100</para></cell>
+<cell><para>3d6 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>9th</para></cell>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-40</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-43</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>11-15</para></cell>
+<cell><para>2d6 x 10,000 cp</para></cell>
+<cell><para>41-80</para></cell>
+<cell><para>1d8 gems</para></cell>
+<cell><para>44-91</para></cell>
+<cell><para>1d4 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>16-29</para></cell>
+<cell><para>2d8 x 1,000 sp</para></cell>
+<cell><para>81-100</para></cell>
+<cell><para>1d4 art</para></cell>
+<cell><para>92-100</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>30-85</para></cell>
+<cell><para>5d4 x 100 gp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>86-100</para></cell>
+<cell><para>2d12 x 10 pp</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>10th</para></cell>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-35</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-40</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>11-24</para></cell>
+<cell><para>2d10 x 1,000 sp</para></cell>
+<cell><para>36-79</para></cell>
+<cell><para>1d8 gems</para></cell>
+<cell><para>41-88</para></cell>
+<cell><para>1d4 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>25-79</para></cell>
+<cell><para>6d4 x 100 gp</para></cell>
+<cell><para>80-100</para></cell>
+<cell><para>1d6 art</para></cell>
+<cell><para>89-99</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>80-100</para></cell>
+<cell><para>5d6 x 10 pp</para></cell>
+<cell><para>100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>11th</para></cell>
+<cell><para>01-08</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-24</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-31</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>09-14</para></cell>
+<cell><para>3d10 x 1,000 sp</para></cell>
+<cell><para>25-74</para></cell>
+<cell><para>1d10 gems</para></cell>
+<cell><para>32-84</para></cell>
+<cell><para>1d4 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>15-75</para></cell>
+<cell><para>4d8 x 100 gp</para></cell>
+<cell><para>75-100</para></cell>
+<cell><para>1d6 art</para></cell>
+<cell><para>85-98</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>76-100</para></cell>
+<cell><para>4d10 x 10 pp</para></cell>
+<cell><para>99-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>12th</para></cell>
+<cell><para>01-08</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-17</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-27</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>09-14</para></cell>
+<cell><para>3d12 x 1,000 sp</para></cell>
+<cell><para>18-70</para></cell>
+<cell><para>1d10 gems</para></cell>
+<cell><para>28-82</para></cell>
+<cell><para>1d6 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>15-75</para></cell>
+<cell><para>1d4 x 1,000 gp</para></cell>
+<cell><para>71-100</para></cell>
+<cell><para>1d8 art</para></cell>
+<cell><para>83-97</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>76-100</para></cell>
+<cell><para>1d4 x 100 pp</para></cell>
+<cell><para>98-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>13th</para></cell>
+<cell><para>01-08</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-19</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>09-75</para></cell>
+<cell><para>1d4 x 1,000 gp</para></cell>
+<cell><para>12-66</para></cell>
+<cell><para>1d12 gems</para></cell>
+<cell><para>20-73</para></cell>
+<cell><para>1d6 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>76-100</para></cell>
+<cell><para>1d10 x 100 pp</para></cell>
+<cell><para>67-100</para></cell>
+<cell><para>1d10 art</para></cell>
+<cell><para>74-95</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>96-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>14th</para></cell>
+<cell><para>01-08</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-19</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>09-75</para></cell>
+<cell><para>1d6 x 1,000 gp</para></cell>
+<cell><para>12-66</para></cell>
+<cell><para>2d8 gems</para></cell>
+<cell><para>20-58</para></cell>
+<cell><para>1d6 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>76-100</para></cell>
+<cell><para>1d12 x 100 pp</para></cell>
+<cell><para>67-100</para></cell>
+<cell><para>2d6 art</para></cell>
+<cell><para>59-92</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>93-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>15th</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-09</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-11</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>04-74</para></cell>
+<cell><para>1d8 x 1,000 gp</para></cell>
+<cell><para>10-65</para></cell>
+<cell><para>2d10 gems</para></cell>
+<cell><para>12-46</para></cell>
+<cell><para>1d10 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>75-100</para></cell>
+<cell><para>3d4 x 100 pp</para></cell>
+<cell><para>66-100</para></cell>
+<cell><para>2d8 art</para></cell>
+<cell><para>47-90</para></cell>
+<cell><para>1 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>91-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>16th</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-07</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-40</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>04-74</para></cell>
+<cell><para>1d12 x 1,000 gp</para></cell>
+<cell><para>08-64</para></cell>
+<cell><para>4d6 gems</para></cell>
+<cell><para>41-46</para></cell>
+<cell><para>1d10 minor</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>75-100</para></cell>
+<cell><para>3d4 x 100 pp</para></cell>
+<cell><para>65-100</para></cell>
+<cell><para>2d10 art</para></cell>
+<cell><para>47-90</para></cell>
+<cell><para>1d3 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>91-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>17th</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-04</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-33</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>04-68</para></cell>
+<cell><para>3d4 x 1,000 gp</para></cell>
+<cell><para>05-63</para></cell>
+<cell><para>4d8 gems</para></cell>
+<cell><para>34-83</para></cell>
+<cell><para>1d3 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>69-100</para></cell>
+<cell><para>2d10 x 100 pp</para></cell>
+<cell><para>64-100</para></cell>
+<cell><para>3d8 art</para></cell>
+<cell><para>84-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18th</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-04</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-24</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>03-65</para></cell>
+<cell><para>3d6 x 1,000 gp</para></cell>
+<cell><para>05-54</para></cell>
+<cell><para>3d12 gems</para></cell>
+<cell><para>25-80</para></cell>
+<cell><para>1d4 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>66-100</para></cell>
+<cell><para>5d4 x 100 pp</para></cell>
+<cell><para>55-100</para></cell>
+<cell><para>3d10 art</para></cell>
+<cell><para>81-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19th</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-03</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-04</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>03-65</para></cell>
+<cell><para>3d8 x 1,000 gp</para></cell>
+<cell><para>04-50</para></cell>
+<cell><para>6d6 gems</para></cell>
+<cell><para>05-70</para></cell>
+<cell><para>1d4 medium</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>66-100</para></cell>
+<cell><para>3d10 x 100 pp</para></cell>
+<cell><para>51-100</para></cell>
+<cell><para>6d6 art</para></cell>
+<cell><para>71-100</para></cell>
+<cell><para>1 major</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20th</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para>01-25</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><para>03-65</para></cell>
+<cell><para>4d8 x 1,000 gp</para></cell>
+<cell><para>03-38</para></cell>
+<cell><para>4d10 gems</para></cell>
+<cell><para>26-65</para></cell>
+<cell><para>1d4 medium</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell><para>66-100</para></cell>
+<cell><para>4d10 x 100 pp</para></cell>
+<cell><para>39-100</para></cell>
+<cell><para>7d6 art</para></cell>
+<cell><para>66-100</para></cell>
+<cell><para>1d3 major</para></cell>
+<cell/>
+</row>
+</table><para/><para>For treasures above 20th level, use the 20th-level row and then add a number of random major items.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Magic Items</b></para></cell>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Magic Items</b></para></cell>
+<cell><para><b>Level</b></para></cell>
+<cell><para><b>Magic Items</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>21st</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>25th</para></cell>
+<cell><para>+9</para></cell>
+<cell><para>28th</para></cell>
+<cell><para>+23</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22nd</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>26th</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>29th</para></cell>
+<cell><para>+31</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23rd</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>27th</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>30th</para></cell>
+<cell><para>+42</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>24th</para></cell>
+<cell><para>+6</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Gems</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Value</b></para></cell>
+<cell><para><b>Average</b></para></cell>
+<cell><para><b>Examples</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-25</para></cell>
+<cell><para>4d4 gp</para></cell>
+<cell><para>10 gp</para></cell>
+<cell><para>Banded, eye, or moss agate; azurite; blue quartz; hematite; lapis lazuli; malachite; obsidian; rhodochrosite; tiger eye turquoise; freshwater (irregular) pearl</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-50</para></cell>
+<cell><para>2d4 x 10 gp</para></cell>
+<cell><para>50 gp</para></cell>
+<cell><para>Bloodstone; carnelian; chalcedony; chrysoprase; citrine; iolite, jasper; moonstone; onyx; peridot; rock crystal (clear quartz); sard; sardonyx; rose, smoky, or star rose quartz; zircon</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-70</para></cell>
+<cell><para>4d4 x 10 gp</para></cell>
+<cell><para>100 gp</para></cell>
+<cell><para>Amber; amethyst; chrysoberyl; coral; red or brown-green garnet; jade; jet; white, golden, pink, or silver pearl; red spinel, red-brown or deep green spinel; tourmaline</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-90</para></cell>
+<cell><para>2d4 x 100 gp</para></cell>
+<cell><para>500 gp</para></cell>
+<cell><para>Alexandrite; aquamarine; violet garnet; black pearl; deep blue spinel; golden yellow topaz</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-99</para></cell>
+<cell><para>4d4 x 100 gp</para></cell>
+<cell><para>1,000 gp</para></cell>
+<cell><para>Emerald; white, black, or fire opal; blue sapphire; fiery yellow or rich purple corundum; blue or black star sapphire; star ruby</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>100</para></cell>
+<cell><para>2d4 x 1,000 gp</para></cell>
+<cell><para>5,000 gp</para></cell>
+<cell><para>Clearest bright green emerald; blue-white, canary, pink, brown, or blue diamond; jacinth</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Art Objects</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Value</b></para></cell>
+<cell><para><b>Average</b></para></cell>
+<cell><para><b>Examples</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>1d10 x 10 gp</para></cell>
+<cell><para>55 gp</para></cell>
+<cell><para>Silver ewer; carved bone or ivory statuette; finely wrought small gold bracelet</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-25</para></cell>
+<cell><para>3d6 x 10 gp</para></cell>
+<cell><para>105 gp</para></cell>
+<cell><para>Cloth of gold vestments; black velvet mask with numerous citrines; silver chalice with lapis lazuli gems</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-40</para></cell>
+<cell><para>1d6 x 100 gp</para></cell>
+<cell><para>350 gp</para></cell>
+<cell><para>Large well-done wool tapestry; brass mug with jade inlays</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-50</para></cell>
+<cell><para>1d10 x 100 gp</para></cell>
+<cell><para>550 gp</para></cell>
+<cell><para>Silver comb with moonstones; silver-plated steel longsword with jet jewel in hilt</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-60</para></cell>
+<cell><para>2d6 x 100 gp</para></cell>
+<cell><para>700 gp</para></cell>
+<cell><para>Carved harp of exotic wood with ivory inlay and zircon gems; solid gold idol (10 lb.)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-70</para></cell>
+<cell><para>3d6 x 100 gp</para></cell>
+<cell><para>1,050 gp</para></cell>
+<cell><para>Gold dragon comb with red garnet eye; gold and topaz bottle stopper cork; ceremonial electrum dagger with a star ruby in the pommel</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-80</para></cell>
+<cell><para>4d6 x 100 gp</para></cell>
+<cell><para>1,400 gp</para></cell>
+<cell><para>Eyepatch with mock eye of sapphire and moonstone; fire opal pendant on a fine gold chain; old masterpiece painting</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-85</para></cell>
+<cell><para>5d6 x 100 gp</para></cell>
+<cell><para>1,750 gp</para></cell>
+<cell><para>Embroidered silk and velvet mantle with numerous moonstones; sapphire pendant on gold chain</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-90</para></cell>
+<cell><para>1d4 x 1,000 gp</para></cell>
+<cell><para>2,500 gp</para></cell>
+<cell><para>Embroidered and bejeweled glove; jeweled anklet; gold music box</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-95</para></cell>
+<cell><para>1d6 x 1,000 gp</para></cell>
+<cell><para>3,500 gp</para></cell>
+<cell><para>Golden circlet with four aquamarines; a string of small pink pearls (necklace)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-99</para></cell>
+<cell><para>2d4 x 1,000 gp</para></cell>
+<cell><para>5,000 gp</para></cell>
+<cell><para>Jeweled gold crown; jeweled electrum ring</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>100</para></cell>
+<cell><para>2d6 x 1,000 gp</para></cell>
+<cell><para>7,000 gp</para></cell>
+<cell><para>Gold and ruby ring; gold cup set with emeralds</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Mundane Items</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Mundane Item</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-17</para></cell>
+<cell><para>Alchemical item</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-12</para></cell>
+<cell><para>Alchemist's fire (1d4 flasks, 20 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-24</para></cell>
+<cell><para>Acid (2d4 flasks, 10 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-36</para></cell>
+<cell><para>Smokesticks (1d4 sticks, 20 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-48</para></cell>
+<cell><para>Holy water (1d4 flasks, 25 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>49-62</para></cell>
+<cell><para>Antitoxin (1d4 doses, 50 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-74</para></cell>
+<cell><para>Everburning torch</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-88</para></cell>
+<cell><para>Tanglefoot bags (1d4 bags, 50 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-100</para></cell>
+<cell><para>Thunderstones (1d4 stones, 30 gp each)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-50</para></cell>
+<cell><para>Armor (roll d%: 01-10 = Small, 11-100 = Medium)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-12</para></cell>
+<cell><para>Chain shirt (100 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>13-18</para></cell>
+<cell><para>Masterwork studded leather (175 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-26</para></cell>
+<cell><para>Breastplate (200 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-34</para></cell>
+<cell><para>Banded mail (250 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35-54</para></cell>
+<cell><para>Half-plate (600 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>55-80</para></cell>
+<cell><para>Full plate (1,500 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-90</para></cell>
+<cell><para>Darkwood</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-50</para></cell>
+<cell><para>Buckler (205 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-100</para></cell>
+<cell><para>Shield (257 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-100</para></cell>
+<cell><para>Masterwork shield</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-17</para></cell>
+<cell><para>Buckler (165 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-40</para></cell>
+<cell><para>Light wooden shield (153 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-60</para></cell>
+<cell><para>Light steel shield (159 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-83</para></cell>
+<cell><para>Heavy wooden shield (157 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-100</para></cell>
+<cell><para>Heavy steel shield (170 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-83</para></cell>
+<cell><para>Weapons</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-50</para></cell>
+<cell><para>Masterwork common melee weapon</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-70</para></cell>
+<cell><para>Masterwork uncommon weapon</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-100</para></cell>
+<cell><para>Masterwork common ranged weapon</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-100</para></cell>
+<cell><para>Tools and gear</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-03</para></cell>
+<cell><para>Backpack, empty (2 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>04-06</para></cell>
+<cell><para>Crowbar (2 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>07-11</para></cell>
+<cell><para>Lantern, bullseye (12 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12-16</para></cell>
+<cell><para>Lock, simple (20 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>17-21</para></cell>
+<cell><para>Lock, average (40 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-28</para></cell>
+<cell><para>Lock, good (80 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-35</para></cell>
+<cell><para>Lock, superior (150 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-40</para></cell>
+<cell><para>Manacles, masterwork (50 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>41-43</para></cell>
+<cell><para>Mirror, small steel (10 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-46</para></cell>
+<cell><para>Rope, silk (50 ft.) (10 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-53</para></cell>
+<cell><para>Spyglass (1,000 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-58</para></cell>
+<cell><para>Artisan's tools, masterwork (55 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-63</para></cell>
+<cell><para>Climber's kit (80 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>64-68</para></cell>
+<cell><para>Disguise kit (50 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-73</para></cell>
+<cell><para>Healer's kit (50 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>74-77</para></cell>
+<cell><para>Holy symbol, silver (25 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>78-81</para></cell>
+<cell><para>Hourglass (25 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-88</para></cell>
+<cell><para>Magnifying glass (100 gp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>89-95</para></cell>
+<cell><para>Musical instrument, masterwork (100 gp)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>96-100</para></cell>
+<cell><para>Thieves' tools, masterwork (50 gp)</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

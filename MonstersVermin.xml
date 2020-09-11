@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Monsters &gt; Monsters">
+<info>
+<title>READING THE ENTRIES</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Monsters" linkname="Monsters" docbookid="MonstersVermin0" keywords="monster"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Monsters" origname="Monsters (Vermin)" linkname="Monsters_Monsters" docbookid="MonstersVermin1" keywords="monster"><para style="heading 1">Monsters (Vermin)</para><para>These creatures operate on instinct, driven by simple needs such as food and reproduction. Except where noted, vermin attack only when hungry or threatened.</para><topic level="8" name="Vermin Traits" origname="Vermin Traits" linkname="Monsters_Monsters_Vermin_Traits" docbookid="MonstersVermin2" refname="Vermin Traits" reftype="other" refcase="yes" refaltname="" keywords="monster,trait,vermin"><para reftype="other" refcase="yes" refname="Vermin Traits"><b>Vermin Traits:</b> Vermin possess the following traits (unless otherwise noted in a creature's entry).</para><list>
+ <item>Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).</item>
+ <item>Darkvision out to 60 feet.</item>
+</list><para>-<i>Alignment:</i> Always neutral. Vermin are not governed by a human sense of morality.</para><para>-<i>Treasure:</i> Vermin generally possess no treasure. For those that do, this treasure consists of possessions formerly owned by a creature that the monster has killed.</para><para/>
+</topic><topic level="2" name="Giant Ant" origname="Giant Ant" linkname="Monsters_Monsters_Giant_Ant" docbookid="MonstersVermin3" refname="Giant Ant" reftype="monster" refcase="no" refaltname="" keywords="ant,giant,monster"><para reftype="monster" refcase="no" refname="Giant Ant" style="heading 2">Giant Ant</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Name"><para><b>Giant Ant, Worker</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Name"><para><b>Giant Ant, Soldier</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Name"><para><b>Giant Ant, Queen</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Type"><para>Medium Vermin</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Type"><para>Medium Vermin</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Type"><para>Large Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Hit Dice"><para>2d8 (9 hp)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Hit Dice"><para>2d8+2 (11 hp)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Hit Dice"><para>4d8+4 (22 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Initiative"><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Speed"><para>50 ft. (10 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Speed"><para>50 ft. (10 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Speed"><para>40 ft. (8 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Armor Class"><para>17 (+7 natural), touch 10, flat-footed 17</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Armor Class"><para>17 (+7 natural), touch 10, flat-footed 17</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Armor Class"><para>17 (-1 size, -1 Dex, +9 natural), touch 8, flat-footed 17</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Base Attack/Grapple"><para>+1/+1</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Base Attack/Grapple"><para>+1/+3</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Base Attack/Grapple"><para>+3/+10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Attack"><para>Bite +1 melee (1d6)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Attack"><para>Bite +3 melee (2d4+3)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Attack"><para>Bite +5 melee (2d6+4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Full Attack"><para>Bite +1 melee (1d6)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Full Attack"><para>Bite +3 melee (2d4+3)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Full Attack"><para>Bite +5 melee (2d6+4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Special Attacks"><para>Improved grab</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Special Attacks"><para>Improved grab, acid sting</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Special Attacks"><para>Improved grab</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Special Qualities"><para>Scent, vermin traits</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Special Qualities"><para>Scent, vermin traits</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Special Qualities"><para>Scent, vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Saves"><para>Fort +3, Ref +0, Will +0</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Saves"><para>Fort +4, Ref +0, Will +1</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Saves"><para>Fort +5, Ref +0, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Abilities"><para>Str 10, Dex 10, Con 10, Int -, Wis 11, Cha 9</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Abilities"><para>Str 14, Dex 10, Con 13, Int -, Wis 13, Cha 11</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Abilities"><para>Str 16, Dex 9, Con 13, Int -, Wis 13, Cha 11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Skills"><para>Climb +8</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Skills"><para>Climb +10</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Skills"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Feats"><para>Track <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Feats"><para>Track <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Feats"><para>Track <sup>B</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Environment"><para>Temperate plains</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Environment"><para>Temperate plains</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Environment"><para>Temperate plains</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Organization"><para>Gang (2-6) or crew (6-11 plus 1 giant ant soldier)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Organization"><para>Solitary or gang (2-4)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Organization"><para>Hive (1 plus 10-100 workers and 5-20 soldiers)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Challenge Rating"><para>1</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Challenge Rating"><para>2</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Challenge Rating"><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Treasure"><para>None</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Treasure"><para>None</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Advancement"><para>3-4 HD (Medium); 5-6 HD (Large)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Advancement"><para>3-4 HD (Medium); 5-6 HD (Large)</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Advancement"><para>5-6 HD (Large); 7-8 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Ant, Worker" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Soldier" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Giant Ant, Queen" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while queens can grow to a length of 9 feet.</para><topic level="8" name="Acid Sting" origname="Acid Sting (Ex)" linkname="Monsters_Monsters_Giant_Ant_Acid_Sting" docbookid="MonstersVermin4" refname="Acid Sting" reftype="other" refcase="yes" refaltname="" keywords="acid,ant,giant,monster,sting"><para reftype="other" refcase="yes" refname="Acid Sting"><b>Acid Sting (Ex):</b> A giant soldier ant has a stinger and an acid-producing gland in its abdomen. If it successfully grabs an opponent, it can attempt to sting each round (+3 attack bonus). A hit with the sting attack deals 1d4+1 points of piercing damage and 1d4 points of acid damage.</para>
+</topic><topic level="8" name="Improved Grab" origname="Improved Grab (Ex)" linkname="Monsters_Monsters_Giant_Ant_Improved_Grab" docbookid="MonstersVermin5" refname="Improved Grab" reftype="other" refcase="yes" refaltname="" keywords="ant,giant,grab,improv,monster"><para reftype="other" refcase="yes" refname="Improved Grab"><b>Improved Grab (Ex):</b> To use this ability, a giant ant must hit with its bite attack. A giant soldier ant that wins the ensuing grapple check establishes a hold and can sting.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Giant_Ant_Skills" docbookid="MonstersVermin6" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="ant,giant,monster,skill"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> *Giant ants have a +4 racial bonus on Survival checks when tracking by scent and a +8 racial bonus on Climb checks. A giant ant can always choose to take 10 on Climb checks, even if rushed or threatened.</para><para/>
+</topic>
+</topic><topic level="2" name="Giant Bee" origname="Giant Bee" linkname="Monsters_Monsters_Giant_Bee" docbookid="MonstersVermin7" refname="Giant Bee" reftype="monster" refcase="no" refaltname="" keywords="bee,giant,monster"><para reftype="monster" refcase="no" refname="Giant Bee" style="heading 2">Giant Bee</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Bee" datarow="Name"><para><b>Giant Bee</b></para></cell> <cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Bee" datarow="Type"><para>Medium Vermin</para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Hit Dice"><para>3d8 (13 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Initiative"><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Speed"><para>20 ft. (4 squares), fly 80 ft. (good)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Armor Class"><para>14 (+2 Dex, +2 natural), touch 12, flat-footed 12</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Base Attack/Grapple"><para>+2/+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Attack"><para>Sting +2 melee (1d4 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Full Attack"><para>Sting +2 melee (1d4 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Special Attacks"><para>Poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Saves"><para>Fort +3, Ref +3, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Abilities"><para>Str 11, Dex 14, Con 11, Int -, Wis 12, Cha 9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Skills"><para>Spot +5, Survival +1*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Environment"><para>Temperate plains</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Organization"><para>Solitary, buzz (2-5), or hive (11-20)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Challenge Rating"><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Treasure"><para>No coins; 1/4 goods (honey only); no items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Advancement"><para>4-6 HD (Medium); 7-9 HD (Large)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bee" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>Although many times larger, growing to a length of about 5 feet, giant bees behave generally the same as their smaller cousins. Giant bees are usually not aggressive except when defending themselves or their hive.</para><topic level="8" name="Poison" origname="Poison (Ex)" linkname="Monsters_Monsters_Giant_Bee_Poison" docbookid="MonstersVermin8" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="bee,giant,monster,poison"><para reftype="other" refcase="yes" refname="Poison"><b>Poison (Ex):</b> Injury, Fortitude DC 11, initial and secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature. The bee then dies.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Giant_Bee_Skills" docbookid="MonstersVermin9" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="bee,giant,monster,skill"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> Giant bees have a +4 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.</para><para/>
+</topic>
+</topic><topic level="2" name="Giant Bombardier Beetle" origname="Giant Bombardier Beetle" linkname="Monsters_Monsters_Giant_Bombardier_Beetle" docbookid="MonstersVermin10" refname="Giant Bombardier Beetle" reftype="monster" refcase="no" refaltname="" keywords="beetl,bombardi,giant,monster"><para reftype="monster" refcase="no" refname="Giant Bombardier Beetle" style="heading 2">Giant Bombardier Beetle</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Name"><para><b>Giant Bombardier Beetle</b></para></cell>
+<cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Type"><para>Medium Vermin</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Hit Dice"><para>2d8+4 (13 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Initiative"><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Speed"><para>30 ft. (6 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Armor Class"><para>16 (+6 natural), touch 10, flat-footed 16</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Base Attack/Grapple"><para>+1/+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Attack"><para>Bite +2 melee (1d4+1)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Full Attack"><para>Bite +2 melee (1d4+1)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Special Attacks"><para>Acid spray</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Saves"><para>Fort +5, Ref +0, Will +0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Abilities"><para>Str 13, Dex 10, Con 14, Int -, Wis 10, Cha 9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Skills"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Environment"><para>Warm forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Organization"><para>Cluster (2-5) or click (6-11)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Challenge Rating"><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Advancement"><para>3-4 HD (Medium); 5-6 HD (Large)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Bombardier Beetle" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>These creatures feed primarily on carrion and offal, gathering heaps of the stuff in which to build nests and lay eggs. A giant bombardier beetle is about 6 feet long. Giant bombardier beetles normally attack only to defend themselves, their nests, or their eggs.</para><topic level="8" name="Acid Spray" origname="Acid Spray (Ex)" linkname="Monsters_Monsters_Giant_Bombardier_Beetle_Acid_Spray" docbookid="MonstersVermin11" refname="Acid Spray" reftype="other" refcase="yes" refaltname="" keywords="acid,beetl,bombardi,giant,monster,sprai"><para reftype="other" refcase="yes" refname="Acid Spray"><b>Acid Spray (Ex):</b> When attacked or disturbed, the creature can release a 10-foot cone of acidic vapor once per round. Those within the cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.</para><para/>
+</topic>
+</topic><topic level="2" name="Giant Fire Beetle" origname="Giant Fire Beetle" linkname="Monsters_Monsters_Giant_Fire_Beetle" docbookid="MonstersVermin12" refname="Giant Fire Beetle" reftype="monster" refcase="no" refaltname="" keywords="beetl,fire,giant,monster"><para reftype="monster" refcase="no" refname="Giant Fire Beetle" style="heading 2">Giant Fire Beetle</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Name"><para><b>Giant Fire Beetle</b></para></cell> <cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Type"><para>Small Vermin</para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Hit Dice"><para>1d8 (4 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Initiative"><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Speed"><para>30 ft. (6 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Armor Class"><para>16 (+1 size, +5 natural), touch 11, flat-footed 16</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Base Attack/Grapple"><para>+0/-4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Attack"><para>Bite +1 melee (2d4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Full Attack"><para>Bite +1 melee (2d4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Special Attacks"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Saves"><para>Fort +2, Ref +0, Will +0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Abilities"><para>Str 10, Dex 11, Con 11, Int -, Wis 10, Cha 7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Skills"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Environment"><para>Warm plains</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Organization"><para>Cluster (2-5) or colony (6-11)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Challenge Rating"><para>1/3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Advancement"><para>2-3 HD (Small)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Fire Beetle" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>These luminous nocturnal insects are prized by miners and adventurers. They have two glands, one above each eye, that produce a red glow. The glands' luminosity persists for 1d6 days after removal from the beetle, illuminating a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 feet long.</para><para/>
+</topic><topic level="2" name="Giant Stag Beetle" origname="Giant Stag Beetle" linkname="Monsters_Monsters_Giant_Stag_Beetle" docbookid="MonstersVermin13" refname="Giant Stag Beetle" reftype="monster" refcase="no" refaltname="" keywords="beetl,giant,monster,stag"><para reftype="monster" refcase="no" refname="Giant Stag Beetle" style="heading 2">Giant Stag Beetle</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Name"><para><b>Giant Stag Beetle</b></para></cell>
+<cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Type"><para>Large Vermin</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Hit Dice"><para>7d8+21 (52 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Initiative"><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Speed"><para>20 ft. (4 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Armor Class"><para>19 (-1 size, +10 natural), touch 9, flat-footed 19</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Base Attack/Grapple"><para>+5/+15</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Attack"><para>Bite +10 melee (4d6+9)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Full Attack"><para>Bite +10 melee (4d6+9)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Special Attacks"><para>Trample 2d8+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Saves"><para>Fort +8, Ref +2, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Abilities"><para>Str 23, Dex 10, Con 17, Int -, Wis 10, Cha 9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Skills"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Organization"><para>Cluster (2-5) or mass (6-11)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Challenge Rating"><para>4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Alignment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Alignment"><para>Always neutral</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Advancement"><para>8-10 HD (Large); 11-21 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Stag Beetle" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>These creatures are serious pests that greedily devour cultivated crops. A single beetle can strip an entire farm in short order. An adult giant stag beetle is about 10 feet long.</para><topic level="8" name="Trample" origname="Trample (Ex)" linkname="Monsters_Monsters_Giant_Stag_Beetle_Trample" docbookid="MonstersVermin14" refname="Trample" reftype="other" refcase="yes" refaltname="" keywords="beetl,giant,monster,stag,trampl"><para reftype="other" refcase="yes" refname="Trample"><b>Trample (Ex):</b> Reflex half DC 19. The save DC is Strength-based.</para><para/>
+</topic>
+</topic><topic level="2" name="Giant Praying Mantis" origname="Giant Praying Mantis" linkname="Monsters_Monsters_Giant_Praying_Mantis" docbookid="MonstersVermin15" refname="Giant Praying Mantis" reftype="monster" refcase="no" refaltname="" keywords="giant,manti,monster,prai"><para reftype="monster" refcase="no" refname="Giant Praying Mantis" style="heading 2">Giant Praying Mantis</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Name"><para><b>Giant Praying Mantis</b></para></cell> <cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Type"><para>Large Vermin</para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Hit Dice"><para>4d8+8 (26 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Initiative"><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Speed"><para>20 ft. (4 squares), fly 40 ft. (poor)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Armor Class"><para>14 (-1 size, -1 Dex, +6 natural), touch 8, flat-footed 14</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Base Attack/Grapple"><para>+3/+11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Attack"><para>Claws +6 melee (1d8+4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Full Attack"><para>Claws +6 melee (1d8+4) and bite +1 melee (1d6+2)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Space/Reach"><para>10 ft (4 squares)./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Special Attacks"><para>Improved grab</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Saves"><para>Fort +6, Ref +0, Will +3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Abilities"><para>Str 19, Dex 8, Con 15, Int -, Wis 14, Cha 11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Skills"><para>Hide -1*, Spot +6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Organization"><para>Solitary</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Challenge Rating"><para>3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Advancement"><para>5-8 HD (Large); 9-12 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Praying Mantis" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>This patient carnivore remains completely still as it waits for prey to come near.</para><topic level="8" name="Improved Grab" origname="Improved Grab (Ex)" linkname="Monsters_Monsters_Giant_Praying_Mantis_Improved_Grab" docbookid="MonstersVermin16" refname="Improved Grab" reftype="other" refcase="yes" refaltname="" keywords="giant,grab,improv,manti,monster,prai"><para reftype="other" refcase="yes" refname="Improved Grab"><b>Improved Grab (Ex):</b> To use this ability, a giant praying mantis must hit with its claws attack. If it wins the ensuing grapple check, it establishes a hold and makes a bite attack as a primary attack (at its full +6 attack bonus).</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Giant_Praying_Mantis_Skills" docbookid="MonstersVermin17" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="giant,manti,monster,prai,skill"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> A giant praying mantis has a +4 racial bonus on Hide and Spot checks. *Because of its camouflage, the Hide bonus increases to +12 when a mantis is surrounded by foliage.</para><para/>
+</topic>
+</topic><topic level="2" name="Giant Wasp" origname="Giant Wasp" linkname="Monsters_Monsters_Giant_Wasp" docbookid="MonstersVermin18" refname="Giant Wasp" reftype="monster" refcase="no" refaltname="" keywords="giant,monster,wasp"><para reftype="monster" refcase="no" refname="Giant Wasp" style="heading 2">Giant Wasp</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Name"><para><b>Giant Wasp</b></para></cell>
+<cell/>
+</row><row>
+<cell/>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Type"><para>Large Vermin</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Hit Dice"><para>5d8+10 (32 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Initiative"><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Speed"><para>20 ft. (4 squares), fly 60 ft. (good)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Armor Class"><para>14 (-1 size, +1 Dex, +4 natural), touch 10, flat-footed 13</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Base Attack/Grapple"><para>+3/+11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Attack"><para>Sting +6 melee (1d3+6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Full Attack"><para>Sting +6 melee (1d3+6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Special Attacks"><para>Poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Saves"><para>Fort +6, Ref +2, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Abilities"><para>Str 18, Dex 12, Con 14, Int -, Wis 13, Cha 11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Skills"><para>Spot +9, Survival +1*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Organization"><para>Solitary, swarm (2-5), or nest (11-20)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Challenge Rating"><para>3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Advancement"><para>6-8 HD (Large); 9-15 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Giant Wasp" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young.</para><topic level="8" name="Poison" origname="Poison (Ex)" linkname="Monsters_Monsters_Giant_Wasp_Poison" docbookid="MonstersVermin19" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="giant,monster,poison,wasp"><para reftype="other" refcase="yes" refname="Poison"><b>Poison (Ex):</b> Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Giant_Wasp_Skills" docbookid="MonstersVermin20" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="giant,monster,skill,wasp"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> Giant wasps have a +8 racial bonus on Spot checks. *They also have a +4 racial bonus on Survival checks to orient themselves.</para><para/>
+</topic>
+</topic><topic level="2" name="Monstrous Centipede" origname="Monstrous Centipede" linkname="Monsters_Monsters_Monstrous_Centipede" docbookid="MonstersVermin21" refname="Monstrous Centipede" reftype="monster" refcase="no" refaltname="" keywords="centiped,monster,monstrou"><para reftype="monster" refcase="no" refname="Monstrous Centipede" style="heading 2">Monstrous Centipede</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Name"><para><b>Monstrous Centipede, Tiny</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Name"><para><b>Monstrous Centipede, Small</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Name"><para><b>Monstrous Centipede, Medium</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Type"><para>Tiny Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Type"><para>Small Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Type"><para>Medium Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Hit Dice"><para>1/4 d8 (1 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Hit Dice"><para>1/2 d8 (2 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Hit Dice"><para>1d8 (4 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Initiative"><para>+2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Initiative"><para>+2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Initiative"><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Speed"><para>20 ft. (4 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Speed"><para>30 ft. (6 squares), climb 30 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Speed"><para>40 ft. (8 squares), climb 40 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Armor Class"><para>14 (+2 size, +2 Dex), touch 14, flat-footed 12</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Armor Class"><para>14 (+1 size, +2 Dex, +1 natural), touch 13, flat-footed 12</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Armor Class"><para>14 (+2 Dex, +2 natural), touch 12, flat-footed 12</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Base Attack/Grapple"><para>+0/-13</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Base Attack/Grapple"><para>+0/-7</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Base Attack/Grapple"><para>+0/-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Attack"><para>Bite +4 melee (1d3-5 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Attack"><para>Bite +3 melee (1d4-3 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Attack"><para>Bite +2 melee (1d6-1 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Full Attack"><para>Bite +4 melee (1d3-5 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Full Attack"><para>Bite +3 melee (1d4-3 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Full Attack"><para>Bite +2 melee (1d6-1 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Space/Reach"><para>2-1/2 ft./0 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Special Attacks"><para>Poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Special Attacks"><para>Poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Special Attacks"><para>Poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Saves"><para>Fort +2, Ref +2, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Saves"><para>Fort +2, Ref +2, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Saves"><para>Fort +2, Ref +2, Will +0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Abilities"><para>Str 1, Dex 15, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Abilities"><para>Str 5, Dex 15, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Abilities"><para>Str 9, Dex 15, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Skills"><para>Climb +10, Hide +18, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Skills"><para>Climb +10, Hide +14, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Skills"><para>Climb +10, Hide +10, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Environment"><para>Underground</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Environment"><para>Underground</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Environment"><para>Underground</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Organization"><para>Colony (8-16)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Organization"><para>Colony (2-5) or swarm (6-11)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Challenge Rating"><para>1/8</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Challenge Rating"><para>1/4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Challenge Rating"><para>1/2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Advancement"><para>-</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Tiny" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Small" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Medium" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Name"><para><b>Monstrous Centipede, Large</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Name"><para><b>Monstrous Centipede, Huge</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Type"><para>Large Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Type"><para>Huge Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Hit Dice"><para>3d8 (13 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Hit Dice"><para>6d8+6 (33 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Initiative"><para>+2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Initiative"><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Speed"><para>40 ft. (8 squares), climb 40 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Speed"><para>40 ft. (8 squares), climb 40 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Armor Class"><para>14 (-1 size, +2 Dex, +3 natural), touch 11, flat-footed 12</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Armor Class"><para>16 (-2 size, +2 Dex, +6 natural), touch 10, flat-footed 14</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Base Attack/Grapple"><para>+2/+7</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Base Attack/Grapple"><para>+4/+15</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Attack"><para>Bite +3 melee (1d8+1 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Attack"><para>Bite +5 melee (2d6+4 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Full Attack"><para>Bite +3 melee (1d8+1 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Full Attack"><para>Bite +5 melee (2d6+4 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Space/Reach"><para>15 ft./10 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Special Attacks"><para>Poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Special Attacks"><para>Poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Saves"><para>Fort +3, Ref +3, Will +1</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Saves"><para>Fort +6, Ref +4, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Abilities"><para>Str 13, Dex 15, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Abilities"><para>Str 17, Dex 15, Con 12, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Skills"><para>Climb +10, Hide +6, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Skills"><para>Climb +11, Hide +2, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Environment"><para>Underground</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Environment"><para>Underground</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Challenge Rating"><para>1</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Challenge Rating"><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Advancement"><para>4-5 HD (Large)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Advancement"><para>7-11 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Large" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Huge" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Name"><para><b>Monstrous Centipede, Gargantuan</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Name"><para><b>Monstrous Centipede, Colossal</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Type"><para>Gargantuan Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Type"><para>Colossal Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Hit Dice"><para>12d8+12 (66 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Hit Dice"><para>24d8+24 (132 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Initiative"><para>+2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Initiative"><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Speed"><para>40 ft. (8 squares), climb 40 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Speed"><para>40 ft. (8 squares), climb 40 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Armor Class"><para>18 (-4 size, +2 Dex, +10 natural), touch 8, flat-footed 16</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Armor Class"><para>20 (-8 size, +2 Dex, +16 natural), touch 4, flat-footed 18</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Base Attack/Grapple"><para>+9/+27</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Base Attack/Grapple"><para>+18/+42</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Attack"><para>Bite +11 melee (2d8+9 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Attack"><para>Bite +18 melee (4d6+12 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Full Attack"><para>Bite +11 melee (2d8+9 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Full Attack"><para>Bite +18 melee (4d6+12 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Space/Reach"><para>20 ft./15 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Space/Reach"><para>30 ft./20 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Special Attacks"><para>Poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Special Attacks"><para>Poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Special Qualities"><para>Darkvision 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Saves"><para>Fort +9, Ref +6, Will +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Saves"><para>Fort +15, Ref +9, Will +8</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Abilities"><para>Str 23, Dex 15, Con 12, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Abilities"><para>Str 27, Dex 13, Con 12, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Skills"><para>Climb +14, Hide -2, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Skills"><para>Climb +16, Hide -7, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Feats"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Environment"><para>Underground</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Environment"><para>Underground</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Organization"><para>Solitary</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Organization"><para>Solitary</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Challenge Rating"><para>6</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Challenge Rating"><para>9</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Advancement"><para>17-23 HD (Gargantuan)</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Advancement"><para>25-48 HD (Colossal)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Gargantuan" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Centipede, Colossal" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.</para><table>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell> <cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>10</para></cell>
+<cell><para>1 Dex</para></cell>
+<cell><para>Huge</para></cell>
+<cell><para>14</para></cell>
+<cell><para>1d6 Dex</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>10</para></cell>
+<cell><para>1d2 Dex</para></cell>
+<cell><para>Gargantuan</para></cell>
+<cell><para>17</para></cell>
+<cell><para>1d8 Dex</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>10</para></cell>
+<cell><para>1d3 Dex</para></cell>
+<cell><para>Colossal</para></cell>
+<cell><para>23</para></cell>
+<cell><para>2d6 Dex</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>11</para></cell>
+<cell><para>1d4 Dex</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><topic level="8" name="Poison" origname="Poison (Ex)" linkname="Monsters_Monsters_Monstrous_Centipede_Poison" docbookid="MonstersVermin22" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="centiped,monster,monstrou,poison"><para reftype="other" refcase="yes" refname="Poison"><b>Poison (Ex):</b> A monstrous centipede has a poisonous bite. The details vary by the centipede's size, as shown on the table above. The save DCs are Constitution-based. The indicated damage is both initial and secondary damage.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Monstrous_Centipede_Skills" docbookid="MonstersVermin23" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="centiped,monster,monstrou,skill"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> Monstrous centipedes have a +4 racial bonus on Spot checks, and a +8 racial bonus on Climb and Hide checks. They can use either their Strength or Dexterity modifier for Climb checks, whichever is higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or distracted.</para><para/>
+</topic>
+</topic><topic level="2" name="Monstrous Scorpion" origname="Monstrous Scorpion" linkname="Monsters_Monsters_Monstrous_Scorpion" docbookid="MonstersVermin24" refname="Monstrous Scorpion" reftype="monster" refcase="no" refaltname="" keywords="monster,monstrou,scorpion"><para reftype="monster" refcase="no" refname="Monstrous Scorpion" style="heading 2">Monstrous Scorpion</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Name"><para><b>Monstrous Scorpion, Tiny</b></para></cell> <cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Name"><para><b>Monstrous Scorpion, Small</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Name"><para><b>Monstrous Scorpion, Medium</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Type"><para>Tiny Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Type"><para>Small Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Type"><para>Medium Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Hit Dice"><para>1/2 d8+2 (4 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Hit Dice"><para>1d8+2 (6 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Hit Dice"><para>2d8+4 (13 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Initiative"><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Speed"><para>20 ft. (4 squares)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Speed"><para>30 ft. (6 squares)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Speed"><para>40 ft. (8 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Armor Class"><para>14 (+2 size, +2 natural), touch 12, flat-footed 14</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Armor Class"><para>14 (+1 size, +3 natural), touch 11, flat-footed 14</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Armor Class"><para>14 (+4 natural), touch 10, flat-footed 14</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Base Attack/Grapple"><para>+0/-8</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Base Attack/Grapple"><para>+0/-4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Base Attack/Grapple"><para>+1/+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Attack"><para>Claw +2 melee (1d2-4)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Attack"><para>Claw +1 melee (1d3-1)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Attack"><para>Claw +2 melee (1d4+1)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Full Attack"><para>2 claws +2 melee (1d2-4) and sting -3 melee (1d2-4 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Full Attack"><para>2 claws +1 melee (1d3-1) and sting -4 melee (1d3-1 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Full Attack"><para>2 claws +2 melee (1d4+1) and sting -3 melee (1d4 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Space/Reach"><para>2-1/2 ft./0 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Special Attacks"><para>Constrict 1d2-4, improved grab, poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Special Attacks"><para>Constrict 1d3-1, improved grab, poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Special Attacks"><para>Constrict 1d4+1, improved grab, poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Saves"><para>Fort +4, Ref +0, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Saves"><para>Fort +4, Ref +0, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Saves"><para>Fort +5, Ref +0, Will +0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Abilities"><para>Str 3, Dex 10, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Abilities"><para>Str 9, Dex 10, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Abilities"><para>Str 13, Dex 10, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Skills"><para>Climb +0, Hide +12, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Skills"><para>Climb +3, Hide +8, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Skills"><para>Climb +5, Hide +4, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Environment"><para>Warm deserts</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Environment"><para>Warm deserts</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Environment"><para>Warm deserts</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Organization"><para>Colony (8-16)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Organization"><para>Colony (2-5) or swarm (6-11)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Challenge Rating"><para>1/4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Challenge Rating"><para>1/2</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Challenge Rating"><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Alignment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Alignment"><para>Always neutral</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Alignment"><para>Always neutral</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Alignment"><para>Always neutral</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Advancement"><para>3-4 HD (Medium)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Tiny" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Small" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Medium" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Name"><para><b>Monstrous Scorpion, Large</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Name"><para><b>Monstrous Scorpion, Huge</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Type"><para>Large Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Type"><para>Huge Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Hit Dice"><para>5d8+10 (32 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Hit Dice"><para>10d8+30 (75 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Initiative"><para>+0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Speed"><para>50 ft. (10 squares)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Speed"><para>50 ft. (10 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Armor Class"><para>16 (-1 size, +7 natural), touch 9, flat-footed 16</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Armor Class"><para>20 (-2 size, +12 natural), touch 8, flat-footed 20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Base Attack/Grapple"><para>+3/+11</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Base Attack/Grapple"><para>+7/+21</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Attack"><para>Claw +6 melee (1d6+4)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Attack"><para>Claw +11 melee (1d8+6)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Full Attack"><para>2 claws +6 melee (1d6+4) and sting +1 melee (1d6+2 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Full Attack"><para>2 claws +11 melee (1d8+6) and sting +6 melee (2d4+3 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Space/Reach"><para>15 ft./10 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Special Attacks"><para>Constrict 1d6+4, improved grab, poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Special Attacks"><para>Constrict 1d8+6, improved grab, poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Saves"><para>Fort +6, Ref +1, Will +1</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Saves"><para>Fort +10, Ref +3, Will +3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Abilities"><para>Str 19, Dex 10, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Abilities"><para>Str 23, Dex 10, Con 16, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Skills"><para>Climb +8, Hide +0, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Skills"><para>Climb +10, Hide -4, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Feats"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Environment"><para>Warm deserts</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Environment"><para>Warm deserts</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Challenge Rating"><para>3</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Challenge Rating"><para>7</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Advancement"><para>6-9 HD (Large)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Advancement"><para>11-19 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Large" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Huge" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Name"><para><b>Monstrous Scorpion, Gargantuan</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Name"><para><b>Monstrous Scorpion, Colossal</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Type"><para>Gargantuan Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Type"><para>Colossal Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Hit Dice"><para>20d8+60 (150 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Hit Dice"><para>40d8+120 (300 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Initiative"><para>+0</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Initiative"><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Speed"><para>50 ft. (10 squares)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Speed"><para>50 ft. (10 squares)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Armor Class"><para>24 (-4 size, +18 natural), touch 6, flat-footed 24</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Armor Class"><para>26 (-8 size, -1 Dex, +25 natural), touch 1, flat-footed 26</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Base Attack/Grapple"><para>+15/+37</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Base Attack/Grapple"><para>+30/+58</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Attack"><para>Claw +21 melee (2d6+10)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Attack"><para>Claw +34 melee (2d8+12)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Full Attack"><para>2 claws +21 melee (2d6+10) and sting +16 melee (2d6+5 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Full Attack"><para>2 claws +34 melee (2d8+12) and sting +29 melee (2d8+6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Space/Reach"><para>20 ft./15 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Space/Reach"><para>40 ft./30 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Special Attacks"><para>Constrict 2d6+10, improved grab, poison</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Special Attacks"><para>Constrict 2d8+12, improved grab, poison</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Saves"><para>Fort +15, Ref +6, Will +6</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Saves"><para>Fort +25, Ref +12, Will +13</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Abilities"><para>Str 31, Dex 10, Con 16, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Abilities"><para>Str 35, Dex 8, Con 16, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Skills"><para>Climb +14, Hide -8, Spot +4</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Skills"><para>Climb +16, Hide -12, Spot +4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Feats"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Environment"><para>Warm deserts</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Environment"><para>Warm deserts</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Organization"><para>Solitary</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Organization"><para>Solitary</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Challenge Rating"><para>10</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Challenge Rating"><para>12</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Advancement"><para>21-39 HD (Gargantuan)</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Advancement"><para>41-60 HD (Colossal)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Gargantuan" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Scorpion, Colossal" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para>Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking prey.</para><topic level="8" name="Constrict" origname="Constrict (Ex)" linkname="Monsters_Monsters_Monstrous_Scorpion_Constrict" docbookid="MonstersVermin25" refname="Constrict" reftype="other" refcase="yes" refaltname="" keywords="constrict,monster,monstrou,scorpion"><para reftype="other" refcase="yes" refname="Constrict"><b>Constrict (Ex):</b> A monstrous scorpion deals automatic claw damage on a successful grapple check.</para>
+</topic><topic level="8" name="Improved Grab" origname="Improved Grab (Ex)" linkname="Monsters_Monsters_Monstrous_Scorpion_Improved_Grab" docbookid="MonstersVermin26" refname="Improved Grab" reftype="other" refcase="yes" refaltname="" keywords="grab,improv,monster,monstrou,scorpion"><para reftype="other" refcase="yes" refname="Improved Grab"><b>Improved Grab (Ex):</b> To use this ability, a monstrous scorpion must hit with a claw attack. A monstrous scorpion can use either its Strength modifier or Dexterity modifier for grapple checks, whichever is better.</para>
+</topic><topic level="8" name="Poison" origname="Poison (Ex)" linkname="Monsters_Monsters_Monstrous_Scorpion_Poison" docbookid="MonstersVermin27" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,poison,scorpion"><para reftype="other" refcase="yes" refname="Poison"><b>Poison (Ex):</b> A monstrous scorpion has a poisonous sting. The details vary by the scorpion's size, as follows. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.</para><table>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>12</para></cell>
+<cell><para>1 Con</para></cell>
+<cell><para>Huge</para></cell>
+<cell><para>18</para></cell>
+<cell><para>1d6 Con</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>12</para></cell>
+<cell><para>1d2 Con</para></cell>
+<cell><para>Gargantuan</para></cell>
+<cell><para>23</para></cell>
+<cell><para>1d8 Con</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>13</para></cell>
+<cell><para>1d3 Con</para></cell>
+<cell><para>Colossal</para></cell>
+<cell><para>33</para></cell>
+<cell><para>1d10 Con</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>14</para></cell>
+<cell><para>1d4 Con</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Monstrous_Scorpion_Skills" docbookid="MonstersVermin28" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,scorpion,skill"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> A monstrous scorpion has a +4 racial bonus on Climb, Hide, and Spot checks.</para><para/>
+</topic>
+</topic><topic level="2" name="Monstrous Spider" origname="Monstrous Spider" linkname="Monsters_Monsters_Monstrous_Spider" docbookid="MonstersVermin29" refname="Monstrous Spider" reftype="monster" refcase="no" refaltname="" keywords="monster,monstrou,spider"><para reftype="monster" refcase="no" refname="Monstrous Spider" style="heading 2">Monstrous Spider</para><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Name"><para><b>Monstrous Spider, Tiny</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Name"><para><b>Monstrous Spider, Small</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Name"><para><b>Monstrous Spider, Medium</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Type"><para>Tiny Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Type"><para>Small Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Type"><para>Medium Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Hit Dice"><para>1/2 d8 (2 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Hit Dice"><para>1d8 (4 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Hit Dice"><para>2d8+2 (11 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Initiative"><para>+3</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Initiative"><para>+3</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Initiative"><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Speed"><para>20 ft. (4 squares), climb 10 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Armor Class"><para>15 (+2 size, +3 Dex), touch 15, flat-footed 12</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Armor Class"><para>14 (+1 size, +3 Dex), touch 14, flat-footed 11</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Armor Class"><para>14 (+3 Dex, +1 natural), touch 13, flat-footed 11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Base Attack/Grapple"><para>+0/-12</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Base Attack/Grapple"><para>+0/-6</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Base Attack/Grapple"><para>+1/+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Attack"><para>Bite +5 melee (1d3-4 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Attack"><para>Bite +4 melee (1d4-2 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Attack"><para>Bite +4 melee (1d6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Full Attack"><para>Bite +5 melee (1d3-4 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Full Attack"><para>Bite +4 melee (1d4-2 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Full Attack"><para>Bite +4 melee (1d6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Space/Reach"><para>2-1/2 ft./0 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Space/Reach"><para>5 ft./5 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Saves"><para>Fort +2, Ref +3, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Saves"><para>Fort +2, Ref +3, Will +0</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Saves"><para>Fort +4, Ref +3, Will +0</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Abilities"><para>Str 3, Dex 17, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Abilities"><para>Str 7, Dex 17, Con 10, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Abilities"><para>Str 11, Dex 17, Con 12, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Skills"><para>Climb +11, Hide +15*, Jump -4*, Spot +4*</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Skills"><para>Climb +11, Hide +11*, Jump -2*, Spot +4*</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Skills"><para>Climb +11, Hide +7*, Jump +0*, Spot +4*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Feats"><para>Weapon Finesse <sup>B</sup></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Environment"><para>Temperate forests</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Environment"><para>Temperate forests</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Organization"><para>Colony (8-16)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Organization"><para>Colony (2-5) or swarm (6-11)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Challenge Rating"><para>1/4</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Challenge Rating"><para>1/2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Challenge Rating"><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Treasure"><para>None</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Treasure"><para>None</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Advancement"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Advancement"><para>3 HD (Medium)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Tiny" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Small" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Medium" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Name"><para><b>Monstrous Spider, Large</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Name"><para><b>Monstrous Spider, Huge</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Type"><para>Large Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Type"><para>Huge Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Hit Dice"><para>4d8+4 (22 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Hit Dice"><para>8d8+16 (52 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Initiative"><para>+3</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Initiative"><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Armor Class"><para>14 (-1 size, +3 Dex, +2 natural), touch 12, flat-footed 11</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Armor Class"><para>16 (-2 size, +3 Dex, +5 natural), touch 11, flat-footed 13</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Base Attack/Grapple"><para>+3/+9</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Base Attack/Grapple"><para>+6/+18</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Attack"><para>Bite +4 melee (1d8+3 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Attack"><para>Bite +9 melee (2d6+6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Full Attack"><para>Bite +4 melee (1d8+3 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Full Attack"><para>Bite +9 melee (2d6+6 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Space/Reach"><para>10 ft./5 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Space/Reach"><para>15 ft./10 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Saves"><para>Fort +5, Ref +4, Will +1</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Saves"><para>Fort +8, Ref +5, Will +2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Abilities"><para>Str 15, Dex 17, Con 12, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Abilities"><para>Str 19, Dex 17, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Skills"><para>Climb +11, Hide +3*, Jump +2*, Spot +4*</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Skills"><para>Climb +12, Hide -1*, Jump +4*, Spot +4*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Feats"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Environment"><para>Temperate forests</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Organization"><para>Solitary or colony (2-5)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Challenge Rating"><para>2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Challenge Rating"><para>5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Advancement"><para>5-7 HD (Large)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Advancement"><para>9-15 HD (Huge)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Large" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Huge" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Name"><para><b>Monstrous Spider, Gargantuan</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Name"><para><b>Monstrous Spider, Colossal</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Type"><para>Gargantuan Vermin</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Type"><para>Colossal Vermin</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Hit Dice:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Hit Dice"><para>16d8+32 (104 hp)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Hit Dice"><para>32d8+64 (208 hp)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Initiative:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Initiative"><para>+3</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Initiative"><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Speed:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Speed"><para>30 ft. (6 squares), climb 20 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Armor Class:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Armor Class"><para>19 (-4 size, +3 Dex, +10 natural), touch 9, flat-footed 16</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Armor Class"><para>22 (-8 size, +2 Dex, +18 natural), touch 4, flat-footed 20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Base Attack/Grapple:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Base Attack/Grapple"><para>+12/+31</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Base Attack/Grapple"><para>+24/+50</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Attack"><para>Bite +15 melee (2d8+10 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Attack"><para>Bite +26 melee (4d6+15 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Full Attack:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Full Attack"><para>Bite +15 melee (2d8+10 plus poison)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Full Attack"><para>Bite +26 melee (4d6+15 plus poison)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Space/Reach:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Space/Reach"><para>20 ft./15 ft.</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Space/Reach"><para>40 ft./30 ft.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Attacks:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Special Attacks"><para>Poison, web</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Special Qualities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Special Qualities"><para>Darkvision 60 ft., tremorsense 60 ft., vermin traits</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Saves:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Saves"><para>Fort +12, Ref +8, Will +5</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Saves"><para>Fort +20, Ref +12, Will +10</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Abilities:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Abilities"><para>Str 25, Dex 17, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Abilities"><para>Str 31, Dex 15, Con 14, Int -, Wis 10, Cha 2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Skills:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Skills"><para>Climb +14, Hide -5*, Jump +7*, Spot +4*</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Skills"><para>Climb +16, Hide -10*, Jump +10*, Spot +7*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Feats:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Feats"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Feats"><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Environment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Environment"><para>Temperate forests</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Environment"><para>Temperate forests</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Organization:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Organization"><para>Solitary</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Organization"><para>Solitary</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Challenge Rating:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Challenge Rating"><para>8</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Challenge Rating"><para>11</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Treasure:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Treasure"><para>1/10 coins; 50% goods; 50% items</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><b>Advancement:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Advancement"><para>17-31 HD (Gargantuan)</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Advancement"><para>33-60 HD (Colossal)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Level Adjustment:</b></para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Gargantuan" datarow="Level Adjustment"><para>-</para></cell>
+<cell datatype="monster" datacol="Monstrous Spider, Colossal" datarow="Level Adjustment"><para>-</para></cell>
+<cell/>
+</row>
+</table><para/><para>All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.</para><para>Monstrous spiders come in two general types: hunters and web-spinners. Hunters rove about, while web-spinners usually attempt to trap prey. Hunting spiders can spin webs to use as lairs, but cannot use their webs as weapons the way web-spinners can. A hunting spider has a base land speed 10 feet faster than the figures given in the statistics blocks.</para><topic level="8" name="Poison" origname="Poison (Ex)" linkname="Monsters_Monsters_Monstrous_Spider_Poison" docbookid="MonstersVermin30" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,poison,spider"><para reftype="other" refcase="yes" refname="Poison"><b>Poison (Ex):</b> A monstrous spider has a poisonous bite. The details vary by the spider's size, as shown on the table below. The save DCs are Constitution-based. The indicated damage is initial and secondary damage.</para><table>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell><para><b>Size</b></para></cell>
+<cell><para><b>Fort DC</b></para></cell>
+<cell><para><b>Damage</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>10</para></cell>
+<cell><para>1d2 Str</para></cell>
+<cell><para>Huge</para></cell>
+<cell><para>16</para></cell>
+<cell><para>1d8 Str</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>10</para></cell>
+<cell><para>1d3 Str</para></cell>
+<cell><para>Gargantuan</para></cell>
+<cell><para>20</para></cell>
+<cell><para>2d6 Str</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>12</para></cell>
+<cell><para>1d4 Str</para></cell>
+<cell><para>Colossal</para></cell>
+<cell><para>28</para></cell>
+<cell><para>2d8 Str</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>13</para></cell>
+<cell><para>1d6 Str</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table>
+</topic><topic level="8" name="Web" origname="Web (Ex)" linkname="Monsters_Monsters_Monstrous_Spider_Web" docbookid="MonstersVermin31" refname="Web" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,spider,web"><para reftype="other" refcase="yes" refname="Web"><b>Web (Ex):</b> Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size. Web-spinners can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the spider. An entangled creature can escape with a successful Escape Artist check or burst it with a Strength check. Both are standard actions whose DCs are given in the table below. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus.</para><para>Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, depending on the size of the spider. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has the hit points given on the table, and sheet webs have damage reduction 5/-.</para><para>A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.</para><table>
+<row/>
+<row>
+<cell><para><b>Size</b></para></cell> <cell><para><b>Escape Artist DC</b></para></cell>
+<cell><para><b>Break DC</b></para></cell>
+<cell><para><b>Hit Points</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Tiny</para></cell>
+<cell><para>10</para></cell>
+<cell><para>14</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Small</para></cell>
+<cell><para>10</para></cell>
+<cell><para>14</para></cell>
+<cell><para>4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Medium</para></cell>
+<cell><para>12</para></cell>
+<cell><para>16</para></cell>
+<cell><para>6</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Large</para></cell>
+<cell><para>13</para></cell>
+<cell><para>17</para></cell>
+<cell><para>12</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Huge</para></cell>
+<cell><para>16</para></cell>
+<cell><para>20</para></cell>
+<cell><para>14</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Gargantuan</para></cell>
+<cell><para>20</para></cell>
+<cell><para>24</para></cell>
+<cell><para>16</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Colossal</para></cell>
+<cell><para>28</para></cell>
+<cell><para>32</para></cell>
+<cell><para>18</para></cell>
+<cell/>
+</row>
+</table>
+</topic><topic level="8" name="Tremorsense" origname="Tremorsense (Ex)" linkname="Monsters_Monsters_Monstrous_Spider_Tremorsense" docbookid="MonstersVermin32" refname="Tremorsense" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,spider,tremorsens"><para reftype="other" refcase="yes" refname="Tremorsense"><b>Tremorsense (Ex):</b> A monstrous spider can detect and pinpoint any creature or object within 60 feet in contact with the ground, or within any range in contact with the spider's webs.</para>
+</topic><topic level="8" name="Skills" origname="Skills" linkname="Monsters_Monsters_Monstrous_Spider_Skills" docbookid="MonstersVermin33" refname="Skills" reftype="other" refcase="yes" refaltname="" keywords="monster,monstrou,skill,spider"><para reftype="other" refcase="yes" refname="Skills"><b>Skills:</b> Monstrous spiders have a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. A monstrous spider can always choose to take 10 on Climb checks, even if rushed or threatened. Monstrous spiders use either their Strength or Dexterity modifier for Climb checks, whichever is higher. *Hunting spiders have a +10 racial bonus on Jump checks and a +8 racial bonus on Spot checks. Web-spinning spiders have a +8 racial bonus on Hide and Move Silently checks when using their webs.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>

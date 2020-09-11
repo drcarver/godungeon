@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Adventuring &gt; Traps">
+<info>
+<title>TRAPS</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Adventuring" linkname="Adventuring" docbookid="Traps0" keywords="adventur"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Traps" origname="Traps" linkname="Adventuring_Traps" docbookid="Traps1" keywords="adventur,trap"><para style="heading 1">Traps</para><para/><topic level="8" name="Types of Traps" origname="Types of Traps" linkname="Adventuring_Traps_Types_of_Traps" docbookid="Traps2" refname="Types of Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,trap,type"><para reftype="other" refcase="yes" refname="Types of Traps"><b>Types of Traps:</b> A trap can be either mechanical or magic in nature. Mechanical traps include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. A mechanical trap can be constructed by a PC through successful use of the Craft (trapmaking) skill (see Designing a Trap, below, and the skill description).</para><para>Magic traps are further divided into spell traps and magic device traps. Magic device traps initiate spell effects when activated, just as wands, rods, rings, and other magic items do. Creating a magic device trap requires the Craft Wondrous Item feat (see Designing a Trap and the feat description).</para><para>Spell traps are simply spells that themselves function as traps<i/>. Creating a spell trap requires the services of a character who can cast the needed spell or spells, who is usually either the character creating the trap or an NPC spellcaster hired for the purpose.</para><para/>
+</topic><topic level="2" name="Mechanical Traps" origname="Mechanical Traps" linkname="Adventuring_Traps_Mechanical_Traps" docbookid="Traps3" refname="Mechanical Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,mechan,trap"><para reftype="other" refcase="yes" refname="Mechanical Traps" style="heading 2">Mechanical Traps</para><para>Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the heroes receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap's design.</para><para>Creatures who succeed on a DC 20 Search check detect a simple mechanical trap before it is triggered. (A simple trap is a snare, a trap triggered by a tripwire, or a large trap such as a pit.)</para><para>A character with the trap sense class feature who succeeds on a DC 21 (or higher) Search check detects a well-hidden or complex mechanical trap before it is triggered. Complex traps are denoted by their triggering mechanisms and involve pressure plates, mechanisms linked to doors, changes in weight, disturbances in the air, vibrations, and other sorts of unusual triggers.</para><para/>
+</topic><topic level="2" name="Magic Traps" origname="Magic Traps" linkname="Adventuring_Traps_Magic_Traps" docbookid="Traps4" refname="Magic Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,magic,trap"><para reftype="other" refcase="yes" refname="Magic Traps" style="heading 2">Magic Traps</para><para>Many spells can be used to create dangerous traps. Unless the spell or item description states otherwise, assume the following to be true.</para><list>
+ <item> A successful Search check (DC 25 + spell level) made by a rogue (and only a rogue) detects a magic trap before it goes off. Other characters have no chance to find a magic trap with a Search check.</item>
+ <item> Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).</item>
+ <item> Magic traps may be disarmed by a rogue (and only a rogue) with a successful Disable Device check (DC 25 + spell level).</item>
+</list><para/>
+</topic><topic level="2" name="Elements of A Trap" origname="Elements of A Trap" linkname="Adventuring_Traps_Elements_of_A_Trap" docbookid="Traps5" refname="Elements of A Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,trap"><para reftype="other" refcase="yes" refname="Elements of A Trap" style="heading 2">Elements of A Trap</para><para>All traps-mechanical or magic-have the following elements: trigger, reset, Search DC, Disable Device DC, attack bonus (or saving throw or onset delay), damage/effect, and Challenge Rating. Some traps may also include optional elements, such as poison or a bypass. These characteristics are described below.</para><para/><topic level="5" name="Trigger" origname="Trigger" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger" docbookid="Traps6" refname="Trigger" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,trap,trigger"><para reftype="other" refcase="yes" refname="Trigger" style="heading 5"><b>Trigger</b></para><para>A trap's trigger determines how it is sprung.</para><topic level="8" name="Location" origname="Location" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Location" docbookid="Traps7" refname="Location" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,locat,trap,trigger"><para reftype="other" refcase="yes" refname="Location"><b>Location:</b> A location trigger springs a trap when someone stands in a particular square.</para>
+</topic><topic level="8" name="Proximity" origname="Proximity" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Proximity" docbookid="Traps8" refname="Proximity" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,proxim,trap,trigger"><para reftype="other" refcase="yes" refname="Proximity"><b>Proximity:</b> This trigger activates the trap when a creature approaches within a certain distance of it. A proximity trigger differs from a location trigger in that the creature need not be standing in a particular square. Creatures that are flying can spring a trap with a proximity trigger but not one with a location trigger. Mechanical proximity triggers are extremely sensitive to the slightest change in the air. This makes them useful only in places such as crypts, where the air is unusually still.</para><para>The proximity trigger used most often for magic device traps is the <i>alarm</i> spell. Unlike when the spell is cast, an <i>alarm</i> spell used as a trigger can have an area that's no larger than the area the trap is meant to protect.</para><para>Some magic device traps have special proximity triggers that activate only when certain kinds of creatures approach. For example, a <i>detect good</i> spell can serve as a proximity trigger on an evil altar, springing the attached trap only when someone of good alignment gets close enough to it.</para>
+</topic><topic level="8" name="Sound" origname="Sound" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Sound" docbookid="Traps9" refname="Sound" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,sound,trap,trigger"><para reftype="other" refcase="yes" refname="Sound"><b>Sound:</b> This trigger springs a magic trap when it detects any sound. A sound trigger functions like an ear and has a +15 bonus on Listen checks. A successful Move Silently check, magical <i>silence</i>, <i/> and other effects that would negate hearing defeat it. A trap with a sound trigger requires the casting of <i>clairaudience</i> during its construction.</para>
+</topic><topic level="8" name="Visual" origname="Visual" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Visual" docbookid="Traps10" refname="Visual" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,trap,trigger,visual"><para reftype="other" refcase="yes" refname="Visual"><b>Visual:</b> This trigger for magic traps works like an actual eye, springing the trap whenever it 'sees' something. A trap with a visual trigger requires the casting of <i>arcane eye</i>,  <i>clairvoyance</i>, <i/> or <i>true seeing</i> during its construction. Sight range and the Spot bonus conferred on the trap depend on the spell chosen, as shown.</para><table>
+<row/>
+<row>
+<cell><para><b>Spell</b></para></cell> <cell><para><b>Sight Range</b></para></cell>
+<cell><para><b>Spot Bonus</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><i>arcane eye</i></para></cell>
+<cell><para>Line of sight (unlimited range)</para></cell>
+<cell><para>+20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>clairvoyance</i></para></cell>
+<cell><para>One preselected location</para></cell>
+<cell><para>+15</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><i>true seeing</i></para></cell>
+<cell><para>Line of sight (up to 120 ft.)</para></cell>
+<cell><para>+30</para></cell>
+<cell/>
+</row>
+</table><para>If you want the trap to 'see' in the dark, you must either choose the <i>true seeing</i> option or add <i>darkvision</i> to the trap as well. (<i>darkvision</i> limits the trap's sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well.</para>
+</topic><topic level="8" name="Touch" origname="Touch" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Touch" docbookid="Traps11" refname="Touch" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,touch,trap,trigger"><para reftype="other" refcase="yes" refname="Touch"><b>Touch:</b> A touch trigger, which springs the trap when touched, is one of the simplest kinds of trigger to construct. This trigger may be physically attached to the part of the mechanism that deals the damage or it may not. You can make a magic touch trigger by adding <i>alarm</i> to the trap and reducing the area of the effect to cover only the trigger spot.</para>
+</topic><topic level="8" name="Timed" origname="Timed" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Timed" docbookid="Traps12" refname="Timed" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,time,trap,trigger"><para reftype="other" refcase="yes" refname="Timed"><b>Timed:</b> This trigger periodically springs the trap after a certain duration has passed.</para>
+</topic><topic level="8" name="Spell" origname="Spell" linkname="Adventuring_Traps_Elements_of_A_Trap_Trigger_Spell" docbookid="Traps13" refname="Spell" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,spell,trap,trigger"><para reftype="other" refcase="yes" refname="Spell"><b>Spell:</b> All spell traps have this kind of trigger. The appropriate spell descriptions explain the trigger conditions for traps that contain spell triggers.</para><para/>
+</topic>
+</topic><topic level="5" name="Reset" origname="Reset" linkname="Adventuring_Traps_Elements_of_A_Trap_Reset" docbookid="Traps14" refname="Reset" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,reset,trap"><para reftype="other" refcase="yes" refname="Reset" style="heading 5"><b>Reset</b></para><para>A reset element is the set of conditions under which a trap becomes ready to trigger again.</para><topic level="8" name="No Reset" origname="No Reset" linkname="Adventuring_Traps_Elements_of_A_Trap_Reset_No_Reset" docbookid="Traps15" refname="No Reset" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,reset,trap"><para reftype="other" refcase="yes" refname="No Reset"><b>No Reset:</b> Short of completely rebuilding the trap, there's no way to trigger it more than once. Spell traps have no reset element.</para>
+</topic><topic level="8" name="Repair" origname="Repair" linkname="Adventuring_Traps_Elements_of_A_Trap_Reset_Repair" docbookid="Traps16" refname="Repair" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,repair,reset,trap"><para reftype="other" refcase="yes" refname="Repair"><b>Repair:</b> To get the trap functioning again, you must repair it.</para>
+</topic><topic level="8" name="Manual" origname="Manual" linkname="Adventuring_Traps_Elements_of_A_Trap_Reset_Manual" docbookid="Traps17" refname="Manual" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,manual,reset,trap"><para reftype="other" refcase="yes" refname="Manual"><b>Manual:</b> Resetting the trap requires someone to move the parts back into place. This is the kind of reset element most mechanical traps have.</para>
+</topic><topic level="8" name="Automatic" origname="Automatic" linkname="Adventuring_Traps_Elements_of_A_Trap_Reset_Automatic" docbookid="Traps18" refname="Automatic" reftype="other" refcase="yes" refaltname="" keywords="adventur,automat,elem,reset,trap"><para reftype="other" refcase="yes" refname="Automatic"><b>Automatic:</b> The trap resets itself, either immediately or after a timed interval.</para><para/>
+</topic>
+</topic><topic level="5" name="Repairing and Resetting Mechanical Traps" origname="Repairing and Resetting Mechanical Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Repairing_and_Resetting_Mechanical_Traps" docbookid="Traps19" refname="Repairing and Resetting Mechanical Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,mechan,repair,reset,trap"><para reftype="other" refcase="yes" refname="Repairing and Resetting Mechanical Traps" style="heading 5"><b>Repairing and Resetting Mechanical Traps</b></para><para>Repairing a mechanical trap requires a Craft (trapmaking) check against a DC equal to the one for building it. The cost for raw materials is one-fifth of the trap's original market price. To calculate how long it takes to fix a trap, use the same calculations you would for building it, but use the cost of the raw materials required for repair in place of the market price.</para><para>Resetting a trap usually takes only a minute or so. For a trap with a more difficult reset method, you should set the time and labor required.</para><para/><topic level="8" name="Bypass" origname="Bypass (Optional Element)" linkname="Adventuring_Traps_Elements_of_A_Trap_Repairing_and_Resetting_Mechanical_Traps_Bypass" docbookid="Traps20" refname="Bypass" reftype="other" refcase="yes" refaltname="" keywords="adventur,bypass,elem,mechan,repair,reset,trap"><para reftype="other" refcase="yes" refname="Bypass"><b>Bypass (Optional Element)</b></para><para>If the builder of a trap wants to be able to move past the trap after it is created or placed, it's a good idea to build in a bypass mechanism -something that temporarily disarms the trap. Bypass elements are typically used only with mechanical traps; spell traps usually have built-in allowances for the caster to bypass them.</para>
+</topic><topic level="8" name="Lock" origname="Lock" linkname="Adventuring_Traps_Elements_of_A_Trap_Repairing_and_Resetting_Mechanical_Traps_Lock" docbookid="Traps21" refname="Lock" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,lock,mechan,repair,reset,trap"><para reftype="other" refcase="yes" refname="Lock"><b>Lock:</b> A lock bypass requires a DC 30 Open Lock check to open.</para>
+</topic><topic level="8" name="Hidden Switch" origname="Hidden Switch" linkname="Adventuring_Traps_Elements_of_A_Trap_Repairing_and_Resetting_Mechanical_Traps_Hidden_Switch" docbookid="Traps22" refname="Hidden Switch" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,hidden,mechan,repair,reset,switch,trap"><para reftype="other" refcase="yes" refname="Hidden Switch"><b>Hidden Switch:</b> A hidden switch requires a DC 25 Search check to locate.</para>
+</topic><topic level="8" name="Hidden Lock" origname="Hidden Lock" linkname="Adventuring_Traps_Elements_of_A_Trap_Repairing_and_Resetting_Mechanical_Traps_Hidden_Lock" docbookid="Traps23" refname="Hidden Lock" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,hidden,lock,mechan,repair,reset,trap"><para reftype="other" refcase="yes" refname="Hidden Lock"><b>Hidden Lock:</b> A hidden lock combines the features above, requiring a DC 25 Search check to locate and a DC 30 Open Lock check to open.</para><para/>
+</topic>
+</topic><topic level="5" name="Search and Disable Device DCs" origname="Search and Disable Device DCs" linkname="Adventuring_Traps_Elements_of_A_Trap_Search_and_Disable_Device_DCs" docbookid="Traps24" refname="Search and Disable Device DCs" reftype="other" refcase="yes" refaltname="" keywords="adventur,dc,devic,disabl,elem,search,trap"><para reftype="other" refcase="yes" refname="Search and Disable Device DCs" style="heading 5"><b>Search and Disable Device DCs</b></para><para>The builder sets the Search and Disable Device DCs for a mechanical trap. For a magic trap, the values depend on the highest-level spell used.</para><topic level="8" name="Mechanical Trap" origname="Mechanical Trap" linkname="Adventuring_Traps_Elements_of_A_Trap_Search_and_Disable_Device_DCs_Mechanical_Trap" docbookid="Traps25" refname="Mechanical Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,dc,devic,disabl,elem,mechan,search,trap"><para reftype="other" refcase="yes" refname="Mechanical Trap"><b>Mechanical Trap:</b> The base DC for both Search and Disable Device checks is 20. Raising or lowering either of these DCs affects the base cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR (Table: CR Modifiers for Mechanical Traps).</para>
+</topic><topic level="8" name="Magic Trap" origname="Magic Trap" linkname="Adventuring_Traps_Elements_of_A_Trap_Search_and_Disable_Device_DCs_Magic_Trap" docbookid="Traps26" refname="Magic Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,dc,devic,disabl,elem,magic,search,trap"><para reftype="other" refcase="yes" refname="Magic Trap"><b>Magic Trap:</b> The DC for both Search and Disable Device checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trap sense class feature can attempt a Search check or a Disable Device check involving a magic trap. These DCs do not affect the trap's cost or CR.</para><para/>
+</topic>
+</topic><topic level="5" name="Attack Bonus/Saving Throw DC" origname="Attack Bonus/Saving Throw DC" linkname="Adventuring_Traps_Elements_of_A_Trap_Attack_Bonus_Saving_Throw_DC" docbookid="Traps27" refname="Attack Bonus/Saving Throw DC" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,bonus/saving,dc,elem,throw,trap"><para reftype="other" refcase="yes" refname="Attack Bonus/Saving Throw DC" style="heading 5"><b>Attack Bonus/Saving Throw DC</b></para><para>A trap usually either makes an attack roll or forces a saving throw to avoid it. Occasionally a trap uses both of these options, or neither (see Never Miss).</para><topic level="8" name="Pits" origname="Pits" linkname="Adventuring_Traps_Elements_of_A_Trap_Attack_Bonus_Saving_Throw_DC_Pits" docbookid="Traps28" refname="Pits" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,bonus/saving,dc,elem,pit,throw,trap"><para reftype="other" refcase="yes" refname="Pits"><b>Pits:</b> These are holes (covered or not) that characters can fall into and take damage. A pit needs no attack roll, but a successful Reflex save (DC set by the builder) avoids it. Other save-dependent mechanical traps also fall into this category.</para><para>Pits in dungeons come in three basic varieties: uncovered, covered, and chasms. Pits and chasms can be defeated by judicious application of the Climb skill, the Jump skill, or various magical means.</para><para>Uncovered pits serve mainly to discourage intruders from going a certain way, although they cause much grief to characters who stumble into them in the dark, and they can greatly complicate a melee taking place nearby.</para><para>Covered pits are much more dangerous. They can be detected with a DC 20 Search check, but only if the character is taking the time to carefully examine the area before walking across it. A character who fails to detect a covered pit is still entitled to a DC 20 Reflex save to avoid falling into it. However, if she was running or moving recklessly at the time, she gets no saving throw and falls automatically.</para><para>Trap coverings can be as simple as piled refuse (straw, leaves, sticks, garbage), a large rug, or an actual trapdoor concealed to appear as a normal part of the floor. Such a trapdoor usually swings open when enough weight (usually about 50 to 80 pounds) is placed upon it. Devious trap builders sometimes design trapdoors so that they spring back shut after they open. The trapdoor might lock once it's back in place, leaving the stranded character well and truly trapped. Opening such a trapdoor is just as difficult as opening a regular door (assuming the trapped character can reach it), and a DC 13 Strength check is needed to keep a spring-loaded door open.</para><para>Pit traps often have something nastier than just a hard floor at the bottom. A trap designer may put spikes, monsters, or a pool of acid, lava, or even water at the bottom. Spikes at the bottom of a pit deal damage as daggers with a +10 attack bonus and a +1 bonus on damage for every 10 feet of the fall (to a maximum bonus on damage of +5). If the pit has multiple spikes, a falling victim is attacked by 1d4 of them. This damage is in addition to any damage from the fall itself.</para><para>Monsters sometimes live in pits. Any monster that can fit into the pit might have been placed there by the dungeon's designer, or might simply have fallen in and not been able to climb back out.</para><para>A secondary trap, mechanical or magical, at the bottom of a pit can be particularly deadly. Activated by a falling victim, the secondary trap attacks the already injured character when she's least ready for it.</para>
+</topic><topic level="8" name="Ranged Attack Traps" origname="Ranged Attack Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Attack_Bonus_Saving_Throw_DC_Ranged_Attack_Traps" docbookid="Traps29" refname="Ranged Attack Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,bonus/saving,dc,elem,rang,throw,trap"><para reftype="other" refcase="yes" refname="Ranged Attack Traps"><b>Ranged Attack Traps:</b> These traps fling darts, arrows, spears, or the like at whoever activated the trap. The builder sets the attack bonus. A ranged attack trap can be configured to simulate the effect of a composite bow with a high strength rating which provides the trap with a bonus on damage equal to its strength rating.</para>
+</topic><topic level="8" name="Melee Attack Traps" origname="Melee Attack Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Attack_Bonus_Saving_Throw_DC_Melee_Attack_Traps" docbookid="Traps30" refname="Melee Attack Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,bonus/saving,dc,elem,mele,throw,trap"><para reftype="other" refcase="yes" refname="Melee Attack Traps"><b>Melee Attack Traps:</b> These traps feature such obstacles as sharp blades that emerge from walls and stone blocks that fall from ceilings. Once again, the builder sets the attack bonus.</para><para/>
+</topic>
+</topic><topic level="5" name="Damage/Effect" origname="Damage/Effect" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect" docbookid="Traps31" refname="Damage/Effect" reftype="other" refcase="yes" refaltname="" keywords="adventur,damage/effect,elem,trap"><para reftype="other" refcase="yes" refname="Damage/Effect" style="heading 5"><b>Damage/Effect</b></para><para>The effect of a trap is what happens to those who spring it. Usually this takes the form of either damage or a spell effect, but some traps have special effects.</para><topic level="8" name="Pits" origname="Pits" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Pits" docbookid="Traps32" refname="Pits" reftype="other" refcase="yes" refaltname="" keywords="adventur,damage/effect,elem,pit,trap"><para reftype="other" refcase="yes" refname="Pits"><b>Pits:</b> Falling into a pit deals 1d6 points of damage per 10 feet of depth.</para>
+</topic><topic level="8" name="Ranged Attack Traps" origname="Ranged Attack Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Ranged_Attack_Traps" docbookid="Traps33" refname="Ranged Attack Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,damage/effect,elem,rang,trap"><para reftype="other" refcase="yes" refname="Ranged Attack Traps"><b>Ranged Attack Traps:</b> These traps deal whatever damage their ammunition normally would. If a trap is constructed with a high strength rating, it has a corresponding bonus on damage.</para>
+</topic><topic level="8" name="Melee Attack Traps" origname="Melee Attack Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Melee_Attack_Traps" docbookid="Traps34" refname="Melee Attack Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,damage/effect,elem,mele,trap"><para reftype="other" refcase="yes" refname="Melee Attack Traps"><b>Melee Attack Traps:</b> These traps deal the same damage as the melee weapons they 'wield.' In the case of a falling stone block, you can assign any amount of bludgeoning damage you like, but remember that whoever resets the trap has to lift that stone back into place.</para><para>A melee attack trap can be constructed with a built-in bonus on damage rolls, just as if the trap itself had a high Strength score.</para>
+</topic><topic level="8" name="Spell Traps" origname="Spell Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Spell_Traps" docbookid="Traps35" refname="Spell Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,damage/effect,elem,spell,trap"><para reftype="other" refcase="yes" refname="Spell Traps"><b>Spell Traps:</b> Spell traps produce the spell's effect<i/>. Like all spells, a spell trap that allows a saving throw has a save DC of 10 + spell level + caster's relevant ability modifier.</para>
+</topic><topic level="8" name="Magic Device Traps" origname="Magic Device Traps" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Magic_Device_Traps" docbookid="Traps36" refname="Magic Device Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,damage/effect,devic,elem,magic,trap"><para reftype="other" refcase="yes" refname="Magic Device Traps"><b>Magic Device Traps:</b> These traps produce the effects of any spells included in their construction, as described in the appropriate entries<i/>. If the spell in a magic device trap allows a saving throw, its save DC is 10 + spell level x 1.5. Some spells make attack rolls instead.</para>
+</topic><topic level="8" name="Special" origname="Special" linkname="Adventuring_Traps_Elements_of_A_Trap_Damage_Effect_Special" docbookid="Traps37" refname="Special" reftype="other" refcase="yes" refaltname="" keywords="adventur,damage/effect,elem,special,trap"><para reftype="other" refcase="yes" refname="Special"><b>Special:</b> Some traps have miscellaneous features that produce special effects, such as drowning for a water trap or ability damage for poison. Saving throws and damage depend on the poison or are set by the builder, as appropriate.</para><para/>
+</topic>
+</topic><topic level="5" name="Miscellaneous Trap Features" origname="Miscellaneous Trap Features" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features" docbookid="Traps38" refname="Miscellaneous Trap Features" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,miscellan,trap"><para reftype="other" refcase="yes" refname="Miscellaneous Trap Features" style="heading 5"><b>Miscellaneous Trap Features</b></para><para>Some traps include optional features that can make them considerably more deadly. The most common such features are discussed below.</para><topic level="8" name="Alchemical Item" origname="Alchemical Item" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Alchemical_Item" docbookid="Traps39" refname="Alchemical Item" reftype="other" refcase="yes" refaltname="" keywords="adventur,alchem,elem,featur,item,miscellan,trap"><para reftype="other" refcase="yes" refname="Alchemical Item"><b>Alchemical Item:</b> Mechanical traps may incorporate alchemical devices or other special substances or items, such as tanglefoot bags, alchemist's fire, thunderstones, and the like. Some such items mimic spell effects. If the item mimics a spell effect, it increases the CR as shown on Table: CR Modifiers for Mechanical Traps.</para>
+</topic><topic level="8" name="Gas" origname="Gas" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Gas" docbookid="Traps40" refname="Gas" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,ga,miscellan,trap"><para reftype="other" refcase="yes" refname="Gas"><b>Gas:</b> With a gas trap, the danger is in the inhaled poison it delivers. Traps employing gas usually have the never miss and onset delay features (see below).</para>
+</topic><topic level="8" name="Liquid" origname="Liquid" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Liquid" docbookid="Traps41" refname="Liquid" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,liquid,miscellan,trap"><para reftype="other" refcase="yes" refname="Liquid"><b>Liquid:</b> Any trap that involves a danger of drowning is in this category. Traps employing liquid usually have the never miss and onset delay features (see below).</para>
+</topic><topic level="8" name="Multiple Target" origname="Multiple Target" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Multiple_Target" docbookid="Traps42" refname="Multiple Target" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,miscellan,multipl,target,trap"><para reftype="other" refcase="yes" refname="Multiple Target"><b>Multiple Target:</b> Traps with this feature can affect more than one character.</para>
+</topic><topic level="8" name="Never Miss" origname="Never Miss" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Never_Miss" docbookid="Traps43" refname="Never Miss" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,miscellan,miss,never,trap"><para reftype="other" refcase="yes" refname="Never Miss"><b>Never Miss:</b> When the entire dungeon wall moves to crush you, your quick reflexes won't help, since the wall can't possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to avoid, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss variety.</para>
+</topic><topic level="8" name="Onset Delay" origname="Onset Delay" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Onset_Delay" docbookid="Traps44" refname="Onset Delay" reftype="other" refcase="yes" refaltname="" keywords="adventur,delai,elem,featur,miscellan,onset,trap"><para reftype="other" refcase="yes" refname="Onset Delay"><b>Onset Delay:</b> An onset delay is the amount of time between when the trap is sprung and when it deals damage. A never miss trap always has an onset delay.</para>
+</topic><topic level="8" name="Poison" origname="Poison" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Poison" docbookid="Traps45" refname="Poison" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,miscellan,poison,trap"><para reftype="other" refcase="yes" refname="Poison"><b>Poison:</b> Traps that employ poison are deadlier than their nonpoisonous counterparts, so they have correspondingly higher CRs. To determine the CR modifier for a given poison, consult Table: CR Modifiers for Mechanical Traps. Only injury, contact, and inhaled poisons are suitable for traps; ingested types are not. Some traps simply deal the poison's damage. Others deal damage with ranged or melee attacks as well.</para>
+</topic><topic level="8" name="Pit Spikes" origname="Pit Spikes" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Pit_Spikes" docbookid="Traps46" refname="Pit Spikes" reftype="other" refcase="yes" refaltname="" keywords="adventur,elem,featur,miscellan,pit,spike,trap"><para reftype="other" refcase="yes" refname="Pit Spikes"><b>Pit Spikes:</b> Treat spikes at the bottom of a pit as daggers, each with a +10 attack bonus. The damage bonus for each spike is +1 per 10 feet of pit depth (to a maximum of +5). Each character who falls into the pit is attacked by 1d4 spikes. Pit spikes do not add to the average damage of the trap (see Average Damage, below).</para>
+</topic><topic level="8" name="Pit Bottom" origname="Pit Bottom" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Pit_Bottom" docbookid="Traps47" refname="Pit Bottom" reftype="other" refcase="yes" refaltname="" keywords="adventur,bottom,elem,featur,miscellan,pit,trap"><para reftype="other" refcase="yes" refname="Pit Bottom"><b>Pit Bottom:</b> If something other than spikes waits at the bottom of a pit, it's best to treat that as a separate trap (see Multiple Traps, below) with a location trigger that activates on any significant impact, such as a falling character.</para>
+</topic><topic level="8" name="Touch Attack" origname="Touch Attack" linkname="Adventuring_Traps_Elements_of_A_Trap_Miscellaneous_Trap_Features_Touch_Attack" docbookid="Traps48" refname="Touch Attack" reftype="other" refcase="yes" refaltname="" keywords="adventur,attack,elem,featur,miscellan,touch,trap"><para reftype="other" refcase="yes" refname="Touch Attack"><b>Touch Attack:</b> This feature applies to any trap that needs only a successful touch attack (melee or ranged) to hit.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Sample Traps" origname="Sample Traps" linkname="Adventuring_Traps_Sample_Traps" docbookid="Traps49" refname="Sample Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,sampl,trap"><para reftype="other" refcase="yes" refname="Sample Traps" style="heading 2">Sample Traps</para><para>The costs listed for mechanical traps are market prices; those for magic traps are raw material costs. Caster level and class for the spells used to produce the trap effects are provided in the entries for magic device traps and spell traps. For all other spells used (in triggers, for example), the caster level is assumed to be the minimum required.</para><topic level="5" name="Cr 1 Traps" origname="Cr 1 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps" docbookid="Traps50" refname="Cr 1 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 1 Traps" style="heading 5"><b>CR 1 Traps</b></para><topic level="8" name="Basic Arrow Trap" origname="Basic Arrow Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Basic_Arrow_Trap" docbookid="Traps51" refname="Basic Arrow Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,arrow,basic,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Basic Arrow Trap"><b>Basic Arrow Trap:</b> CR 1; mechanical; proximity trigger; manual reset; Atk +10 ranged (1d6/x3, arrow); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 2,000 gp.</para>
+</topic><topic level="8" name="Camouflaged Pit Trap" origname="Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Camouflaged_Pit_Trap" docbookid="Traps52" refname="Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,camouflag,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Camouflaged Pit Trap"><b>Camouflaged Pit Trap:</b> CR 1; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 10 ft. deep (1d6, fall); Search DC 24; Disable Device DC 20. <i>Market Price:</i> 1,800 gp.</para>
+</topic><topic level="8" name="Deeper Pit Trap" origname="Deeper Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Deeper_Pit_Trap" docbookid="Traps53" refname="Deeper Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,deeper,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Deeper Pit Trap"><b>Deeper Pit Trap:</b> CR 1; mechanical; location trigger; manual reset; hidden switch bypass (Search DC 25); DC 15 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 20; Disable Device DC 23. <i>Market Price:</i> 1,300 gp.</para>
+</topic><topic level="8" name="Fusillade of Darts" origname="Fusillade of Darts" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Fusillade_of_Darts" docbookid="Traps54" refname="Fusillade of Darts" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dart,fusillad,sampl,trap"><para reftype="other" refcase="yes" refname="Fusillade of Darts"><b>Fusillade of Darts:</b> CR 1; mechanical; location trigger; manual reset; Atk +10 ranged (1d4+1, dart); multiple targets (fires 1d4 darts at each target in two adjacent 5-ft. squares); Search DC 14; Disable Device DC 20. <i>Market Price:</i> 500 gp.</para>
+</topic><topic level="8" name="Poison Dart Trap" origname="Poison Dart Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Poison_Dart_Trap" docbookid="Traps55" refname="Poison Dart Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dart,poison,sampl,trap"><para reftype="other" refcase="yes" refname="Poison Dart Trap"><b>Poison Dart Trap:</b> CR 1; mechanical; location trigger; manual reset; Atk +8 ranged (1d4 plus poison, dart); poison (bloodroot, DC 12 Fortitude save resists, 0/1d4 Con plus 1d3 Wis); Search DC 20; Disable Device DC 18. <i>Market Price:</i> 700 gp.</para>
+</topic><topic level="8" name="Poison Needle Trap" origname="Poison Needle Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Poison_Needle_Trap" docbookid="Traps56" refname="Poison Needle Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,needl,poison,sampl,trap"><para reftype="other" refcase="yes" refname="Poison Needle Trap"><b>Poison Needle Trap:</b> CR 1; mechanical; touch trigger; manual reset; Atk +8 ranged (1 plus greenblood oil poison); Search DC 22; Disable Device DC 20. <i>Market Price:</i> 1,300 gp.</para>
+</topic><topic level="8" name="Portcullis Trap" origname="Portcullis Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Portcullis_Trap" docbookid="Traps57" refname="Portcullis Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,portculli,sampl,trap"><para reftype="other" refcase="yes" refname="Portcullis Trap"><b>Portcullis Trap:</b> CR 1; mechanical; location trigger; manual reset; Atk +10 melee (3d6); Search DC 20; Disable Device DC 20. <i>Note:</i> Damage applies only to those underneath the portcullis. Portcullis blocks passageway. <i>Market Price:</i> 1,400 gp.</para>
+</topic><topic level="8" name="Razor-Wire Across Hallway" origname="Razor-Wire Across Hallway" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Razor_Wire_Across_Hallway" docbookid="Traps58" refname="Razor-Wire Across Hallway" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,hallwai,razor-wire,sampl,trap"><para reftype="other" refcase="yes" refname="Razor-Wire Across Hallway"><b>Razor-Wire across Hallway:</b> CR 1; mechanical; location trigger; no reset; Atk +10 melee (2d6, wire); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 22; Disable Device DC 15. <i>Market Price:</i> 400 gp.</para>
+</topic><topic level="8" name="Rolling Rock Trap" origname="Rolling Rock Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Rolling_Rock_Trap" docbookid="Traps59" refname="Rolling Rock Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,rock,roll,sampl,trap"><para reftype="other" refcase="yes" refname="Rolling Rock Trap"><b>Rolling Rock Trap:</b> CR 1; mechanical; location trigger; manual reset; Atk +10 melee (2d6, rock); Search DC 20; Disable Device DC 22. <i>Market Price:</i> 1,400 gp.</para>
+</topic><topic level="8" name="Scything Blade Trap" origname="Scything Blade Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Scything_Blade_Trap" docbookid="Traps60" refname="Scything Blade Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,blade,cr,sampl,scyth,trap"><para reftype="other" refcase="yes" refname="Scything Blade Trap"><b>Scything Blade Trap:</b> CR 1; mechanical; location trigger; automatic reset; Atk +8 melee (1d8/x3); Search DC 21; Disable Device DC 20. <i>Market Price:</i> 1,700 gp.</para>
+</topic><topic level="8" name="Spear Trap" origname="Spear Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Spear_Trap" docbookid="Traps61" refname="Spear Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,spear,trap"><para reftype="other" refcase="yes" refname="Spear Trap"><b>Spear Trap:</b> CR 1; mechanical; location trigger; manual reset; Atk +12 ranged (1d8/x3, spear); Search DC 20; Disable Device DC 20. <i>Note:</i> 200-ft. max range, target determined randomly from those in its path. Market Price: 1,200 gp.</para>
+</topic><topic level="8" name="Swinging Block Trap" origname="Swinging Block Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Swinging_Block_Trap" docbookid="Traps62" refname="Swinging Block Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,block,cr,sampl,swing,trap"><para reftype="other" refcase="yes" refname="Swinging Block Trap"><b>Swinging Block Trap:</b> CR 1; mechanical; touch trigger; manual reset; Atk +5 melee (4d6, stone block); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 500 gp.</para>
+</topic><topic level="8" name="Wall Blade Trap" origname="Wall Blade Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_1_Traps_Wall_Blade_Trap" docbookid="Traps63" refname="Wall Blade Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,blade,cr,sampl,trap,wall"><para reftype="other" refcase="yes" refname="Wall Blade Trap"><b>Wall Blade Trap:</b> CR 1; mechanical; touch trigger; automatic reset; hidden switch bypass (Search DC 25); Atk +10 melee (2d4/x4, scythe); Search DC 22; Disable Device DC 22. <i>Market Price:</i> 2,500 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 2 Traps" origname="Cr 2 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps" docbookid="Traps64" refname="Cr 2 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 2 Traps" style="heading 5"><b>CR 2 Traps</b></para><topic level="8" name="Box of Brown Mold" origname="Box of Brown Mold" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Box_of_Brown_Mold" docbookid="Traps65" refname="Box of Brown Mold" reftype="other" refcase="yes" refaltname="" keywords="adventur,box,brown,cr,mold,sampl,trap"><para reftype="other" refcase="yes" refname="Box of Brown Mold"><b>Box of Brown Mold:</b> CR 2; mechanical; touch trigger (opening the box); automatic reset; 5-ft. cold aura (3d6, cold nonlethal); Search DC 22; Disable Device DC 16. <i>Market Price:</i> 3,000 gp.</para>
+</topic><topic level="8" name="Bricks from Ceiling" origname="Bricks from Ceiling" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Bricks_from_Ceiling" docbookid="Traps66" refname="Bricks from Ceiling" reftype="other" refcase="yes" refaltname="" keywords="adventur,brick,ceil,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Bricks from Ceiling"><b>Bricks from Ceiling:</b> CR 2; mechanical; touch trigger; repair reset; Atk +12 melee (2d6, bricks); multiple targets (all targets in two adjacent 5-ft. squares); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 2,400 gp.</para>
+</topic><topic level="8" name="Burning Hands Trap" origname="Burning Hands Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Burning_Hands_Trap" docbookid="Traps67" refname="Burning Hands Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,burn,cr,hand,sampl,trap"><para reftype="other" refcase="yes" refname="Burning Hands Trap"><b><i>Burning Hands</i> Trap:</b> CR 2; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>burning hands</i>, 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. <i>Cost:</i> 500 gp, 40 XP.</para>
+</topic><topic level="8" name="Camouflaged Pit Trap" origname="Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Camouflaged_Pit_Trap" docbookid="Traps68" refname="Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,camouflag,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Camouflaged Pit Trap"><b>Camouflaged Pit Trap:</b> CR 2; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 24; Disable Device DC 19. <i>Market Price:</i> 3,400 gp.</para>
+</topic><topic level="8" name="Inflict Light Wounds Trap" origname="Inflict Light Wounds Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Inflict_Light_Wounds_Trap" docbookid="Traps69" refname="Inflict Light Wounds Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,inflict,light,sampl,trap,wound"><para reftype="other" refcase="yes" refname="Inflict Light Wounds Trap"><b><i>Inflict Light Wounds</i> Trap:</b> CR 2; magic device; touch trigger; automatic reset; spell effect (<i>inflict light wounds</i>, <i/> 1st-level cleric, 1d8+1, DC 11 Will save half damage); Search DC 26; Disable Device DC 26. <i>Cost:</i> 500 gp, 40 XP.</para>
+</topic><topic level="8" name="Javelin Trap" origname="Javelin Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Javelin_Trap" docbookid="Traps70" refname="Javelin Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,javelin,sampl,trap"><para reftype="other" refcase="yes" refname="Javelin Trap"><b>Javelin Trap:</b> CR 2; mechanical; location trigger; manual reset; Atk +16 ranged (1d6+4, javelin); Search DC 20; Disable Device DC 18. <i>Market Price:</i> 4,800 gp.</para>
+</topic><topic level="8" name="Large Net Trap" origname="Large Net Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Large_Net_Trap" docbookid="Traps71" refname="Large Net Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,larg,net,sampl,trap"><para reftype="other" refcase="yes" refname="Large Net Trap"><b>Large Net Trap:</b> CR 2; mechanical; location trigger; manual reset; Atk +5 melee (see note); Search DC 20; Disable Device DC 25. <i>Note:</i> Characters in 10-ft. square are grappled by net (Str 18) if they fail a DC 14 Reflex save. <i>Market Price:</i> 3,000 gp.</para>
+</topic><topic level="8" name="Pit Trap" origname="Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Pit_Trap" docbookid="Traps72" refname="Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Pit Trap"><b>Pit Trap:</b> CR 2; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 2,000 gp.</para>
+</topic><topic level="8" name="Poison Needle Trap" origname="Poison Needle Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Poison_Needle_Trap" docbookid="Traps73" refname="Poison Needle Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,needl,poison,sampl,trap"><para reftype="other" refcase="yes" refname="Poison Needle Trap"><b>Poison Needle Trap:</b> CR 2; mechanical; touch trigger; repair reset; lock bypass (Open Lock DC 30); Atk +17 melee (1 plus poison, needle); poison (blue whinnis, DC 14 Fortitude save resists (poison only), 1 Con/unconsciousness); Search DC 22; Disable Device DC 17. <i>Market Price:</i> 4,720 gp.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Spiked_Pit_Trap" docbookid="Traps74" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap:</b> CR 2; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Search DC 18; Disable Device DC 15. <i>Market Price:</i> 1,600 gp.</para>
+</topic><topic level="8" name="Tripping Chain" origname="Tripping Chain" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Tripping_Chain" docbookid="Traps75" refname="Tripping Chain" reftype="other" refcase="yes" refaltname="" keywords="adventur,chain,cr,sampl,trap,trip"><para reftype="other" refcase="yes" refname="Tripping Chain"><b>Tripping Chain:</b> CR 2; mechanical; location trigger; automatic reset; multiple traps (tripping and melee attack); Atk +15 melee touch (trip), Atk +15 melee (2d4+2, spiked chain); Search DC 15; Disable Device DC 18. <i>Market Price:</i> 3,800 gp. <i>Note:</i> This trap is really one CR 1 trap that trips and a second CR 1 trap that attacks with a spiked chain. If the tripping attack succeeds, a +4 bonus applies to the spiked chain attack because the opponent is prone.</para>
+</topic><topic level="8" name="Well-Camouflaged Pit Trap" origname="Well-Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_2_Traps_Well_Camouflaged_Pit_Trap" docbookid="Traps76" refname="Well-Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap,well-camouflaged"><para reftype="other" refcase="yes" refname="Well-Camouflaged Pit Trap"><b>Well-Camouflaged Pit Trap:</b> CR 2; mechanical; location trigger; repair reset; DC 20 Reflex save avoids; 10 ft. deep (1d6, fall); Search DC 27; Disable Device DC 20. <i>Market Price:</i> 4,400 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 3 Traps" origname="Cr 3 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps" docbookid="Traps77" refname="Cr 3 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 3 Traps" style="heading 5"><b>CR 3 Traps</b></para><topic level="8" name="Burning Hands Trap" origname="Burning Hands Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Burning_Hands_Trap" docbookid="Traps78" refname="Burning Hands Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,burn,cr,hand,sampl,trap"><para reftype="other" refcase="yes" refname="Burning Hands Trap"><b><i>Burning Hands</i> Trap:</b> CR 3; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>burning hands</i>, <i/> 5th-level wizard, 5d4 fire, DC 11 Reflex save half damage); Search DC 26; Disable Device DC 26. <i>Cost:</i> 2,500 gp, 200 XP.</para>
+</topic><topic level="8" name="Camouflaged Pit Trap" origname="Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Camouflaged_Pit_Trap" docbookid="Traps79" refname="Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,camouflag,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Camouflaged Pit Trap"><b>Camouflaged Pit Trap:</b> CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 30 ft. deep (3d6, fall); multiple targets (first target in each of two adjacent squares); Search DC 24; Disable Device DC 18. <i>Market Price:</i> 4,800 gp.</para>
+</topic><topic level="8" name="Ceiling Pendulum" origname="Ceiling Pendulum" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Ceiling_Pendulum" docbookid="Traps80" refname="Ceiling Pendulum" reftype="other" refcase="yes" refaltname="" keywords="adventur,ceil,cr,pendulum,sampl,trap"><para reftype="other" refcase="yes" refname="Ceiling Pendulum"><b>Ceiling Pendulum:</b> CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Search DC 15; Disable Device DC 27. <i>Market Price:</i> 14,100 gp.</para>
+</topic><topic level="8" name="Fire Trap" origname="Fire Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Fire_Trap" docbookid="Traps81" refname="Fire Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,fire,sampl,trap"><para reftype="other" refcase="yes" refname="Fire Trap"><b><i>Fire Trap:</i></b> CR 3; spell; spell trigger; no reset; spell effect (<i>fire trap</i>, <i/> 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. <i>Cost:</i> 85 gp to hire NPC spellcaster.</para>
+</topic><topic level="8" name="Extended Bane Trap" origname="Extended Bane Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Extended_Bane_Trap" docbookid="Traps82" refname="Extended Bane Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,bane,cr,extend,sampl,trap"><para reftype="other" refcase="yes" refname="Extended Bane Trap"><b>Extended <i>Bane</i> Trap:</b> CR 3; magic device; proximity trigger (<i>detect good)</i>; automatic reset; spell effect (extended <i>bane</i>, <i/> 3rd-level cleric, DC 13 Will save negates); Search DC 27; Disable Device DC 27. <i>Cost:</i> 3,500 gp, 280 XP.</para>
+</topic><topic level="8" name="Ghoul Touch Trap" origname="Ghoul Touch Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Ghoul_Touch_Trap" docbookid="Traps83" refname="Ghoul Touch Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,ghoul,sampl,touch,trap"><para reftype="other" refcase="yes" refname="Ghoul Touch Trap"><b><i>Ghoul Touch</i> Trap:</b> CR 3; magic device; touch trigger; automatic reset; spell effect (<i>ghoul touch</i>, <i/> 3rd-level wizard, DC 13 Fortitude save negates); Search DC 27; Disable Device DC 27. <i>Cost:</i> 3,000 gp, 240 XP.</para>
+</topic><topic level="8" name="Hail of Needles" origname="Hail of Needles" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Hail_of_Needles" docbookid="Traps84" refname="Hail of Needles" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,hail,needl,sampl,trap"><para reftype="other" refcase="yes" refname="Hail of Needles"><b>Hail of Needles:</b> CR 3; mechanical; location trigger; manual reset; Atk +20 ranged (2d4); Search DC 22; Disable Device DC 22. <i>Market Price:</i> 5,400 gp.</para>
+</topic><topic level="8" name="Acid Arrow Trap" origname="Acid Arrow Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Acid_Arrow_Trap" docbookid="Traps85" refname="Acid Arrow Trap" reftype="other" refcase="yes" refaltname="" keywords="acid,adventur,arrow,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Acid Arrow Trap"><b><i>Acid Arrow</i> Trap:</b> CR 3; magic device; proximity trigger (<i>alarm)</i>; automatic reset; Atk +2 ranged touch; spell effect (<i>acid arrow</i>, <i/> 3rd-level wizard, 2d4 acid/round for 2 rounds); Search DC 27; Disable Device DC 27. <i>Cost:</i> 3,000 gp, 240 XP.</para>
+</topic><topic level="8" name="Pit Trap" origname="Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Pit_Trap" docbookid="Traps86" refname="Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Pit Trap"><b>Pit Trap:</b> CR 3; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 3,000 gp.</para>
+</topic><topic level="8" name="Poisoned Arrow Trap" origname="Poisoned Arrow Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Poisoned_Arrow_Trap" docbookid="Traps87" refname="Poisoned Arrow Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,arrow,cr,poison,sampl,trap"><para reftype="other" refcase="yes" refname="Poisoned Arrow Trap"><b>Poisoned Arrow Trap:</b> CR 3; mechanical; touch trigger; manual reset; lock bypass (Open Lock DC 30); Atk +12 ranged (1d8 plus poison, arrow); poison (Large monstrous scorpion venom, DC 14 Fortitude save resists, 1d4 Con/1d4 Con); Search DC 19; Disable Device DC 15. <i>Market Price:</i> 2,900 gp.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Spiked_Pit_Trap" docbookid="Traps88" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap:</b> CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Search DC 21; Disable Device DC 20. <i>Market Price:</i> 3,600 gp.</para>
+</topic><topic level="8" name="Stone Blocks from Ceiling" origname="Stone Blocks from Ceiling" linkname="Adventuring_Traps_Sample_Traps_Cr_3_Traps_Stone_Blocks_from_Ceiling" docbookid="Traps89" refname="Stone Blocks from Ceiling" reftype="other" refcase="yes" refaltname="" keywords="adventur,block,ceil,cr,sampl,stone,trap"><para reftype="other" refcase="yes" refname="Stone Blocks from Ceiling"><b>Stone Blocks from Ceiling:</b> CR 3; mechanical; location trigger; repair reset; Atk +10 melee (4d6, stone blocks); Search DC 25; Disable Device DC 20. <i>Market Price:</i> 5,400 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 4 Traps" origname="Cr 4 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps" docbookid="Traps90" refname="Cr 4 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 4 Traps" style="heading 5"><b>CR 4 Traps</b></para><topic level="8" name="Bestow Curse Trap" origname="Bestow Curse Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Bestow_Curse_Trap" docbookid="Traps91" refname="Bestow Curse Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,bestow,cr,curs,sampl,trap"><para reftype="other" refcase="yes" refname="Bestow Curse Trap"><b><i>Bestow Curse</i> Trap:</b> CR 4; magic device; touch trigger (<i>detect chaos)</i>; automatic reset; spell effect (<i>bestow curse</i>, <i/> 5th-level cleric, DC 14 Will save negates); Search DC 28; Disable Device DC 28. <i>Cost:</i> 8,000 gp, 640 XP.</para>
+</topic><topic level="8" name="Camouflaged Pit Trap" origname="Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Camouflaged_Pit_Trap" docbookid="Traps92" refname="Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,camouflag,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Camouflaged Pit Trap"><b>Camouflaged Pit Trap:</b> CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 25; Disable Device DC 17. <i>Market Price:</i> 6,800 gp.</para>
+</topic><topic level="8" name="Collapsing Column" origname="Collapsing Column" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Collapsing_Column" docbookid="Traps93" refname="Collapsing Column" reftype="other" refcase="yes" refaltname="" keywords="adventur,collaps,column,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Collapsing Column"><b>Collapsing Column:</b> CR 4; mechanical; touch trigger (attached); no reset; Atk +15 melee (6d6, stone blocks); Search DC 20; Disable Device DC 24. <i>Market Price:</i> 8,800 gp.</para>
+</topic><topic level="8" name="Glyph of Warding" origname="Glyph of Warding (Blast)" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Glyph_of_Warding" docbookid="Traps94" refname="Glyph of Warding" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,glyph,sampl,trap,ward"><para reftype="other" refcase="yes" refname="Glyph of Warding"><b><i>glyph of warding</i> (Blast):</b> CR 4; spell; spell trigger; no reset; spell effect (<i>glyph of warding</i> [blast], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. <i>Cost:</i> 350 gp to hire NPC spellcaster.</para>
+</topic><topic level="8" name="Lightning Bolt Trap" origname="Lightning Bolt Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Lightning_Bolt_Trap" docbookid="Traps95" refname="Lightning Bolt Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,bolt,cr,lightn,sampl,trap"><para reftype="other" refcase="yes" refname="Lightning Bolt Trap"><b><i>Lightning Bolt</i> Trap:</b> CR 4; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>lightning bolt</i>, <i/> 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. <i>Cost:</i> 7,500 gp, 600 XP.</para>
+</topic><topic level="8" name="Pit Trap" origname="Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Pit_Trap" docbookid="Traps96" refname="Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Pit Trap"><b>Pit Trap:</b> CR 4; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 4,000 gp.</para>
+</topic><topic level="8" name="Poisoned Dart Trap" origname="Poisoned Dart Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Poisoned_Dart_Trap" docbookid="Traps97" refname="Poisoned Dart Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dart,poison,sampl,trap"><para reftype="other" refcase="yes" refname="Poisoned Dart Trap"><b>Poisoned Dart Trap:</b> CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft. -by-10-ft. area); poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex); Search DC 21; Disable Device DC 22. <i>Market Price:</i> 12,090 gp.</para>
+</topic><topic level="8" name="Sepia Snake Sigil Trap" origname="Sepia Snake Sigil Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Sepia_Snake_Sigil_Trap" docbookid="Traps98" refname="Sepia Snake Sigil Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,sepia,sigil,snake,trap"><para reftype="other" refcase="yes" refname="Sepia Snake Sigil Trap"><b><i>Sepia Snake Sigil</i> Trap:</b> CR 4; spell; spell trigger; no reset; spell effect (<i>sepia snake sigil</i>, <i/> 5th-level wizard, DC 14 Reflex save negates); Search DC 28; Disable Device DC 28. <i>Cost:</i> 650 gp to hire NPC spellcaster.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Spiked_Pit_Trap" docbookid="Traps99" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap:</b> CR 4; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 4,000 gp.</para>
+</topic><topic level="8" name="Wall Scythe Trap" origname="Wall Scythe Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Wall_Scythe_Trap" docbookid="Traps100" refname="Wall Scythe Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,scyth,trap,wall"><para reftype="other" refcase="yes" refname="Wall Scythe Trap"><b>Wall Scythe Trap:</b> CR 4; mechanical; location trigger; automatic reset; Atk +20 melee (2d4+8/x4, scythe); Search DC 21; Disable Device DC 18. <i>Market Price:</i> 17,200 gp.</para>
+</topic><topic level="8" name="Water-Filled Room Trap" origname="Water-Filled Room Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Water_Filled_Room_Trap" docbookid="Traps101" refname="Water-Filled Room Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,room,sampl,trap,water-filled"><para reftype="other" refcase="yes" refname="Water-Filled Room Trap"><b>Water-Filled Room Trap:</b> CR 4; mechanical; location trigger; automatic reset; multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (5 rounds); liquid; Search DC 17; Disable Device DC 23. <i>Market Price:</i> 11,200 gp.</para>
+</topic><topic level="8" name="Wide-Mouth Spiked Pit Trap" origname="Wide-Mouth Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_4_Traps_Wide_Mouth_Spiked_Pit_Trap" docbookid="Traps102" refname="Wide-Mouth Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap,wide-mouth"><para reftype="other" refcase="yes" refname="Wide-Mouth Spiked Pit Trap"><b>Wide-Mouth Spiked Pit Trap:</b> CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Search DC 18; Disable Device DC 25. <i>Market Price:</i> 7,200 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 5 Traps" origname="Cr 5 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps" docbookid="Traps103" refname="Cr 5 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 5 Traps" style="heading 5"><b>CR 5 Traps</b></para><topic level="8" name="Camouflaged Pit Trap" origname="Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Camouflaged_Pit_Trap" docbookid="Traps104" refname="Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,camouflag,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Camouflaged Pit Trap"><b>Camouflaged Pit Trap:</b> CR 5; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 25; Disable Device DC 17. <i>Market Price:</i> 8,500 gp.</para>
+</topic><topic level="8" name="Doorknob Smeared with Contact Poison" origname="Doorknob Smeared with Contact Poison" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Doorknob_Smeared_with_Contact_Poison" docbookid="Traps105" refname="Doorknob Smeared with Contact Poison" reftype="other" refcase="yes" refaltname="" keywords="adventur,contact,cr,doorknob,poison,sampl,smear,trap"><para reftype="other" refcase="yes" refname="Doorknob Smeared with Contact Poison"><b>Doorknob Smeared with Contact Poison:</b> CR 5; mechanical; touch trigger (attached); manual reset; poison (nitharit, DC 13 Fortitude save resists, 0/3d6 Con); Search DC 25; Disable Device DC 19. <i>Market Price:</i> 9,650 gp.</para>
+</topic><topic level="8" name="Falling Block Trap" origname="Falling Block Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Falling_Block_Trap" docbookid="Traps106" refname="Falling Block Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,block,cr,fall,sampl,trap"><para reftype="other" refcase="yes" refname="Falling Block Trap"><b>Falling Block Trap:</b> CR 5; mechanical; location trigger; manual reset; Atk +15 melee (6d6); multiple targets (can strike all characters in two adjacent specified squares); Search DC 20; Disable Device DC 25. <i>Market Price:</i> 15,000 gp.</para><para reftype="other" refcase="yes" refname="Fire Trap"><b><i>Fire Trap:</i> </b>CR 5; spell; spell trigger; no reset; spell effect (<i>fire trap</i>, <i/> 7th-level wizard, 1d4+7 fire, DC 16 Reflex save half damage); Search DC 29; Disable Device DC 29. <i>Cost:</i> 305 gp to hire NPC spellcaster.</para>
+</topic><topic level="8" name="Fireball Trap" origname="Fireball Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Fireball_Trap" docbookid="Traps107" refname="Fireball Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,firebal,sampl,trap"><para reftype="other" refcase="yes" refname="Fireball Trap"><b><i>Fireball</i> Trap:</b> CR 5; magic device; touch trigger; automatic reset; spell effect (<i>fireball</i>, <i/> 8th-level wizard, 8d6 fire, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. <i>Cost:</i> 12,000 gp, 960 XP.</para>
+</topic><topic level="8" name="Flooding Room Trap" origname="Flooding Room Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Flooding_Room_Trap" docbookid="Traps108" refname="Flooding Room Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,flood,room,sampl,trap"><para reftype="other" refcase="yes" refname="Flooding Room Trap"><b>Flooding Room Trap:</b> CR 5; mechanical; proximity trigger; automatic reset; no attack roll necessary (see note below); Search DC 20; Disable Device DC 25. <i>Note:</i> Room floods in 4 rounds. <i>Market Price:</i> 17,500 gp.</para>
+</topic><topic level="8" name="Fusillade of Darts" origname="Fusillade of Darts" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Fusillade_of_Darts" docbookid="Traps109" refname="Fusillade of Darts" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dart,fusillad,sampl,trap"><para reftype="other" refcase="yes" refname="Fusillade of Darts"><b>Fusillade of Darts:</b> CR 5; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1, dart); multiple targets (1d8 darts per target in a 10-ft. -by-10-ft. area); Search DC 19; Disable Device DC 25. <i>Market Price:</i> 18,000 gp.</para>
+</topic><topic level="8" name="Moving Executioner Statue" origname="Moving Executioner Statue" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Moving_Executioner_Statue" docbookid="Traps110" refname="Moving Executioner Statue" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,execution,move,sampl,statu,trap"><para reftype="other" refcase="yes" refname="Moving Executioner Statue"><b>Moving Executioner Statue:</b> CR 5; mechanical; location trigger; automatic reset; hidden switch bypass (Search DC 25); Atk +16 melee (1d12+8/x3, greataxe); multiple targets (both arms attack); Search DC 25; Disable Device DC 18. <i>Market Price:</i> 22,500 gp.</para>
+</topic><topic level="8" name="Phantasmal Killer Trap" origname="Phantasmal Killer Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Phantasmal_Killer_Trap" docbookid="Traps111" refname="Phantasmal Killer Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,killer,phantasm,sampl,trap"><para reftype="other" refcase="yes" refname="Phantasmal Killer Trap"><b><i>Phantasmal Killer</i> Trap:</b> CR 5; magic device; proximity trigger (<i>alarm</i> covering the entire room); automatic reset; spell effect (<i>phantasmal killer</i>, <i/> 7th-level wizard, DC 16 Will save for disbelief and DC 16 Fort save for partial effect); Search DC 29; Disable Device DC 29. <i>Cost:</i> 14,000 gp, 1,120 XP.</para>
+</topic><topic level="8" name="Pit Trap" origname="Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Pit_Trap" docbookid="Traps112" refname="Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap"><para reftype="other" refcase="yes" refname="Pit Trap"><b>Pit Trap:</b> CR 5; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 5,000 gp.</para>
+</topic><topic level="8" name="Poison Wall Spikes" origname="Poison Wall Spikes" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Poison_Wall_Spikes" docbookid="Traps113" refname="Poison Wall Spikes" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,poison,sampl,spike,trap,wall"><para reftype="other" refcase="yes" refname="Poison Wall Spikes"><b>Poison Wall Spikes:</b> CR 5; mechanical; location trigger; manual reset; Atk +16 melee (1d8+4 plus poison, spike); multiple targets (closest target in each of two adjacent 5-ft. squares); poison (Medium monstrous spider venom, DC 12 Fortitude save resists, 1d4 Str/1d4 Str); Search DC 17; Disable Device DC 21. <i>Market Price:</i> 12,650 gp.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Spiked_Pit_Trap" docbookid="Traps114" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap:</b> CR 5; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+4 each); Search DC 21; Disable Device DC 20. <i>Market Price:</i> 13,500 gp.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap (80 Ft. Deep)" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Spiked_Pit_Trap" docbookid="Traps115" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap (80 Ft. Deep):</b> CR 5; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall), pit spikes (Atk +10 melee, 1d4 spikes for 1d4+5 each); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 5,000 gp.</para>
+</topic><topic level="8" name="Ungol Dust Vapor Trap" origname="Ungol Dust Vapor Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_5_Traps_Ungol_Dust_Vapor_Trap" docbookid="Traps116" refname="Ungol Dust Vapor Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dust,sampl,trap,ungol,vapor"><para reftype="other" refcase="yes" refname="Ungol Dust Vapor Trap"><b>Ungol Dust Vapor Trap:</b> CR 5; mechanical; location trigger; manual reset; gas; multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (2 rounds); poison (ungol dust, DC 15 Fortitude save resists, 1 Cha/1d6 Cha plus 1 Cha drain); Search DC 20; Disable Device DC 16. <i>Market Price:</i> 9,000 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 6 Traps" origname="Cr 6 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps" docbookid="Traps117" refname="Cr 6 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 6 Traps" style="heading 5"><b>CR 6 Traps</b> </para><topic level="8" name="Built-to-Collapse Wall" origname="Built-to-Collapse Wall" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Built_to_Collapse_Wall" docbookid="Traps118" refname="Built-to-Collapse Wall" reftype="other" refcase="yes" refaltname="" keywords="adventur,built-to-collapse,cr,sampl,trap,wall"><para reftype="other" refcase="yes" refname="Built-to-Collapse Wall"><b>Built-to-Collapse Wall:</b> CR 6; mechanical; proximity trigger; no reset; Atk +20 melee (8d6, stone blocks); multiple targets (all targets in a 10-ft. -by-10-ft. area); Search DC 14; Disable Device DC 16. <i>Market Price:</i> 15,000 gp.</para>
+</topic><topic level="8" name="Compacting Room" origname="Compacting Room" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Compacting_Room" docbookid="Traps119" refname="Compacting Room" reftype="other" refcase="yes" refaltname="" keywords="adventur,compact,cr,room,sampl,trap"><para reftype="other" refcase="yes" refname="Compacting Room"><b>Compacting Room:</b> CR 6; mechanical; timed trigger; automatic reset; hidden switch bypass (Search DC 25); walls move together (12d6, crush); multiple targets (all targets in a 10-ft. -by- 10-ft. room); never miss; onset delay (4 rounds); Search DC 20; Disable Device DC 22. <i>Market Price:</i> 25,200 gp.</para>
+</topic><topic level="8" name="Flame Strike Trap" origname="Flame Strike Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Flame_Strike_Trap" docbookid="Traps120" refname="Flame Strike Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,flame,sampl,strike,trap"><para reftype="other" refcase="yes" refname="Flame Strike Trap"><b><i>Flame Strike</i> Trap:</b> CR 6; magic device; proximity trigger (<i>detect magic)</i>; automatic reset; spell effect (<i>flame strike</i>, <i/> 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); Search DC 30; Disable Device DC 30. <i>Cost:</i> 22,750 gp, 1,820 XP.</para>
+</topic><topic level="8" name="Fusillade of Spears" origname="Fusillade of Spears" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Fusillade_of_Spears" docbookid="Traps121" refname="Fusillade of Spears" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,fusillad,sampl,spear,trap"><para reftype="other" refcase="yes" refname="Fusillade of Spears"><b>Fusillade of Spears:</b> CR 6; mechanical; proximity trigger; repair reset; Atk +21 ranged (1d8, spear); multiple targets (1d6 spears per target in a 10 ft. -by-10-ft. area); Search DC 26; Disable Device DC 20. <i>Market Price:</i> 31,200 gp.</para>
+</topic><topic level="8" name="Glyph of Warding" origname="Glyph of Warding (Blast)" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Glyph_of_Warding" docbookid="Traps122" refname="Glyph of Warding" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,glyph,sampl,trap,ward"><para reftype="other" refcase="yes" refname="Glyph of Warding"><b><i>glyph of warding</i> (Blast):</b> CR 6; spell; spell trigger; no reset; spell effect (<i>glyph of warding</i> [blast], 16th-level cleric, 8d8 sonic, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Search DC 28; Disable Device DC 28. <i>Cost:</i> 680 gp to hire NPC spellcaster.</para>
+</topic><topic level="8" name="Lightning Bolt Trap" origname="Lightning Bolt Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Lightning_Bolt_Trap" docbookid="Traps123" refname="Lightning Bolt Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,bolt,cr,lightn,sampl,trap"><para reftype="other" refcase="yes" refname="Lightning Bolt Trap"><b><i>Lightning Bolt</i> Trap:</b> CR 6; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>lightning bolt</i>, <i/> 10th-level wizard, 10d6 electricity, DC 14 Reflex save half damage); Search DC 28; Disable Device DC 28. <i>Cost:</i> 15,000 gp, 1,200 XP.</para>
+</topic><topic level="8" name="Spiked Blocks from Ceiling" origname="Spiked Blocks from Ceiling" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Spiked_Blocks_from_Ceiling" docbookid="Traps124" refname="Spiked Blocks from Ceiling" reftype="other" refcase="yes" refaltname="" keywords="adventur,block,ceil,cr,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Blocks from Ceiling"><b>Spiked Blocks from Ceiling:</b> CR 6; mechanical; location trigger; repair reset; Atk +20 melee (6d6, spikes); multiple targets (all targets in a 10-ft. -by-10-ft. area); Search DC 24; Disable Device DC 20. <i>Market Price:</i> 21,600 gp.</para>
+</topic><topic level="8" name="Spiked Pit Trap" origname="Spiked Pit Trap (100 Ft. Deep)" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Spiked_Pit_Trap" docbookid="Traps125" refname="Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Spiked Pit Trap"><b>Spiked Pit Trap (100 Ft. Deep):</b> CR 6; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 6,000 gp.</para>
+</topic><topic level="8" name="Whirling Poison Blades" origname="Whirling Poison Blades" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Whirling_Poison_Blades" docbookid="Traps126" refname="Whirling Poison Blades" reftype="other" refcase="yes" refaltname="" keywords="adventur,blade,cr,poison,sampl,trap,whirl"><para reftype="other" refcase="yes" refname="Whirling Poison Blades"><b>Whirling Poison Blades:</b> CR 6; mechanical; timed trigger; automatic reset; hidden lock bypass (Search DC 25, Open Lock DC 30); Atk +10 melee (1d4+4/19-20 plus poison, dagger); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); multiple targets (one target in each of three preselected 5-ft. squares); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 30,200 gp.</para>
+</topic><topic level="8" name="Wide-Mouth Pit Trap" origname="Wide-Mouth Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Wide_Mouth_Pit_Trap" docbookid="Traps127" refname="Wide-Mouth Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap,wide-mouth"><para reftype="other" refcase="yes" refname="Wide-Mouth Pit Trap"><b>Wide-Mouth Pit Trap:</b> CR 6; mechanical; location trigger, manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (all targets within a 10-ft. -by-10-ft. area); Search DC 26; Disable Device DC 25. <i>Market Price:</i> 28,200 gp.</para>
+</topic><topic level="8" name="Wyvern Arrow Trap" origname="Wyvern Arrow Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_6_Traps_Wyvern_Arrow_Trap" docbookid="Traps128" refname="Wyvern Arrow Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,arrow,cr,sampl,trap,wyvern"><para reftype="other" refcase="yes" refname="Wyvern Arrow Trap"><b>Wyvern Arrow Trap:</b> CR 6; mechanical; proximity trigger; manual reset; Atk +14 ranged (1d8 plus poison, arrow); poison (wyvern poison, DC 17 Fortitude save resists, 2d6 Con/2d6 Con); Search DC 20; Disable Device DC 16. <i>Market Price:</i> 17,400 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 7 Traps" origname="Cr 7 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps" docbookid="Traps129" refname="Cr 7 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 7 Traps" style="heading 5"><b>CR 7 Traps</b></para><topic level="8" name="Acid Fog Trap" origname="Acid Fog Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Acid_Fog_Trap" docbookid="Traps130" refname="Acid Fog Trap" reftype="other" refcase="yes" refaltname="" keywords="acid,adventur,cr,fog,sampl,trap"><para reftype="other" refcase="yes" refname="Acid Fog Trap"><b><i>Acid Fog</i> Trap:</b> CR 7; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>acid fog</i>, <i/> 11th-level wizard, 2d6/round acid for 11 rounds); Search DC 31; Disable Device DC 31. <i>Cost:</i> 33,000 gp, 2,640 XP.</para>
+</topic><topic level="8" name="Blade Barrier Trap" origname="Blade Barrier Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Blade_Barrier_Trap" docbookid="Traps131" refname="Blade Barrier Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,barrier,blade,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Blade Barrier Trap"><b><i>Blade Barrier</i> Trap:</b> CR 7; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>blade barrier</i>, <i/> 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. <i>Cost:</i> 33,000 gp, 2,640 XP.</para>
+</topic><topic level="8" name="Burnt Othur Vapor Trap" origname="Burnt Othur Vapor Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Burnt_Othur_Vapor_Trap" docbookid="Traps132" refname="Burnt Othur Vapor Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,burnt,cr,othur,sampl,trap,vapor"><para reftype="other" refcase="yes" refname="Burnt Othur Vapor Trap"><b>Burnt Othur Vapor Trap:</b> CR 7; mechanical; location trigger; repair reset; gas; multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (3 rounds); poison (burnt othur fumes, DC 18 Fortitude save resists, 1 Con drain/3d6 Con); Search DC 21; Disable Device DC 21. <i>Market Price:</i> 17,500 gp.</para>
+</topic><topic level="8" name="Chain Lightning Trap" origname="Chain Lightning Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Chain_Lightning_Trap" docbookid="Traps133" refname="Chain Lightning Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,chain,cr,lightn,sampl,trap"><para reftype="other" refcase="yes" refname="Chain Lightning Trap"><b><i>Chain Lightning</i> Trap:</b> CR 7; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>chain lightning</i>, <i/> 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); Search DC 31; Disable Device DC 31. <i>Cost:</i> 33,000 gp, 2,640 XP.</para>
+</topic><topic level="8" name="Black Tentacles Trap" origname="Black Tentacles Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Black_Tentacles_Trap" docbookid="Traps134" refname="Black Tentacles Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,black,cr,sampl,tentacl,trap"><para reftype="other" refcase="yes" refname="Black Tentacles Trap"><b><i>Black Tentacles</i> Trap:</b> CR 7; magic device; proximity trigger (<i>alarm)</i>; no reset; spell effect (<i>black tentacles</i>, <i/> 7th-level wizard, 1d4+7 tentacles, Atk +7 melee [1d6+4, tentacle]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Search DC 29; Disable Device DC 29. <i>Cost:</i> 1,400 gp, 112 XP.</para>
+</topic><topic level="8" name="Fusillade of Greenblood Oil Darts" origname="Fusillade of Greenblood Oil Darts" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Fusillade_of_Greenblood_Oil_Darts" docbookid="Traps135" refname="Fusillade of Greenblood Oil Darts" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,dart,fusillad,greenblood,oil,sampl,trap"><para reftype="other" refcase="yes" refname="Fusillade of Greenblood Oil Darts"><b>Fusillade of Greenblood Oil Darts:</b> CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/1d2 Con); multiple targets (1d8 darts per target in a 10-ft. -by-10-ft. area); Search DC 25; Disable Device DC 25. <i>Market Price:</i> 33,000 gp.</para>
+</topic><topic level="8" name="Lock Covered in Dragon Bile" origname="Lock Covered in Dragon Bile" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Lock_Covered_in_Dragon_Bile" docbookid="Traps136" refname="Lock Covered in Dragon Bile" reftype="other" refcase="yes" refaltname="" keywords="adventur,bile,cover,cr,dragon,lock,sampl,trap"><para reftype="other" refcase="yes" refname="Lock Covered in Dragon Bile"><b>Lock Covered in Dragon Bile:</b> CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); Search DC 27; Disable Device DC 16. <i>Market Price:</i> 11,300 gp.</para>
+</topic><topic level="8" name="Summon Monster VI Trap" origname="Summon Monster VI Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Summon_Monster_VI_Trap" docbookid="Traps137" refname="Summon Monster VI Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,monster,sampl,summon,trap"><para reftype="other" refcase="yes" refname="Summon Monster VI Trap"><b><i>Summon Monster VI</i> Trap:</b> CR 7; magic device; proximity trigger (<i>alarm)</i>; no reset; spell effect (<i>summon monster VI</i>, <i/> 11th-level wizard), Search DC 31; Disable Device DC 31. <i>Cost:</i> 3,300 gp, 264 XP.</para>
+</topic><topic level="8" name="Water-Filled Room" origname="Water-Filled Room" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Water_Filled_Room" docbookid="Traps138" refname="Water-Filled Room" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,room,sampl,trap,water-filled"><para reftype="other" refcase="yes" refname="Water-Filled Room"><b>Water-Filled Room:</b> CR 7; mechanical; location trigger; manual reset; multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (3 rounds); water; Search DC 20; Disable Device DC 25. <i>Market Price:</i> 21,000 gp.</para>
+</topic><topic level="8" name="Well-Camouflaged Pit Trap" origname="Well-Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_7_Traps_Well_Camouflaged_Pit_Trap" docbookid="Traps139" refname="Well-Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap,well-camouflaged"><para reftype="other" refcase="yes" refname="Well-Camouflaged Pit Trap"><b>Well-Camouflaged Pit Trap:</b> CR 7; mechanical; location trigger; repair reset; DC 25 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Search DC 27; Disable Device DC 18. <i>Market Price:</i> 24,500 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 8 Traps" origname="Cr 8 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps" docbookid="Traps140" refname="Cr 8 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 8 Traps" style="heading 5"><b>CR 8 Traps</b></para><topic level="8" name="Deathblade Wall Scythe" origname="Deathblade Wall Scythe" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Deathblade_Wall_Scythe" docbookid="Traps141" refname="Deathblade Wall Scythe" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,deathblad,sampl,scyth,trap,wall"><para reftype="other" refcase="yes" refname="Deathblade Wall Scythe"><b>Deathblade Wall Scythe:</b> CR 8; mechanical; touch trigger; manual reset; Atk +16 melee (2d4+8 plus poison, scythe); poison (deathblade, DC 20 Fortitude save resists, 1d6 Con/2d6 Con); Search DC 24; Disable Device DC 19. <i>Market Price:</i> 31,400 gp.</para>
+</topic><topic level="8" name="Destruction Trap" origname="Destruction Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Destruction_Trap" docbookid="Traps142" refname="Destruction Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,destruct,sampl,trap"><para reftype="other" refcase="yes" refname="Destruction Trap"><b><i>Destruction</i> Trap:</b> CR 8; magic device; touch trigger (<i>alarm)</i>; automatic reset; spell effect (<i>destruction</i>, <i/> 13th-level cleric, DC 20 Fortitude save for 10d6 damage); Search DC 32; Disable Device DC 32. <i>Cost:</i> 45,500 gp, 3,640 XP.</para>
+</topic><topic level="8" name="Earthquake Trap" origname="Earthquake Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Earthquake_Trap" docbookid="Traps143" refname="Earthquake Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,earthquak,sampl,trap"><para reftype="other" refcase="yes" refname="Earthquake Trap"><b><i>Earthquake</i> Trap:</b> CR 8; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>earthquake</i>, <i/> 13th-level cleric, 65-ft. radius, DC 15 or 20 Reflex save, depending on terrain); Search DC 32; Disable Device DC 32. <i>Cost:</i> 45,500 gp, 3,640 XP.</para>
+</topic><topic level="8" name="Insanity Mist Vapor Trap" origname="Insanity Mist Vapor Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Insanity_Mist_Vapor_Trap" docbookid="Traps144" refname="Insanity Mist Vapor Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,insan,mist,sampl,trap,vapor"><para reftype="other" refcase="yes" refname="Insanity Mist Vapor Trap"><b>Insanity Mist Vapor Trap:</b> CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft. -by-10-ft. room); Search DC 25; Disable Device DC 20. <i>Market Price:</i> 23,900 gp.</para>
+</topic><topic level="8" name="Acid Arrow Trap" origname="Acid Arrow Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Acid_Arrow_Trap" docbookid="Traps145" refname="Acid Arrow Trap" reftype="other" refcase="yes" refaltname="" keywords="acid,adventur,arrow,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Acid Arrow Trap"><b><i>Acid Arrow</i> Trap:</b> CR 8; magic device; visual trigger (<i>true seeing)</i>; automatic reset; multiple traps (two simultaneous <i>Acid Arrow</i> traps); Atk +9 ranged touch and +9 ranged touch; spell effect (<i>acid arrow</i>, <i/> 18th-level wizard, 2d4 acid damage for 7 rounds); Search DC 27; Disable Device DC 27. <i>Cost:</i> 83,500 gp, 4,680 XP. <i>Note:</i> This trap is really two CR 6 <i>Acid Arrow</i> traps that fire simultaneously, using the same trigger and reset.</para>
+</topic><topic level="8" name="Power Word Stun Trap" origname="Power Word Stun Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Power_Word_Stun_Trap" docbookid="Traps146" refname="Power Word Stun Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,power,sampl,stun,trap,word"><para reftype="other" refcase="yes" refname="Power Word Stun Trap"><b><i>Power Word Stun</i> Trap:</b> CR 8; magic device; touch trigger; no reset; spell effect (<i>power word stun</i>, <i/> 13th-level wizard), Search DC 32; Disable Device DC 32. <i>Cost:</i> 4,550 gp, 364 XP.</para>
+</topic><topic level="8" name="Prismatic Spray Trap" origname="Prismatic Spray Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Prismatic_Spray_Trap" docbookid="Traps147" refname="Prismatic Spray Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,prismat,sampl,sprai,trap"><para reftype="other" refcase="yes" refname="Prismatic Spray Trap"><b><i>Prismatic Spray</i> Trap:</b> CR 8; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>prismatic spray</i>, <i/> 13th-level wizard, DC 20 Reflex, Fortitude, or Will save, depending on effect); Search DC 32; Disable Device DC 32. <i>Cost:</i> 45,500 gp, 3,640 XP.</para>
+</topic><topic level="8" name="Reverse Gravity Trap" origname="Reverse Gravity Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Reverse_Gravity_Trap" docbookid="Traps148" refname="Reverse Gravity Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,graviti,revers,sampl,trap"><para reftype="other" refcase="yes" refname="Reverse Gravity Trap"><b><i>Reverse Gravity</i> Trap:</b> CR 8; magic device; proximity trigger (<i>alarm</i>, <i/> 10-ft. area); automatic reset; spell effect (<i>reverse gravity</i>, 13th-level wizard, 6d6 fall [upon hitting the ceiling of the 60-ft. - high room], then 6d6 fall [upon falling 60 ft. to the floor when the spell ends], DC 20 Reflex save avoids damage); Search DC 32; Disable Device DC 32. <i>Cost:</i> 45,500 gp, 3,640 XP.</para>
+</topic><topic level="8" name="Well-Camouflaged Pit Trap" origname="Well-Camouflaged Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Well_Camouflaged_Pit_Trap" docbookid="Traps149" refname="Well-Camouflaged Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap,well-camouflaged"><para reftype="other" refcase="yes" refname="Well-Camouflaged Pit Trap"><b>Well-Camouflaged Pit Trap:</b> CR 8; mechanical; location trigger; repair reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Search DC 27; Disable Device DC 18. <i>Market Price:</i> 16,000 gp.</para>
+</topic><topic level="8" name="Word of Chaos Trap" origname="Word of Chaos Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_8_Traps_Word_of_Chaos_Trap" docbookid="Traps150" refname="Word of Chaos Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,chao,cr,sampl,trap,word"><para reftype="other" refcase="yes" refname="Word of Chaos Trap"><b><i>Word of Chaos</i> Trap:</b> CR 8; magic device; proximity trigger (<i>detect law)</i>; automatic reset; spell effect (<i>word of chaos</i>, <i/> 13th-level cleric); Search DC 32; Disable Device DC 32. <i>Cost:</i> 46,000 gp, 3,680 XP.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 9 Traps" origname="Cr 9 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps" docbookid="Traps151" refname="Cr 9 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 9 Traps" style="heading 5"><b>CR 9 Traps</b></para><topic level="8" name="Drawer Handle Smeared with Contact Poison" origname="Drawer Handle Smeared with Contact Poison" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps_Drawer_Handle_Smeared_with_Contact_Poison" docbookid="Traps152" refname="Drawer Handle Smeared with Contact Poison" reftype="other" refcase="yes" refaltname="" keywords="adventur,contact,cr,drawer,handl,poison,sampl,smear,trap"><para reftype="other" refcase="yes" refname="Drawer Handle Smeared with Contact Poison"><b>Drawer Handle Smeared with Contact Poison:</b> CR 9; mechanical; touch trigger (attached); manual reset; poison (black lotus extract, DC 20 Fortitude save resists, 3d6 Con/3d6 Con); Search DC 18; Disable Device DC 26. <i>Market Price:</i> 21,600 gp.</para>
+</topic><topic level="8" name="Dropping Ceiling" origname="Dropping Ceiling" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps_Dropping_Ceiling" docbookid="Traps153" refname="Dropping Ceiling" reftype="other" refcase="yes" refaltname="" keywords="adventur,ceil,cr,drop,sampl,trap"><para reftype="other" refcase="yes" refname="Dropping Ceiling"><b>Dropping Ceiling:</b> CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (1 round); Search DC 20; Disable Device DC 16. <i>Market Price:</i> 12,600 gp.</para>
+</topic><topic level="8" name="Incendiary Cloud Trap" origname="Incendiary Cloud Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps_Incendiary_Cloud_Trap" docbookid="Traps154" refname="Incendiary Cloud Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cloud,cr,incendiari,sampl,trap"><para reftype="other" refcase="yes" refname="Incendiary Cloud Trap"><b><i>Incendiary Cloud</i> Trap:</b> CR 9; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>incendiary cloud</i>, <i/> 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Search DC 33; Disable Device DC 33. <i>Cost:</i> 60,000 gp, 4,800 XP.</para>
+</topic><topic level="8" name="Wide-Mouth Pit Trap" origname="Wide-Mouth Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps_Wide_Mouth_Pit_Trap" docbookid="Traps155" refname="Wide-Mouth Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,sampl,trap,wide-mouth"><para reftype="other" refcase="yes" refname="Wide-Mouth Pit Trap"><b>Wide-Mouth Pit Trap:</b> CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft. -by-10-ft. area); Search DC 25; Disable Device DC 25. <i>Market Price:</i> 40,500 gp.</para>
+</topic><topic level="8" name="Wide-Mouth Spiked Pit with Poisoned Spikes" origname="Wide-Mouth Spiked Pit with Poisoned Spikes" linkname="Adventuring_Traps_Sample_Traps_Cr_9_Traps_Wide_Mouth_Spiked_Pit_with_Poisoned_Spikes" docbookid="Traps156" refname="Wide-Mouth Spiked Pit with Poisoned Spikes" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,poison,sampl,spike,trap,wide-mouth"><para reftype="other" refcase="yes" refname="Wide-Mouth Spiked Pit with Poisoned Spikes"><b>Wide-Mouth Spiked Pit with Poisoned Spikes:</b> CR 9; mechanical; location trigger; manual reset; hidden lock bypass  (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (all targets within a 10-ft. -by-10-ft. area); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (giant wasp poison, DC 14 Fortitude save resists, 1d6 Dex/1d6 Dex); Search DC 20; Disable Device DC 20. <i>Market Price:</i> 11,910 gp.</para><para/>
+</topic>
+</topic><topic level="5" name="Cr 10 Traps" origname="Cr 10 Traps" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps" docbookid="Traps157" refname="Cr 10 Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,sampl,trap"><para reftype="other" refcase="yes" refname="Cr 10 Traps" style="heading 5"><b>CR 10 Traps</b></para><topic level="8" name="Crushing Room" origname="Crushing Room" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Crushing_Room" docbookid="Traps158" refname="Crushing Room" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,crush,room,sampl,trap"><para reftype="other" refcase="yes" refname="Crushing Room"><b>Crushing Room:</b> CR 10; mechanical; location trigger; automatic reset; walls move together (16d6, crush); multiple targets (all targets in a 10-ft. -by-10-ft. room); never miss; onset delay (2 rounds); Search DC 22; Disable Device DC 20. <i>Market Price:</i> 29,000 gp.</para>
+</topic><topic level="8" name="Crushing Wall Trap" origname="Crushing Wall Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Crushing_Wall_Trap" docbookid="Traps159" refname="Crushing Wall Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,crush,sampl,trap,wall"><para reftype="other" refcase="yes" refname="Crushing Wall Trap"><b>Crushing Wall Trap:</b> CR 10; mechanical; location trigger; automatic reset; no attack roll required (18d6, crush); Search DC 20; Disable Device DC 25. Market Price: 25,000 gp.</para>
+</topic><topic level="8" name="Energy Drain Trap" origname="Energy Drain Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Energy_Drain_Trap" docbookid="Traps160" refname="Energy Drain Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,drain,energi,sampl,trap"><para reftype="other" refcase="yes" refname="Energy Drain Trap"><b><i>Energy Drain</i> Trap:</b> CR 10; magic device; visual trigger (<i>true seeing</i>); automatic reset; Atk +8 ranged touch; spell effect (<i>energy drain</i>, <i/> 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); Search DC 34; Disable Device DC 34. <i>Cost:</i> 124,000 gp, 7,920 XP.</para>
+</topic><topic level="8" name="Forcecage and Summon Monster VII Trap" origname="Forcecage and Summon Monster VII Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Forcecage_and_Summon_Monster_VII_Trap" docbookid="Traps161" refname="Forcecage and Summon Monster VII Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,forcecag,monster,sampl,summon,trap"><para reftype="other" refcase="yes" refname="Forcecage and Summon Monster VII Trap"><b><i>forcecage</i> and <i>Summon Monster VII</i> trap:</b> CR 10; magic device; proximity trigger (<i>alarm)</i>; automatic reset; multiple traps (one <i>forcecage</i> trap and one <i>Summon Monster VII</i> trap that summons a hamatula); spell effect (<i>forcecage</i>, <i/> 13th-level wizard), spell effect (<i>summon monster VII</i>, <i/> 13th-level wizard, hamatula); Search DC 32; Disable Device DC 32. <i>Cost:</i> 241,000 gp, 7,280 XP. <i>Note:</i> This trap is really one CR 8 trap that creates a <i>forcecage</i> and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the <i>forcecage</i>. These effects are independent of each other.</para>
+</topic><topic level="8" name="Poisoned Spiked Pit Trap" origname="Poisoned Spiked Pit Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Poisoned_Spiked_Pit_Trap" docbookid="Traps162" refname="Poisoned Spiked Pit Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,cr,pit,poison,sampl,spike,trap"><para reftype="other" refcase="yes" refname="Poisoned Spiked Pit Trap"><b>Poisoned Spiked Pit Trap:</b> CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Search DC 25, Open Lock DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Search DC 16; Disable Device DC 25. <i>Market Price:</i> 19,700 gp.</para>
+</topic><topic level="8" name="Wail of the Banshee Trap" origname="Wail of the Banshee Trap" linkname="Adventuring_Traps_Sample_Traps_Cr_10_Traps_Wail_of_the_Banshee_Trap" docbookid="Traps163" refname="Wail of the Banshee Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,banshe,cr,sampl,trap,wail"><para reftype="other" refcase="yes" refname="Wail of the Banshee Trap"><b><i>Wail of the Banshee</i> Trap:</b> CR 10; magic device; proximity trigger (<i>alarm)</i>; automatic reset; spell effect (<i>wail of the banshee</i>, <i/> 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Search DC 34; Disable Device DC 34. <i>Cost:</i> 76,500 gp, 6,120 XP.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Designing A Trap" origname="Designing A Trap" linkname="Adventuring_Traps_Designing_A_Trap" docbookid="Traps164" refname="Designing A Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,design,trap"><para reftype="other" refcase="yes" refname="Designing A Trap" style="heading 2">Designing A Trap</para><topic level="8" name="Mechanical Traps" origname="Mechanical Traps" linkname="Adventuring_Traps_Designing_A_Trap_Mechanical_Traps" docbookid="Traps165" refname="Mechanical Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,design,mechan,trap"><para reftype="other" refcase="yes" refname="Mechanical Traps"><b>Mechanical Traps:</b> Simply select the elements you want the trap to have and add up the adjustments to the trap's Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to arrive at the trap's final CR. From the CR you can derive the DC of the Craft (trapmaking) checks a character must make to construct the trap.</para>
+</topic><topic level="8" name="Magic Traps" origname="Magic Traps" linkname="Adventuring_Traps_Designing_A_Trap_Magic_Traps" docbookid="Traps166" refname="Magic Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,design,magic,trap"><para reftype="other" refcase="yes" refname="Magic Traps"><b>Magic Traps:</b> As with mechanical traps, you don't have to do anything other than decide what elements you want and then determine the CR of the resulting trap (see Table: CR Modifiers for Magic Traps). If a player character wants to design and construct a magic trap, he must have the Craft Wondrous Item feat. In addition, he must be able to cast the spell or spells that the trap requires-or, failing that, he must be able to hire an NPC to cast the spells for him.</para><para/>
+</topic><topic level="5" name="Challenge Rating of A Trap" origname="Challenge Rating of A Trap" linkname="Adventuring_Traps_Designing_A_Trap_Challenge_Rating_of_A_Trap" docbookid="Traps167" refname="Challenge Rating of A Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,challeng,design,rate,trap"><para reftype="other" refcase="yes" refname="Challenge Rating of A Trap" style="heading 5"><b>Challenge Rating of a Trap</b></para><para>To calculate the Challenge Rating of a trap, add all the CR modifiers (see the tables below) to the base CR for the trap type.</para><topic level="8" name="Mechanical Trap" origname="Mechanical Trap" linkname="Adventuring_Traps_Designing_A_Trap_Challenge_Rating_of_A_Trap_Mechanical_Trap" docbookid="Traps168" refname="Mechanical Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,challeng,design,mechan,rate,trap"><para reftype="other" refcase="yes" refname="Mechanical Trap"><b>Mechanical Trap:</b> The base CR for a mechanical trap is 0. If your final CR is 0 or lower, add features until you get a CR of 1 or higher.</para>
+</topic><topic level="8" name="Magic Trap" origname="Magic Trap" linkname="Adventuring_Traps_Designing_A_Trap_Challenge_Rating_of_A_Trap_Magic_Trap" docbookid="Traps169" refname="Magic Trap" reftype="other" refcase="yes" refaltname="" keywords="adventur,challeng,design,magic,rate,trap"><para reftype="other" refcase="yes" refname="Magic Trap"><b>Magic Trap:</b> For a spell trap or magic device trap, the base CR is 1. The highest-level spell used modifies the CR (see Table: CR Modifiers for Magic Traps).</para>
+</topic><topic level="8" name="Average Damage" origname="Average Damage" linkname="Adventuring_Traps_Designing_A_Trap_Challenge_Rating_of_A_Trap_Average_Damage" docbookid="Traps170" refname="Average Damage" reftype="other" refcase="yes" refaltname="" keywords="adventur,averag,challeng,damag,design,rate,trap"><para reftype="other" refcase="yes" refname="Average Damage"><b>Average Damage:</b> If a trap (either mechanical or magic) does hit point damage, calculate the average damage for a successful hit and round that value to the nearest multiple of 7. Use this value to adjust the Challenge Rating of the trap, as indicated on the tables below. Damage from poisons and pit spikes does not count toward this value, but damage from a high strength rating and extra damage from multiple attacks does.</para><para>For a magic trap, only one modifier applies to the CR-either the level of the highest-level spell used in the trap, or the average damage figure, whichever is larger.</para>
+</topic><topic level="8" name="Multiple Traps" origname="Multiple Traps" linkname="Adventuring_Traps_Designing_A_Trap_Challenge_Rating_of_A_Trap_Multiple_Traps" docbookid="Traps171" refname="Multiple Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,challeng,design,multipl,rate,trap"><para reftype="other" refcase="yes" refname="Multiple Traps"><b>Multiple Traps:</b> If a trap is really two or more connected traps that affect approximately the same area, determine the CR of each one separately.</para><para><i>Multiple Dependent Traps:</i> If one trap depends on the success of the other (that is, you can avoid the second trap altogether by not falling victim to the first), they must be treated as separate traps.</para><para><i>Multiple Independent Traps:</i> If two or more traps act independently (that is, none depends on the success of another to activate), use their CRs to determine their combined Encounter Level as though they were monsters<i/>. The resulting Encounter Level is the CR for the combined traps.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: CR Modifiers for Mechanical Traps</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Feature</b></para></cell>
+<cell><para><b>CR Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Search DC</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>15 or lower</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-29</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30 or higher</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Disable Device DC</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>15 or lower</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-29</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30 or higher</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Reflex Save DC (Pit or Other Save-Dependent Trap)</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>15 or lower</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-24</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>25-29</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30 or higher</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Attack Bonus (Melee or Ranged Attack Trap)</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>+0 or lower</para></cell>
+<cell><para>-2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+1 to +5</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+6 to +14</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+15 to +19</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+20 to +24</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Damage/Effect</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Average damage</para></cell>
+<cell><para>+1/7 points*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Miscellaneous Features</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Alchemical device</para></cell>
+<cell><para>Level of spell mimicked</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Liquid</para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Multiple target</para></cell>
+<cell><para>+1 (or 0 if never miss)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Onset delay 1 round</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Onset delay 2 rounds</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Onset delay 3 rounds</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Onset delay 4+ rounds</para></cell>
+<cell><para>-1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Poison</para></cell>
+<cell><para>CR of poison (see below)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Black adder venom</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>Large scorpion venom</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Black lotus extract</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>Malyss root paste</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Bloodroot</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>Medium spider venom</para></cell>
+<cell><para>+2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Blue whinnis</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>Nitharit</para></cell>
+<cell><para>+4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Burnt othur fumes</para></cell>
+<cell><para>+6</para></cell>
+<cell><para>Purple worm poison</para></cell>
+<cell><para>+4</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Deathblade</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>Sassone leaf residue</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Dragon bile</para></cell>
+<cell><para>+6</para></cell>
+<cell><para>Shadow essence</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Giant wasp poison</para></cell>
+<cell><para>+3</para></cell>
+<cell><para>Small centipede poison</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Greenblood oil</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>Terinav root</para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Insanity mist</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>Ungol dust</para></cell>
+<cell><para>+3</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Wyvern poison</para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+<cell/>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Pit spikes</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Touch attack</para></cell>
+<cell><para>+1</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>* Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers).</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: CR Modifiers for Magic Traps</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Feature</b></para></cell>
+<cell><para><b>CR Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Highest-level spell</para></cell>
+<cell><para>+ Spell level OR +1 per 7 points of average damage per round*</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>*See the note following Table: CR Modifiers for Mechanical Traps.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Mechanical Trap Cost" origname="Mechanical Trap Cost" linkname="Adventuring_Traps_Designing_A_Trap_Mechanical_Trap_Cost" docbookid="Traps172" refname="Mechanical Trap Cost" reftype="other" refcase="yes" refaltname="" keywords="adventur,cost,design,mechan,trap"><para reftype="other" refcase="yes" refname="Mechanical Trap Cost" style="heading 5"><b>Mechanical Trap Cost</b></para><para>The base cost of a mechanical trap is 1,000 gp. Apply all the modifiers from Table: Cost Modifiers for Mechanical Traps for the various features you've added to the trap to get the modified base cost.</para><para>The final cost is equal to (modified base cost x Challenge Rating) + extra costs. The minimum cost for a mechanical trap is (CR x 100) gp.</para><para>After you've multiplied the modified base cost by the Challenge Rating, add the price of any alchemical items or poison you incorporated into the trap. If the trap uses one of these elements and has an automatic reset, multiply the poison or alchemical item cost by 20 to provide an adequate supply of doses.</para><topic level="8" name="Multiple Traps" origname="Multiple Traps" linkname="Adventuring_Traps_Designing_A_Trap_Mechanical_Trap_Cost_Multiple_Traps" docbookid="Traps173" refname="Multiple Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,cost,design,mechan,multipl,trap"><para reftype="other" refcase="yes" refname="Multiple Traps"><b>Multiple Traps:</b> If a trap is really two or more connected traps, determine the final cost of each separately, then add those values together. This holds for both multiple dependent and multiple independent traps (see the previous section).</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Cost Modifiers for Mechanical Traps</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Feature</b></para></cell>
+<cell><para><b>Cost Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Trigger Type</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Location</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Proximity</para></cell>
+<cell><para>+1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Touch</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Touch (attached)</para></cell>
+<cell><para>-100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Timed</para></cell>
+<cell><para>+1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Reset Type</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>No reset</para></cell>
+<cell><para>-500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Repair</para></cell>
+<cell><para>-200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Manual</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Automatic</para></cell>
+<cell><para>+500 gp (or 0 if trap has timed trigger)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Bypass Type</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Lock</para></cell>
+<cell><para>+100 gp (Open Lock DC 30)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hidden switch</para></cell>
+<cell><para>+200 gp (Search DC 25)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Hidden lock</para></cell>
+<cell><para>+300 gp (Open Lock DC 30, Search DC 25)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Search DC</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>19 or lower</para></cell>
+<cell><para>-100 gp x (20 - DC)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21 or higher</para></cell>
+<cell><para>+200 gp x (DC - 20)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Disable Device DC</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>19 or lower</para></cell>
+<cell><para>-100 gp x (20 - DC)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21 or higher</para></cell>
+<cell><para>+200 gp x (DC - 20)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><i>Reflex Save DC (Pit or Other Save-Dependent Trap)</i></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>19 or lower</para></cell>
+<cell><para>-100 gp x (20 - DC)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21 or higher</para></cell>
+<cell><para>+300 gp x (DC - 20)</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><i>Attack Bonus (Melee or Ranged Attack Trap)</i></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>+9 or lower</para></cell>
+<cell><para>-100 gp x (10 - bonus)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+10</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>+11 or higher</para></cell>
+<cell><para>+200 gp x (bonus - 10)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Damage Bonus</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>High strength rating (ranged attack trap)</para></cell>
+<cell><para>+100 gp x bonus (max +4)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>High Strength bonus (melee attack trap)</para></cell>
+<cell><para>+100 gp x bonus (max +8)</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Miscellaneous Features</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Never miss</para></cell>
+<cell><para>+1,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Poison</para></cell>
+<cell><para>Cost of poison*</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Alchemical item</para></cell>
+<cell><para>Cost of item*</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>* Multiply cost by 20 if trap features automatic reset.</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic>
+</topic><topic level="5" name="Magic Device Trap Cost" origname="Magic Device Trap Cost" linkname="Adventuring_Traps_Designing_A_Trap_Magic_Device_Trap_Cost" docbookid="Traps174" refname="Magic Device Trap Cost" reftype="other" refcase="yes" refaltname="" keywords="adventur,cost,design,devic,magic,trap"><para reftype="other" refcase="yes" refname="Magic Device Trap Cost" style="heading 5"><b>Magic Device Trap Cost</b></para><para>Building a magic device trap involves the expenditure of experience points as well as gold pieces, and requires the services of a spellcaster. Table: Cost Modifiers for Magic Device Traps summarizes the cost information for magic device traps. If the trap uses more than one spell (for instance, a sound or visual trigger spell in addition to the main spell effect), the builder must pay for them all (except <i>alarm</i>, which is free unless it must be cast by an NPC; see below).</para><para>The costs derived from Table: Cost Modifiers for Magic Device Traps assume that the builder is casting the necessary spells himself (or perhaps some other PC is providing the spells for free). If an NPC spellcaster must be hired to cast them those costs must be factored in as well.</para><para>A magic device trap takes one day to construct per 500 gp of its cost.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Cost Modifiers for Magic Device Traps</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Feature</b></para></cell>
+<cell><para><b>Cost Modifier</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>alarm</i> spell used in trigger</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>One-Shot Trap</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Each spell used in trap</para></cell>
+<cell><para>+50 gp x caster level x spell level,</para>
+<para>+4 XP x caster level x spell level</para></cell> <cell/>
+</row>
+<row>
+<cell><para>Material components</para></cell>
+<cell><para>+ Cost of all material components</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>XP components</para></cell>
+<cell><para>+ Total of XP components x 5 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para><i>Automatic Reset Trap</i></para></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell><para>Each spell used in trap</para></cell>
+<cell><para>+500 gp x caster level x spell level,</para>
+<para>+40 XP x caster level x spell level</para></cell> <cell/>
+</row>
+<row>
+<cell><para>Material components</para></cell>
+<cell><para>+ Cost of all material components x 100 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>XP components</para></cell>
+<cell><para>+ Total of XP components x 500 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Spell Trap Cost" origname="Spell Trap Cost" linkname="Adventuring_Traps_Designing_A_Trap_Spell_Trap_Cost" docbookid="Traps175" refname="Spell Trap Cost" reftype="other" refcase="yes" refaltname="" keywords="adventur,cost,design,spell,trap"><para reftype="other" refcase="yes" refname="Spell Trap Cost" style="heading 5"><b>Spell Trap Cost</b></para><para>A spell trap has a cost only if the builder must hire an NPC spellcaster to cast it.</para><para/>
+</topic><topic level="5" name="Craft DCs for Mechanical Traps" origname="Craft DCs for Mechanical Traps" linkname="Adventuring_Traps_Designing_A_Trap_Craft_DCs_for_Mechanical_Traps" docbookid="Traps176" refname="Craft DCs for Mechanical Traps" reftype="other" refcase="yes" refaltname="" keywords="adventur,craft,dc,design,mechan,trap"><para reftype="other" refcase="yes" refname="Craft DCs for Mechanical Traps" style="heading 5"><b>Craft DCs for Mechanical Traps</b></para><para>Once you know the Challenge Rating of a trap determine the Craft (trapmaking) DC by referring to the table and the modifiers given below.</para><table>
+<row/>
+<row>
+<cell><para><b>Trap CR</b></para></cell>
+<cell><para><b>Base Craft (Trapmaking) DC</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1-3</para></cell>
+<cell><para>20</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4-6</para></cell>
+<cell><para>25</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>7-10</para></cell>
+<cell><para>30</para></cell>
+<cell/>
+</row>
+</table><para/><table>
+<row/>
+<row>
+<cell><para><b>Additional Components</b></para></cell>
+<cell><para><b>Modifier to Craft (Trapmaking) DC</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Proximity trigger</para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Automatic reset</para></cell>
+<cell><para>+5</para></cell>
+<cell/>
+</row>
+</table><para/><topic level="8" name="Making the Checks" origname="Making the Checks" linkname="Adventuring_Traps_Designing_A_Trap_Craft_DCs_for_Mechanical_Traps_Making_the_Checks" docbookid="Traps177" refname="Making the Checks" reftype="other" refcase="yes" refaltname="" keywords="adventur,check,craft,dc,design,make,mechan,trap"><para reftype="other" refcase="yes" refname="Making the Checks"><b>Making the Checks:</b> To determine how much progress a character makes on building a trap each week, that character makes a Craft (trapmaking) check. See the Craft skill description for details on Craft checks and the circumstances that can affect them.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>

@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Equipment and Gear &gt; Magic Items III">
+<info>
+<title>agic items are the hallmarks of a legendary campaign</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Equipment and Gear" linkname="Equipment_and_Gear" docbookid="MagicItemsIII0" keywords="equip,gear"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Magic Items III" origname="Magic Items III (Potions, Rings, and Rods)" linkname="Equipment_and_Gear_Magic_Items_III" docbookid="MagicItemsIII1" refname="Magic Items III" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic"><para reftype="item" refcase="no" refname="Magic Items III" style="heading 1">Magic Items III (Potions, Rings, and Rods)</para><para/><topic level="2" name="Potions and Oils" origname="Potions and Oils" linkname="Equipment_and_Gear_Magic_Items_III_Potions_and_Oils" docbookid="MagicItemsIII2" refname="Potions and Oils" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,oil,potion"><para reftype="item" refcase="no" refname="Potions and Oils" style="heading 2">Potions and Oils</para><para>A potion is a magic liquid that produces its effect when imbibed. Magic oils are similar to potions, except that oils are applied externally rather than imbibed. A potion or oil can be used only once. It can duplicate the effect of a spell of up to 3rd level that has a casting time of less than 1 minute.</para><para>Potions are like spells cast upon the imbiber. The character taking the potion doesn't get to make any decisions about the effect -the caster who brewed the potion has already done so. The drinker of a potion is both the effective target and the caster of the effect (though the potion indicates the caster level, the drinker still controls the effect).</para><para>The person applying an oil is the effective caster, but the object is the target.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_III_Potions_and_Oils_Physical_Description" docbookid="MagicItemsIII3" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,oil,physic,potion"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> A typical potion or oil consists of 1 ounce of liquid held in a ceramic or glass vial fitted with a tight stopper. The stoppered container is usually no more than 1 inch wide and 2 inches high. The vial has AC 13, 1 hit point, hardness 1, and a break DC of 12. Vials hold 1 ounce of liquid.</para>
+</topic><topic level="8" name="Identifying Potions" origname="Identifying Potions" linkname="Equipment_and_Gear_Magic_Items_III_Potions_and_Oils_Identifying_Potions" docbookid="MagicItemsIII4" refname="Identifying Potions" reftype="item" refcase="no" refaltname="" keywords="equip,gear,identifi,item,magic,oil,potion"><para reftype="item" refcase="no" refname="Identifying Potions"><b>Identifying Potions:</b> In addition to the standard methods of identification, PCs can sample from each container they find to attempt to determine the nature of the liquid inside. An experienced character learns to identify potions by memory</para><list>
+ <item>for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be a <i>potion of cure moderate wounds</i>.</item>
+</list>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_III_Potions_and_Oils_Activation" docbookid="MagicItemsIII5" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,oil,potion"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> Drinking a potion or applying an oil requires no special skill. The user merely removes the stopper and swallows the potion or smears on the oil. The following rules govern potion and oil use.</para><para>Drinking a potion or using an oil on an item of gear is a standard action. The potion or oil takes effect immediately. Using a potion or oil provokes attacks of opportunity. A successful attack (including grappling attacks) against the character forces a Concentration check (as for casting a spell). If the character fails this check, she cannot drink the potion. An enemy may direct an attack of opportunity against the potion or oil container rather than against the character. A successful attack of this sort can destroy the container.</para><para>A creature must be able to swallow a potion or smear on an oil. Because of this, incorporeal creatures cannot use potions or oils.</para><para>Any corporeal creature can imbibe a potion. The potion must be swallowed. Any corporeal creature can use an oil.</para><para>A character can carefully administer a potion to an unconscious creature as a full-round action, trickling the liquid down the creature's throat. Likewise, it takes a full-round action to apply an oil to an unconscious creature.</para><para/>
+</topic><topic level="5" name="Potion Descriptions" origname="Potion Descriptions" linkname="Equipment_and_Gear_Magic_Items_III_Potions_and_Oils_Potion_Descriptions" docbookid="MagicItemsIII6" refname="Potion Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,oil,potion"><para reftype="item" refcase="no" refname="Potion Descriptions" style="heading 5">Potion Descriptions</para><para>The caster level for a standard potion is the minimum caster level needed to cast the spell (unless otherwise specified).</para><table>
+<row/>
+<row>
+<cell><para><b>Table: Potions and Oils</b></para></cell> <cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Minor</b></para></cell>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Potion or Oil</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Cure light wounds</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-13</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Endure elements</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-15</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Hide from animals</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-17</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Hide from undead</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-19</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Jump</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-22</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Mage armor</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>23-25</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic fang</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic stone</i> (oil)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>27-29</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic weapon</i> (oil)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Pass without trace</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-32</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Protection from (alignment)</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>33-34</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Remove fear</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>35</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Sanctuary</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-38</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Shield of faith +2</i> (potion)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>39</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Shillelagh</i> (oil)</para></cell>
+<cell><para>50 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-41</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Bless weapon</i> (oil)</para></cell>
+<cell><para>100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-44</para></cell>
+<cell><para>03-04</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Enlarge person</i> (potion)</para></cell>
+<cell><para>250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45</para></cell>
+<cell><para>05</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Reduce person</i> (potion)</para></cell>
+<cell><para>250 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>46-47</para></cell>
+<cell><para>06</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Aid</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>48-50</para></cell>
+<cell><para>07</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Barkskin +2</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>51-53</para></cell>
+<cell><para>08-10</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Bear's endurance</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-56</para></cell>
+<cell><para>11-13</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para><i>Blur</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>57-59</para></cell>
+<cell><para>14-16</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Bull's strength</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>60-62</para></cell>
+<cell><para>17-19</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Cat's grace</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-67</para></cell>
+<cell><para>20-27</para></cell>
+<cell><para>03-07</para></cell>
+<cell><para><i>Cure moderate wounds</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>68</para></cell>
+<cell><para>28</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Darkness</i> (oil)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>69-71</para></cell>
+<cell><para>29-30</para></cell>
+<cell><para>08-09</para></cell>
+<cell><para><i>Darkvision</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-74</para></cell>
+<cell><para>31</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Delay poison</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>75-76</para></cell>
+<cell><para>32-33</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Eagle's splendor</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>77-78</para></cell>
+<cell><para>34-35</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Fox's cunning</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>79-81</para></cell>
+<cell><para>36-37</para></cell>
+<cell><para>10-11</para></cell>
+<cell><para><i>Invisibility</i> (potion or oil)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>82-84</para></cell>
+<cell><para>38</para></cell>
+<cell><para>12</para></cell>
+<cell><para><i>Lesser restoration</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-86</para></cell>
+<cell><para>39</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Levitate</i> (potion or oil)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>87</para></cell>
+<cell><para>40</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Misdirection</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-89</para></cell>
+<cell><para>41-42</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Owl's wisdom</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-91</para></cell>
+<cell><para>43</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Protection from arrows 10/magic</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>92-93</para></cell>
+<cell><para>44</para></cell>
+<cell><para>13</para></cell>
+<cell><para><i>Remove paralysis</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-96</para></cell>
+<cell><para>45-46</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Resist energy (type) 10</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97</para></cell>
+<cell><para>47-48</para></cell>
+<cell><para>14</para></cell>
+<cell><para><i>Shield of faith +3</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-99</para></cell>
+<cell><para>49</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Spider climb</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>50</para></cell>
+<cell><para>15</para></cell>
+<cell><para><i>Undetectable alignment</i> (potion)</para></cell>
+<cell><para>300 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>51</para></cell>
+<cell><para>16</para></cell>
+<cell><para><i>Barkskin +3</i> (potion)</para></cell>
+<cell><para>600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>52</para></cell>
+<cell><para>17-18</para></cell>
+<cell><para><i>Shield of faith +4</i> (potion)</para></cell>
+<cell><para>600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>53-55</para></cell>
+<cell><para>19-20</para></cell>
+<cell><para><i>Resist energy (type) 20</i> (potion)</para></cell>
+<cell><para>700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>56-60</para></cell>
+<cell><para>21-28</para></cell>
+<cell><para><i>Cure serious wounds</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>61</para></cell>
+<cell><para>29</para></cell>
+<cell><para><i>Daylight</i> (oil)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>62-64</para></cell>
+<cell><para>30-32</para></cell>
+<cell><para><i>Displacement</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>65</para></cell>
+<cell><para>33</para></cell>
+<cell><para><i>Flame arrow</i> (oil)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>66-68</para></cell>
+<cell><para>34-38</para></cell>
+<cell><para><i>Fly</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>69</para></cell>
+<cell><para>39</para></cell>
+<cell><para><i>Gaseous form</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>70-71</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Greater magic fang +1</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>72-73</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Greater magic weapon +1</i> (oil)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>74-75</para></cell>
+<cell><para>40-41</para></cell>
+<cell><para><i>Haste</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>76-78</para></cell>
+<cell><para>42-44</para></cell>
+<cell><para><i>Heroism</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>79-80</para></cell>
+<cell><para>45-46</para></cell>
+<cell><para><i>Keen edge</i> (oil)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>81</para></cell>
+<cell><para>47</para></cell>
+<cell><para><i>Magic circle against (alignment)</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>82-83</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Magic vestment +1</i> (oil)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>84-86</para></cell>
+<cell><para>48-50</para></cell>
+<cell><para><i>Neutralize poison</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>87-88</para></cell>
+<cell><para>51-52</para></cell>
+<cell><para><i>Nondetection</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>89-91</para></cell>
+<cell><para>53-54</para></cell>
+<cell><para><i>Protection from energy (type)</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>92-93</para></cell>
+<cell><para>55</para></cell>
+<cell><para><i>Rage</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>94</para></cell>
+<cell><para>56</para></cell>
+<cell><para><i>Remove blindness/deafness</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>95</para></cell>
+<cell><para>57</para></cell>
+<cell><para><i>Remove curse</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>96</para></cell>
+<cell><para>58</para></cell>
+<cell><para><i>Remove disease</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>97</para></cell>
+<cell><para>59</para></cell>
+<cell><para><i>Tongues</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>98-99</para></cell>
+<cell><para>60</para></cell>
+<cell><para><i>Water breathing</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para>61</para></cell>
+<cell><para><i>Water walk</i> (potion)</para></cell>
+<cell><para>750 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>62-63</para></cell>
+<cell><para><i>Barkskin +4</i> (potion)</para></cell>
+<cell><para>900 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>64</para></cell>
+<cell><para><i>Shield of faith +5</i> (potion)</para></cell>
+<cell><para>900 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>65</para></cell>
+<cell><para><i>Good hope</i> (potion)</para></cell>
+<cell><para>1,050 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>66-68</para></cell>
+<cell><para><i>Resist energy (type) 30</i> (potion)</para></cell>
+<cell><para>1,100 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>69</para></cell>
+<cell><para><i>Barkskin +5</i> (potion)</para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>70-73</para></cell>
+<cell><para><i>Greater magic fang +2</i> (potion)</para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>74-77</para></cell>
+<cell><para><i>Greater magic weapon +2</i> (oil)</para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>78-81</para></cell>
+<cell><para><i>Magic vestment +2</i> (oil)</para></cell>
+<cell><para>1,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>82</para></cell>
+<cell><para><i>Protection from arrows 15/magic</i> (potion)</para></cell>
+<cell><para>1,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>83-85</para></cell>
+<cell><para><i>Greater magic fang +3</i> (potion)</para></cell>
+<cell><para>1,800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>86-88</para></cell>
+<cell><para><i>Greater magic weapon +3</i> (oil)</para></cell>
+<cell><para>1,800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>89-91</para></cell>
+<cell><para><i>Magic vestment +3</i> (oil)</para></cell>
+<cell><para>1,800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>92-93</para></cell>
+<cell><para><i>Greater magic fang +4</i> (potion)</para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>94-95</para></cell>
+<cell><para><i>Greater magic weapon +4</i> (oil)</para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>96-97</para></cell>
+<cell><para><i>Magic vestment +4</i> (oil)</para></cell>
+<cell><para>2,400 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>98</para></cell>
+<cell><para><i>Greater magic fang +5</i> (potion)</para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>99</para></cell>
+<cell><para><i>Greater magic weapon +5</i> (oil)</para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para><i>Magic vestment +5</i> (oil)</para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/><para/>
+</topic>
+</topic><topic level="2" name="Rings" origname="Rings" linkname="Equipment_and_Gear_Magic_Items_III_Rings" docbookid="MagicItemsIII7" refname="Rings" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Rings" style="heading 2">Rings</para><para>Rings bestow magical powers upon their wearers. Only a rare few have charges. Anyone can use a ring.</para><para>A character can only effectively wear two magic rings. A third magic ring doesn't work if the wearer is already wearing two magic rings.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Physical_Description" docbookid="MagicItemsIII8" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,physic,ring"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> Rings have no appreciable weight. Although exceptions exist that are crafted from glass or bone, the vast majority of rings are forged from metal-usually precious metals such as gold, silver, and platinum. A ring has AC 13, 2 hit points, hardness 10, and a break DC of 25.</para>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Activation" docbookid="MagicItemsIII9" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> Usually, a ring's ability is activated by a command word (a standard action that does not provoke attacks of opportunity) or it works continually. Some rings have exceptional activation methods, according to their descriptions.</para>
+</topic><topic level="8" name="Special Qualities" origname="Special Qualities" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Special_Qualities" docbookid="MagicItemsIII10" refname="Special Qualities" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,qualiti,ring,special"><para reftype="item" refcase="no" refname="Special Qualities"><b>Special Qualities:</b> Roll d%. A result of 01 indicates the ring is intelligent, 02-31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32-100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Rings with charges can never be intelligent.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Rings</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Minor</b></para></cell>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Ring</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-18</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Protection +1</i></para></cell>
+<cell><para>2,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>19-28</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Feather falling</i></para></cell>
+<cell><para>2,200 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-36</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Sustenance</i></para></cell>
+<cell><para>2,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-44</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Climbing</i></para></cell>
+<cell><para>2,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>45-52</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Jumping</i></para></cell>
+<cell><para>2,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>53-60</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Swimming</i></para></cell>
+<cell><para>2,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>61-70</para></cell>
+<cell><para>01-05</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Counterspells</i></para></cell>
+<cell><para>4,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>71-75</para></cell>
+<cell><para>06-08</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Mind shielding</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>76-80</para></cell>
+<cell><para>09-18</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Protection +2</i></para></cell>
+<cell><para>8,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>81-85</para></cell>
+<cell><para>19-23</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Force shield</i></para></cell>
+<cell><para>8,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>86-90</para></cell>
+<cell><para>24-28</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Ram</i></para></cell>
+<cell><para>8,600 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>29-34</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Climbing</i>,  <i>improved</i></para></cell>
+<cell><para>10,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>35-40</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Jumping</i>,  <i>improved</i></para></cell>
+<cell><para>10,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>41-46</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Swimming</i>,  <i>improved</i></para></cell>
+<cell><para>10,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-93</para></cell>
+<cell><para>47-51</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Animal friendship</i></para></cell>
+<cell><para>10,800 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>94-96</para></cell>
+<cell><para>50-56</para></cell>
+<cell><para>01-02</para></cell>
+<cell><para><i>Energy resistance</i>,  <i>minor</i></para></cell>
+<cell><para>12,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>97-98</para></cell>
+<cell><para>57-61</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Chameleon power</i></para></cell>
+<cell><para>12,700 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>99-100</para></cell>
+<cell><para>62-66</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Water walking</i></para></cell>
+<cell><para>15,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>67-71</para></cell>
+<cell><para>03-07</para></cell>
+<cell><para><i>Protection +3</i></para></cell>
+<cell><para>18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>72-76</para></cell>
+<cell><para>08-10</para></cell>
+<cell><para><i>Spell storing</i>,  <i>minor</i></para></cell>
+<cell><para>18,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>77-81</para></cell>
+<cell><para>11-15</para></cell>
+<cell><para><i>invisibility</i></para></cell>
+<cell><para>20,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>82-85</para></cell>
+<cell><para>16-19</para></cell>
+<cell><para><i>Wizardry (I)</i></para></cell>
+<cell><para>20,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>86-90</para></cell>
+<cell><para>20-25</para></cell>
+<cell><para><i>Evasion</i></para></cell>
+<cell><para>25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>91-93</para></cell>
+<cell><para>26-28</para></cell>
+<cell><para><i>X-ray vision</i></para></cell>
+<cell><para>25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>94-97</para></cell>
+<cell><para>29-32</para></cell>
+<cell><para><i>Blinking</i></para></cell>
+<cell><para>27,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>98-100</para></cell>
+<cell><para>33-39</para></cell>
+<cell><para><i>Energy resistance</i>,  <i>major</i></para></cell>
+<cell><para>28,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>40-49</para></cell>
+<cell><para><i>Protection +4</i></para></cell>
+<cell><para>32,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>50-55</para></cell>
+<cell><para><i>Wizardry (II)</i></para></cell>
+<cell><para>40,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>56-60</para></cell>
+<cell><para><i>Freedom of movement</i></para></cell>
+<cell><para>40,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>61-63</para></cell>
+<cell><para><i>Energy resistance</i>,  <i>greater</i></para></cell>
+<cell><para>44,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>64-65</para></cell>
+<cell><para><i>friend shield</i> (pair)</para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>66-70</para></cell>
+<cell><para><i>Protection +5</i></para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>71-74</para></cell>
+<cell><para><i>Shooting stars</i></para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>75-79</para></cell>
+<cell><para><i>Spell storing</i></para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>80-83</para></cell>
+<cell><para><i>Wizardry (III)</i></para></cell>
+<cell><para>70,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>84-86</para></cell>
+<cell><para><i>Telekinesis</i></para></cell>
+<cell><para>75,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>87-88</para></cell>
+<cell><para><i>Regeneration</i></para></cell>
+<cell><para>90,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>89</para></cell>
+<cell><para><i>Three wishes</i></para></cell>
+<cell><para>97,950 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>90-92</para></cell>
+<cell><para><i>Spell turning</i></para></cell>
+<cell><para>98,280 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>93-94</para></cell>
+<cell><para><i>Wizardry (IV)</i></para></cell>
+<cell><para>100,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>95</para></cell>
+<cell><para><i>Djinni calling</i></para></cell>
+<cell><para>125,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>96</para></cell>
+<cell><para><i>Elemental command (air)</i></para></cell>
+<cell><para>200,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>97</para></cell>
+<cell><para><i>Elemental command (earth)</i></para></cell>
+<cell><para>200,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>98</para></cell>
+<cell><para><i>Elemental command (fire)</i></para></cell>
+<cell><para>200,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>99</para></cell>
+<cell><para><i>Elemental command (water)</i></para></cell>
+<cell><para>200,000 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para><i>Spell storing</i>,  <i>major</i></para></cell>
+<cell><para>200,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Ring Descriptions" origname="Ring Descriptions" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions" docbookid="MagicItemsIII11" refname="Ring Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Ring Descriptions" style="heading 5">Ring Descriptions</para><para>Standard rings are described below.</para><topic level="8" name="Animal Friendship" origname="Animal Friendship" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Animal_Friendship" docbookid="MagicItemsIII12" refname="Animal Friendship" reftype="item" refcase="no" refaltname="" keywords="anim,descript,equip,friendship,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Animal Friendship"><b>Animal Friendship:</b> On command, this ring affects an animal as if the wearer had cast <i>charm animal</i>.</para><para>Faint enchantment; CL 3rd; Forge Ring, <i>charm animal</i>; Price 10,800 gp.</para>
+</topic><topic level="8" name="Blinking" origname="Blinking" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Blinking" docbookid="MagicItemsIII13" refname="Blinking" reftype="item" refcase="no" refaltname="" keywords="blink,descript,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Blinking"><b>Blinking:</b> On command, this ring makes the wearer blink, as with the <i>blink</i> spell.</para><para>Moderate transmutation; CL 7th; Forge Ring, <i>blink</i>; Price 27,000 gp.</para>
+</topic><topic level="8" name="Chameleon Power" origname="Chameleon Power" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Chameleon_Power" docbookid="MagicItemsIII14" refname="Chameleon Power" reftype="item" refcase="no" refaltname="" keywords="chameleon,descript,equip,gear,item,magic,power,ring"><para reftype="item" refcase="no" refname="Chameleon Power"><b>Chameleon Power:</b> As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her Hide checks. As a standard action, she can also command the ring to utilize the spell <i>disguise self</i> as often as she wants.</para><para>Faint illusion; CL 3rd; Forge Ring, <i>disguise self</i>,  <i>invisibility</i>; Price 12,700 gp.</para>
+</topic><topic level="8" name="Climbing" origname="Climbing" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Climbing" docbookid="MagicItemsIII15" refname="Climbing" reftype="item" refcase="no" refaltname="" keywords="climb,descript,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Climbing"><b>Climbing:</b> This ring is actually a magic leather cord that ties around a finger. It continually grants the wearer a +5 competence bonus on Climb checks.</para><para>Faint transmutatation; CL 5th; Forge Ring, creator must have 5 ranks in the Climb skill; Price 2,500 gp.</para>
+</topic><topic level="8" name="Climbing, Improved" origname="Climbing, Improved" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Climbing_Improved" docbookid="MagicItemsIII16" refname="Climbing, Improved" reftype="item" refcase="no" refaltname="" keywords="climb,descript,equip,gear,improv,item,magic,ring"><para reftype="item" refcase="no" refname="Climbing, Improved"><b>Climbing, Improved:</b> As climbing, except it grants a +10 competence bonus on its wearer's Climb checks.</para><para>Faint transmutation; CL 5th; Forge Ring, creator must have 10 ranks in the Climb skill<i/>; Price 10,000 gp.</para>
+</topic><topic level="8" name="Counterspells" origname="Counterspells" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Counterspells" docbookid="MagicItemsIII17" refname="Counterspells" reftype="item" refcase="no" refaltname="" keywords="counterspel,descript,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Counterspells"><b>Counterspells:</b> This ring might seem to be a <i>ring of spell storing</i> upon first examination. However, while it allows a single spell of 1st through 6th level to be cast into it, that spell cannot be cast out of the ring again. Instead, should that spell ever be cast upon the wearer, the spell is immediately countered, as a counterspell action, requiring no action (or even knowledge) on the wearer's part. Once so used, the spell cast within the ring is gone. A new spell (or the same one as before) may be placed in it again.</para><para>Moderate evocation; CL 11th; Forge Ring, <i>imbue with spell ability</i>; Price 4,000 gp.</para>
+</topic><topic level="8" name="Djinni Calling" origname="Djinni Calling" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Djinni_Calling" docbookid="MagicItemsIII18" refname="Djinni Calling" reftype="item" refcase="no" refaltname="" keywords="call,descript,djinni,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Djinni Calling"><b>Djinni Calling:</b> One of the many rings of fable, this 'genie' ring is most useful indeed. It serves as a special <i>gate</i> by means of which a specific djinni can be called from the Elemental Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.</para><para>Strong conjuration; CL 17th; Forge Ring, <i>gate</i>; Price 125,000 gp.</para>
+</topic><topic level="8" name="Elemental Command" origname="Elemental Command" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Elemental_Command" docbookid="MagicItemsIII19" refname="Elemental Command" reftype="item" refcase="no" refaltname="" keywords="command,descript,element,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Elemental Command"><b>Elemental Command:</b> All four kinds of <i>elemental command</i> rings are very powerful. Each appears to be nothing more than a lesser magic ring until fully activated (by meeting a special condition, such as single-handedly slaying an elemental of the appropriate type or exposure to a sacred material of the appropriate element), but each has certain other powers as well as the following common properties.</para><para>Elementals of the plane to which the ring is attuned can't attack the wearer, or even approach within 5 feet of him. If the wearer desires, he may forego this protection and instead attempt to <i>charm</i> the elemental (as <i>charm monster</i>, <i/> Will DC 17 negates). If the <i>charm</i> attempt fails, however, absolute protection is lost and no further attempt at <i>charming</i> can be made.</para><para>Creatures from the plane to which the ring is attuned who attack the wearer take a -1 penalty on their attack rolls. The ring wearer makes applicable saving throws from the extraplanar creature's attacks with a +2 resistance bonus. He gains a +4 morale bonus on all attack rolls against such creatures. Any weapon he uses bypasses the damage reduction of such creatures, regardless of any qualities the weapon may or may not have.</para><para>The wearer of the ring is able to converse with creatures from the plane to which his ring is attuned. These creatures recognize that he wears the ring. They show a healthy respect for the wearer if alignments are similar. If alignments are opposed, creatures fear the wearer if he is strong. If he is weak, they hate and desire to slay him.</para><para>The possessor of a <i>ring of elemental command</i> takes a saving throw penalty as follows:</para><table>
+<row/>
+<row>
+<cell><para><b>Element</b></para></cell> <cell><para><b>Saving Throw Penalty</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Air</para></cell>
+<cell><para>-2 against earth-based effects</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Earth</para></cell>
+<cell><para>-2 against air- or electricity-based effects</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>Fire</para></cell>
+<cell><para>-2 against water- or cold-based effects</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>Water</para></cell>
+<cell><para>-2 against fire-based effects</para></cell>
+<cell/>
+</row>
+</table><para>In addition to the powers described above, each specific ring gives its wearer the following abilities according to its kind.</para>
+</topic><topic level="8" name="Ring of Elemental Command" origname="Ring of Elemental Command (Air)" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Ring_of_Elemental_Command" docbookid="MagicItemsIII20" refname="Ring of Elemental Command" reftype="item" refcase="no" refaltname="" keywords="command,descript,element,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Ring of Elemental Command"><i>Ring of Elemental Command (Air)</i></para><list>
+ <item> <i>Feather fall</i> (unlimited use, wearer only)</item>
+ <item> <i>Resist energy (electricity)</i> (unlimited use, wearer only)</item>
+ <item> <i>Gust of wind</i> (twice per day)</item>
+ <item> <i>Wind wall</i> (unlimited use)</item>
+ <item> <i>Air walk</i> (once per day, wearer only)</item>
+ <item> <i>Chain lightning</i> (once per week)</item>
+</list><para>The ring appears to be a <i>ring of feather falling</i> until a certain condition is met to activate its full potential. It must be reactivated each time a new wearer acquires it.</para>
+</topic><topic level="8" name="Ring of Elemental Command" origname="Ring of Elemental Command (Earth)" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Ring_of_Elemental_Command" docbookid="MagicItemsIII21" refname="Ring of Elemental Command" reftype="item" refcase="no" refaltname="" keywords="command,descript,element,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Ring of Elemental Command"><i>Ring of Elemental Command (Earth)</i></para><list>
+ <item> <i>Meld into stone</i> (unlimited use, wearer only)</item>
+ <item> <i>Soften earth or stone</i> (unlimited use)</item>
+ <item> <i>Stone shape</i> (twice per day)</item>
+ <item> <i>Stoneskin</i> (once per week, wearer only)</item>
+ <item> <i>Passwall</i> (twice per week)</item>
+ <item> <i>Wall of stone</i> (once per day)</item>
+</list><para>The ring appears to be a <i>ring of meld into stone</i> until the established condition is met.</para>
+</topic><topic level="8" name="Ring of Elemental Command" origname="Ring of Elemental Command (Fire)" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Ring_of_Elemental_Command" docbookid="MagicItemsIII22" refname="Ring of Elemental Command" reftype="item" refcase="no" refaltname="" keywords="command,descript,element,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Ring of Elemental Command"><i>Ring of Elemental Command (Fire)</i></para><list>
+ <item> <i>Resist energy (fire)</i> (as a <i>major ring of energy resistance [fire]</i>)</item>
+ <item> <i>burning hands</i> (unlimited use)</item>
+ <item> <i>Flaming sphere</i> (twice per day)</item>
+ <item> <i>Pyrotechnics</i> (twice per day)</item>
+ <item> <i>Wall of fire</i> (once per day)</item>
+ <item> <i>Flame strike</i> (twice per week)</item>
+</list><para>The ring appears to be a <i>major ring of energy resistance (fire)</i> until the established condition is met.</para>
+</topic><topic level="8" name="Ring of Elemental Command" origname="Ring of Elemental Command (Water)" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Ring_of_Elemental_Command" docbookid="MagicItemsIII23" refname="Ring of Elemental Command" reftype="item" refcase="no" refaltname="" keywords="command,descript,element,equip,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Ring of Elemental Command"><i>Ring of Elemental Command (Water)</i></para><list>
+ <item> <i>Water walk</i> (unlimited use)</item>
+ <item> <i>Create water</i> (unlimited use)</item>
+ <item> <i>Water breathing</i> (unlimited use)</item>
+ <item> <i>Wall of ice</i> (once per day)</item>
+ <item> <i>Ice storm</i> (twice per week)</item>
+ <item> <i>Control</i> water (twice per week)</item>
+</list><para>The ring appears to be a <i>ring of water walking</i> until the established condition is met.</para><para>Strong conjuration; CL 15th; Forge Ring, <i>summon monster VI</i>, all appropriate spells; Price 200,000 gp.</para>
+</topic><topic level="8" name="Energy Resistance" origname="Energy Resistance" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Energy_Resistance" docbookid="MagicItemsIII24" refname="Energy Resistance" reftype="item" refcase="no" refaltname="" keywords="descript,energi,equip,gear,item,magic,resist,ring"><para reftype="item" refcase="no" refname="Energy Resistance"><b>Energy Resistance:</b> This reddish iron ring continually protects the wearer from damage from one type of energy-acid, cold, electricity, fire, or sonic (chosen by the creator of the item; determine randomly if found as part of a treasure hoard). Each time the wearer would normally take such damage, subtract the ring's resistance value from the damage dealt.</para><para>A <i>minor ring of energy resistance</i> grants 10 points of resistance. A <i>major ring of energy resistance</i> grants 20 points of resistance. A <i>greater ring of energy resistance</i> grants 30 points of resistance.</para><para>Faint (minor or major) or moderate (greater) abjuration; CL 3rd  (minor), 7th (major), or 11th (greater); Forge Ring, <i>resist energy</i>; Price 12,000 gp (minor), 28,000 gp (major), 44,000 gp (greater).</para>
+</topic><topic level="8" name="Evasion" origname="Evasion" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Evasion" docbookid="MagicItemsIII25" refname="Evasion" reftype="item" refcase="no" refaltname="" keywords="descript,equip,evasion,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Evasion"><b>Evasion:</b> This ring continually grants the wearer the ability to avoid damage as if she had evasion. Whenever she makes a Reflex saving throw to determine whether she takes half damage, a successful save results in no damage.</para><para>Moderate transmutation; CL 7th; Forge Ring, <i>jump</i>; Price 25,000 gp.</para>
+</topic><topic level="8" name="Feather Falling" origname="Feather Falling" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Feather_Falling" docbookid="MagicItemsIII26" refname="Feather Falling" reftype="item" refcase="no" refaltname="" keywords="descript,equip,fall,feather,gear,item,magic,ring"><para reftype="item" refcase="no" refname="Feather Falling"><b>Feather Falling:</b> This ring is crafted with a feather pattern all around its edge. It acts exactly like a <i>Feather fall</i> spell, activated immediately if the wearer falls more than 5 feet.</para><para>Faint transmutation; CL 1st; Forge Ring, <i>feather fall</i>; Price 2,200 gp.</para>
+</topic><topic level="8" name="Force Shield" origname="Force Shield" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Force_Shield" docbookid="MagicItemsIII27" refname="Force Shield" reftype="item" refcase="no" refaltname="" keywords="descript,equip,forc,gear,item,magic,ring,shield"><para reftype="item" refcase="no" refname="Force Shield"><b>Force Shield:</b> An iron band, this simple ring generates a shield-sized (and shield-shaped) <i>wall of force</i> that stays with the ring and can be wielded by the wearer as if it were a heavy shield (+2 AC). This special creation has no armor check penalty or arcane spell failure chance since it is weightless and encumbrance-free. It can be activated and deactivated at will as a free action.</para><para>Moderate evocation; CL 9th; Forge Ring, <i>wall of force</i>; Price 8,500 gp.</para>
+</topic><topic level="8" name="Freedom of Movement" origname="Freedom of Movement" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Freedom_of_Movement" docbookid="MagicItemsIII28" refname="Freedom of Movement" reftype="item" refcase="no" refaltname="" keywords="descript,equip,freedom,gear,item,magic,movem,ring"><para reftype="item" refcase="no" refname="Freedom of Movement"><b>Freedom of Movement:</b> This gold ring allows the wearer to act as if continually under the effect of a <i>freedom of movement</i> spell.</para><para>Moderate abjuration; CL 7th; Forge Ring, <i>freedom of movement</i>; Price 40,000 gp.</para>
+</topic><topic level="8" name="Friend Shield" origname="Friend Shield" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Friend_Shield" docbookid="MagicItemsIII29" refname="Friend Shield" reftype="item" refcase="no" refaltname="" keywords="descript,equip,friend,gear,item,magic,ring,shield"><para reftype="item" refcase="no" refname="Friend Shield"><b>Friend Shield:</b> These curious rings always come in pairs. A <i>friend shield</i> ring without its mate is useless. Either wearer of one of a pair of the rings can, at any time, command his or her ring to cast a <i>shield other</i> spell with the wearer of the mated ring as the recipient. This effect has no range limitation.</para><para>Moderate abjuration; CL 10th; Forge Ring, <i>shield other</i>; Price 50,000 gp (for a pair).</para>
+</topic><topic level="8" name="Invisibility" origname="Invisibility" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Invisibility" docbookid="MagicItemsIII30" refname="Invisibility" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,invis,item,magic,ring"><para reftype="item" refcase="no" refname="Invisibility"><b>Invisibility:</b> By activating this simple silver ring, the wearer can benefit from <i>invisibility</i>, as the spell.</para><para>Faint illusion; CL 3rd; Forge Ring, <i>invisibility</i>; Price 20,000 gp.</para>
+</topic><topic level="8" name="Jumping" origname="Jumping" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Jumping" docbookid="MagicItemsIII31" refname="Jumping" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,jump,magic,ring"><para reftype="item" refcase="no" refname="Jumping"><b>Jumping:</b> This ring continually allows the wearer to leap about, providing a +5 competence bonus on all his Jump checks.</para><para>Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Jump skill<i/>; Price 2,500 gp.</para>
+</topic><topic level="8" name="Jumping, Improved" origname="Jumping, Improved" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Jumping_Improved" docbookid="MagicItemsIII32" refname="Jumping, Improved" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,improv,item,jump,magic,ring"><para reftype="item" refcase="no" refname="Jumping, Improved"><b>Jumping, Improved:</b> As jumping, except it grants a +10 competence bonus on its wearer's Jump check.</para><para>Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Jump skill<i/>; Price 10,000 gp.</para>
+</topic><topic level="8" name="Mind Shielding" origname="Mind Shielding" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Mind_Shielding" docbookid="MagicItemsIII33" refname="Mind Shielding" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,mind,ring,shield"><para reftype="item" refcase="no" refname="Mind Shielding"><b>Mind Shielding:</b> This ring is usually of fine workmanship and wrought from heavy gold. The wearer is continually immune to <i>detect thoughts</i>,  <i>discern lies</i>, <i/> and any attempt to magically discern her alignment<i/>.</para><para>Faint aburation; CL 3rd; Forge Ring, <i>nondetection</i>; Price 8,000 gp.</para>
+</topic><topic level="8" name="Protection" origname="Protection" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Protection" docbookid="MagicItemsIII34" refname="Protection" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,protect,ring"><para reftype="item" refcase="no" refname="Protection"><b>Protection:</b> This ring offers continual magical protection in the form of a deflection bonus of +1 to +5 to AC.</para><para>Faint abjuration; CL 5th; Forge Ring, <i>shield of faith</i>, <i/> caster must be of a level at least three times greater than the bonus of the ring; Price 2,000 gp (<i>ring +1</i>), 8,000 gp (<i>ring +2</i>), 18,000 gp (<i>ring +3</i>), 32,000 gp (<i>ring +4</i>), 50,000 gp (<i>ring +5</i>).</para>
+</topic><topic level="8" name="Ram" origname="Ram" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Ram" docbookid="MagicItemsIII35" refname="Ram" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ram,ring"><para reftype="item" refcase="no" refname="Ram"><b>Ram:</b> The <i>ring of the ram</i> is an ornate ring forged of hard metal, usually iron or an iron alloy. It has the head of a ram as its device.</para><para>The wearer can command the ring to give forth a ramlike force, manifested by a vaguely discernible shape that resembles the head of a ram or a goat. This force strikes a single target, dealing 1d6 points of damage if 1 charge is expended, 2d6 points if 2 charges are used, or 3d6 points if 3 charges (the maximum) are used. Treat this as a ranged attack with a 50-foot maximum range and no penalties for distance.</para><para>The force of the blow is considerable, and those struck by the ring are subject to a bull rush if within 30 feet of the ring-wearer. (The ram has Strength 25 and is Large.) The ram gains a +1 bonus on the bull rush attempt if 2 charges are expended, or +2 if 3 charges are expended.</para><para>In addition to its attack mode, the <i>ring of the ram</i> also has the power to open doors as if it were a character with Strength 25. If 2 charges are expended, the effect is equivalent to a character with Strength 27. If 3 charges are expended, the effect is that of a character with Strength 29.</para><para>A newly created ring has 50 charges. When all the charges are expended, the ring becomes a nonmagical item.</para><para>Moderate transmutation; CL 9th; Forge Ring, <i>bull's strength</i>,  <i>telekinesis</i>; Price 8,600 gp.</para>
+</topic><topic level="8" name="Regeneration" origname="Regeneration" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Regeneration" docbookid="MagicItemsIII36" refname="Regeneration" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,regener,ring"><para reftype="item" refcase="no" refname="Regeneration"><b>Regeneration:</b> This white gold ring continually allows a living wearer to heal 1 point of damage per level every hour rather than every day. (This ability cannot be aided by the Heal skill.) Nonlethal damage heals at a rate of 1 point of damage per level every 5 minutes. If the wearer loses a limb, an organ, or any other body part while wearing this ring, the ring <i>regenerates</i> it as the spell. In either case, only damage taken while wearing the ring is regenerated.</para><para>Strong conjuration; CL 15th; Forge Ring, <i>regenerate</i>; Price 90,000 gp.</para>
+</topic><topic level="8" name="Shooting Stars" origname="Shooting Stars" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Shooting_Stars" docbookid="MagicItemsIII37" refname="Shooting Stars" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,shoot,star"><para reftype="item" refcase="no" refname="Shooting Stars"><b>Shooting Stars:</b> This ring has two modes of operation, one for being in shadowy darkness or outdoors at night and a second one when the wearer is underground or indoors at night.</para><para>During the night under the open sky or in areas of shadow or darkness, the <i>ring of shooting stars</i> can perform the following functions on command.</para><list>
+ <item> <i>Dancing lights</i> (once per hour)</item>
+ <item> <i>Light</i> (twice per night)</item>
+ <item> <i>Ball lightning</i> (special, once per night)</item>
+ <item> <i>Shooting stars</i> (special, three per week)</item>
+</list><para>The first special function, <i>ball lightning</i>, <i/> releases one to four balls of lightning (ring wearer's choice). These glowing globes resemble <i>dancing lights</i>, and the ring wearer controls them in the same fashion (see the <i>Dancing lights</i> spell description). The spheres have a 120-foot range and a duration of 4 rounds. They can be moved at 120 feet per round. Each sphere is about 3 feet in diameter, and any creature who comes within 5 feet of one causes its charge to dissipate, taking electricity damage in the process according to the number of balls created.</para><table>
+<row/>
+<row>
+<cell><para><b>Number of Balls</b></para></cell>
+<cell><para><b>Damage per Ball</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>4 lightning balls</para></cell>
+<cell><para>1d6 points of damage each</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>3 lightning balls</para></cell>
+<cell><para>2d6 points of damage each</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2 lightning balls</para></cell>
+<cell><para>3d6 points of damage each</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1 lightning ball</para></cell>
+<cell><para>4d6 points of damage</para></cell>
+<cell/>
+</row>
+</table><para>Once the <i>Ball lightning</i> function is activated, the balls can be released at any time before the sun rises. (Multiple balls can be released in the same round.)</para><para>The second special function produces three <i>Shooting stars</i> that can be released from the ring each week, simultaneously or one at a time. They impact for 12 points of damage and spread (as a <i>fireball</i>) in a 5-foot-radius sphere for 24 points of fire damage.</para><para>Any creature struck by a <i>shooting star</i> takes full damage from impact plus full fire damage from the spread unless it makes a DC 13 Reflex save. Creatures not struck but within the spread ignore the impact damage and take only half damage from the fire spread on a successful DC 13 Reflex save. Range is 70 feet, at the end of which the <i>shooting star</i> explodes, unless it strikes a creature or object before that. A <i>shooting star</i> always follows a straight line, and any creature in its path must make a save or be hit by the projectile.</para><para>Indoors at night, or underground, the <i>ring of shooting stars</i> has the following properties.</para><list>
+ <item> <i>Faerie fire</i> (twice per day)</item>
+ <item> <i>Spark shower</i> (special, once per day)</item>
+</list><para>The <i>Spark shower</i> is a flying cloud of sizzling purple sparks that fan out from the ring for a distance of 20 feet in an arc 10 feet wide. Creatures within this area take 2d8 points of damage each if not wearing metal armor or carrying a metal weapon. Those wearing metal armor and/or carrying a metal weapon take 4d8 points of damage.</para><para>Strong evocation; CL 12th; Forge Ring, <i>light</i>,  <i>faerie fire</i>,  <i>fireball</i>,  <i>lightning bolt</i>; Price 50,000 gp.</para>
+</topic><topic level="8" name="Spell Storing, Minor" origname="Spell Storing, Minor" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Spell_Storing_Minor" docbookid="MagicItemsIII38" refname="Spell Storing, Minor" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,minor,ring,spell,store"><para reftype="item" refcase="no" refname="Spell Storing, Minor"><b>Spell Storing, Minor:</b> A <i>minor ring of spell storing</i> contains up to three levels of spells that the wearer can cast. Each spell has a caster level equal to the minimum level needed to cast that spell. The user need not provide any material components or focus, or pay an XP cost to cast the spell, and there is no arcane spell failure chance for wearing armor (because the ring wearer need not gesture). The activation time for the ring is same as the casting time for the relevant spell, with a minimum of 1 standard action.</para><para>For a randomly generated ring, treat it as a scroll to determine what spells are stored in it. If you roll a spell that would put the ring over the three-level limit, ignore that roll; the ring has no more spells in it. (Not every newly discovered ring need be fully charged.)</para><para>A spellcaster can cast any spells into the ring, so long as the total spell levels do not add up to more than three. Metamagic versions of spells take up storage space equal to their spell level modified by the metamagic feat. A spellcaster can use a scroll to put a spell into the <i>minor ring of spell storing</i>.</para><para>The ring magically imparts to the wearer the names of all spells currently stored within it.</para><para>Faint evocation; CL 5th; Forge Ring, <i>imbue with spell ability</i>; Price 18,000 gp.</para>
+</topic><topic level="8" name="Spell Storing" origname="Spell Storing" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Spell_Storing" docbookid="MagicItemsIII39" refname="Spell Storing" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,spell,store"><para reftype="item" refcase="no" refname="Spell Storing"><b>Spell Storing:</b> As the <i>minor ring of spell storing</i>, <i/> except it holds up to five levels of spells.</para><para>Moderate evocation; CL 9th; Forge Ring, <i>imbue with spell ability</i>; Price 50,000 gp.</para>
+</topic><topic level="8" name="Spell Storing, Major" origname="Spell Storing, Major" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Spell_Storing_Major" docbookid="MagicItemsIII40" refname="Spell Storing, Major" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,major,ring,spell,store"><para reftype="item" refcase="no" refname="Spell Storing, Major"><b>Spell Storing, Major:</b> As the <i>minor ring of spell storing</i>, <i/> except it holds up to ten levels of spells.</para><para>Strong evocation; CL 17th; Forge Ring, <i>imbue with spell ability</i>; Price 200,000 gp.</para>
+</topic><topic level="8" name="Spell Turning" origname="Spell Turning" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Spell_Turning" docbookid="MagicItemsIII41" refname="Spell Turning" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,spell,turn"><para reftype="item" refcase="no" refname="Spell Turning"><b>Spell Turning:</b> Up to three times per day on command, this simple platinum band automatically reflects the next nine levels of spells cast at the wearer, exactly as if <i>spell turning</i> had been cast upon the wearer.</para><para>Strong abjuration; CL 13th; Forge Ring, <i>spell turning</i>; Price 98,280 gp.</para>
+</topic><topic level="8" name="Sustenance" origname="Sustenance" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Sustenance" docbookid="MagicItemsIII42" refname="Sustenance" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,susten"><para reftype="item" refcase="no" refname="Sustenance"><b>Sustenance:</b> This ring continually provides its wearer with life-sustaining nourishment. The ring also refreshes the body and mind, so that its wearer needs only sleep 2 hours per day to gain the benefit of 8 hours of sleep. The ring must be worn for a full week before it begins to work. If it is removed, the owner must wear it for another week to reattune it to himself.</para><para>Faint conjuration; CL 5th; Forge Ring, <i>create food and water</i>; Price 2,500 gp.</para>
+</topic><topic level="8" name="Swimming" origname="Swimming" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Swimming" docbookid="MagicItemsIII43" refname="Swimming" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,swim"><para reftype="item" refcase="no" refname="Swimming"><b>Swimming:</b> This silver ring has a wave pattern etched into the band. It continually grants the wearer a +5 competence bonus on Swim checks.</para><para>Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Swim skill; Price 2,500 gp.</para>
+</topic><topic level="8" name="Swimming, Improved" origname="Swimming, Improved" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Swimming_Improved" docbookid="MagicItemsIII44" refname="Swimming, Improved" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,improv,item,magic,ring,swim"><para reftype="item" refcase="no" refname="Swimming, Improved"><b>Swimming, Improved:</b> As swimming, except it grants a +10 competence bonus on its wearer's Swim checks.</para><para>Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Swim skill<i/>; Price 10,000 gp.</para>
+</topic><topic level="8" name="Telekinesis" origname="Telekinesis" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Telekinesis" docbookid="MagicItemsIII45" refname="Telekinesis" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,telekinesi"><para reftype="item" refcase="no" refname="Telekinesis"><b>Telekinesis:</b> This ring allows the caster to use the spell <i>telekinesis</i> on command.</para><para>Moderate transmutation; CL 9th; Forge Ring, <i>telekinesis</i>; Price 75,000 gp.</para>
+</topic><topic level="8" name="Three Wishes" origname="Three Wishes" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Three_Wishes" docbookid="MagicItemsIII46" refname="Three Wishes" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,three,wish"><para reftype="item" refcase="no" refname="Three Wishes"><b>Three Wishes:</b> This ring is set with three rubies. Each ruby stores a <i>wish</i> spell, activated by the ring. When a <i>wish</i> is used, that ruby disappears. For a randomly generated ring, roll 1d3 to determine the remaining number of rubies. When all the <i>wishes</i> are used, the ring becomes a nonmagical item.</para><para>Strong evocation (if <i>miracle</i> is used); CL 20th; Forge Ring, <i>wish</i> or <i>miracle</i>; Price 97,950 gp; Cost 11,475 gp + 15,918 XP.</para>
+</topic><topic level="8" name="Water Walking" origname="Water Walking" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Water_Walking" docbookid="MagicItemsIII47" refname="Water Walking" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,walk,water"><para reftype="item" refcase="no" refname="Water Walking"><b>Water Walking:</b> This ring, set with an opal, allows the wearer to continually utilize the effects of the spell <i>water walk</i>.</para><para>Moderate transmutation; CL 9th; Forge Ring, <i>water walk</i>; Price 15,000 gp.</para>
+</topic><topic level="8" name="Wizardry" origname="Wizardry" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_Wizardry" docbookid="MagicItemsIII48" refname="Wizardry" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,wizardri"><para reftype="item" refcase="no" refname="Wizardry"><b>Wizardry:</b> This special ring comes in four kinds (<i>ring of wizardry I</i>,  <i>ring of wizardry II</i>,  <i>ring of wizardry III</i>, <i/> and <i>ring of wizardry IV</i>), all of them useful only to arcane spellcasters. The wearer's arcane spells per day are doubled for one specific spell level. A <i>ring of wizardry I</i> doubles 1st-level spells, a <i>ring of wizardry II</i> doubles 2nd-level spells, a <i>ring of wizardry III</i> doubles 3rd-level spells, and a <i>ring of wizardry IV</i> doubles 4th-level spells. Bonus spells from high ability scores or school specialization are not doubled.</para><para>Moderate (<i>wizardry I</i>) or strong (<i>wizardry II-IV</i>) (no school); CL 11th (<i>I</i>), 14th (<i>II</i>), 17th (<i>III</i>), 20th (<i>IV</i>); Forge Ring, <i>limited wish</i>; Price 20,000 gp (<i>I</i>), 40,000 gp (<i>II</i>), 70,000 gp (<i>III</i>), 100,000 gp (<i>IV</i>).</para>
+</topic><topic level="8" name="X-Ray Vision" origname="X-Ray Vision" linkname="Equipment_and_Gear_Magic_Items_III_Rings_Ring_Descriptions_X_Ray_Vision" docbookid="MagicItemsIII49" refname="X-Ray Vision" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,ring,vision,x-ray"><para reftype="item" refcase="no" refname="X-Ray Vision"><b>X-Ray Vision:</b> On command, this ring gives its possessor the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision.</para><para>Using the ring is physically exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day.</para><para>Moderate divination; CL 6th; Forge Ring, <i>true seeing</i>; Price 25,000 gp.</para><para/>
+</topic>
+</topic>
+</topic><topic level="2" name="Rods" origname="Rods" linkname="Equipment_and_Gear_Magic_Items_III_Rods" docbookid="MagicItemsIII50" refname="Rods" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Rods" style="heading 2">Rods</para><para>Rods are scepterlike devices that have unique magical powers and do not usually have charges. Anyone can use a rod.</para><topic level="8" name="Physical Description" origname="Physical Description" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Physical_Description" docbookid="MagicItemsIII51" refname="Physical Description" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,physic,rod"><para reftype="item" refcase="no" refname="Physical Description"><b>Physical Description:</b> Rods weigh approximately 5 pounds.</para><para>They range from 2 feet to 3 feet long and are usually made of iron or some other metal. (Many, as noted in their descriptions, can function as light maces or clubs due to their sturdy construction.)</para><para>These sturdy items have AC 9, 10 hit points, hardness 10, and a break DC of 27.</para>
+</topic><topic level="8" name="Activation" origname="Activation" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Activation" docbookid="MagicItemsIII52" refname="Activation" reftype="item" refcase="no" refaltname="" keywords="activ,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Activation"><b>Activation:</b> Details relating to rod use vary from item to item. See the individual descriptions for specifics.</para>
+</topic><topic level="8" name="Special Qualities" origname="Special Qualities" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Special_Qualities" docbookid="MagicItemsIII53" refname="Special Qualities" reftype="item" refcase="no" refaltname="" keywords="equip,gear,item,magic,qualiti,rod,special"><para reftype="item" refcase="no" refname="Special Qualities"><b>Special Qualities:</b> Roll d%. A 01 result indicates the rod is intelligent, 02-31 indicates that something (a design, inscription, or the like) provides a clue to its function, and 32-100 indicates no special qualities. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.</para><para>Rods with charges can never be intelligent.</para><table>
+<row/>
+<row>
+<cell><para><b>Table: Rods</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Medium</b></para></cell>
+<cell><para><b>Major</b></para></cell>
+<cell><para><b>Rod</b></para></cell>
+<cell><para><b>Market Price</b></para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>01-07</para></cell>
+<cell><para>-</para></cell>
+<cell><para>Metamagic, <i>Enlarge</i>,  <i>lesser</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>08-14</para></cell>
+<cell><para>-</para></cell>
+<cell><para>Metamagic, <i>Extend</i>,  <i>lesser</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>15-21</para></cell>
+<cell><para>-</para></cell>
+<cell><para>Metamagic, <i>Silent</i>,  <i>lesser</i></para></cell>
+<cell><para>3,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-28</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Immovable</i></para></cell>
+<cell><para>5,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>29-35</para></cell>
+<cell><para>-</para></cell>
+<cell><para>Metamagic, <i>Empower</i>,  <i>lesser</i></para></cell>
+<cell><para>9,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-42</para></cell>
+<cell><para>-</para></cell>
+<cell><para><i>Metal and mineral detection</i></para></cell>
+<cell><para>10,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>43-53</para></cell>
+<cell><para>01-04</para></cell>
+<cell><para><i>Cancellation</i></para></cell>
+<cell><para>11,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-57</para></cell>
+<cell><para>05-06</para></cell>
+<cell><para>Metamagic, <i>Enlarge</i></para></cell>
+<cell><para>11,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>58-61</para></cell>
+<cell><para>07-08</para></cell>
+<cell><para>Metamagic, <i>Extend</i></para></cell>
+<cell><para>11,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>62-65</para></cell>
+<cell><para>09-10</para></cell>
+<cell><para>Metamagic, <i>Silent</i></para></cell>
+<cell><para>11,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-71</para></cell>
+<cell><para>11-14</para></cell>
+<cell><para><i>Wonder</i></para></cell>
+<cell><para>12,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>72-79</para></cell>
+<cell><para>15-18</para></cell>
+<cell><para><i>Python</i></para></cell>
+<cell><para>13,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-83</para></cell>
+<cell><para>-</para></cell>
+<cell><para>Metamagic, <i>Maximize</i>,  <i>lesser</i></para></cell>
+<cell><para>14,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>84-89</para></cell>
+<cell><para>19-21</para></cell>
+<cell><para><i>Flame extinguishing</i></para></cell>
+<cell><para>15,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>90-97</para></cell>
+<cell><para>22-25</para></cell>
+<cell><para><i>Viper</i></para></cell>
+<cell><para>19,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>26-30</para></cell>
+<cell><para><i>Enemy detection</i></para></cell>
+<cell><para>23,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>31-36</para></cell>
+<cell><para>Metamagic, <i>Enlarge</i>,  <i>greater</i></para></cell>
+<cell><para>24,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>37-42</para></cell>
+<cell><para>Metamagic, <i>Extend</i>,  <i>greater</i></para></cell>
+<cell><para>24,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>43-48</para></cell>
+<cell><para>Metamagic, <i>Silent</i>,  <i>greater</i></para></cell>
+<cell><para>24,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>49-53</para></cell>
+<cell><para><i>Splendor</i></para></cell>
+<cell><para>25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>54-58</para></cell>
+<cell><para><i>Withering</i></para></cell>
+<cell><para>25,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>98-99</para></cell>
+<cell><para>59-64</para></cell>
+<cell><para>Metamagic, <i>Empower</i></para></cell>
+<cell><para>32,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>65-69</para></cell>
+<cell><para><i>Thunder and lightning</i></para></cell>
+<cell><para>33,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>100</para></cell>
+<cell><para>70-73</para></cell>
+<cell><para>Metamagic, <i>Quicken</i>,  <i>lesser</i></para></cell>
+<cell><para>35,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>74-77</para></cell>
+<cell><para><i>Negation</i></para></cell>
+<cell><para>37,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>78-80</para></cell>
+<cell><para><i>Absorption</i></para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>81-84</para></cell>
+<cell><para><i>Flailing</i></para></cell>
+<cell><para>50,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>85-86</para></cell>
+<cell><para>Metamagic, <i>Maximize</i></para></cell>
+<cell><para>54,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>87-88</para></cell>
+<cell><para><i>Rulership</i></para></cell>
+<cell><para>60,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>89-90</para></cell>
+<cell><para><i>Security</i></para></cell>
+<cell><para>61,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>91-92</para></cell>
+<cell><para><i>Lordly might</i></para></cell>
+<cell><para>70,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>93-94</para></cell>
+<cell><para>Metamagic, <i>Empower</i>,  <i>greater</i></para></cell>
+<cell><para>73,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>95-96</para></cell>
+<cell><para>Metamagic, <i>Quicken</i></para></cell>
+<cell><para>75,500 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>97-98</para></cell>
+<cell><para><i>Alertness</i></para></cell>
+<cell><para>85,000 gp</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>-</para></cell>
+<cell><para>99</para></cell>
+<cell><para>Metamagic, <i>Maximize</i>,  <i>greater</i></para></cell>
+<cell><para>121,500 gp</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>-</para></cell>
+<cell><para>100</para></cell>
+<cell><para>Metamagic, <i>Quicken</i>,  <i>greater</i></para></cell>
+<cell><para>170,000 gp</para></cell>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="5" name="Rod Descriptions" origname="Rod Descriptions" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions" docbookid="MagicItemsIII54" refname="Rod Descriptions" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Rod Descriptions" style="heading 5">Rod Descriptions</para><para>Although all rods are generally scepterlike, their configurations and abilities run the magical gamut. Standard rods are described below.</para><topic level="8" name="Absorption" origname="Absorption" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Absorption" docbookid="MagicItemsIII55" refname="Absorption" reftype="item" refcase="no" refaltname="" keywords="absorpt,descript,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Absorption"><b>Absorption:</b> This rod acts as a magnet, drawing spells or spell-like abilities into itself. The magic absorbed must be a single-target spell or a ray directed at either the character possessing the rod or her gear. The rod then nullifies the spell's effect and stores its potential until the wielder releases this energy in the form of spells of her own. She can instantly detect a spell's level as the rod absorbs that spell's energy. Absorption requires no action on the part of the user if the rod is in hand at the time.</para><para>A running total of absorbed (and used) spell levels should be kept. The wielder of the rod can use captured spell energy to cast any spell she has prepared, without expending the preparation itself. The only restrictions are that the levels of spell energy stored in the rod must be equal to or greater than the level of the spell the wielder wants to cast, that any material components required for the spell be present, and that the rod be in hand when casting. For casters such as bards or sorcerers who do not prepare spells, the rod's energy can be used to cast any spell of the appropriate level or levels that they know.</para><para>A <i>rod of absorption</i> absorbs a maximum of fifty spell levels and can thereafter only discharge any remaining potential it might have. The rod cannot be recharged. The wielder knows the rod's remaining absorbing potential and current amount of stored energy.</para><para>To determine the absorption potential remaining in a newly found rod, roll d% and divide the result by 2. Then roll d% again: On a result of 71-100, half the levels already absorbed by the rod are still stored within.</para><para>Strong abjuration; CL 15th; Craft Rod, <i>spell turning</i>; Price 50,000 gp.</para>
+</topic><topic level="8" name="Alertness" origname="Alertness" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Alertness" docbookid="MagicItemsIII56" refname="Alertness" reftype="item" refcase="no" refaltname="" keywords="alert,descript,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Alertness"><b>Alertness:</b> This rod is indistinguishable from a <i>+1 light mace</i>. It has eight flanges on its macelike head. The rod bestows a +1 insight bonus on initiative checks. If grasped firmly, the rod enables the holder to use <i>detect evil</i>,  <i>detect good</i>,  <i>detect chaos</i>,  <i>detect law</i>, <i>detect magic</i>,  <i>discern lies</i>,  <i>light</i>, <i/> or <i>see invisibility</i>. Each different use is a standard action.</para><para>If the head of a <i>rod of alertness</i> is planted in the ground, and the possessor wills it to alertness (a standard action), the rod senses any creature within 120 feet who intends to harm the possessor. At the same time, the rod creates the effect of a <i>prayer</i> spell upon all creatures friendly to the possessor in a 20-foot radius. Immediately thereafter, the rod sends forth a mental alert to these friendly creatures, warning them of possible danger from the unfriendly creature or creatures within the 120-foot radius. These effects last for 10 minutes, and the rod can perform this function once per day. Last, the rod can be used to simulate the casting of an <i>animate objects</i> spell, utilizing any eleven (or fewer) Small objects located roughly around the perimeter of a 5-foot-radius circle centered on the rod when planted in the ground. Objects remain animated for 11 rounds. The rod can perform this function once per day.</para><para>Moderate abjuration, divination, enchantment, and evocation; CL 11th; Craft Rod, <i>alarm</i>,  <i>detect chaos</i>,  <i>detect evil</i>,  <i>detect good</i>,  <i>detect law</i>,  <i>detect magic</i>,  <i>discern lies</i>,  <i>light</i>,  <i>see invisibility</i>,  <i>prayer</i>,  <i>animate objects</i>; Price 85,000 gp.</para>
+</topic><topic level="8" name="Cancellation" origname="Cancellation" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Cancellation" docbookid="MagicItemsIII57" refname="Cancellation" reftype="item" refcase="no" refaltname="" keywords="cancel,descript,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Cancellation"><b>Cancellation:</b> This dreaded rod is a bane to magic items, for its touch drains an item of all magical properties. The item touched must make a DC 23 Will save to prevent the rod from draining it. If a creature is holding it at the time, then the item can use the holder's Will save bonus in place of its own if the holder's is better. In such cases, contact is made by making a melee touch attack roll. Upon draining an item, the rod itself becomes brittle and cannot be used again. Drained items are only restorable by <i>wish</i> or <i>miracle</i>. (If a <i>sphere of annihilation</i> and a <i>rod of cancellation</i> negate each other, nothing can restore either of them.)</para><para>Strong abjuration; CL 17th; Craft Rod, <i>mage's disjunction</i>; Price 11,000 gp.</para>
+</topic><topic level="8" name="Enemy Detection" origname="Enemy Detection" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Enemy_Detection" docbookid="MagicItemsIII58" refname="Enemy Detection" reftype="item" refcase="no" refaltname="" keywords="descript,detect,enemi,equip,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Enemy Detection"><b>Enemy Detection:</b> This device pulses in the wielder's hand and points in the direction of any creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible, ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within range. The rod can be used three times each day, each use lasting up to 10 minutes. Activating the rod is a standard action.</para><para>Moderate divination; CL 10th; Craft Rod, <i>true seeing</i>; Price 23,500 gp.</para>
+</topic><topic level="8" name="Flailing" origname="Flailing" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Flailing" docbookid="MagicItemsIII59" refname="Flailing" reftype="item" refcase="no" refaltname="" keywords="descript,equip,flail,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Flailing"><b>Flailing:</b> Upon the command of its possessor, the rod activates, changing from a normal-seeming rod to a <i>+3 dire flail</i>. The dire flail is a double weapon, which means that each of the weapon's heads can be used to attack. The wielder can gain an extra attack (with the second head) at the cost of making all attacks at a -2 penalty (as if she had the Two-Weapon Fighting feat).</para><para>Once per day the wielder can use a free action to cause the rod to grant her a +4 deflection bonus to Armor Class and a +4 resistance bonus on saving throws for 10 minutes. The rod need not be in weapon form to grant this benefit.</para><para>Transforming it into a weapon or back into a rod is a move action.</para><para>Moderate enchantment; CL 9th; Craft Rod, Craft Magic Arms and Armor, <i>bless</i>; Price 50,000 gp.</para>
+</topic><topic level="8" name="Flame Extinguishing" origname="Flame Extinguishing" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Flame_Extinguishing" docbookid="MagicItemsIII60" refname="Flame Extinguishing" reftype="item" refcase="no" refaltname="" keywords="descript,equip,extinguish,flame,gear,item,magic,rod"><para reftype="item" refcase="no" refname="Flame Extinguishing"><b>Flame Extinguishing:</b> This rod can extinguish Medium or smaller nonmagical fires with simply a touch (a standard action). For the rod to be effective against other sorts of fires, the wielder must expend 1 or more of the rod's charges.</para><para>Extinguishing a Large or larger nonmagical fire, or a magic fire of Medium or smaller (such as that of a flaming weapon or a <i>burning hands</i> spell), expends 1 charge. Continual magic flames, such as those of a weapon or a fire creature, are suppressed for 6 rounds and flare up again after that time. To extinguish an instantaneous fire spell, the rod must be within the area of the effect and the wielder must have used a ready action, effectively countering the entire spell.</para><para>When applied to Large or larger magic fires, such as those caused by <i>fireball</i>,  <i>flame strike</i>, <i/> or <i>wall of fire</i>, extinguishing the flames expends 2 charges from the rod.</para><para>If the device is used upon a fire creature (a melee touch attack), it deals 6d6 points of damage to the creature. This use requires 3 charges.</para><para>A <i>rod of flame extinguishing</i> has 10 charges when found. Spent charges are renewed every day, so that a wielder can expend up to 10 charges in any 24-hour period.</para><para>Strong transmutation; CL 12th; Craft Rod, <i>pyrotechnics</i>; Price 15,000 gp.</para>
+</topic><topic level="8" name="Immovable Rod" origname="Immovable Rod" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Immovable_Rod" docbookid="MagicItemsIII61" refname="Immovable Rod" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,immov,item,magic,rod"><para reftype="item" refcase="no" refname="Immovable Rod"><b>Immovable Rod:</b> This rod is a flat iron bar with a small button on one end. When the button is pushed (a move action), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several <i>immovable rods</i> can even make a ladder when used together (although only two are needed). An <i>immovable rod</i> can support up to 8,000 pounds before falling to the ground. If a creature pushes against an <i>immovable rod</i>, <i/> it must make a DC 30 Strength check to move the rod up to 10 feet in a single round.</para><para>Moderate transmutation; CL 10th; Craft Rod, <i>levitate</i>; Price 5,000 gp.</para>
+</topic><topic level="8" name="Lordly Might" origname="Lordly Might" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Lordly_Might" docbookid="MagicItemsIII62" refname="Lordly Might" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,lordli,magic,rod"><para reftype="item" refcase="no" refname="Lordly Might"><b>Lordly Might:</b> This rod has functions that are spell-like, and it can also be used as a magic weapon of various sorts. It also has several more mundane uses. The <i>rod of lordly might</i> is metal, thicker than other rods, with a flanged ball at one end and six studlike buttons along its length. (Pushing any of the rod's buttons is equivalent to drawing a weapon.) It weighs 10 pounds.</para><para>The following spell-like functions of the rod can each be used once per day.</para><list>
+ <item> <i>Hold person</i> upon touch, if the wielder so commands (Will DC 14 negates). The wielder must choose to use this power and then succeed on a melee touch attack to activate the power. If the attack fails, the effect is lost.</item>
+ <item> <i>Fear</i> upon all enemies viewing it, if the wielder so desires (10-foot maximum range, Will DC 16 partial). Invoking this power is a standard action.</item>
+ <item> Deal 2d4 hit points of damage to an opponent on a successful touch attack (Will DC 17 half ) and cure the wielder of a like amount of damage. The wielder must choose to use this power before attacking, as with <i>hold person</i>.</item>
+</list><para>The following weapon functions of the rod have no limit on the number of times they can be employed.</para><list>
+ <item> In its normal form, the rod can be used as a <i>+2 light mace</i>.</item>
+ <item> When button 1 is pushed, the rod becomes a <i>+1 flaming longsword</i>. A blade springs from the ball, with the ball itself becoming the sword's hilt. The weapon lengthens to an overall length of 4 feet.</item>
+ <item> When button 2 is pushed, the rod becomes a <i>+4 battleaxe</i>. A wide blade springs forth at the ball, and the whole lengthens to 4 feet.</item>
+ <item> When button 3 is pushed, the rod becomes a <i>+3 shortspear</i> or <i>+3 longspear</i>. The spear blade springs forth, and the handle can be lengthened up to 12 feet (wielder's choice), for an overall length of from 6 feet to 15 feet. At its 15-foot length, the rod is suitable for use as a lance.</item>
+</list><para>The following other functions of the rod also have no limit on the number of times they can be employed.</para><list>
+ <item> Climbing pole/ladder. When button 4 is pushed, a spike that can anchor in granite is extruded from the ball, while the other end sprouts three sharp hooks. The rod lengthens to anywhere between 5 and 50 feet in a single round, stopping when button 4 is pushed again. Horizontal bars three inches long fold out from the sides, 1 foot apart, in staggered progression. The rod is firmly held by the spike and hooks and can bear up to 4,000 pounds. The wielder can retract the pole by pushing button 5.</item>
+ <item> The ladder function can be used to force open doors. The wielder plants the rod's base 30 feet or less from the portal to be forced and in line with it, then pushes button 4. The force exerted has a Strength modifier of +12.</item>
+ <item> When button 6 is pushed, the rod indicates magnetic north and gives the wielder a knowledge of his approximate depth beneath the surface or height above it.</item>
+</list><para>Strong enchantment, evocation, necromancy, and transmutation; CL 19th; Craft Rod, Craft Magic Arms and Armor, <i>inflict light wounds</i>,  <i>bull's strength</i>,  <i>flame blade</i>,  <i>hold person</i>,  <i>fear</i>; Price 70,000 gp.</para>
+</topic><topic level="8" name="Metal and Mineral Detection" origname="Metal and Mineral Detection" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metal_and_Mineral_Detection" docbookid="MagicItemsIII63" refname="Metal and Mineral Detection" reftype="item" refcase="no" refaltname="" keywords="descript,detect,equip,gear,item,magic,metal,miner,rod"><para reftype="item" refcase="no" refname="Metal and Mineral Detection"><b>Metal and Mineral Detection:</b> This rod pulses in the wielder's hand and points to the largest mass of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to the largest cache first. Each operation requires a full-round action.</para><para>Moderate divination; CL 9th; Craft Rod, <i>locate object</i>; Price 10,500 gp.</para>
+</topic><topic level="8" name="Metamagic Rods" origname="Metamagic Rods" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Rods" docbookid="MagicItemsIII64" refname="Metamagic Rods" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,metamag,rod"><para reftype="item" refcase="no" refname="Metamagic Rods"><b>Metamagic Rods:</b> Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod's wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.</para><para>Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A sorcerer still must take a full-round action when using a metamagic rod, just as if using a metamagic feat he possesses.</para><para><i>Lesser and Greater Metamagic Rods:</i> Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower.</para>
+</topic><topic level="8" name="Metamagic, Empower" origname="Metamagic, Empower" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Empower" docbookid="MagicItemsIII65" refname="Metamagic, Empower" reftype="item" refcase="no" refaltname="" keywords="descript,empow,equip,gear,item,magic,metamag,rod"><para reftype="item" refcase="no" refname="Metamagic, Empower"><b>Metamagic, Empower:</b> The wielder can cast up to three spells per day that are empowered as though using the Empower Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Empower Spell; Price 9,000 gp (lesser), 32,500 gp (normal), 73,000 gp (greater).</para>
+</topic><topic level="8" name="Metamagic, Enlarge" origname="Metamagic, Enlarge" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Enlarge" docbookid="MagicItemsIII66" refname="Metamagic, Enlarge" reftype="item" refcase="no" refaltname="" keywords="descript,enlarg,equip,gear,item,magic,metamag,rod"><para reftype="item" refcase="no" refname="Metamagic, Enlarge"><b>Metamagic, Enlarge:</b> The wielder can cast up to three spells per day that are enlarged as though using the Enlarge Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Enlarge Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).</para>
+</topic><topic level="8" name="Metamagic, Extend" origname="Metamagic, Extend" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Extend" docbookid="MagicItemsIII67" refname="Metamagic, Extend" reftype="item" refcase="no" refaltname="" keywords="descript,equip,extend,gear,item,magic,metamag,rod"><para reftype="item" refcase="no" refname="Metamagic, Extend"><b>Metamagic, Extend:</b> The wielder can cast up to three spells per day that are extended as though using the Extend Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Extend Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).</para>
+</topic><topic level="8" name="Metamagic, Maximize" origname="Metamagic, Maximize" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Maximize" docbookid="MagicItemsIII68" refname="Metamagic, Maximize" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,maxim,metamag,rod"><para reftype="item" refcase="no" refname="Metamagic, Maximize"><b>Metamagic, Maximize:</b> The wielder can cast up to three spells per day that are maximized as though using the Maximize Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Maximize Spell feat; Price 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater).</para>
+</topic><topic level="8" name="Metamagic, Quicken" origname="Metamagic, Quicken" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Quicken" docbookid="MagicItemsIII69" refname="Metamagic, Quicken" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,metamag,quicken,rod"><para reftype="item" refcase="no" refname="Metamagic, Quicken"><b>Metamagic, Quicken:</b> The wielder can cast up to three spells per day that are quickened as though using the Quicken Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Quicken Spell; Price 35,000 gp (lesser), 75,500 gp (normal), 170,000 gp (greater).</para>
+</topic><topic level="8" name="Metamagic, Silent" origname="Metamagic, Silent" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Metamagic_Silent" docbookid="MagicItemsIII70" refname="Metamagic, Silent" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,metamag,rod,silent"><para reftype="item" refcase="no" refname="Metamagic, Silent"><b>Metamagic, Silent:</b> The wielder can cast up to three spells per day without verbal components as though using the Silent Spell feat.</para><para>Strong (no school); CL 17th; Craft Rod, Silent Spell; Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater).</para>
+</topic><topic level="8" name="Negation" origname="Negation" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Negation" docbookid="MagicItemsIII71" refname="Negation" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,negat,rod"><para reftype="item" refcase="no" refname="Negation"><b>Negation:</b> This device negates the spell or spell-like function or functions of magic items. The wielder points the rod at the magic item, and a pale gray beam shoots forth to touch the target device, attacking as a ray (a ranged touch attack). The ray functions as a <i>greater dispel magic</i> spell, except it only affects magic items. To negate instantaneous effects from an item, the rod wielder needs to have used a ready action. The dispel check uses the rod's caster level (15th). The target item gets no saving throw, although the rod can't negate artifacts (even minor artifacts). The rod can function three times per day.</para><para>Strong varied; CL 15th; Craft Rod, <i>dispel magic</i>, <i/> and <i>limited wish</i> or <i>miracle</i>; Price 37,000 gp.</para>
+</topic><topic level="8" name="Python" origname="Python" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Python" docbookid="MagicItemsIII72" refname="Python" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,python,rod"><para reftype="item" refcase="no" refname="Python"><b>Python:</b> This rod is longer than normal rods. It is about 4 feet long and weighs 10 pounds. It strikes as a <i>+1/+1 quarterstaff</i>. If the user throws the rod to the ground (a standard action), it grows to become a giant constrictor snake by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 enhancement bonus on attacks and damage possessed by the rod form.) The serpent returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. A <i>python rod</i> only functions if the possessor is good.</para><para>Moderate transmutation; CL 10th; Craft Rod, Craft Magic Arms and Armor, <i>baleful polymorph</i>, <i/> creator must be good; Price 13,000 gp.</para>
+</topic><topic level="8" name="Rulership" origname="Rulership" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Rulership" docbookid="MagicItemsIII73" refname="Rulership" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,rulership"><para reftype="item" refcase="no" refname="Rulership"><b>Rulership:</b> This rod looks like a royal scepter worth at least 5,000 gp in materials and workmanship alone. The wielder can command the obedience and fealty of creatures within 120 feet when she activates the device (a standard action). Creatures totaling 300 Hit Dice can be ruled, but creatures with Intelligence scores of 12 or higher are entitled to a DC 16 Will save to negate the effect. Ruled creatures obey the wielder as if she were their absolute sovereign. Still, if the wielder gives a command that is contrary to the nature of the creatures commanded, the magic is broken. The rod can be used for 500 total minutes before crumbling to dust. This duration need not be continuous.</para><para>Strong enchantment; CL 20th; Craft Rod, <i>mass charm monster</i>; Price 60,000 gp; Cost 27,500 gp + 2,200 XP.</para>
+</topic><topic level="8" name="Security" origname="Security" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Security" docbookid="MagicItemsIII74" refname="Security" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,secur"><para reftype="item" refcase="no" refname="Security"><b>Security:</b> This item creates a nondimensional space, a pocket paradise. There the rod's possessor and as many as 199 other creatures can stay in complete safety for a period of time, up to 200 days divided by the number of creatures affected. All fractions are rounded down.</para><para>In this pocket paradise, creatures don't age, and natural healing take place at twice the normal rate. Fresh water and food (fruits and vegetables only) are in abundance. The climate is comfortable for all creatures involved.</para><para>Activating the rod (a standard action) causes the wielder and all creatures touching the rod to be transported instantaneously to the paradise. Members of large groups can hold hands or otherwise maintain physical contact, allowing all connected creatures in a circle or a chain to be affected by the rod. Unwilling creatures get a DC 17 Will save to negate the effect. If such a creature succeeds on its save, other creatures beyond that point in a chain can still be affected by the rod.</para><para>When the rod's effect expires or is dispelled, all the affected creatures instantly reappear in the location they occupied when the rod was activated. If something else occupies the space that a traveler would be returning to, then his body is displaced a sufficient distance to provide the space required for reentry. The rod's possessor can dismiss the effect whenever he wishes before the maximum time period expires, but the rod can only be activated once per week.</para><para>Strong conjuuration; CL 20th; Craft Rod, <i>gate</i>; Price 61,000 gp.</para>
+</topic><topic level="8" name="Splendor" origname="Splendor" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Splendor" docbookid="MagicItemsIII75" refname="Splendor" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,splendor"><para reftype="item" refcase="no" refname="Splendor"><b>Splendor:</b> The possessor of this rod gains a +4 enhancement bonus to her Charisma score for as long as she holds or carries the item. Once per day, the rod creates and garbs her in clothing of the finest fabrics, plus adornments of furs and jewels.</para><para>Apparel created by the magic of the rod remains in existence for 12 hours. However, if the possessor attempts to sell or give away any part of it, to use it for a spell component, or the like, all the apparel immediately disappears. The same applies if any of it is forcibly taken from her.</para><para>The value of noble garb created by the rod ranges from 7,000 to 10,000 gp (1d4+6 x1,000 gp)-1,000 gp for the fabric alone, 5,000 gp for the furs, and the rest for the jewel trim (maximum of twenty gems, maximum value 200 gp each).</para><para>In addition, the rod has a second special power, usable once per week. Upon command, it creates a palatial tent-a huge pavilion of silk 60 feet across. Inside the tent are temporary furnishings and food suitable to the splendor of the pavilion and sufficient to entertain as many as one hundred persons. The tent and its trappings last for one day. At the end of that time, the tent and all objects associated with it (including any items that were taken out of the tent) disappear.</para><para>Strong conjuration and transmutation; CL 12th; Craft Rod, <i>eagle's splendor</i>,  <i>fabricate</i>,  <i>major creation</i>; Price 25,000 gp.</para>
+</topic><topic level="8" name="Thunder and Lightning" origname="Thunder and Lightning" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Thunder_and_Lightning" docbookid="MagicItemsIII76" refname="Thunder and Lightning" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,lightn,magic,rod,thunder"><para reftype="item" refcase="no" refname="Thunder and Lightning"><b>Thunder and Lightning:</b> Constructed of iron set with silver rivets, this rod has the properties of a <i>+2 light mace</i>. Its other magical powers are as follows.</para><list>
+ <item> <i>Thunder:</i> Once per day, the rod can strike as a <i>+3 light mace</i>, <i/> and the opponent struck is stunned from the noise of the rod's impact (Fortitude DC 16 negates). Activating this power counts as a free action, and it works if the wielder strikes an opponent within 1 round.</item>
+ <item> <i>Lightning:</i> Once per day, when the wielder desires, a short spark of electricity can leap forth when the rod strikes an opponent to deal the normal damage for a <i>+2 light mace</i> (1d6+2) and an extra 2d6 points of electricity damage. Even when the rod might not score a normal hit in combat, if the roll was good enough to count as a successful melee touch attack hit, then the 2d6 points of electricity damage still applies. The wielder activates this power as a free action, and it works if he strikes an opponent within 1 round.</item>
+ <item> <i>Thunderclap:</i> Once per day as a standard action, the wielder can cause the rod to give out a deafening noise, just as a <i>shout</i> spell (Fortitude DC 16 partial, 2d6 points of sonic damage, target deafened for 2d6 rounds).</item>
+ <item> <i>Lightning Stroke:</i> Once per day as a standard action, the wielder can cause the rod to shoot out a 5-foot-wide lightning bolt (9d6 points of electricity damage, Reflex DC 16 half ) to a range of 200 feet.</item>
+ <item> <i>Thunder and Lightning:</i> Once per week as a standard action, the wielder of the rod can combine the <i>thunderclap</i> described above with a lightning bolt, as in the <i>lightning stroke</i>. The thunderclap affects all within 10 feet of the bolt. The <i>lightning stroke</i> deals 9d6 points of electricity damage (count rolls of 1 or 2 as rolls of 3, for a range of 27 to 54 points), and the <i>thunderclap</i> deals 2d6 points of sonic damage. A single DC 16 Reflex save applies for both effects.</item>
+</list><para>Moderate evocation; CL 9th; Craft Rod, Craft Magic Arms and Armor, <i>lightning bolt</i>, <i>shout</i>; Price 33,000 gp.</para>
+</topic><topic level="8" name="Viper" origname="Viper" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Viper" docbookid="MagicItemsIII77" refname="Viper" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,viper"><para reftype="item" refcase="no" refname="Viper"><b>Viper:</b> This rod strikes as a <i>+2 heavy mace</i>. Once per day, upon command, the head of the rod becomes that of an actual serpent for 10 minutes. During this period, any successful strike with the rod deals its usual damage and also poisons the creature hit. The poison deals 1d10 points of Constitution damage immediately (Fortitude DC 14 negates) and another 1d10 points of Constitution damage 1 minute later (Fortitude DC 14 negates). The rod only functions if its possessor is evil.</para><para>Moderate necromancy; CL 10th; Craft Rod, Craft Magic Arms and Armor, <i>poison</i>, <i/> creator must be evil; Price 19,000 gp.</para>
+</topic><topic level="8" name="Withering" origname="Withering" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Withering" docbookid="MagicItemsIII78" refname="Withering" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,wither"><para reftype="item" refcase="no" refname="Withering"><b>Withering:</b> A <i>rod of withering</i> acts as a <i>+1 light mace</i> that deals no hit point damage. Instead, the wielder deals 1d4 points of Strength damage and 1d4 points of Constitution damage to any creature she touches with the rod (by making a melee touch attack). If she scores a critical hit, the damage from that hit is permanent ability drain. In either case, the defender negates the effect with a DC 17 Fortitude save.</para><para>Strong necromancy; CL 13th; Craft Rod, Craft Magic Arms and Armor, <i>contagion</i>; Price 25,000 gp.</para>
+</topic><topic level="8" name="Wonder" origname="Wonder" linkname="Equipment_and_Gear_Magic_Items_III_Rods_Rod_Descriptions_Wonder" docbookid="MagicItemsIII79" refname="Wonder" reftype="item" refcase="no" refaltname="" keywords="descript,equip,gear,item,magic,rod,wonder"><para reftype="item" refcase="no" refname="Wonder"><b>Wonder:</b> A <i>rod of wonder</i> is a strange and unpredictable device that randomly generates any number of weird effects each time it is used. (Activating the rod is a standard action.) Typical powers of the rod include the following.</para><table>
+<row/>
+<row>
+<cell><para><b>d%</b></para></cell>
+<cell><para><b>Wondrous Effect</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>01-05</para></cell>
+<cell><para><i>Slow</i> creature pointed at for 10 rounds (Will DC 15 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>06-10</para></cell>
+<cell><para><i>Faerie fire</i> surrounds the target.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>11-15</para></cell>
+<cell><para>Deludes wielder for 1 round into believing the rod functions as indicated by a second die roll (no save).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-20</para></cell>
+<cell><para><i>Gust of wind</i>, <i/> but at windstorm force (Fortitude DC 14 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>21-25</para></cell>
+<cell><para>Wielder learns target's surface thoughts (as with <i>detect thoughts)</i> for 1d4 rounds (no save).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-30</para></cell>
+<cell><para><i>Stinking cloud</i> at 30-ft. range (Fortitude DC 15 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>31-33</para></cell>
+<cell><para>Heavy rain falls for 1 round in 60-ft. radius centered on rod wielder.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-36</para></cell>
+<cell><para><i>Summon</i> an animal-a rhino (01-25 on d%), elephant (26-50), or mouse (51-100).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>37-46</para></cell>
+<cell><para><i>Lightning bolt</i> (70 ft. long, 5 ft. wide), 6d6 damage (Reflex DC 15 half).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>47-49</para></cell>
+<cell><para>Stream of 600 large butterflies pours forth and flutters around for 2 rounds, blinding everyone (including wielder) within 25 ft. (Reflex DC 14 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>50-53</para></cell>
+<cell><para><i>Enlarge person</i> if within 60 ft. of rod (Fortitude DC 13 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>54-58</para></cell>
+<cell><para><i>Darkness</i>, 30-ft. -diameter hemisphere, centered 30 ft. away from rod.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>59-62</para></cell>
+<cell><para>Grass grows in 160-sq. -ft. area before the rod, or grass existing there grows to ten times normal size.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>63-65</para></cell>
+<cell><para>Turn ethereal any nonliving object of up to 1,000 lb. mass and up to 30 cu. ft. in size.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>66-69</para></cell>
+<cell><para>Reduce wielder to 1/12 height (no save).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>70-79</para></cell>
+<cell><para><i>Fireball</i> at target or 100 ft. straight ahead, 6d6 damage (Reflex DC 15 half).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>80-84</para></cell>
+<cell><para><i>Invisibility</i> covers rod wielder.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>85-87</para></cell>
+<cell><para>Leaves grow from target if within 60 ft. of rod. These last 24 hours.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>88-90</para></cell>
+<cell><para>10-40 gems, value 1 gp each, shoot forth in a 30-ft. -long stream. Each gem deals 1 point of damage to any creature in its path: Roll 5d4 for the number of hits and divide them among the available targets.</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>91-95</para></cell>
+<cell><para>Shimmering colors dance and play over a 40-ft. -by-30-ft. area in front of rod. Creatures therein are blinded for 1d6 rounds (Fortitude DC 15 negates).</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>96-97</para></cell>
+<cell><para>Wielder (50% chance) or target (50% chance) turns permanently blue, green, or purple (no save).</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>98-100</para></cell>
+<cell><para><i>Flesh to stone</i> (or <i>stone to flesh</i> if target is stone already) if target is within 60 ft. (Fortitude DC 18 negates).</para></cell>
+<cell/>
+</row>
+</table><para>Moderate enchantment; CL 10th; Craft Rod, <i>confusion</i>, creator must be chaotic; Price 12,000 gp.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic>
+</topic></document>
