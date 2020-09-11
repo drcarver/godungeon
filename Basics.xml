@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl" ?>
+
+<document title="SRD 3.5 &gt; Basic Rules &gt; Basics">
+<info>
+<title>The Basics</title>
+<author>AKSmith</author>
+<operator>AKSmith</operator>
+</info>
+<topic level="0" name="Basic Rules" linkname="Basic_Rules" docbookid="Basics0" keywords="basic,rule"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Basics" origname="The Basics" linkname="Basic_Rules_The_Basics" docbookid="Basics1" keywords="basic,rule"><para style="heading 1">The Basics</para><para/><topic level="5" name="Core Mechanic" origname="The Core Mechanic" linkname="Basic_Rules_The_Basics_The_Core_Mechanic" docbookid="Basics2" refname="Core Mechanic" reftype="rule" refcase="yes" refaltname="" keywords="basic,core,mechan,rule"><para reftype="rule" refcase="yes" refname="Core Mechanic"><b>The Core Mechanic</b>: Whenever you attempt an action that has some chance of failure, you roll a twenty-sided die (d20). To determine if your character succeeds at a task you do this:</para><list>
+ <item> Roll a d20.</item>
+ <item> Add any relevant modifiers.</item>
+ <item> Compare the result to a target number.</item>
+</list><para>If the result equals or exceeds the target number, your character succeeds. If the result is lower than the target number, you fail.</para><para/>
+</topic><topic level="2" name="Dice" origname="Dice" linkname="Basic_Rules_The_Basics_Dice" docbookid="Basics3" refname="Dice" reftype="rule" refcase="yes" refaltname="" keywords="basic,dice,rule"><para reftype="rule" refcase="yes" refname="Dice" style="heading 2">Dice</para><para>Dice rolls are described with expressions such as '3d4+3,' which means 'roll three four-sided dice and add 3' (resulting in a number between 6 and 15). The first number tells you how many dice to roll (adding the results together). The number immediately after the 'd' tells you the type of die to use. Any number after that indicates a quantity that is added or subtracted from the result.</para><para/><para><b>d%:</b> Percentile dice work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice. One (designated before you roll) is the tens digit. The other is the ones digit. Two 0s represent 100.</para><para/>
+</topic><topic level="2" name="Rounding Fractions" origname="Rounding Fractions" linkname="Basic_Rules_The_Basics_Rounding_Fractions" docbookid="Basics4" refname="Rounding Fractions" reftype="rule" refcase="yes" refaltname="" keywords="basic,fraction,round,rule"><para reftype="rule" refcase="yes" refname="Rounding Fractions" style="heading 2">Rounding Fractions</para><para>In general, if you wind up with a fraction, round down, even if the fraction is one-half or larger.</para><para><i>Exception:</i> Certain rolls, such as damage and hit points, have a minimum of 1.</para><para/>
+</topic><topic level="2" name="Multiplying" origname="Multiplying" linkname="Basic_Rules_The_Basics_Multiplying" docbookid="Basics5" refname="Multiplying" reftype="rule" refcase="yes" refaltname="" keywords="basic,multipli,rule"><para reftype="rule" refcase="yes" refname="Multiplying" style="heading 2">Multiplying</para><para>Sometimes a rule makes you multiply a number or a die roll. As long as you're applying a single multiplier, multiply the number normally. When two or more multipliers apply to any abstract value (such as a modifier or a die roll), however, combine them into a single multiple, with each extra multiple adding 1 less than its value to the first multiple. Thus, a double (x2) and a double (x2) applied to the same number results in a triple (x3, because 2 + 1 = 3).</para><para/><para>When applying multipliers to real-world values (such as weight or distance), normal rules of math apply instead. A creature whose size doubles (thus multiplying its weight by 8) and then is turned to stone (which would multiply its weight by a factor of roughly 3) now weighs about 24 times normal, not 10 times normal. Similarly, a blinded creature attempting to negotiate difficult terrain would count each square as 4 squares (doubling the cost twice, for a total multiplier of x4), rather than as 3 squares (adding 100% twice).</para><para/>
+</topic><topic level="2" name="Ability Scores" origname="Ability Scores" linkname="Basic_Rules_The_Basics_Ability_Scores" docbookid="Basics6" refname="Ability Scores" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,rule,score"><para reftype="rule" refcase="yes" refname="Ability Scores" style="heading 2">Ability Scores</para><para/><topic level="3" name="Ability Modifiers" origname="Ability Modifiers" linkname="Basic_Rules_The_Basics_Ability_Scores_Ability_Modifiers" docbookid="Basics7" refname="Ability Modifiers" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,modifi,rule,score"><para reftype="rule" refcase="yes" refname="Ability Modifiers" style="heading 3">Ability Modifiers</para><para>Each ability, after changes made because of race, has a modifier ranging from -5 to +5. Table: Ability Modifiers and Bonus Spells shows the modifier for each score. It also shows bonus spells, which you'll need to know about if your character is a spellcaster.</para><para>The modifier is the number you apply to the die roll when your character tries to do something related to that ability. You also use the modifier with some numbers that aren't die rolls. A positive modifier is called a bonus, and a negative modifier is called a penalty.</para><para/><table>
+<row/>
+<row>
+<cell><para><b>Table: Ability Modifiers and Bonus Spells</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell/>
+<cell/>
+<cell><para><b>----------- Bonus Spells (by Spell Level) -----------</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para><b>Score</b></para></cell>
+<cell><para><b>Modifier</b></para></cell>
+<cell><para><b>0</b></para></cell>
+<cell><para><b>1st</b></para></cell>
+<cell><para><b>2nd</b></para></cell>
+<cell><para><b>3rd</b></para></cell>
+<cell><para><b>4th</b></para></cell>
+<cell><para><b>5th</b></para></cell>
+<cell><para><b>6th</b></para></cell>
+<cell><para><b>7th</b></para></cell>
+<cell><para><b>8th</b></para></cell>
+<cell><para><b>9th</b></para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>1</para></cell>
+<cell><para>-5</para></cell>
+<cell><para>----------- Can't cast spells tied to this ability ---------</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>2-3</para></cell>
+<cell><para>-4</para></cell>
+<cell><para>----------- Can't cast spells tied to this ability ---------</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>4-5</para></cell>
+<cell><para>-3</para></cell>
+<cell><para>----------- Can't cast spells tied to this ability ---------</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>6-7</para></cell>
+<cell><para>-2</para></cell>
+<cell><para>----------- Can't cast spells tied to this ability ---------</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>8-9</para></cell>
+<cell><para>-1</para></cell>
+<cell><para>----------- Can't cast spells tied to this ability ---------</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>10-11</para></cell>
+<cell><para>0</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>12-13</para></cell>
+<cell><para>+1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>14-15</para></cell>
+<cell><para>+2</para></cell>
+<cell><para>-</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>16-17</para></cell>
+<cell><para>+3</para></cell>
+<cell><para>-</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>18-19</para></cell>
+<cell><para>+4</para></cell>
+<cell><para>-</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>20-21</para></cell>
+<cell><para>+5</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>22-23</para></cell>
+<cell><para>+6</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>24-25</para></cell>
+<cell><para>+7</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>26-27</para></cell>
+<cell><para>+8</para></cell>
+<cell><para>-</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>-</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>28-29</para></cell>
+<cell><para>+9</para></cell>
+<cell><para>-</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>30-31</para></cell>
+<cell><para>+10</para></cell>
+<cell><para>-</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>32-33</para></cell>
+<cell><para>+11</para></cell>
+<cell><para>-</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>34-35</para></cell>
+<cell><para>+12</para></cell>
+<cell><para>-</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>1</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>36-37</para></cell>
+<cell><para>+13</para></cell>
+<cell><para>-</para></cell>
+<cell><para>4</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>38-39</para></cell>
+<cell><para>+14</para></cell>
+<cell><para>-</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>40-41</para></cell>
+<cell><para>+15</para></cell>
+<cell><para>-</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>42-43</para></cell>
+<cell><para>+16</para></cell>
+<cell><para>-</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>2</para></cell>
+<cell/>
+</row>
+<row>
+<cell><para>44-45</para></cell>
+<cell><para>+17</para></cell>
+<cell><para>-</para></cell>
+<cell><para>5</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>4</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell><para>3</para></cell>
+<cell/>
+</row>
+<row/>
+<row>
+<cell><para>etc. . .</para></cell>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+<cell/>
+</row>
+</table><para/>
+</topic><topic level="3" name="Abilities and Spellcasters" origname="Abilities and Spellcasters" linkname="Basic_Rules_The_Basics_Ability_Scores_Abilities_and_Spellcasters" docbookid="Basics8" refname="Abilities and Spellcasters" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,rule,score,spellcast"><para reftype="rule" refcase="yes" refname="Abilities and Spellcasters" style="heading 3">Abilities and Spellcasters</para><para>The ability that governs bonus spells depends on what type of spellcaster your character is: Intelligence for wizards; Wisdom for clerics, druids, paladins, and rangers; or Charisma for sorcerers and bards. In addition to having a high ability score, a spellcaster must be of high enough class level to be able to cast spells of a given spell level. (See the class descriptions for details.)</para><para/>
+</topic>
+</topic><topic level="2" name="Abilities" origname="The Abilities" linkname="Basic_Rules_The_Basics_The_Abilities" docbookid="Basics9" refname="Abilities" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,rule"><para reftype="rule" refcase="yes" refname="Abilities" style="heading 2">The Abilities</para><para>Each ability partially describes your character and affects some of his or her actions.</para><para/><topic level="3" name="Strength" origname="Strength (Str)" linkname="Basic_Rules_The_Basics_The_Abilities_Strength" docbookid="Basics10" refname="Strength" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,rule,strength"><para reftype="rule" refcase="yes" refname="Strength" style="heading 3">Strength (Str)</para><para>Strength measures your character's muscle and physical power. This ability is especially important for fighters, barbarians, paladins, rangers, and monks because it helps them prevail in combat. Strength also limits the amount of equipment your character can carry.</para><para>You apply your character's Strength modifier to:</para><list>
+ <item> Melee attack rolls.</item>
+ <item> Damage rolls when using a melee weapon or a thrown weapon (including a sling). (<i>Exceptions:</i> Off-hand attacks receive only one-half the character's Strength bonus, while two-handed attacks receive one and a half times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)</item>
+ <item> Climb, Jump, and Swim checks. These are the skills that have Strength as their key ability.</item>
+ <item> Strength checks (for breaking down doors and the like).</item>
+</list><para/>
+</topic><topic level="3" name="Dexterity" origname="Dexterity (Dex)" linkname="Basic_Rules_The_Basics_The_Abilities_Dexterity" docbookid="Basics11" refname="Dexterity" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,dexter,rule"><para reftype="rule" refcase="yes" refname="Dexterity" style="heading 3">Dexterity (Dex)</para><para>Dexterity measures hand-eye coordination, agility, reflexes, and balance. This ability is the most important one for rogues, but it's also high on the list for characters who typically wear light or medium armor (rangers and barbarians) or no armor at all (monks, wizards, and sorcerers), and for anyone who wants to be a skilled archer.</para><para>You apply your character's Dexterity modifier to:</para><list>
+ <item> Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and other ranged weapons.</item>
+ <item> Armor Class (AC), provided that the character can react to the attack.</item>
+ <item> Reflex saving throws, for avoiding fireballs and other attacks that you can escape by moving quickly.</item>
+ <item> Balance, Escape Artist, Hide, Move Silently, Open Lock, Ride, Sleight of Hand, Tumble, and Use Rope checks. These are the skills that have Dexterity as their key ability.</item>
+</list><para/>
+</topic><topic level="3" name="Constitution" origname="Constitution (Con)" linkname="Basic_Rules_The_Basics_The_Abilities_Constitution" docbookid="Basics12" refname="Constitution" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,constitut,rule"><para reftype="rule" refcase="yes" refname="Constitution" style="heading 3">Constitution (Con)</para><para>Constitution represents your character's health and stamina. A Constitution bonus increases a character's hit points, so the ability is important for all classes.</para><para>You apply your character's Constitution modifier to:</para><list>
+ <item> Each roll of a Hit Die (though a penalty can never drop a result below 1-that is, a character always gains at least 1 hit point each time he or she advances in level).</item>
+ <item> Fortitude saving throws, for resisting poison and similar threats.</item>
+ <item> Concentration checks. Concentration is a skill, important to spellcasters, that has Constitution as its key ability.</item>
+</list><para>If a character's Constitution score changes enough to alter his or her Constitution modifier, the character's hit points also increase or decrease accordingly.</para><para/>
+</topic><topic level="3" name="Intelligence" origname="Intelligence (Int)" linkname="Basic_Rules_The_Basics_The_Abilities_Intelligence" docbookid="Basics13" refname="Intelligence" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,intellig,rule"><para reftype="rule" refcase="yes" refname="Intelligence" style="heading 3">Intelligence (Int)</para><para>Intelligence determines how well your character learns and reasons. This ability is important for wizards because it affects how many spells they can cast, how hard their spells are to resist, and how powerful their spells can be. It's also important for any character who wants to have a wide assortment of skills.</para><para>You apply your character's Intelligence modifier to:</para><list>
+ <item> The number of languages your character knows at the start of the game.</item>
+ <item> The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)</item>
+ <item> Appraise, Craft, Decipher Script, Disable Device, Forgery, Knowledge, Search, and Spellcraft checks. These are the skills that have Intelligence as their key ability.</item>
+</list><para>A wizard gains bonus spells based on her Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell's level.</para><para>An animal has an Intelligence score of 1 or 2. A creature of humanlike intelligence has a score of at least 3.</para><para/>
+</topic><topic level="3" name="Wisdom" origname="Wisdom (Wis)" linkname="Basic_Rules_The_Basics_The_Abilities_Wisdom" docbookid="Basics14" refname="Wisdom" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,rule,wisdom"><para reftype="rule" refcase="yes" refname="Wisdom" style="heading 3">Wisdom (Wis)</para><para>Wisdom describes a character's willpower, common sense, perception, and intuition. While Intelligence represents one's ability to analyze information, Wisdom represents being in tune with and aware of one's surroundings. Wisdom is the most important ability for clerics and druids, and it is also important for paladins and rangers. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score.</para><para>You apply your character's Wisdom modifier to:</para><list>
+ <item> Will saving throws (for negating the effect of charm person and other spells).</item>
+ <item> Heal, Listen, Profession, Sense Motive, Spot, and Survival checks. These are the skills that have Wisdom as their key ability.</item>
+</list><para>Clerics, druids, paladins, and rangers get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, paladin, or ranger spell is 10 + the spell's level.</para><para/>
+</topic><topic level="3" name="Charisma" origname="Charisma (Cha)" linkname="Basic_Rules_The_Basics_The_Abilities_Charisma" docbookid="Basics15" refname="Charisma" reftype="rule" refcase="yes" refaltname="" keywords="abil,basic,charisma,rule"><para reftype="rule" refcase="yes" refname="Charisma" style="heading 3">Charisma (Cha)</para><para>Charisma measures a character's force of personality, persuasiveness, personal magnetism, ability to lead, and physical attractiveness. This ability represents actual strength of personality, not merely how one is perceived by others in a social setting. Charisma is most important for paladins, sorcerers, and bards. It is also important for clerics, since it affects their ability to turn undead. Every creature has a Charisma score.</para><para>You apply your character's Charisma modifier to:</para><list>
+ <item> Bluff, Diplomacy, Disguise, Gather Information, Handle Animal, Intimidate, Perform, and Use Magic Device checks. These are the skills that have Charisma as their key ability.</item>
+ <item> Checks that represent attempts to influence others.</item>
+ <item> Turning checks for clerics and paladins attempting to turn zombies, vampires, and other undead.</item>
+</list><para>Sorcerers and bards get bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a sorcerer or bard spell is 10 + the spell's level.</para><para/><para>When an ability score changes, all attributes associated with that score change accordingly. A character does not retroactively get additional skill points for previous levels if she increases her intelligence.</para><para/>
+</topic>
+</topic>
+</topic>
+</topic></document>
