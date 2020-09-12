@@ -7,6 +7,10 @@
 <title>CLASSES</title>
 <author>AKSmith</author>
 <operator>AKSmith</operator>
+<!--
+<navigation name="previous" href="#" anchor="&laquo; Previous" />
+<navigation name="next" href="ClassesII.xml" anchor="Next &raquo;" />
+-->
 </info>
 <topic level="0" name="Classes" linkname="Classes" docbookid="ClassesI0" keywords="class"><para>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</para><topic level="1" name="Classes I" origname="Classes I" linkname="Classes_Classes_I" docbookid="ClassesI1" keywords="class"><para style="heading 1">Classes I</para><para/><topic level="2" name="Barbarian" origname="Barbarian" linkname="Classes_Classes_I_Barbarian" docbookid="ClassesI2" refname="Barbarian" reftype="class" refcase="no" refaltname="" keywords="barbarian,class"><para reftype="class" refcase="no" refname="Barbarian" style="heading 2">Barbarian</para><topic level="8" name="Alignment" origname="Alignment" linkname="Classes_Classes_I_Barbarian_Alignment" docbookid="ClassesI3" refname="Alignment" reftype="classinfo" refcase="no" refaltname="" keywords="align,barbarian,class"><para reftype="classinfo" refcase="no" refname="Alignment"><b>Alignment:</b> Any nonlawful.</para>
 </topic><topic level="8" name="Hit Die" origname="Hit Die" linkname="Classes_Classes_I_Barbarian_Hit_Die" docbookid="ClassesI4" refname="Hit Die" reftype="classinfo" refcase="no" refaltname="" keywords="barbarian,class,die,hit"><para reftype="classinfo" refcase="no" refname="Hit Die"><b>Hit Die:</b> d12.</para><para/>

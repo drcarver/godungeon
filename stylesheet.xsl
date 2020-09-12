@@ -304,7 +304,19 @@
 		</xsl:element>	      	
     </xsl:if>
   </xsl:template>
-
+<!--
+	<xsl:template match="navigation">
+  	<xsl:if test="@linkname">
+  		<xsl:element name="previous">
+  			<xsl:attribute name="previous"><xsl:value-of select="@name"/></xsl:attribute>
+			<xsl:element name="next">
+				<xsl:attribute name="next"><xsl:value-of select="@linkname"/></xsl:attribute>
+			</xsl:element>	      	
+	      	<xsl:apply-templates/>
+		</xsl:element>	      	
+    </xsl:if>
+  </xsl:template>
+-->
   <xsl:template match="*">
 	<xsl:value-of select="."/>
   </xsl:template>
